@@ -25,7 +25,7 @@ keywords:
     "Diffusion": 
         filters: ["Diffusion"]
     "HOI":
-        filters: ["Human-Object Interactions"]
+        filters: ["Human-Object Interactions", "HOI"]
     "Motion":
         filters: ["Human Motion", "Motion"]
     "Image Generation":
