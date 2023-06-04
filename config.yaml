@@ -22,18 +22,13 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Diffusion": 
+        filters: ["Diffusion"]
+    "HOI":
+        filters: ["Human-Object Interactions"]
+    "Motion":
+        filters: ["Human Motion", "Motion"]
+    "Image Generation":
+        filters: ["Text2Image", "Image Generation", "Image Synthesis", "Image Editing", "Text-to-Image", "Personalizing"]
+    "Video Generation":
+        filters: ["Text2Video", "Video Generation", "Video Synthesis", "Video Editing", "Text-to-Video"]
