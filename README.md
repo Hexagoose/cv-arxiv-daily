@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732](http://arxiv.org/abs/2306.01732)|null|
+|**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721](http://arxiv.org/abs/2306.01721)|**[link](https://github.com/opengvlab/ddps)**|
+|**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657](http://arxiv.org/abs/2306.01657)|null|
+|**2023-06-02**|**Influence Maximization with Fairness at Scale (Extended Version)**|Yuting Feng et.al.|[2306.01587](http://arxiv.org/abs/2306.01587)|null|
+|**2023-06-02**|**Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). V. The Complete SMUDGes Catalog and the Nature of Ultra-Diffuse Galaxies**|Dennis Zaritsky et.al.|[2306.01524](http://arxiv.org/abs/2306.01524)|null|
+|**2023-06-02**|**Search for the Galactic accelerators of Cosmic-Rays up to the Knee with the Pevatron Test Statistic**|E. O. Angüner et.al.|[2306.01484](http://arxiv.org/abs/2306.01484)|null|
+|**2023-06-02**|**PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models**|Jiacheng Chen et.al.|[2306.01461](http://arxiv.org/abs/2306.01461)|null|
+|**2023-06-02**|**Zero-Shot Blind Audio Bandwidth Extension**|Eloi Moliner et.al.|[2306.01433](http://arxiv.org/abs/2306.01433)|null|
+|**2023-06-02**|**Audio-Visual Speech Enhancement with Score-Based Generative Models**|Julius Richter et.al.|[2306.01432](http://arxiv.org/abs/2306.01432)|null|
+|**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430](http://arxiv.org/abs/2306.01430)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984](http://arxiv.org/abs/2306.00984)|null|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983](http://arxiv.org/abs/2306.00983)|null|
@@ -54,6 +64,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735](http://arxiv.org/abs/2306.01735)|**[link](https://github.com/michaelsaxon/cococrola)**|
+|**2023-06-02**|**An Attentive-based Generative Model for Medical Image Synthesis**|Jiayuan Wang et.al.|[2306.01562](http://arxiv.org/abs/2306.01562)|null|
+|**2023-06-02**|**Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models**|Virginia Fernandez et.al.|[2306.01322](http://arxiv.org/abs/2306.01322)|null|
+|**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144](http://arxiv.org/abs/2306.01144)|null|
 |**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987](http://arxiv.org/abs/2306.00987)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
 |**2023-06-01**|**Using generative AI to investigate medical imagery models and datasets**|Oran Lang et.al.|[2306.00985](http://arxiv.org/abs/2306.00985)|null|
@@ -71,6 +85,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**dugMatting: Decomposed-Uncertainty-Guided Matting**|Jiawei Wu et.al.|[2306.01452](http://arxiv.org/abs/2306.01452)|**[link](https://github.com/fire-friend/dugmatting)**|
+|**2023-06-02**|**Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting**|Mischa Dombrowski et.al.|[2306.01363](http://arxiv.org/abs/2306.01363)|null|
 |**2023-06-01**|**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance**|Jinbo Xing et.al.|[2306.00943](http://arxiv.org/abs/2306.00943)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-05-30**|**SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing**|Nazmul Karim et.al.|[2305.18670](http://arxiv.org/abs/2305.18670)|null|
