@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -63,7 +63,7 @@ layout: default
 |**2023-06-01**|**Using generative AI to investigate medical imagery models and datasets**|Oran Lang et.al.|[2306.00985](http://arxiv.org/abs/2306.00985)|null|
 |**2023-06-01**|**StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners**|Yonglong Tian et.al.|[2306.00984](http://arxiv.org/abs/2306.00984)|null|
 |**2023-06-01**|**StyleDrop: Text-to-Image Generation in Any Style**|Kihyuk Sohn et.al.|[2306.00983](http://arxiv.org/abs/2306.00983)|null|
-|**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
+|**2023-06-04**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
 |**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
 |**2023-06-01**|**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation**|Shaozhe Hao et.al.|[2306.00971](http://arxiv.org/abs/2306.00971)|**[link](https://github.com/haoosz/vico)**|
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
