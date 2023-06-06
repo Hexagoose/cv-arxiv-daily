@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083](http://arxiv.org/abs/2306.03083)|null|
+|**2023-06-05**|**Influence of the finite transverse size of the accelerating region on the relativistic feedback**|Alexander Sedelnikov et.al.|[2306.03059](http://arxiv.org/abs/2306.03059)|null|
+|**2023-06-05**|**HeadSculpt: Crafting 3D Head Avatars with Text**|Xiao Han et.al.|[2306.03038](http://arxiv.org/abs/2306.03038)|null|
+|**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022](http://arxiv.org/abs/2306.03022)|null|
+|**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
+|**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957](http://arxiv.org/abs/2306.02957)|null|
+|**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949](http://arxiv.org/abs/2306.02949)|null|
+|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
+|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903](http://arxiv.org/abs/2306.02903)|null|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732](http://arxiv.org/abs/2306.01732)|null|
 |**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721](http://arxiv.org/abs/2306.01721)|**[link](https://github.com/opengvlab/ddps)**|
 |**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657](http://arxiv.org/abs/2306.01657)|null|
@@ -39,6 +49,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Integrated Sensing, Computation, and Communication for UAV-assisted Federated Edge Learning**|Yao Tang et.al.|[2306.02990](http://arxiv.org/abs/2306.02990)|null|
+|**2023-06-05**|**Situational Adaptive Motion Prediction for Firefighting Squads in Indoor Search and Rescue**|Nils Mandischer et.al.|[2306.02705](http://arxiv.org/abs/2306.02705)|null|
 |**2023-05-31**|**HuMoT: Human Motion Representation using Topology-Agnostic Transformers for Character Animation Retargeting**|Lucas Mourot et.al.|[2305.18897](http://arxiv.org/abs/2305.18897)|null|
 |**2023-05-31**|**Decomposed Human Motion Prior for Video Pose Estimation via Adversarial Training**|Wenshuo Chen et.al.|[2305.18743](http://arxiv.org/abs/2305.18743)|null|
 |**2023-05-25**|**Text-to-Motion Retrieval: Towards Joint Understanding of Human Motion Data and Natural Language**|Nicola Messina et.al.|[2305.15842](http://arxiv.org/abs/2305.15842)|**[link](https://github.com/mesnico/text-to-motion-retrieval)**|
@@ -54,6 +66,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
+|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
+|**2023-06-05**|**A Vessel-Segmentation-Based CycleGAN for Unpaired Multi-modal Retinal Image Synthesis**|Aline Sindel et.al.|[2306.02901](http://arxiv.org/abs/2306.02901)|null|
+|**2023-06-05**|**Cheap-fake Detection with LLM using Prompt Engineering**|Guangyang Wu et.al.|[2306.02776](http://arxiv.org/abs/2306.02776)|null|
+|**2023-06-05**|**User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques**|Sunwoo Kim et.al.|[2306.02717](http://arxiv.org/abs/2306.02717)|null|
+|**2023-06-05**|**A Deep Learning Neural Network Algorithm for Classification of Eclipsing Binary Light Curves**|Burak Ulas et.al.|[2306.02686](http://arxiv.org/abs/2306.02686)|null|
+|**2023-06-04**|**Detector Guidance for Multi-Object Text-to-Image Generation**|Luping Liu et.al.|[2306.02236](http://arxiv.org/abs/2306.02236)|**[link](https://github.com/luping-liu/detector-guidance)**|
+|**2023-06-03**|**Table and Image Generation for Investigating Knowledge of Entities in Pre-trained Vision and Language Models**|Hidetaka Kamigaito et.al.|[2306.02115](http://arxiv.org/abs/2306.02115)|**[link](https://github.com/kamigaito/wikitig)**|
+|**2023-06-03**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
+|**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena et.al.|[2306.01923](http://arxiv.org/abs/2306.01923)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735](http://arxiv.org/abs/2306.01735)|**[link](https://github.com/michaelsaxon/cococrola)**|
 |**2023-06-02**|**An Attentive-based Generative Model for Medical Image Synthesis**|Jiayuan Wang et.al.|[2306.01562](http://arxiv.org/abs/2306.01562)|null|
 |**2023-06-02**|**Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models**|Virginia Fernandez et.al.|[2306.01322](http://arxiv.org/abs/2306.01322)|null|
@@ -73,11 +95,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562](http://arxiv.org/abs/2306.02562)|**[link](https://github.com/exisas/lgc-vd)**|
+|**2023-06-03**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
 |**2023-06-02**|**dugMatting: Decomposed-Uncertainty-Guided Matting**|Jiawei Wu et.al.|[2306.01452](http://arxiv.org/abs/2306.01452)|**[link](https://github.com/fire-friend/dugmatting)**|
 |**2023-06-02**|**Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting**|Mischa Dombrowski et.al.|[2306.01363](http://arxiv.org/abs/2306.01363)|null|
 |**2023-06-01**|**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance**|Jinbo Xing et.al.|[2306.00943](http://arxiv.org/abs/2306.00943)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
-|**2023-05-30**|**SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing**|Nazmul Karim et.al.|[2305.18670](http://arxiv.org/abs/2305.18670)|null|
+|**2023-05-30**|**SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing**|Nazmul Karim et.al.|[2305.18670](http://arxiv.org/abs/2305.18670)|**[link](https://github.com/nazmul-karim170/save-tex2video)**|
 |**2023-05-29**|**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising**|Fu-Yun Wang et.al.|[2305.18264](http://arxiv.org/abs/2305.18264)|**[link](https://github.com/g-u-n/gen-l-video)**|
 |**2023-05-27**|**Towards Consistent Video Editing with Text-to-Image Diffusion Models**|Zicheng Zhang et.al.|[2305.17431](http://arxiv.org/abs/2305.17431)|null|
 |**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098](http://arxiv.org/abs/2305.17098)|null|
