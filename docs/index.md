@@ -33,7 +33,7 @@ layout: default
 |**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957](http://arxiv.org/abs/2306.02957)|null|
 |**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949](http://arxiv.org/abs/2306.02949)|null|
 |**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
-|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903](http://arxiv.org/abs/2306.02903)|null|
+|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903](http://arxiv.org/abs/2306.02903)|**[link](https://github.com/lsx0101/instruct-video2avatar)**|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732](http://arxiv.org/abs/2306.01732)|null|
 |**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721](http://arxiv.org/abs/2306.01721)|**[link](https://github.com/opengvlab/ddps)**|
 |**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657](http://arxiv.org/abs/2306.01657)|null|
