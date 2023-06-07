@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**A search for inter-cluster filaments with LOFAR and eROSITA**|D. N. Hoang et.al.|[2306.03904](http://arxiv.org/abs/2306.03904)|null|
+|**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang et.al.|[2306.03881](http://arxiv.org/abs/2306.03881)|null|
+|**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
+|**2023-06-06**|**A class of fractional parabolic reaction-diffusion systems with control of total mass: theory and numerics**|Maha Daoud et.al.|[2306.03836](http://arxiv.org/abs/2306.03836)|null|
+|**2023-06-06**|**Thermal Extraction of Volatiles from Lunar and Asteroid Regolith in Axisymmetric Crank-Nicholson Modeling**|Philip T. Metzger et.al.|[2306.03776](http://arxiv.org/abs/2306.03776)|null|
+|**2023-06-06**|**High energy cosmic rays and gamma rays from star clusters: the case of Cygnus OB2**|Pasquale Blasi et.al.|[2306.03762](http://arxiv.org/abs/2306.03762)|null|
+|**2023-06-06**|**Newly Formed Cities: an AI Curation**|Dario Negueruela del Castillo et.al.|[2306.03753](http://arxiv.org/abs/2306.03753)|null|
+|**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
+|**2023-06-06**|**Relativistic phase space diffusion of compact object binaries in stellar clusters and hierarchical triples**|Chris Hamilton et.al.|[2306.03703](http://arxiv.org/abs/2306.03703)|null|
+|**2023-06-06**|**Diffusional exchange versus microscopic kurtosis from CTI: two conflicting interpretations of the same data**|Arthur Chakwizira et.al.|[2306.03661](http://arxiv.org/abs/2306.03661)|null|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
 |**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083](http://arxiv.org/abs/2306.03083)|null|
 |**2023-06-05**|**Influence of the finite transverse size of the accelerating region on the relativistic feedback**|Alexander Sedelnikov et.al.|[2306.03059](http://arxiv.org/abs/2306.03059)|null|
@@ -49,6 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**A Data-Efficient Approach for Long-Term Human Motion Prediction Using Maps of Dynamics**|Yufei Zhu et.al.|[2306.03617](http://arxiv.org/abs/2306.03617)|null|
 |**2023-06-05**|**Integrated Sensing, Computation, and Communication for UAV-assisted Federated Edge Learning**|Yao Tang et.al.|[2306.02990](http://arxiv.org/abs/2306.02990)|null|
 |**2023-06-05**|**Situational Adaptive Motion Prediction for Firefighting Squads in Indoor Search and Rescue**|Nils Mandischer et.al.|[2306.02705](http://arxiv.org/abs/2306.02705)|null|
 |**2023-05-31**|**HuMoT: Human Motion Representation using Topology-Agnostic Transformers for Character Animation Retargeting**|Lucas Mourot et.al.|[2305.18897](http://arxiv.org/abs/2305.18897)|null|
@@ -66,6 +77,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
+|**2023-06-06**|**On the Difference of BERT-style and CLIP-style Text Encoders**|Zhihong Chen et.al.|[2306.03678](http://arxiv.org/abs/2306.03678)|**[link](https://github.com/zhjohnchan/bert-clip-synesthesia)**|
+|**2023-06-06**|**Generative diffusion in very large dimensions**|Giulio Biroli et.al.|[2306.03518](http://arxiv.org/abs/2306.03518)|null|
+|**2023-06-06**|**DreamSparse: Escaping from Plato's Cave with 2D Diffusion Model Given Sparse Views**|Paul Yoo et.al.|[2306.03414](http://arxiv.org/abs/2306.03414)|null|
+|**2023-06-05**|**Discovering Novel Biological Traits From Images Using Phylogeny-Guided Neural Networks**|Mohannad Elhamod et.al.|[2306.03228](http://arxiv.org/abs/2306.03228)|**[link](https://github.com/elhamod/phylonn)**|
+|**2023-06-05**|**Composition and Deformance: Measuring Imageability with a Text-to-Image Model**|Si Wu et.al.|[2306.03168](http://arxiv.org/abs/2306.03168)|**[link](https://github.com/swsiwu/composition_and_deformance)**|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
 |**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
 |**2023-06-05**|**A Vessel-Segmentation-Based CycleGAN for Unpaired Multi-modal Retinal Image Synthesis**|Aline Sindel et.al.|[2306.02901](http://arxiv.org/abs/2306.02901)|null|
@@ -95,6 +112,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
+|**2023-06-06**|**DVIS: Decoupled Video Instance Segmentation Framework**|Tao Zhang et.al.|[2306.03413](http://arxiv.org/abs/2306.03413)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
 |**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562](http://arxiv.org/abs/2306.02562)|**[link](https://github.com/exisas/lgc-vd)**|
 |**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
 |**2023-06-02**|**dugMatting: Decomposed-Uncertainty-Guided Matting**|Jiawei Wu et.al.|[2306.01452](http://arxiv.org/abs/2306.01452)|**[link](https://github.com/fire-friend/dugmatting)**|
