@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -51,7 +51,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## Motion
 
@@ -70,7 +70,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## Image Generation
 
@@ -84,7 +84,7 @@
 |**2023-06-05**|**A Deep Learning Neural Network Algorithm for Classification of Eclipsing Binary Light Curves**|Burak Ulas et.al.|[2306.02686](http://arxiv.org/abs/2306.02686)|null|
 |**2023-06-04**|**Detector Guidance for Multi-Object Text-to-Image Generation**|Luping Liu et.al.|[2306.02236](http://arxiv.org/abs/2306.02236)|**[link](https://github.com/luping-liu/detector-guidance)**|
 |**2023-06-03**|**Table and Image Generation for Investigating Knowledge of Entities in Pre-trained Vision and Language Models**|Hidetaka Kamigaito et.al.|[2306.02115](http://arxiv.org/abs/2306.02115)|**[link](https://github.com/kamigaito/wikitig)**|
-|**2023-06-03**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
+|**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
 |**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena et.al.|[2306.01923](http://arxiv.org/abs/2306.01923)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735](http://arxiv.org/abs/2306.01735)|**[link](https://github.com/michaelsaxon/cococrola)**|
 |**2023-06-02**|**An Attentive-based Generative Model for Medical Image Synthesis**|Jiayuan Wang et.al.|[2306.01562](http://arxiv.org/abs/2306.01562)|null|
@@ -101,14 +101,14 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562](http://arxiv.org/abs/2306.02562)|**[link](https://github.com/exisas/lgc-vd)**|
-|**2023-06-03**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
+|**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
 |**2023-06-02**|**dugMatting: Decomposed-Uncertainty-Guided Matting**|Jiawei Wu et.al.|[2306.01452](http://arxiv.org/abs/2306.01452)|**[link](https://github.com/fire-friend/dugmatting)**|
 |**2023-06-02**|**Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting**|Mischa Dombrowski et.al.|[2306.01363](http://arxiv.org/abs/2306.01363)|null|
 |**2023-06-01**|**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance**|Jinbo Xing et.al.|[2306.00943](http://arxiv.org/abs/2306.00943)|null|
@@ -122,7 +122,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
