@@ -42,7 +42,7 @@ layout: default
 |**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
 |**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957](http://arxiv.org/abs/2306.02957)|null|
 |**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949](http://arxiv.org/abs/2306.02949)|null|
-|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
+|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|**[link](https://github.com/casus/pi-ddpm)**|
 |**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903](http://arxiv.org/abs/2306.02903)|**[link](https://github.com/lsx0101/instruct-video2avatar)**|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732](http://arxiv.org/abs/2306.01732)|null|
 |**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721](http://arxiv.org/abs/2306.01721)|**[link](https://github.com/opengvlab/ddps)**|
@@ -99,11 +99,11 @@ layout: default
 |**2023-06-05**|**Discovering Novel Biological Traits From Images Using Phylogeny-Guided Neural Networks**|Mohannad Elhamod et.al.|[2306.03228](http://arxiv.org/abs/2306.03228)|**[link](https://github.com/elhamod/phylonn)**|
 |**2023-06-05**|**Composition and Deformance: Measuring Imageability with a Text-to-Image Model**|Si Wu et.al.|[2306.03168](http://arxiv.org/abs/2306.03168)|**[link](https://github.com/swsiwu/composition_and_deformance)**|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
-|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
+|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|**[link](https://github.com/casus/pi-ddpm)**|
 |**2023-06-05**|**A Vessel-Segmentation-Based CycleGAN for Unpaired Multi-modal Retinal Image Synthesis**|Aline Sindel et.al.|[2306.02901](http://arxiv.org/abs/2306.02901)|null|
 |**2023-06-05**|**Cheap-fake Detection with LLM using Prompt Engineering**|Guangyang Wu et.al.|[2306.02776](http://arxiv.org/abs/2306.02776)|null|
 |**2023-06-05**|**User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques**|Sunwoo Kim et.al.|[2306.02717](http://arxiv.org/abs/2306.02717)|null|
-|**2023-06-05**|**A Deep Learning Neural Network Algorithm for Classification of Eclipsing Binary Light Curves**|Burak Ulas et.al.|[2306.02686](http://arxiv.org/abs/2306.02686)|null|
+|**2023-06-05**|**A Deep Learning Neural Network Algorithm for Classification of Eclipsing Binary Light Curves**|Burak Ulas et.al.|[2306.02686](http://arxiv.org/abs/2306.02686)|**[link](https://github.com/burakulas/ebclass)**|
 |**2023-06-04**|**Detector Guidance for Multi-Object Text-to-Image Generation**|Luping Liu et.al.|[2306.02236](http://arxiv.org/abs/2306.02236)|**[link](https://github.com/luping-liu/detector-guidance)**|
 |**2023-06-03**|**Table and Image Generation for Investigating Knowledge of Entities in Pre-trained Vision and Language Models**|Hidetaka Kamigaito et.al.|[2306.02115](http://arxiv.org/abs/2306.02115)|**[link](https://github.com/kamigaito/wikitig)**|
 |**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
