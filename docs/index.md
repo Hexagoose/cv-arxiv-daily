@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
+|**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423](http://arxiv.org/abs/2306.05423)|null|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
+|**2023-06-08**|**Improving Negative-Prompt Inversion via Proximal Guidance**|Ligong Han et.al.|[2306.05414](http://arxiv.org/abs/2306.05414)|**[link](https://github.com/phymhan/prompt-to-prompt)**|
+|**2023-06-08**|**The FRB20190520B Sightline Intersects Foreground Galaxy Clusters**|Khee-Gan Lee et.al.|[2306.05403](http://arxiv.org/abs/2306.05403)|null|
+|**2023-06-08**|**Design of Sturm global attractors 2: Time-reversible Chafee-Infante lattices of 3-nose meanders**|Bernold Fiedler et.al.|[2306.05232](http://arxiv.org/abs/2306.05232)|null|
+|**2023-06-08**|**Investigating the OH-H2 relation in diffuse Galactic clouds**|Katherine Rawlins et.al.|[2306.05213](http://arxiv.org/abs/2306.05213)|null|
+|**2023-06-08**|**PriSampler: Mitigating Property Inference of Diffusion Models**|Hailong Hu et.al.|[2306.05208](http://arxiv.org/abs/2306.05208)|null|
+|**2023-06-08**|**A cognitive process approach to modeling gap acceptance in overtaking**|Samir H. A. Mohammad et.al.|[2306.05203](http://arxiv.org/abs/2306.05203)|null|
+|**2023-06-08**|**SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions**|Yuseung Lee et.al.|[2306.05178](http://arxiv.org/abs/2306.05178)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-07**|**ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections**|Chun-Han Yao et.al.|[2306.04619](http://arxiv.org/abs/2306.04619)|null|
 |**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
@@ -69,6 +79,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
+|**2023-06-08**|**Time-Optimal Path Tracking with ISO Safety Guarantees**|Shohei Fujii et.al.|[2306.05197](http://arxiv.org/abs/2306.05197)|null|
 |**2023-06-06**|**A Data-Efficient Approach for Long-Term Human Motion Prediction Using Maps of Dynamics**|Yufei Zhu et.al.|[2306.03617](http://arxiv.org/abs/2306.03617)|null|
 |**2023-06-05**|**Integrated Sensing, Computation, and Communication for UAV-assisted Federated Edge Learning**|Yao Tang et.al.|[2306.02990](http://arxiv.org/abs/2306.02990)|null|
 |**2023-06-05**|**Situational Adaptive Motion Prediction for Firefighting Squads in Indoor Search and Rescue**|Nils Mandischer et.al.|[2306.02705](http://arxiv.org/abs/2306.02705)|null|
@@ -87,6 +99,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
+|**2023-06-08**|**Improving Negative-Prompt Inversion via Proximal Guidance**|Ligong Han et.al.|[2306.05414](http://arxiv.org/abs/2306.05414)|**[link](https://github.com/phymhan/prompt-to-prompt)**|
+|**2023-06-08**|**Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models**|Nan Liu et.al.|[2306.05357](http://arxiv.org/abs/2306.05357)|null|
+|**2023-06-08**|**Ownership Protection of Generative Adversarial Networks**|Hailong Hu et.al.|[2306.05233](http://arxiv.org/abs/2306.05233)|null|
+|**2023-06-08**|**Gradient-Informed Quality Diversity for the Illumination of Discrete Spaces**|Raphael Boige et.al.|[2306.05138](http://arxiv.org/abs/2306.05138)|null|
+|**2023-06-08**|**Energy-Efficient Downlink Semantic Generative Communication with Text-to-Image Generators**|Hyein Lee et.al.|[2306.05041](http://arxiv.org/abs/2306.05041)|null|
+|**2023-06-08**|**IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map**|Hansol Lee et.al.|[2306.04957](http://arxiv.org/abs/2306.04957)|null|
+|**2023-06-07**|**AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2306.04717](http://arxiv.org/abs/2306.04717)|null|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Rame et.al.|[2306.04488](http://arxiv.org/abs/2306.04488)|**[link](https://github.com/alexrame/rewardedsoups)**|
