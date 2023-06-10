@@ -111,7 +111,7 @@ layout: default
 |**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Rame et.al.|[2306.04488](http://arxiv.org/abs/2306.04488)|**[link](https://github.com/alexrame/rewardedsoups)**|
 |**2023-06-06**|**A machine learning potential-based generative algorithm for on-lattice crystal structure prediction**|Vadim Sotskov et.al.|[2306.03989](http://arxiv.org/abs/2306.03989)|null|
-|**2023-06-06**|**Variational Monte Carlo with Large Patched Transformers**|Kyle Sprague et.al.|[2306.03921](http://arxiv.org/abs/2306.03921)|null|
+|**2023-06-06**|**Variational Monte Carlo with Large Patched Transformers**|Kyle Sprague et.al.|[2306.03921](http://arxiv.org/abs/2306.03921)|**[link](https://github.com/apriquot/vmc_with_lptfs)**|
 |**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
 |**2023-06-06**|**On the Difference of BERT-style and CLIP-style Text Encoders**|Zhihong Chen et.al.|[2306.03678](http://arxiv.org/abs/2306.03678)|**[link](https://github.com/zhjohnchan/bert-clip-synesthesia)**|
 |**2023-06-06**|**Generative diffusion in very large dimensions**|Giulio Biroli et.al.|[2306.03518](http://arxiv.org/abs/2306.03518)|null|
