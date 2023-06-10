@@ -106,7 +106,7 @@ layout: default
 |**2023-06-08**|**Gradient-Informed Quality Diversity for the Illumination of Discrete Spaces**|Raphael Boige et.al.|[2306.05138](http://arxiv.org/abs/2306.05138)|null|
 |**2023-06-08**|**Energy-Efficient Downlink Semantic Generative Communication with Text-to-Image Generators**|Hyein Lee et.al.|[2306.05041](http://arxiv.org/abs/2306.05041)|null|
 |**2023-06-08**|**IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map**|Hansol Lee et.al.|[2306.04957](http://arxiv.org/abs/2306.04957)|null|
-|**2023-06-07**|**AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2306.04717](http://arxiv.org/abs/2306.04717)|null|
+|**2023-06-07**|**AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2306.04717](http://arxiv.org/abs/2306.04717)|**[link](https://github.com/lcysyzxdxc/AGIQA-3k-Database)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Rame et.al.|[2306.04488](http://arxiv.org/abs/2306.04488)|**[link](https://github.com/alexrame/rewardedsoups)**|
