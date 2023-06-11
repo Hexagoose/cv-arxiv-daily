@@ -61,7 +61,7 @@ layout: default
 |**2023-06-02**|**Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). V. The Complete SMUDGes Catalog and the Nature of Ultra-Diffuse Galaxies**|Dennis Zaritsky et.al.|[2306.01524](http://arxiv.org/abs/2306.01524)|null|
 |**2023-06-02**|**Search for the Galactic accelerators of Cosmic-Rays up to the Knee with the Pevatron Test Statistic**|E. O. Angüner et.al.|[2306.01484](http://arxiv.org/abs/2306.01484)|null|
 |**2023-06-02**|**PolyDiffuse: Polygonal Shape Reconstruction via Guided Set Diffusion Models**|Jiacheng Chen et.al.|[2306.01461](http://arxiv.org/abs/2306.01461)|null|
-|**2023-06-02**|**Zero-Shot Blind Audio Bandwidth Extension**|Eloi Moliner et.al.|[2306.01433](http://arxiv.org/abs/2306.01433)|null|
+|**2023-06-02**|**Zero-Shot Blind Audio Bandwidth Extension**|Eloi Moliner et.al.|[2306.01433](http://arxiv.org/abs/2306.01433)|**[link](https://github.com/eloimoliner/babe)**|
 |**2023-06-02**|**Audio-Visual Speech Enhancement with Score-Based Generative Models**|Julius Richter et.al.|[2306.01432](http://arxiv.org/abs/2306.01432)|null|
 |**2023-06-02**|**Phase separation of a magnetic fluid: Equilibrium phases and non-equilibrium kinetics**|Anuj Kumar Singh et.al.|[2306.01430](http://arxiv.org/abs/2306.01430)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
