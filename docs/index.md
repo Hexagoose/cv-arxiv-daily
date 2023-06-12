@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.11
+## Updated on 2023.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -108,7 +108,7 @@ layout: default
 |**2023-06-08**|**IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map**|Hansol Lee et.al.|[2306.04957](http://arxiv.org/abs/2306.04957)|null|
 |**2023-06-07**|**AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2306.04717](http://arxiv.org/abs/2306.04717)|**[link](https://github.com/lcysyzxdxc/AGIQA-3k-Database)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
-|**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
+|**2023-06-09**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Rame et.al.|[2306.04488](http://arxiv.org/abs/2306.04488)|**[link](https://github.com/alexrame/rewardedsoups)**|
 |**2023-06-06**|**A machine learning potential-based generative algorithm for on-lattice crystal structure prediction**|Vadim Sotskov et.al.|[2306.03989](http://arxiv.org/abs/2306.03989)|null|
 |**2023-06-06**|**Variational Monte Carlo with Large Patched Transformers**|Kyle Sprague et.al.|[2306.03921](http://arxiv.org/abs/2306.03921)|**[link](https://github.com/apriquot/vmc_with_lptfs)**|
