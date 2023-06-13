@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2023-06-09**|**SRG/eROSITA X-ray shadowing study of giant molecular clouds**|Michael C. H. Yeung et.al.|[2306.05858](http://arxiv.org/abs/2306.05858)|null|
 |**2023-06-09**|**Functional Central Limit Theorem for Two Timescale Stochastic Approximation**|Fathima Zarin Faizal et.al.|[2306.05723](http://arxiv.org/abs/2306.05723)|null|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
-|**2023-06-09**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
+|**2023-06-12**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
 |**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
 |**2023-06-09**|**Active stop and go motion: a strategy to improve spatial exploration?**|Fernando Peruani et.al.|[2306.05647](http://arxiv.org/abs/2306.05647)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
@@ -91,7 +91,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Motion
 
@@ -114,7 +114,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Image Generation
 
@@ -129,7 +129,7 @@
 |**2023-06-08**|**Gradient-Informed Quality Diversity for the Illumination of Discrete Spaces**|Raphael Boige et.al.|[2306.05138](http://arxiv.org/abs/2306.05138)|null|
 |**2023-06-08**|**Energy-Efficient Downlink Semantic Generative Communication with Text-to-Image Generators**|Hyein Lee et.al.|[2306.05041](http://arxiv.org/abs/2306.05041)|null|
 |**2023-06-08**|**IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map**|Hansol Lee et.al.|[2306.04957](http://arxiv.org/abs/2306.04957)|null|
-|**2023-06-07**|**AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2306.04717](http://arxiv.org/abs/2306.04717)|**[link](https://github.com/lcysyzxdxc/AGIQA-3k-Database)**|
+|**2023-06-12**|**AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment**|Chunyi Li et.al.|[2306.04717](http://arxiv.org/abs/2306.04717)|**[link](https://github.com/lcysyzxdxc/AGIQA-3k-Database)**|
 |**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
 |**2023-06-09**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**Rewarded soups: towards Pareto-optimal alignment by interpolating weights fine-tuned on diverse rewards**|Alexandre Rame et.al.|[2306.04488](http://arxiv.org/abs/2306.04488)|**[link](https://github.com/alexrame/rewardedsoups)**|
@@ -166,7 +166,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 ## Video Generation
 
@@ -192,7 +192,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
