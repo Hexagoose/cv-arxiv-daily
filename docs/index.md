@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
+|**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257](http://arxiv.org/abs/2306.07257)|null|
+|**2023-06-12**|**Direct Observation of the Translational Immobilization of Water Molecules Under Nanoscale Confinement**|Alec A. Beaton et.al.|[2306.07240](http://arxiv.org/abs/2306.07240)|null|
+|**2023-06-12**|**A new 2D stochastic methodology for simulating variable accretion discs: propagating fluctuations and epicyclic motion**|Samuel G. D. Turner et.al.|[2306.07199](http://arxiv.org/abs/2306.07199)|null|
+|**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180](http://arxiv.org/abs/2306.07180)|null|
+|**2023-06-12**|**Supercaloric functions for the porous medium equation in the fast diffusion case**|Kristian Moring et.al.|[2306.07155](http://arxiv.org/abs/2306.07155)|null|
+|**2023-06-12**|**InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions**|Jiale Xu et.al.|[2306.07154](http://arxiv.org/abs/2306.07154)|null|
+|**2023-06-12**|**Convergence of solutions for a reaction-diffusion problem with fractional Laplacian**|Jiaouhui Xu et.al.|[2306.07148](http://arxiv.org/abs/2306.07148)|null|
+|**2023-06-12**|**Randomness and early termination: what makes a game exciting?**|Gaoyue Guo et.al.|[2306.07133](http://arxiv.org/abs/2306.07133)|null|
+|**2023-06-12**|**Latent Dynamical Implicit Diffusion Processes**|Mohammad R. Rezaei et.al.|[2306.07077](http://arxiv.org/abs/2306.07077)|null|
 |**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103](http://arxiv.org/abs/2306.06103)|null|
 |**2023-06-09**|**Global solution and blow-up for the SKT model in Population Dynamics**|Ichraf Belkhamsa et.al.|[2306.06045](http://arxiv.org/abs/2306.06045)|null|
 |**2023-06-09**|**Bridging Scales: a Hybrid Model to Simulate Vascular Tumor Growth and Treatment Response**|Tobias Duswald et.al.|[2306.05994](http://arxiv.org/abs/2306.05994)|null|
@@ -110,6 +120,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Fill-Up: Balancing Long-Tailed Data with Generative Models**|Joonghyuk Shin et.al.|[2306.07200](http://arxiv.org/abs/2306.07200)|null|
+|**2023-06-12**|**AI-Generated Image Detection using a Cross-Attention Enhanced Dual-Stream Network**|Ziyi Xi et.al.|[2306.07005](http://arxiv.org/abs/2306.07005)|null|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|**[link](https://github.com/sail-sg/fdm)**|
+|**2023-06-11**|**Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models**|Steffen Jung et.al.|[2306.06684](http://arxiv.org/abs/2306.06684)|null|
+|**2023-06-11**|**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face**|Dani Valevski et.al.|[2306.06638](http://arxiv.org/abs/2306.06638)|null|
+|**2023-06-10**|**Image Vectorization: a Review**|Maria Dziuba et.al.|[2306.06441](http://arxiv.org/abs/2306.06441)|null|
+|**2023-06-09**|**BioGAN: An unpaired GAN-based image to image translation model for microbiological images**|Saber Mirzaee Bafti et.al.|[2306.06217](http://arxiv.org/abs/2306.06217)|**[link](https://github.com/kahroba2000/biogan)**|
+|**2023-06-09**|**Safety and Fairness for Content Moderation in Generative Models**|Susan Hao et.al.|[2306.06135](http://arxiv.org/abs/2306.06135)|null|
 |**2023-06-08**|**Differentially Private Image Classification by Learning Priors from Random Processes**|Xinyu Tang et.al.|[2306.06076](http://arxiv.org/abs/2306.06076)|null|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
