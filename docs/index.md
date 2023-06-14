@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Heavy quark radiation in an anisotropic hot QCD medium**|Jai Prakash et.al.|[2306.07966](http://arxiv.org/abs/2306.07966)|null|
+|**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954](http://arxiv.org/abs/2306.07954)|null|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
+|**2023-06-13**|**Nonequilibrium spin transport in integrable and non-integrable classical spin chains**|Dipankar Roy et.al.|[2306.07864](http://arxiv.org/abs/2306.07864)|null|
+|**2023-06-13**|**Electrostatic moiré potential from twisted-hBN layers**|Dong Seob Kim et.al.|[2306.07841](http://arxiv.org/abs/2306.07841)|null|
+|**2023-06-13**|**The main role of fractal-like nature of conformational space in subdiffusion in protein**|Luca Maggi et.al.|[2306.07825](http://arxiv.org/abs/2306.07825)|null|
+|**2023-06-13**|**Room temperature wavelike exciton transport in a van der Waals superatomic semiconductor**|Jakhangirkhodja A. Tulyagankhodjaev et.al.|[2306.07808](http://arxiv.org/abs/2306.07808)|null|
+|**2023-06-13**|**Stochastic differential equation for modelling health related quality of life**|Ralph Brinks et.al.|[2306.07789](http://arxiv.org/abs/2306.07789)|null|
+|**2023-06-13**|**Diffusive and convective dissolution of carbon dioxide in a vertical cylindrical cell**|Daniël P. Faasen et.al.|[2306.07721](http://arxiv.org/abs/2306.07721)|null|
+|**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257](http://arxiv.org/abs/2306.07257)|null|
 |**2023-06-12**|**Direct Observation of the Translational Immobilization of Water Molecules Under Nanoscale Confinement**|Alec A. Beaton et.al.|[2306.07240](http://arxiv.org/abs/2306.07240)|null|
@@ -99,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**4DHumanOutfit: a multi-subject 4D dataset of human motion sequences in varying outfits exhibiting large displacements**|Matthieu Armando et.al.|[2306.07399](http://arxiv.org/abs/2306.07399)|null|
 |**2023-06-09**|**Motion-DVAE: Unsupervised learning for fast human motion denoising**|Guénolé Fiche et.al.|[2306.05846](http://arxiv.org/abs/2306.05846)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**Time-Optimal Path Tracking with ISO Safety Guarantees**|Shohei Fujii et.al.|[2306.05197](http://arxiv.org/abs/2306.05197)|null|
@@ -120,9 +131,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-13**|**Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis**|Yihan Ma et.al.|[2306.07754](http://arxiv.org/abs/2306.07754)|null|
+|**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596](http://arxiv.org/abs/2306.07596)|null|
+|**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579](http://arxiv.org/abs/2306.07579)|null|
+|**2023-06-13**|**Deep learning radiomics for assessment of gastroesophageal varices in people with compensated advanced chronic liver disease**|Lan Wang et.al.|[2306.07505](http://arxiv.org/abs/2306.07505)|null|
+|**2023-06-13**|**Learning Unnormalized Statistical Models via Compositional Optimization**|Wei Jiang et.al.|[2306.07485](http://arxiv.org/abs/2306.07485)|null|
+|**2023-06-13**|**AniFaceDrawing: Anime Portrait Exploration during Your Sketching**|Zhengyu Huang et.al.|[2306.07476](http://arxiv.org/abs/2306.07476)|null|
 |**2023-06-12**|**Fill-Up: Balancing Long-Tailed Data with Generative Models**|Joonghyuk Shin et.al.|[2306.07200](http://arxiv.org/abs/2306.07200)|null|
 |**2023-06-12**|**AI-Generated Image Detection using a Cross-Attention Enhanced Dual-Stream Network**|Ziyi Xi et.al.|[2306.07005](http://arxiv.org/abs/2306.07005)|null|
-|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|**[link](https://github.com/sail-sg/fdm)**|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|null|
 |**2023-06-11**|**Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models**|Steffen Jung et.al.|[2306.06684](http://arxiv.org/abs/2306.06684)|null|
 |**2023-06-11**|**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face**|Dani Valevski et.al.|[2306.06638](http://arxiv.org/abs/2306.06638)|null|
 |**2023-06-10**|**Image Vectorization: a Review**|Maria Dziuba et.al.|[2306.06441](http://arxiv.org/abs/2306.06441)|null|
