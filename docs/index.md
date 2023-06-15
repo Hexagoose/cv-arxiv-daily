@@ -139,7 +139,7 @@ layout: default
 |**2023-06-13**|**AniFaceDrawing: Anime Portrait Exploration during Your Sketching**|Zhengyu Huang et.al.|[2306.07476](http://arxiv.org/abs/2306.07476)|null|
 |**2023-06-12**|**Fill-Up: Balancing Long-Tailed Data with Generative Models**|Joonghyuk Shin et.al.|[2306.07200](http://arxiv.org/abs/2306.07200)|null|
 |**2023-06-12**|**AI-Generated Image Detection using a Cross-Attention Enhanced Dual-Stream Network**|Ziyi Xi et.al.|[2306.07005](http://arxiv.org/abs/2306.07005)|null|
-|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|**[link](https://github.com/sail-sg/fdm)**|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|null|
 |**2023-06-11**|**Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models**|Steffen Jung et.al.|[2306.06684](http://arxiv.org/abs/2306.06684)|null|
 |**2023-06-11**|**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face**|Dani Valevski et.al.|[2306.06638](http://arxiv.org/abs/2306.06638)|null|
 |**2023-06-10**|**Image Vectorization: a Review**|Maria Dziuba et.al.|[2306.06441](http://arxiv.org/abs/2306.06441)|null|
