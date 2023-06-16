@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
+|**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
+|**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
+|**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
+|**2023-06-15**|**A Score-based Nonlinear Filter for Data Assimilation**|Feng Bao et.al.|[2306.09282](http://arxiv.org/abs/2306.09282)|null|
+|**2023-06-15**|**Conditional Human Sketch Synthesis with Explicit Abstraction Control**|Dar-Yen Chen et.al.|[2306.09274](http://arxiv.org/abs/2306.09274)|null|
+|**2023-06-15**|**Two sided ergodic singular control and mean field game for diffusions**|Sören Christensen et.al.|[2306.09263](http://arxiv.org/abs/2306.09263)|null|
+|**2023-06-15**|**Towards Faster Non-Asymptotic Convergence for Diffusion-Based Generative Models**|Gen Li et.al.|[2306.09251](http://arxiv.org/abs/2306.09251)|null|
+|**2023-06-15**|**Training Diffusion Classifiers with Denoising Assistance**|Chandramouli Sastry et.al.|[2306.09192](http://arxiv.org/abs/2306.09192)|null|
+|**2023-06-15**|**Growth kinetics and substrate stability during high-temperature molecular beam epitaxy of AlN nanowires**|Philipp John et.al.|[2306.09184](http://arxiv.org/abs/2306.09184)|null|
 |**2023-06-13**|**Heavy quark radiation in an anisotropic hot QCD medium**|Jai Prakash et.al.|[2306.07966](http://arxiv.org/abs/2306.07966)|null|
 |**2023-06-13**|**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation**|Shuai Yang et.al.|[2306.07954](http://arxiv.org/abs/2306.07954)|null|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
@@ -117,6 +127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**The interplay of fatigue dynamics and task achievement using optimal control predictive simulation**|Pierre Puchaud et.al.|[2306.08164](http://arxiv.org/abs/2306.08164)|**[link](https://github.com/s2mLab/dumbbell_lifting)**|
 |**2023-06-12**|**4DHumanOutfit: a multi-subject 4D dataset of human motion sequences in varying outfits exhibiting large displacements**|Matthieu Armando et.al.|[2306.07399](http://arxiv.org/abs/2306.07399)|null|
 |**2023-06-09**|**Motion-DVAE: Unsupervised learning for fast human motion denoising**|Guénolé Fiche et.al.|[2306.05846](http://arxiv.org/abs/2306.05846)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
@@ -141,6 +152,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**|Xiaoshi Wu et.al.|[2306.09341](http://arxiv.org/abs/2306.09341)|**[link](https://github.com/tgxs002/hpsv2)**|
+|**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329](http://arxiv.org/abs/2306.09329)|null|
+|**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
+|**2023-06-15**|**Training Multimedia Event Extraction With Generated Images and Captions**|Zilin Du et.al.|[2306.08966](http://arxiv.org/abs/2306.08966)|null|
+|**2023-06-15**|**1st Solution Places for CVPR 2023 UG $^{\textbf{2}}$ + Challenge Track 2.1-Text Recognition through Atmospheric Turbulence**|Shengqi Xu et.al.|[2306.08963](http://arxiv.org/abs/2306.08963)|null|
+|**2023-06-15**|**Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment**|Royi Rassin et.al.|[2306.08877](http://arxiv.org/abs/2306.08877)|**[link](https://github.com/royira/syntax-guided-generation)**|
+|**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
+|**2023-06-14**|**Norm-guided latent space exploration for text-to-image generation**|Dvir Samuel et.al.|[2306.08687](http://arxiv.org/abs/2306.08687)|null|
+|**2023-06-14**|**Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis**|Zhiyu Jin et.al.|[2306.08645](http://arxiv.org/abs/2306.08645)|null|
+|**2023-06-14**|**GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image**|Mingjian Zhu et.al.|[2306.08571](http://arxiv.org/abs/2306.08571)|**[link](https://github.com/andrew-zhu/genimage)**|
 |**2023-06-13**|**Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis**|Yihan Ma et.al.|[2306.07754](http://arxiv.org/abs/2306.07754)|null|
 |**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596](http://arxiv.org/abs/2306.07596)|null|
 |**2023-06-13**|**Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**|Ricong Huang et.al.|[2306.07579](http://arxiv.org/abs/2306.07579)|null|
@@ -207,6 +228,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
 |**2023-06-08**|**1st Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Tao Zhang et.al.|[2306.04091](http://arxiv.org/abs/2306.04091)|null|
 |**2023-06-06**|**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions**|Aram Davtyan et.al.|[2306.03988](http://arxiv.org/abs/2306.03988)|null|
