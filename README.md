@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -111,7 +111,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
 ## Motion
 
@@ -124,7 +124,7 @@
 |**2023-06-06**|**A Data-Efficient Approach for Long-Term Human Motion Prediction Using Maps of Dynamics**|Yufei Zhu et.al.|[2306.03617](http://arxiv.org/abs/2306.03617)|null|
 |**2023-06-05**|**Integrated Sensing, Computation, and Communication for UAV-assisted Federated Edge Learning**|Yao Tang et.al.|[2306.02990](http://arxiv.org/abs/2306.02990)|null|
 |**2023-06-05**|**Situational Adaptive Motion Prediction for Firefighting Squads in Indoor Search and Rescue**|Nils Mandischer et.al.|[2306.02705](http://arxiv.org/abs/2306.02705)|null|
-|**2023-05-31**|**HuMoT: Human Motion Representation using Topology-Agnostic Transformers for Character Animation Retargeting**|Lucas Mourot et.al.|[2305.18897](http://arxiv.org/abs/2305.18897)|null|
+|**2023-06-15**|**HuMoT: Human Motion Representation using Topology-Agnostic Transformers for Character Animation Retargeting**|Lucas Mourot et.al.|[2305.18897](http://arxiv.org/abs/2305.18897)|null|
 |**2023-05-31**|**Decomposed Human Motion Prior for Video Pose Estimation via Adversarial Training**|Wenshuo Chen et.al.|[2305.18743](http://arxiv.org/abs/2305.18743)|null|
 |**2023-05-25**|**Text-to-Motion Retrieval: Towards Joint Understanding of Human Motion Data and Natural Language**|Nicola Messina et.al.|[2305.15842](http://arxiv.org/abs/2305.15842)|**[link](https://github.com/mesnico/text-to-motion-retrieval)**|
 |**2023-05-24**|**ACE: Adversarial Correspondence Embedding for Cross Morphology Motion Retargeting from Human to Nonhuman Characters**|Tianyu Li et.al.|[2305.14792](http://arxiv.org/abs/2305.14792)|null|
@@ -135,7 +135,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
 ## Image Generation
 
@@ -149,7 +149,7 @@
 |**2023-06-13**|**AniFaceDrawing: Anime Portrait Exploration during Your Sketching**|Zhengyu Huang et.al.|[2306.07476](http://arxiv.org/abs/2306.07476)|null|
 |**2023-06-12**|**Fill-Up: Balancing Long-Tailed Data with Generative Models**|Joonghyuk Shin et.al.|[2306.07200](http://arxiv.org/abs/2306.07200)|null|
 |**2023-06-12**|**AI-Generated Image Detection using a Cross-Attention Enhanced Dual-Stream Network**|Ziyi Xi et.al.|[2306.07005](http://arxiv.org/abs/2306.07005)|null|
-|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|null|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|**[link](https://github.com/sail-sg/fdm)**|
 |**2023-06-11**|**Happy People -- Image Synthesis as Black-Box Optimization Problem in the Discrete Latent Space of Deep Generative Models**|Steffen Jung et.al.|[2306.06684](http://arxiv.org/abs/2306.06684)|null|
 |**2023-06-11**|**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face**|Dani Valevski et.al.|[2306.06638](http://arxiv.org/abs/2306.06638)|null|
 |**2023-06-10**|**Image Vectorization: a Review**|Maria Dziuba et.al.|[2306.06441](http://arxiv.org/abs/2306.06441)|null|
@@ -201,7 +201,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
 ## Video Generation
 
@@ -227,7 +227,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
