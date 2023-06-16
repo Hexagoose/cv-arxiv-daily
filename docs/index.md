@@ -145,7 +145,7 @@ layout: default
 |**2023-06-10**|**Image Vectorization: a Review**|Maria Dziuba et.al.|[2306.06441](http://arxiv.org/abs/2306.06441)|null|
 |**2023-06-09**|**BioGAN: An unpaired GAN-based image to image translation model for microbiological images**|Saber Mirzaee Bafti et.al.|[2306.06217](http://arxiv.org/abs/2306.06217)|**[link](https://github.com/kahroba2000/biogan)**|
 |**2023-06-09**|**Safety and Fairness for Content Moderation in Generative Models**|Susan Hao et.al.|[2306.06135](http://arxiv.org/abs/2306.06135)|null|
-|**2023-06-08**|**Differentially Private Image Classification by Learning Priors from Random Processes**|Xinyu Tang et.al.|[2306.06076](http://arxiv.org/abs/2306.06076)|null|
+|**2023-06-08**|**Differentially Private Image Classification by Learning Priors from Random Processes**|Xinyu Tang et.al.|[2306.06076](http://arxiv.org/abs/2306.06076)|**[link](https://github.com/inspire-group/dp-randp)**|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
 |**2023-06-08**|**Improving Negative-Prompt Inversion via Proximal Guidance**|Ligong Han et.al.|[2306.05414](http://arxiv.org/abs/2306.05414)|**[link](https://github.com/phymhan/prompt-to-prompt)**|
@@ -177,7 +177,7 @@ layout: default
 |**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
 |**2023-06-02**|**The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation**|Saurabh Saxena et.al.|[2306.01923](http://arxiv.org/abs/2306.01923)|null|
 |**2023-06-02**|**Multilingual Conceptual Coverage in Text-to-Image Models**|Michael Saxon et.al.|[2306.01735](http://arxiv.org/abs/2306.01735)|**[link](https://github.com/michaelsaxon/cococrola)**|
-|**2023-06-02**|**An Attentive-based Generative Model for Medical Image Synthesis**|Jiayuan Wang et.al.|[2306.01562](http://arxiv.org/abs/2306.01562)|null|
+|**2023-06-02**|**An Attentive-based Generative Model for Medical Image Synthesis**|Jiayuan Wang et.al.|[2306.01562](http://arxiv.org/abs/2306.01562)|**[link](https://github.com/jiayuanwang-jw/adc-cyclegan)**|
 |**2023-06-02**|**Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models**|Virginia Fernandez et.al.|[2306.01322](http://arxiv.org/abs/2306.01322)|null|
 |**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144](http://arxiv.org/abs/2306.01144)|null|
 |**2023-06-01**|**StyleGAN knows Normal, Depth, Albedo, and More**|Anand Bhattad et.al.|[2306.00987](http://arxiv.org/abs/2306.00987)|null|
