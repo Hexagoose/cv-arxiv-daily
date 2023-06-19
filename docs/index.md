@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001](http://arxiv.org/abs/2306.10001)|**[link](https://github.com/yoavkurtz/gor)**|
+|**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960](http://arxiv.org/abs/2306.09960)|null|
+|**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
+|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|null|
+|**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
+|**2023-06-16**|**Density and current statistics in boundary-driven monitored fermionic chains**|Xhek Turkeshi et.al.|[2306.09893](http://arxiv.org/abs/2306.09893)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
+|**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
+|**2023-06-16**|**High-order finite-volume integration schemes for subsonic magnetohydrodynamics**|Jean-Mathieu Teissier et.al.|[2306.09856](http://arxiv.org/abs/2306.09856)|null|
+|**2023-06-16**|**Semi-analytical estimates for the chaotic diffusion in the Second Fundamental Model of Resonance. Application to Earth's navigation satellites**|Edoardo Legnaro et.al.|[2306.09847](http://arxiv.org/abs/2306.09847)|null|
 |**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
 |**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
@@ -142,6 +152,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
+|**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
 |**2023-06-15**|**Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**|Xiaoshi Wu et.al.|[2306.09341](http://arxiv.org/abs/2306.09341)|**[link](https://github.com/tgxs002/hpsv2)**|
 |**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329](http://arxiv.org/abs/2306.09329)|null|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
@@ -221,7 +234,7 @@ layout: default
 |**2023-06-08**|**1st Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Tao Zhang et.al.|[2306.04091](http://arxiv.org/abs/2306.04091)|null|
 |**2023-06-06**|**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions**|Aram Davtyan et.al.|[2306.03988](http://arxiv.org/abs/2306.03988)|null|
 |**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
-|**2023-06-08**|**DVIS: Decoupled Video Instance Segmentation Framework**|Tao Zhang et.al.|[2306.03413](http://arxiv.org/abs/2306.03413)|null|
+|**2023-06-08**|**DVIS: Decoupled Video Instance Segmentation Framework**|Tao Zhang et.al.|[2306.03413](http://arxiv.org/abs/2306.03413)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
 |**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562](http://arxiv.org/abs/2306.02562)|**[link](https://github.com/exisas/lgc-vd)**|
 |**2023-06-06**|**VideoComposer: Compositional Video Synthesis with Motion Controllability**|Xiang Wang et.al.|[2306.02018](http://arxiv.org/abs/2306.02018)|null|
 |**2023-06-02**|**dugMatting: Decomposed-Uncertainty-Guided Matting**|Jiawei Wu et.al.|[2306.01452](http://arxiv.org/abs/2306.01452)|**[link](https://github.com/fire-friend/dugmatting)**|
