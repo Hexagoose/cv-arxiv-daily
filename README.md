@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001](http://arxiv.org/abs/2306.10001)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960](http://arxiv.org/abs/2306.09960)|null|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
-|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|null|
+|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|**[link](https://github.com/rafaelnh/camcan-dmri-study)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
 |**2023-06-16**|**Density and current statistics in boundary-driven monitored fermionic chains**|Xhek Turkeshi et.al.|[2306.09893](http://arxiv.org/abs/2306.09893)|null|
 |**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
@@ -131,7 +131,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Motion
 
@@ -156,7 +156,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Image Generation
 
@@ -235,7 +235,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Video Generation
 
@@ -243,7 +243,7 @@
 |---|---|---|---|---|
 |**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
-|**2023-06-08**|**1st Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Tao Zhang et.al.|[2306.04091](http://arxiv.org/abs/2306.04091)|null|
+|**2023-06-08**|**1st Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Tao Zhang et.al.|[2306.04091](http://arxiv.org/abs/2306.04091)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
 |**2023-06-06**|**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions**|Aram Davtyan et.al.|[2306.03988](http://arxiv.org/abs/2306.03988)|null|
 |**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
 |**2023-06-08**|**DVIS: Decoupled Video Instance Segmentation Framework**|Tao Zhang et.al.|[2306.03413](http://arxiv.org/abs/2306.03413)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
@@ -262,7 +262,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
