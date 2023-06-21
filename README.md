@@ -30,7 +30,7 @@
 |**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
 |**2023-06-16**|**High-order finite-volume integration schemes for subsonic magnetohydrodynamics**|Jean-Mathieu Teissier et.al.|[2306.09856](http://arxiv.org/abs/2306.09856)|null|
 |**2023-06-16**|**Semi-analytical estimates for the chaotic diffusion in the Second Fundamental Model of Resonance. Application to Earth's navigation satellites**|Edoardo Legnaro et.al.|[2306.09847](http://arxiv.org/abs/2306.09847)|null|
-|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|null|
+|**2023-06-15**|**Generative Proxemics: A Prior for 3D Social Interaction from Images**|Lea Müller et.al.|[2306.09337](http://arxiv.org/abs/2306.09337)|**[link](https://github.com/muelea/buddi)**|
 |**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
 |**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
