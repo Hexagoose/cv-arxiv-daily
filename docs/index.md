@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731](http://arxiv.org/abs/2306.11731)|null|
+|**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
+|**2023-06-20**|**A unified approach to the small-time behavior of the spectral heat content for isotropic Lévy processes**|Kei Kobayashi et.al.|[2306.11690](http://arxiv.org/abs/2306.11690)|null|
+|**2023-06-20**|**A new thermodynamically compatible finite volume scheme for Lagrangian gas dynamics**|Walter Boscheri et.al.|[2306.11651](http://arxiv.org/abs/2306.11651)|null|
+|**2023-06-20**|**Planetesimal formation at the gas pressure bump following a migrating planet II. Effects of dust growth**|Yuhito Shibaike et.al.|[2306.11619](http://arxiv.org/abs/2306.11619)|null|
+|**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|null|
+|**2023-06-20**|**Align, Adapt and Inject: Sound-guided Unified Image Generation**|Yue Yang et.al.|[2306.11504](http://arxiv.org/abs/2306.11504)|null|
+|**2023-06-20**|**EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model**|Lianying Yin et.al.|[2306.11496](http://arxiv.org/abs/2306.11496)|null|
+|**2023-06-20**|**Criteria for NUPBR, NFLVR and the existence of EMMs in integrated diffusion markets**|David Criens et.al.|[2306.11470](http://arxiv.org/abs/2306.11470)|null|
+|**2023-06-20**|**Emergence of fluctuating hydrodynamics in chaotic quantum systems**|Julian F. Wienand et.al.|[2306.11457](http://arxiv.org/abs/2306.11457)|null|
 |**2023-06-16**|**Group Orthogonalization Regularization For Vision Models Adaptation and Robustness**|Yoav Kurtz et.al.|[2306.10001](http://arxiv.org/abs/2306.10001)|**[link](https://github.com/yoavkurtz/gor)**|
 |**2023-06-16**|**X-ray emission from Westerlund 2 detected by SRG/ART-XC and Chandra: search for radiation of TeV leptons**|A. M. Bykov et.al.|[2306.09960](http://arxiv.org/abs/2306.09960)|null|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
@@ -129,6 +139,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**|Cheng Tan et.al.|[2306.11249](http://arxiv.org/abs/2306.11249)|**[link](https://github.com/chengtan9907/OpenSTL)**|
+|**2023-06-19**|**MotionGPT: Finetuned LLMs are General-Purpose Motion Generators**|Yaqi Zhang et.al.|[2306.10900](http://arxiv.org/abs/2306.10900)|null|
+|**2023-06-18**|**Language-Guided Generation of Physically Realistic Robot Motion and Control**|Shusheng Xu et.al.|[2306.10518](http://arxiv.org/abs/2306.10518)|null|
 |**2023-06-13**|**The interplay of fatigue dynamics and task achievement using optimal control predictive simulation**|Pierre Puchaud et.al.|[2306.08164](http://arxiv.org/abs/2306.08164)|**[link](https://github.com/s2mLab/dumbbell_lifting)**|
 |**2023-06-12**|**4DHumanOutfit: a multi-subject 4D dataset of human motion sequences in varying outfits exhibiting large displacements**|Matthieu Armando et.al.|[2306.07399](http://arxiv.org/abs/2306.07399)|null|
 |**2023-06-09**|**Motion-DVAE: Unsupervised learning for fast human motion denoising**|Guénolé Fiche et.al.|[2306.05846](http://arxiv.org/abs/2306.05846)|null|
@@ -152,6 +165,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731](http://arxiv.org/abs/2306.11731)|null|
+|**2023-06-20**|**Data-Driven but Privacy-Conscious: Pedestrian Dataset De-identification via Full-Body Person Synthesis**|Maxim Maximov et.al.|[2306.11710](http://arxiv.org/abs/2306.11710)|null|
+|**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682](http://arxiv.org/abs/2306.11682)|null|
+|**2023-06-20**|**Align, Adapt and Inject: Sound-guided Unified Image Generation**|Yue Yang et.al.|[2306.11504](http://arxiv.org/abs/2306.11504)|null|
+|**2023-06-20**|**The Cultivated Practices of Text-to-Image Generation**|Jonas Oppenlaender et.al.|[2306.11393](http://arxiv.org/abs/2306.11393)|null|
+|**2023-06-20**|**Masked Diffusion Models are Fast Learners**|Jiachen Lei et.al.|[2306.11363](http://arxiv.org/abs/2306.11363)|**[link](https://github.com/jiachenlei/maskdm)**|
+|**2023-06-19**|**GD-VDM: Generated Depth for better Diffusion-based Video Generation**|Ariel Lapid et.al.|[2306.11173](http://arxiv.org/abs/2306.11173)|**[link](https://github.com/lapid92/gd-vdm)**|
+|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
+|**2023-06-19**|**Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**|Yuqi Sun et.al.|[2306.10813](http://arxiv.org/abs/2306.10813)|null|
+|**2023-06-19**|**Conditional Text Image Generation with Diffusion Models**|Yuanzhi Zhu et.al.|[2306.10804](http://arxiv.org/abs/2306.10804)|null|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
 |**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
@@ -229,6 +252,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-19**|**GD-VDM: Generated Depth for better Diffusion-based Video Generation**|Ariel Lapid et.al.|[2306.11173](http://arxiv.org/abs/2306.11173)|**[link](https://github.com/lapid92/gd-vdm)**|
 |**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
 |**2023-06-08**|**1st Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Tao Zhang et.al.|[2306.04091](http://arxiv.org/abs/2306.04091)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
