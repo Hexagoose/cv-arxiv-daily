@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
+|**2023-06-22**|**Lifted TASEP: a Bethe ansatz integrable paradigm for non-reversible Markov chains**|Fabian H. L. Essler et.al.|[2306.13059](http://arxiv.org/abs/2306.13059)|null|
+|**2023-06-22**|**Enhancing ReaxFF for Molecular Dynamics Simulations of Lithium-Ion Batteries: An interactive reparameterization protocol**|Paolo De Angelis et.al.|[2306.13027](http://arxiv.org/abs/2306.13027)|null|
+|**2023-06-22**|**Revisiting Maxwell-Smoluchowski theory: low surface roughness in straight channels**|Timothy Chumley et.al.|[2306.13018](http://arxiv.org/abs/2306.13018)|null|
+|**2023-06-22**|**Spatially Resolved Kinematics of Extraplanar Diffuse Ionized Gas in NGC $\,$3511 and NGC$\,$ 3513**|Hanjue Zhu et.al.|[2306.13012](http://arxiv.org/abs/2306.13012)|null|
+|**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983](http://arxiv.org/abs/2306.12983)|null|
+|**2023-06-22**|**Single-file transport of binary hard-sphere mixtures through periodic potentials**|David Voráč et.al.|[2306.12979](http://arxiv.org/abs/2306.12979)|null|
+|**2023-06-22**|**On the nature of the two-positron bond: Evidence for a novel bond type**|Mohammad Goli et.al.|[2306.12899](http://arxiv.org/abs/2306.12899)|null|
+|**2023-06-22**|**Wind Noise Reduction with a Diffusion-based Stochastic Regeneration Model**|Jean-Marie Lemercier et.al.|[2306.12867](http://arxiv.org/abs/2306.12867)|null|
+|**2023-06-22**|**Stress-induced Artificial neuron spiking in Diffusive memristors**|Debi Pattnaik et.al.|[2306.12853](http://arxiv.org/abs/2306.12853)|null|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422](http://arxiv.org/abs/2306.12422)|null|
 |**2023-06-21**|**Gradient Flow of the Sinai-Ruelle-Bowen Entropy**|Miaohua Jiang et.al.|[2306.12401](http://arxiv.org/abs/2306.12401)|null|
 |**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393](http://arxiv.org/abs/2306.12393)|null|
@@ -177,6 +187,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
+|**2023-06-22**|**DreamEdit: Subject-driven Image Editing**|Tianle Li et.al.|[2306.12624](http://arxiv.org/abs/2306.12624)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422](http://arxiv.org/abs/2306.12422)|null|
 |**2023-06-21**|**Annotating Ambiguous Images: General Annotation Strategy for Image Classification with Real-World Biomedical Validation on Vertebral Fracture Diagnosis**|Lars Schmarje et.al.|[2306.12189](http://arxiv.org/abs/2306.12189)|null|
