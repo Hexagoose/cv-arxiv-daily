@@ -216,7 +216,7 @@ layout: default
 |**2023-06-15**|**1st Solution Places for CVPR 2023 UG $^{\textbf{2}}$ + Challenge Track 2.1-Text Recognition through Atmospheric Turbulence**|Shengqi Xu et.al.|[2306.08963](http://arxiv.org/abs/2306.08963)|null|
 |**2023-06-15**|**Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment**|Royi Rassin et.al.|[2306.08877](http://arxiv.org/abs/2306.08877)|**[link](https://github.com/royira/syntax-guided-generation)**|
 |**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
-|**2023-06-14**|**Norm-guided latent space exploration for text-to-image generation**|Dvir Samuel et.al.|[2306.08687](http://arxiv.org/abs/2306.08687)|null|
+|**2023-06-14**|**Norm-guided latent space exploration for text-to-image generation**|Dvir Samuel et.al.|[2306.08687](http://arxiv.org/abs/2306.08687)|**[link](https://github.com/dvirsamuel/SeedSelect)**|
 |**2023-06-14**|**Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis**|Zhiyu Jin et.al.|[2306.08645](http://arxiv.org/abs/2306.08645)|null|
 |**2023-06-14**|**GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image**|Mingjian Zhu et.al.|[2306.08571](http://arxiv.org/abs/2306.08571)|**[link](https://github.com/andrew-zhu/genimage)**|
 |**2023-06-13**|**Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis**|Yihan Ma et.al.|[2306.07754](http://arxiv.org/abs/2306.07754)|null|
