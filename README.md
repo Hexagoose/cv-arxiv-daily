@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**Vorticity and level-set variations of invariant current bound steady-state dissipation**|Hao De et.al.|[2306.13647](http://arxiv.org/abs/2306.13647)|null|
+|**2023-06-23**|**Fast Macroscopic Forcing Method**|Spencer H. Bryngelson et.al.|[2306.13625](http://arxiv.org/abs/2306.13625)|**[link](https://github.com/comp-physics/fast-mfm)**|
+|**2023-06-23**|**Maximally local two-nucleon interactions at fourth order in delta-less chiral effective field theory**|Rahul Somasundaram et.al.|[2306.13579](http://arxiv.org/abs/2306.13579)|null|
+|**2023-06-23**|**Global properties of generic real-analytic nearly-integrable Hamiltonian systems**|Luca Biasco et.al.|[2306.13527](http://arxiv.org/abs/2306.13527)|null|
+|**2023-06-23**|**Universal Correlation Profiles in Single-File Systems**|Aurélien Grabsch et.al.|[2306.13516](http://arxiv.org/abs/2306.13516)|null|
+|**2023-06-23**|**Variable Scintillation Arcs of Millisecond Pulsars observed with the Large European Array for Pulsars**|R. A. Main et.al.|[2306.13462](http://arxiv.org/abs/2306.13462)|null|
+|**2023-06-23**|**DreamEditor: Text-Driven 3D Scene Editing with Neural Fields**|Jingyu Zhuang et.al.|[2306.13455](http://arxiv.org/abs/2306.13455)|null|
+|**2023-06-23**|**Evolution of crystalline thin films by evaporation and condensation in three dimensions**|Paolo Piovano et.al.|[2306.13432](http://arxiv.org/abs/2306.13432)|null|
+|**2023-06-23**|**Correlation energy of the spin-polarized electron liquid by quantum Monte Carlo**|Sam Azadi et.al.|[2306.13426](http://arxiv.org/abs/2306.13426)|null|
+|**2023-06-23**|**Hypocoercivity for infinite-dimensional non-linear degenerate stochastic differential equations with multiplicative noise**|Alexander Bertram et.al.|[2306.13402](http://arxiv.org/abs/2306.13402)|null|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Lifted TASEP: a Bethe ansatz integrable paradigm for non-reversible Markov chains**|Fabian H. L. Essler et.al.|[2306.13059](http://arxiv.org/abs/2306.13059)|null|
 |**2023-06-22**|**Enhancing ReaxFF for Molecular Dynamics Simulations of Lithium-Ion Batteries: An interactive reparameterization protocol**|Paolo De Angelis et.al.|[2306.13027](http://arxiv.org/abs/2306.13027)|**[link](https://github.com/paolodeangelis/enhancing_reaxff_dft_database)**|
@@ -197,6 +207,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**A New Paradigm for Generative Adversarial Networks based on Randomized Decision Rules**|Sehwan Kim et.al.|[2306.13641](http://arxiv.org/abs/2306.13641)|**[link](https://github.com/sehwankimstat/ebgan)**|
+|**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|null|
+|**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210](http://arxiv.org/abs/2306.13210)|null|
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**DreamEdit: Subject-driven Image Editing**|Tianle Li et.al.|[2306.12624](http://arxiv.org/abs/2306.12624)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
@@ -295,6 +308,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491](http://arxiv.org/abs/2306.13491)|null|
 |**2023-06-19**|**GD-VDM: Generated Depth for better Diffusion-based Video Generation**|Ariel Lapid et.al.|[2306.11173](http://arxiv.org/abs/2306.11173)|**[link](https://github.com/lapid92/gd-vdm)**|
 |**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
