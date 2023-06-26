@@ -66,7 +66,7 @@
 |**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|**[link](https://github.com/rafaelnh/camcan-dmri-study)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
 |**2023-06-16**|**Density and current statistics in boundary-driven monitored fermionic chains**|Xhek Turkeshi et.al.|[2306.09893](http://arxiv.org/abs/2306.09893)|null|
-|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-06-16**|**AvatarBooth: High-Quality and Customizable 3D Human Avatar Generation**|Yifei Zeng et.al.|[2306.09864](http://arxiv.org/abs/2306.09864)|null|
 |**2023-06-16**|**High-order finite-volume integration schemes for subsonic magnetohydrodynamics**|Jean-Mathieu Teissier et.al.|[2306.09856](http://arxiv.org/abs/2306.09856)|null|
 |**2023-06-16**|**Semi-analytical estimates for the chaotic diffusion in the Second Fundamental Model of Resonance. Application to Earth's navigation satellites**|Edoardo Legnaro et.al.|[2306.09847](http://arxiv.org/abs/2306.09847)|null|
@@ -231,7 +231,7 @@
 |**2023-06-19**|**Conditional Text Image Generation with Diffusion Models**|Yuanzhi Zhu et.al.|[2306.10804](http://arxiv.org/abs/2306.10804)|null|
 |**2023-06-16**|**MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing**|Kai Zhang et.al.|[2306.10012](http://arxiv.org/abs/2306.10012)|**[link](https://github.com/osu-nlp-group/magicbrush)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
-|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
+|**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|**[link](https://github.com/energyattention/energy-based-crossattention)**|
 |**2023-06-15**|**Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis**|Xiaoshi Wu et.al.|[2306.09341](http://arxiv.org/abs/2306.09341)|**[link](https://github.com/tgxs002/hpsv2)**|
 |**2023-06-15**|**DreamHuman: Animatable 3D Avatars from Text**|Nikos Kolotouros et.al.|[2306.09329](http://arxiv.org/abs/2306.09329)|null|
 |**2023-06-15**|**Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter**|Satoshi Kosugi et.al.|[2306.09321](http://arxiv.org/abs/2306.09321)|**[link](https://github.com/satoshi-kosugi/crowd-powered)**|
