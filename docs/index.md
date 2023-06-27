@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891](http://arxiv.org/abs/2306.14891)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
+|**2023-06-26**|**Molecular gas distribution and CO-to-H2 conversion factors in CO-faint low-metallicity dwarf galaxies**|L. Ramambason et.al.|[2306.14881](http://arxiv.org/abs/2306.14881)|null|
+|**2023-06-26**|**Restart Sampling for Improving Generative Processes**|Yilun Xu et.al.|[2306.14878](http://arxiv.org/abs/2306.14878)|**[link](https://github.com/newbeeer/diffusion_restart_sampling)**|
+|**2023-06-26**|**On planar Brownian motion singularly tilted through a point potential**|Jeremy Clark et.al.|[2306.14849](http://arxiv.org/abs/2306.14849)|null|
+|**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846](http://arxiv.org/abs/2306.14846)|null|
+|**2023-06-26**|**Cuplength estimates for time-periodic measures of Hamiltonian systems with diffusion**|Oliver Fabert et.al.|[2306.14819](http://arxiv.org/abs/2306.14819)|null|
+|**2023-06-26**|**PECVD and PEALD on polymer substrates (Part II): Understanding and tuning of barrier and membrane properties of thin films**|Teresa de los Arcos et.al.|[2306.14797](http://arxiv.org/abs/2306.14797)|null|
+|**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
+|**2023-06-26**|**Impact of strain and surface reconstruction on long-range diffusion of Ge atoms on Ge(111) surface**|R. A. Zhachuk et.al.|[2306.14763](http://arxiv.org/abs/2306.14763)|null|
+|**2023-06-26**|**The temporal evolution of gas accretion onto the discs of simulated Milky Way-mass galaxies**|F. G. Iza et.al.|[2306.14760](http://arxiv.org/abs/2306.14760)|null|
 |**2023-06-23**|**Vorticity and level-set variations of invariant current bound steady-state dissipation**|Hao De et.al.|[2306.13647](http://arxiv.org/abs/2306.13647)|null|
 |**2023-06-23**|**Fast Macroscopic Forcing Method**|Spencer H. Bryngelson et.al.|[2306.13625](http://arxiv.org/abs/2306.13625)|**[link](https://github.com/comp-physics/fast-mfm)**|
 |**2023-06-23**|**Maximally local two-nucleon interactions at fourth order in delta-less chiral effective field theory**|Rahul Somasundaram et.al.|[2306.13579](http://arxiv.org/abs/2306.13579)|null|
@@ -169,6 +179,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**MotionGPT: Human Motion as a Foreign Language**|Biao Jiang et.al.|[2306.14795](http://arxiv.org/abs/2306.14795)|**[link](https://github.com/openmotionlab/motiongpt)**|
 |**2023-06-21**|**Computationally efficient human body modelling for real time motion comfort assessment**|Raj Desai et.al.|[2306.12279](http://arxiv.org/abs/2306.12279)|null|
 |**2023-06-21**|**Evaluating Adversarial Robustness of Convolution-based Human Motion Prediction**|Chengxu Duan et.al.|[2306.11990](http://arxiv.org/abs/2306.11990)|null|
 |**2023-06-20**|**OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**|Cheng Tan et.al.|[2306.11249](http://arxiv.org/abs/2306.11249)|**[link](https://github.com/chengtan9907/OpenSTL)**|
@@ -197,6 +208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891](http://arxiv.org/abs/2306.14891)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
+|**2023-06-26**|**A Simple and Effective Baseline for Attentional Generative Adversarial Networks**|Mingyu Jin et.al.|[2306.14708](http://arxiv.org/abs/2306.14708)|**[link](https://github.com/jmyissb/SEAttnGAN)**|
+|**2023-06-26**|**Localized Text-to-Image Generation for Free via Cross Attention Control**|Yutong He et.al.|[2306.14636](http://arxiv.org/abs/2306.14636)|null|
+|**2023-06-26**|**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis**|Aishwarya Agarwal et.al.|[2306.14544](http://arxiv.org/abs/2306.14544)|null|
+|**2023-06-26**|**Progressive Energy-Based Cooperative Learning for Multi-Domain Image-to-Image Translation**|Weinan Song et.al.|[2306.14448](http://arxiv.org/abs/2306.14448)|null|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
+|**2023-06-26**|**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models**|Luozhou Wang et.al.|[2306.14408](http://arxiv.org/abs/2306.14408)|null|
+|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
+|**2023-06-25**|**DomainStudio: Fine-Tuning Diffusion Models for Domain-Driven Image Generation using Limited Data**|Jingyuan Zhu et.al.|[2306.14153](http://arxiv.org/abs/2306.14153)|null|
+|**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**A New Paradigm for Generative Adversarial Networks based on Randomized Decision Rules**|Sehwan Kim et.al.|[2306.13641](http://arxiv.org/abs/2306.13641)|**[link](https://github.com/sehwankimstat/ebgan)**|
 |**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|null|
 |**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210](http://arxiv.org/abs/2306.13210)|null|
