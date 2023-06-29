@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
+|**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-27**|**Stabilizing ultrathin Silver (Ag) films on different substrates**|Allamula Ashok et.al.|[2306.15575](http://arxiv.org/abs/2306.15575)|null|
 |**2023-06-27**|**Transmission problems: regularity theory, interfaces and beyond**|Vincenzo Bianca et.al.|[2306.15570](http://arxiv.org/abs/2306.15570)|null|
 |**2023-06-27**|**Weak and parabolic solutions of advection-diffusion equations with rough velocity field**|Paolo Bonicatto et.al.|[2306.15529](http://arxiv.org/abs/2306.15529)|null|
