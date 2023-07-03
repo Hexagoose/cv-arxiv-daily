@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -241,7 +241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-29**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|null|
+|**2023-06-30**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|null|
 |**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
 |**2023-06-29**|**CLIPAG: Towards Generator-Free Text-to-Image Generation**|Roy Ganz et.al.|[2306.16805](http://arxiv.org/abs/2306.16805)|null|
 |**2023-06-29**|**NaturalInversion: Data-Free Image Synthesis Improving Real-World Consistency**|Yujin Kim et.al.|[2306.16661](http://arxiv.org/abs/2306.16661)|**[link](https://github.com/kdst-team/naturalinversion)**|
