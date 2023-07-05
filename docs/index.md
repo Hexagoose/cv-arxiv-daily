@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.04
+## Updated on 2023.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -256,7 +256,7 @@ layout: default
 |**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775](http://arxiv.org/abs/2306.17775)|null|
 |**2023-06-30**|**Counting Guidance for High Fidelity Text-to-Image Synthesis**|Wonjun Kang et.al.|[2306.17567](http://arxiv.org/abs/2306.17567)|null|
 |**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560](http://arxiv.org/abs/2306.17560)|null|
-|**2023-06-30**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|null|
+|**2023-06-30**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|**[link](https://github.com/bbaaii/DreamDiffusion)**|
 |**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
 |**2023-06-29**|**CLIPAG: Towards Generator-Free Text-to-Image Generation**|Roy Ganz et.al.|[2306.16805](http://arxiv.org/abs/2306.16805)|null|
 |**2023-06-29**|**NaturalInversion: Data-Free Image Synthesis Improving Real-World Consistency**|Yujin Kim et.al.|[2306.16661](http://arxiv.org/abs/2306.16661)|**[link](https://github.com/kdst-team/naturalinversion)**|
