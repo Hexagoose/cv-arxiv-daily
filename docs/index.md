@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727](http://arxiv.org/abs/2307.03727)|null|
+|**2023-07-07**|**The bright blue side of the night sky: Spectroscopic survey of bright and hot (pre-) white dwarfs**|Nicole Reindl et.al.|[2307.03721](http://arxiv.org/abs/2307.03721)|null|
+|**2023-07-07**|**Three-dimensional Vorticity Effects on Extinction Behavior of Laminar Flamelets**|Wes Hellwig et.al.|[2307.03695](http://arxiv.org/abs/2307.03695)|null|
+|**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
+|**2023-07-07**|**Robust estimation for ergodic Markovian processes**|Alexandre Lecestre et.al.|[2307.03666](http://arxiv.org/abs/2307.03666)|null|
+|**2023-07-07**|**Spreading, flattening and logarithmic lag for reaction-diffusion equations in R^N: old and new results**|François Hamel et.al.|[2307.03555](http://arxiv.org/abs/2307.03555)|null|
+|**2023-07-07**|**Embedded corrector problems for homogenization in linear elasticity**|Virginie Ehrlacher et.al.|[2307.03537](http://arxiv.org/abs/2307.03537)|null|
+|**2023-07-07**|**Simulation and experiment of gas diffusion in a granular bed**|Carsten Güttler et.al.|[2307.03514](http://arxiv.org/abs/2307.03514)|null|
+|**2023-07-07**|**Probing star clusters as cosmic ray factories**|Stefano Menchiari et.al.|[2307.03477](http://arxiv.org/abs/2307.03477)|null|
+|**2023-07-07**|**Synthesis of a mesoscale ordered 2D-conjugated polymer with semiconducting properties**|Gianluca Galeotti et.al.|[2307.03433](http://arxiv.org/abs/2307.03433)|null|
 |**2023-07-07**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177](http://arxiv.org/abs/2307.03177)|null|
 |**2023-07-06**|**Trend to equilibrium for flows with random diffusion**|Shrey Aryan et.al.|[2307.03147](http://arxiv.org/abs/2307.03147)|null|
 |**2023-07-06**|**Patterning of nonlocal transport models in biology: the impact of spatial dimension**|Thomas Jun Jewell et.al.|[2307.03117](http://arxiv.org/abs/2307.03117)|null|
@@ -249,6 +259,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**DE-TGN: Uncertainty-Aware Human Motion Forecasting using Deep Ensembles**|Kareem A. Eltouny et.al.|[2307.03610](http://arxiv.org/abs/2307.03610)|null|
 |**2023-07-04**|**Physics-based Motion Retargeting from Sparse Inputs**|Daniele Reda et.al.|[2307.01938](http://arxiv.org/abs/2307.01938)|null|
 |**2023-07-03**|**Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset**|Jing Lin et.al.|[2307.00818](http://arxiv.org/abs/2307.00818)|**[link](https://github.com/idea-research/motion-x)**|
 |**2023-06-30**|**The Bridge between Xsens Motion-Capture and Robot Operating System (ROS): Enabling Robots with Online 3D Human Motion Tracking**|Mattia Leonori et.al.|[2306.17738](http://arxiv.org/abs/2306.17738)|**[link](https://github.com/hrii-iit/xsens_mvn_ros)**|
@@ -284,6 +295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971](http://arxiv.org/abs/2307.02971)|null|
 |**2023-07-06**|**Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback**|TaeHo Yoon et.al.|[2307.02770](http://arxiv.org/abs/2307.02770)|**[link](https://github.com/tetrzim/diffusion-human-feedback)**|
 |**2023-07-05**|**Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation**|Sébastien Lachapelle et.al.|[2307.02598](http://arxiv.org/abs/2307.02598)|**[link](https://github.com/divyat09/additive_decoder_extrapolation)**|
