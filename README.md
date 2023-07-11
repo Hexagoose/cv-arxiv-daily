@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751](http://arxiv.org/abs/2307.04751)|null|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749](http://arxiv.org/abs/2307.04749)|null|
+|**2023-07-10**|**Constraining Electromagnetic Signals from Black Holes with Hair**|Nicole R. Crumpler et.al.|[2307.04737](http://arxiv.org/abs/2307.04737)|null|
+|**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
+|**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725](http://arxiv.org/abs/2307.04725)|null|
+|**2023-07-10**|**Global solutions versus finite time blow-up for the fast diffusion equation with spatially inhomogeneous source**|Razvan Gabriel Iagar et.al.|[2307.04714](http://arxiv.org/abs/2307.04714)|null|
+|**2023-07-10**|**Machine learning potentials with Iterative Boltzmann Inversion: training to experiment**|Sakib Matin et.al.|[2307.04712](http://arxiv.org/abs/2307.04712)|null|
+|**2023-07-10**|**Encapsulation Structure and Dynamics in Hypergraphs**|Timothy LaRock et.al.|[2307.04613](http://arxiv.org/abs/2307.04613)|null|
+|**2023-07-10**|**Timbre transfer using image-to-image denoising diffusion models**|Luca Comanducci et.al.|[2307.04586](http://arxiv.org/abs/2307.04586)|null|
+|**2023-07-10**|**Homogenization of a reaction-diffusion problem with large nonlinear drift and Robin boundary data**|Vishnu Raveendran et.al.|[2307.04567](http://arxiv.org/abs/2307.04567)|null|
 |**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727](http://arxiv.org/abs/2307.03727)|null|
 |**2023-07-07**|**The bright blue side of the night sky: Spectroscopic survey of bright and hot (pre-) white dwarfs**|Nicole Reindl et.al.|[2307.03721](http://arxiv.org/abs/2307.03721)|null|
 |**2023-07-07**|**Three-dimensional Vorticity Effects on Extinction Behavior of Laminar Flamelets**|Wes Hellwig et.al.|[2307.03695](http://arxiv.org/abs/2307.03695)|null|
@@ -305,6 +315,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749](http://arxiv.org/abs/2307.04749)|null|
+|**2023-07-10**|**FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing**|Pengyang Ling et.al.|[2307.04684](http://arxiv.org/abs/2307.04684)|**[link](https://github.com/lpengyang/freedrag)**|
+|**2023-07-10**|**K-Space-Aware Cross-Modality Score for Synthesized Neuroimage Quality Assessment**|Jinbao Wang et.al.|[2307.04296](http://arxiv.org/abs/2307.04296)|null|
+|**2023-07-09**|**DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer**|Dan Ruta et.al.|[2307.04157](http://arxiv.org/abs/2307.04157)|null|
+|**2023-07-09**|**Score-based Conditional Generation with Fewer Labeled Data by Self-calibrating Classifier Guidance**|Paul Kuo-Ming Huang et.al.|[2307.04081](http://arxiv.org/abs/2307.04081)|null|
+|**2023-07-08**|**Measuring the Success of Diffusion Models at Imitating Human Artists**|Stephen Casper et.al.|[2307.04028](http://arxiv.org/abs/2307.04028)|null|
+|**2023-07-08**|**HUMS2023 Data Challenge Result Submission**|Dhiraj Neupane et.al.|[2307.03871](http://arxiv.org/abs/2307.03871)|null|
+|**2023-07-07**|**Synthesizing Forestry Images Conditioned on Plant Phenotype Using a Generative Adversarial Network**|Debasmita Pal et.al.|[2307.03789](http://arxiv.org/abs/2307.03789)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971](http://arxiv.org/abs/2307.02971)|null|
 |**2023-07-06**|**Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback**|TaeHo Yoon et.al.|[2307.02770](http://arxiv.org/abs/2307.02770)|**[link](https://github.com/tetrzim/diffusion-human-feedback)**|
