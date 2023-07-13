@@ -41,7 +41,7 @@ layout: default
 |**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725](http://arxiv.org/abs/2307.04725)|**[link](https://github.com/guoyww/animatediff)**|
 |**2023-07-10**|**Global solutions versus finite time blow-up for the fast diffusion equation with spatially inhomogeneous source**|Razvan Gabriel Iagar et.al.|[2307.04714](http://arxiv.org/abs/2307.04714)|null|
 |**2023-07-10**|**Machine learning potentials with Iterative Boltzmann Inversion: training to experiment**|Sakib Matin et.al.|[2307.04712](http://arxiv.org/abs/2307.04712)|null|
-|**2023-07-10**|**Encapsulation Structure and Dynamics in Hypergraphs**|Timothy LaRock et.al.|[2307.04613](http://arxiv.org/abs/2307.04613)|null|
+|**2023-07-10**|**Encapsulation Structure and Dynamics in Hypergraphs**|Timothy LaRock et.al.|[2307.04613](http://arxiv.org/abs/2307.04613)|**[link](https://github.com/tlarock/encapsulation-dynamics)**|
 |**2023-07-10**|**Timbre transfer using image-to-image denoising diffusion models**|Luca Comanducci et.al.|[2307.04586](http://arxiv.org/abs/2307.04586)|null|
 |**2023-07-10**|**Homogenization of a reaction-diffusion problem with large nonlinear drift and Robin boundary data**|Vishnu Raveendran et.al.|[2307.04567](http://arxiv.org/abs/2307.04567)|null|
 |**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727](http://arxiv.org/abs/2307.03727)|null|
