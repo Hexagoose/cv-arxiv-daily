@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Reconstruction of inflationary scenarios in non-conservative unimodular gravity**|M. P. Piccirilli et.al.|[2307.06329](http://arxiv.org/abs/2307.06329)|null|
+|**2023-07-12**|**The Spatial and Emission Properties of the Large [O III] Emission Nebula Near M31**|Robert A. Fesen et.al.|[2307.06308](http://arxiv.org/abs/2307.06308)|null|
+|**2023-07-12**|**First Hitting Time of a One-Dimensional Levy Flight to Small Targets**|Daniel Gomez et.al.|[2307.06274](http://arxiv.org/abs/2307.06274)|null|
+|**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
+|**2023-07-12**|**Large deviations of the stochastic area for linear diffusions**|Johan du Buisson et.al.|[2307.06245](http://arxiv.org/abs/2307.06245)|null|
+|**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244](http://arxiv.org/abs/2307.06244)|null|
+|**2023-07-12**|**Autonomous Ratcheting by Stochastic Resetting**|Pulak K. Ghosh et.al.|[2307.06202](http://arxiv.org/abs/2307.06202)|null|
+|**2023-07-12**|**Functional light diffusers based on hybrid CsPbBr $_3$/SiO$_2$ aero-framework structures for laser light illumination and conversion**|Lena M. Saure et.al.|[2307.06197](http://arxiv.org/abs/2307.06197)|null|
+|**2023-07-12**|**Biofilm.jl: a fast solver for one-dimensional biofilm chemistry and ecology**|Mark Owkes et.al.|[2307.06153](http://arxiv.org/abs/2307.06153)|null|
+|**2023-07-12**|**Stationary state of harmonic chains driven by boundary resetting**|Ritwick Sarkar et.al.|[2307.06127](http://arxiv.org/abs/2307.06127)|null|
 |**2023-07-11**|**Wiedemann-Franz law in graphene in the presence of a weak magnetic field**|Yi-Ting Tu et.al.|[2307.05477](http://arxiv.org/abs/2307.05477)|null|
 |**2023-07-11**|**Escape dynamics of a self-propelled nanorod from circular confinement with narrow openings**|Praveen Kumar et.al.|[2307.05460](http://arxiv.org/abs/2307.05460)|null|
 |**2023-07-11**|**Non-parametric estimation of the reaction term in semi-linear SPDEs with spatial ergodicity**|Sascha Gaudlitz et.al.|[2307.05457](http://arxiv.org/abs/2307.05457)|null|
@@ -315,6 +325,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307](http://arxiv.org/abs/2307.06307)|null|
+|**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
+|**2023-07-12**|**CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification**|Zhenrong Shen et.al.|[2307.06182](http://arxiv.org/abs/2307.06182)|**[link](https://github.com/zhenrongshen/cellgan)**|
+|**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
+|**2023-07-12**|**DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation**|Yipeng Leng et.al.|[2307.05899](http://arxiv.org/abs/2307.05899)|null|
 |**2023-07-11**|**Automatic Generation of Semantic Parts for Face Image Synthesis**|Tomaso Fontanini et.al.|[2307.05317](http://arxiv.org/abs/2307.05317)|null|
 |**2023-07-12**|**Precise Image Generation on Current Noisy Quantum Computing Devices**|Florian Rehm et.al.|[2307.05253](http://arxiv.org/abs/2307.05253)|null|
 |**2023-07-11**|**DRMC: A Generalist Model with Dynamic Routing for Multi-Center PET Image Synthesis**|Zhiwen Yang et.al.|[2307.05249](http://arxiv.org/abs/2307.05249)|null|
