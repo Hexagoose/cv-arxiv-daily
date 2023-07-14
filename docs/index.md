@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models**|Nataniel Ruiz et.al.|[2307.06949](http://arxiv.org/abs/2307.06949)|null|
+|**2023-07-13**|**A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms**|Chockalingam Senthilnathan et.al.|[2307.06927](http://arxiv.org/abs/2307.06927)|null|
+|**2023-07-13**|**Quartet currents in a biased three-terminal diffusive Josephson junction**|T. Jonckheere et.al.|[2307.06839](http://arxiv.org/abs/2307.06839)|null|
+|**2023-07-13**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
+|**2023-07-13**|**Boundary stabilization of one-dimensional cross-diffusion systems in a moving domain: linearized system**|Jean Cauvin-Vila et.al.|[2307.06830](http://arxiv.org/abs/2307.06830)|null|
+|**2023-07-13**|**Current status and desired accuracy of the isotopic production cross-sections relevant to astrophysics of cosmic rays II. Fluorine to Silicon (and updated LiBeB)**|Yoann Génolini et.al.|[2307.06798](http://arxiv.org/abs/2307.06798)|null|
+|**2023-07-13**|**Current fluctuations in a partially asymmetric simple exclusion process with a defect particle**|Ivan Lobaskin et.al.|[2307.06770](http://arxiv.org/abs/2307.06770)|null|
+|**2023-07-13**|**Hydrodynamic magnetotransport in two-dimensional electron systems with macroscopic obstacles**|P. S. Alekseev et.al.|[2307.06705](http://arxiv.org/abs/2307.06705)|null|
+|**2023-07-13**|**Aharonov-Bohm effect as a diffusion phenomenon**|Charalampos Antonakos et.al.|[2307.06683](http://arxiv.org/abs/2307.06683)|null|
+|**2023-07-13**|**Structural pathway for nucleation and growth of topologically close-packed phase from parent hexagonal crystal**|Junyuan Bai et.al.|[2307.06676](http://arxiv.org/abs/2307.06676)|null|
 |**2023-07-12**|**Reconstruction of inflationary scenarios in non-conservative unimodular gravity**|M. P. Piccirilli et.al.|[2307.06329](http://arxiv.org/abs/2307.06329)|null|
 |**2023-07-12**|**The Spatial and Emission Properties of the Large [O III] Emission Nebula Near M31**|Robert A. Fesen et.al.|[2307.06308](http://arxiv.org/abs/2307.06308)|null|
 |**2023-07-12**|**First Hitting Time of a One-Dimensional Levy Flight to Small Targets**|Daniel Gomez et.al.|[2307.06274](http://arxiv.org/abs/2307.06274)|null|
@@ -325,6 +335,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**|Moab Arar et.al.|[2307.06925](http://arxiv.org/abs/2307.06925)|null|
+|**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
+|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350](http://arxiv.org/abs/2307.06350)|null|
 |**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307](http://arxiv.org/abs/2307.06307)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
 |**2023-07-12**|**CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification**|Zhenrong Shen et.al.|[2307.06182](http://arxiv.org/abs/2307.06182)|**[link](https://github.com/zhenrongshen/cellgan)**|
@@ -486,6 +499,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|null|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166](http://arxiv.org/abs/2307.03166)|null|
 |**2023-06-30**|**DisCo: Disentangled Control for Referring Human Dance Generation in Real World**|Tan Wang et.al.|[2307.00040](http://arxiv.org/abs/2307.00040)|**[link](https://github.com/Wangt-CN/DisCo)**|
 |**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491](http://arxiv.org/abs/2306.13491)|null|
