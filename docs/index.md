@@ -32,7 +32,7 @@ layout: default
 |**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244](http://arxiv.org/abs/2307.06244)|null|
 |**2023-07-12**|**Autonomous Ratcheting by Stochastic Resetting**|Pulak K. Ghosh et.al.|[2307.06202](http://arxiv.org/abs/2307.06202)|null|
 |**2023-07-12**|**Functional light diffusers based on hybrid CsPbBr $_3$/SiO$_2$ aero-framework structures for laser light illumination and conversion**|Lena M. Saure et.al.|[2307.06197](http://arxiv.org/abs/2307.06197)|null|
-|**2023-07-12**|**Biofilm.jl: a fast solver for one-dimensional biofilm chemistry and ecology**|Mark Owkes et.al.|[2307.06153](http://arxiv.org/abs/2307.06153)|null|
+|**2023-07-12**|**Biofilm.jl: a fast solver for one-dimensional biofilm chemistry and ecology**|Mark Owkes et.al.|[2307.06153](http://arxiv.org/abs/2307.06153)|**[link](https://github.com/markowkes/biofilm.jl)**|
 |**2023-07-12**|**Stationary state of harmonic chains driven by boundary resetting**|Ritwick Sarkar et.al.|[2307.06127](http://arxiv.org/abs/2307.06127)|null|
 |**2023-07-11**|**Wiedemann-Franz law in graphene in the presence of a weak magnetic field**|Yi-Ting Tu et.al.|[2307.05477](http://arxiv.org/abs/2307.05477)|null|
 |**2023-07-11**|**Escape dynamics of a self-propelled nanorod from circular confinement with narrow openings**|Praveen Kumar et.al.|[2307.05460](http://arxiv.org/abs/2307.05460)|null|
