@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
+|**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
+|**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585](http://arxiv.org/abs/2307.08585)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|null|
+|**2023-07-17**|**How far does turbulence spread?**|Alexandros Alexakis et.al.|[2307.08469](http://arxiv.org/abs/2307.08469)|null|
+|**2023-07-17**|**Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies**|Naomi M. McClure-Griffiths et.al.|[2307.08464](http://arxiv.org/abs/2307.08464)|null|
+|**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448](http://arxiv.org/abs/2307.08448)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
+|**2023-07-17**|**An Indefensible Attack: Label-Only Model Inversion via Conditional Diffusion Model**|Rongke Liu et.al.|[2307.08424](http://arxiv.org/abs/2307.08424)|null|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511](http://arxiv.org/abs/2307.07511)|null|
 |**2023-07-14**|**DreamTeacher: Pretraining Image Backbones with Deep Generative Models**|Daiqing Li et.al.|[2307.07487](http://arxiv.org/abs/2307.07487)|null|
 |**2023-07-14**|**Unveiling the nature of galactic TeV sources with IceCube results**|Vittoria Vecchiotti et.al.|[2307.07451](http://arxiv.org/abs/2307.07451)|null|
@@ -356,6 +366,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**Image Captions are Natural Prompts for Text-to-Image Models**|Shiye Lei et.al.|[2307.08526](http://arxiv.org/abs/2307.08526)|null|
+|**2023-07-17**|**CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**|Ahmet Canberk Baykal et.al.|[2307.08397](http://arxiv.org/abs/2307.08397)|null|
+|**2023-07-17**|**Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data**|Kai Katsumata et.al.|[2307.08319](http://arxiv.org/abs/2307.08319)|null|
+|**2023-07-17**|**Manifold-Guided Sampling in Diffusion Models for Unbiased Image Generation**|Xingzhe Su et.al.|[2307.08199](http://arxiv.org/abs/2307.08199)|null|
+|**2023-07-16**|**Polarization Multi-Image Synthesis with Birefringent Metasurfaces**|Dean Hazineh et.al.|[2307.08106](http://arxiv.org/abs/2307.08106)|**[link](https://github.com/deanhazineh/multi-image-synthesis)**|
+|**2023-07-16**|**Planting a SEED of Vision in Large Language Model**|Yuying Ge et.al.|[2307.08041](http://arxiv.org/abs/2307.08041)|**[link](https://github.com/ailab-cvc/seed)**|
+|**2023-07-15**|**Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?**|Jialu Gao et.al.|[2307.07837](http://arxiv.org/abs/2307.07837)|null|
+|**2023-07-14**|**GenAssist: Making Image Generation Accessible**|Mina Huh et.al.|[2307.07589](http://arxiv.org/abs/2307.07589)|null|
 |**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454](http://arxiv.org/abs/2307.07454)|null|
 |**2023-07-13**|**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**|Moab Arar et.al.|[2307.06925](http://arxiv.org/abs/2307.06925)|null|
 |**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
@@ -523,6 +543,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691](http://arxiv.org/abs/2307.08691)|**[link](https://github.com/dao-ailab/flash-attention)**|
+|**2023-07-15**|**Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer**|Wing-Yin Yu et.al.|[2307.07754](http://arxiv.org/abs/2307.07754)|**[link](https://github.com/rocketappslab/bdmm)**|
+|**2023-07-15**|**INVE: Interactive Neural Video Editing**|Jiahui Huang et.al.|[2307.07663](http://arxiv.org/abs/2307.07663)|null|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|**[link](https://github.com/videocrafter/animate-a-story)**|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166](http://arxiv.org/abs/2307.03166)|null|
