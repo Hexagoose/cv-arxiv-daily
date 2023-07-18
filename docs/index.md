@@ -369,7 +369,7 @@ layout: default
 |**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454](http://arxiv.org/abs/2307.07454)|null|
 |**2023-07-13**|**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**|Moab Arar et.al.|[2307.06925](http://arxiv.org/abs/2307.06925)|null|
 |**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
-|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350](http://arxiv.org/abs/2307.06350)|null|
+|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350](http://arxiv.org/abs/2307.06350)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307](http://arxiv.org/abs/2307.06307)|null|
 |**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
 |**2023-07-12**|**CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification**|Zhenrong Shen et.al.|[2307.06182](http://arxiv.org/abs/2307.06182)|**[link](https://github.com/zhenrongshen/cellgan)**|
