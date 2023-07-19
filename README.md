@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|null|
+|**2023-07-18**|**The effect of pressure-anisotropy-driven kinetic instabilities on magnetic field amplification in galaxy clusters**|Y. Rappaz et.al.|[2307.09451](http://arxiv.org/abs/2307.09451)|null|
+|**2023-07-18**|**Vibrational dichroism of chiral valley phonons**|Yiming Pan et.al.|[2307.09280](http://arxiv.org/abs/2307.09280)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
+|**2023-07-18**|**Abnormal CO2 and H2O Diffusion in CALF-20(Zn) Metal-Organic Framework Angstropores**|Magnin Yann et.al.|[2307.09200](http://arxiv.org/abs/2307.09200)|null|
+|**2023-07-18**|**An approximate maximum likelihood estimator of drift parameters in a multidimensional diffusion model**|Miljenko Huzak et.al.|[2307.09199](http://arxiv.org/abs/2307.09199)|null|
+|**2023-07-18**|**Casimir-dissipation stabilized stochastic rotating shallow water equations on the sphere**|Werner Bauer et.al.|[2307.09194](http://arxiv.org/abs/2307.09194)|null|
+|**2023-07-18**|**Hunting for bumps in the diffuse high-energy neutrino flux**|Damiano F. G. Fiorillo et.al.|[2307.09170](http://arxiv.org/abs/2307.09170)|null|
+|**2023-07-18**|**Deciphering the radio-star formation correlation on kpc-scales III. Radio-dim and bright regions in spiral galaxies**|B. Vollmer et.al.|[2307.09154](http://arxiv.org/abs/2307.09154)|null|
+|**2023-07-18**|**Radiative energy loss of heavy quark through soft gluon emission in QGP**|Taesoo Song et.al.|[2307.09124](http://arxiv.org/abs/2307.09124)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|**[link](https://github.com/vinairesearch/lfm)**|
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
@@ -366,6 +376,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|null|
+|**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416](http://arxiv.org/abs/2307.09416)|null|
+|**2023-07-18**|**Plug the Leaks: Advancing Audio-driven Talking Face Generation by Preventing Unintended Information Flow**|Dogucan Yaman et.al.|[2307.09368](http://arxiv.org/abs/2307.09368)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
+|**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
+|**2023-07-18**|**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**|Yang Zhao et.al.|[2307.08996](http://arxiv.org/abs/2307.08996)|null|
+|**2023-07-18**|**Revisiting Latent Space of GAN Inversion for Real Image Editing**|Kai Katsumata et.al.|[2307.08995](http://arxiv.org/abs/2307.08995)|null|
+|**2023-07-18**|**PromptCrafter: Crafting Text-to-Image Prompt through Mixed-Initiative Dialogue with LLM**|Seungho Baek et.al.|[2307.08985](http://arxiv.org/abs/2307.08985)|null|
+|**2023-07-17**|**Harnessing the Power of AI based Image Generation Model DALLE 2 in Agricultural Settings**|Ranjan Sapkota et.al.|[2307.08789](http://arxiv.org/abs/2307.08789)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|**[link](https://github.com/vinairesearch/lfm)**|
 |**2023-07-17**|**Image Captions are Natural Prompts for Text-to-Image Models**|Shiye Lei et.al.|[2307.08526](http://arxiv.org/abs/2307.08526)|null|
