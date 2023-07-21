@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Discovery Forecasts of the Diffuse Ultra-High-Energy Neutrino Flux with IceCube-Gen2**|Victor B. Valera et.al.|[2307.11055](http://arxiv.org/abs/2307.11055)|null|
+|**2023-07-20**|**Hypergraph Diffusions and Resolvents for Norm-Based Hypergraph Laplacians**|Konstantinos Ameranis et.al.|[2307.11042](http://arxiv.org/abs/2307.11042)|null|
+|**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
+|**2023-07-20**|**On/off super-Brownian motion: Characterization, construction and long-term behaviour**|Jochen Blath et.al.|[2307.10968](http://arxiv.org/abs/2307.10968)|null|
+|**2023-07-20**|**Pathwise central limit theorem and moderate deviations via rough paths for SPDEs with multiplicative noise**|Emanuela Gussetti et.al.|[2307.10965](http://arxiv.org/abs/2307.10965)|null|
+|**2023-07-20**|**Change point estimation for a stochastic heat equation**|Markus Reiß et.al.|[2307.10960](http://arxiv.org/abs/2307.10960)|null|
+|**2023-07-20**|**Perpendicular separations of a binary mixture under van der Waals confinement**|Kui Lin et.al.|[2307.10939](http://arxiv.org/abs/2307.10939)|null|
+|**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911](http://arxiv.org/abs/2307.10911)|null|
+|**2023-07-20**|**Non-asymptotic statistical test of the diffusion coefficient of stochastic differential equations**|Anna Melnykova et.al.|[2307.10888](http://arxiv.org/abs/2307.10888)|null|
+|**2023-07-20**|**Energy-consistent discretization of viscous dissipation with application to natural convection flow**|Benjamin Sanderse et.al.|[2307.10874](http://arxiv.org/abs/2307.10874)|null|
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
@@ -339,6 +349,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Human Motion Generation: A Survey**|Wentao Zhu et.al.|[2307.10894](http://arxiv.org/abs/2307.10894)|null|
+|**2023-07-20**|**Predicting human motion intention for pHRI assistive control**|Paolo Franceschi et.al.|[2307.10743](http://arxiv.org/abs/2307.10743)|null|
+|**2023-07-20**|**Whole-Body Dynamic Telelocomotion: A Step-to-Step Dynamics Approach to Human Walking Reference Generation**|Guillermo Colin et.al.|[2307.10533](http://arxiv.org/abs/2307.10533)|null|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511](http://arxiv.org/abs/2307.07511)|null|
 |**2023-07-07**|**DE-TGN: Uncertainty-Aware Human Motion Forecasting using Deep Ensembles**|Kareem A. Eltouny et.al.|[2307.03610](http://arxiv.org/abs/2307.03610)|null|
 |**2023-07-04**|**Physics-based Motion Retargeting from Sparse Inputs**|Daniele Reda et.al.|[2307.01938](http://arxiv.org/abs/2307.01938)|null|
@@ -376,6 +389,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
+|**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
+|**2023-07-20**|**Divide & Bind Your Attention for Improved Generative Semantic Nursing**|Yumeng Li et.al.|[2307.10864](http://arxiv.org/abs/2307.10864)|null|
+|**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816](http://arxiv.org/abs/2307.10816)|**[link](https://github.com/sierkinhane/boxdiff)**|
+|**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776](http://arxiv.org/abs/2307.10776)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
 |**2023-07-19**|**Adversarial Latent Autoencoder with Self-Attention for Structural Image Synthesis**|Jiajie Fan et.al.|[2307.10166](http://arxiv.org/abs/2307.10166)|null|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Compressive Image Scanning Microscope**|Ajay Gunalan et.al.|[2307.09841](http://arxiv.org/abs/2307.09841)|null|
@@ -566,6 +585,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Learning and Evaluating Human Preferences for Conversational Head Generation**|Mohan Zhou et.al.|[2307.10636](http://arxiv.org/abs/2307.10636)|null|
+|**2023-07-19**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
 |**2023-07-20**|**Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**|Fa-Ting Hong et.al.|[2307.09906](http://arxiv.org/abs/2307.09906)|**[link](https://github.com/harlanhong/iccv2023-mcnet)**|
 |**2023-07-19**|**Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline**|Zhigang Chang et.al.|[2307.09821](http://arxiv.org/abs/2307.09821)|null|
 |**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691](http://arxiv.org/abs/2307.08691)|**[link](https://github.com/dao-ailab/flash-attention)**|
