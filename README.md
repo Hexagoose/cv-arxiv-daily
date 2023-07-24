@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Exact hydrodynamics and onset of phase separation for an active exclusion process**|James Mason et.al.|[2307.11673](http://arxiv.org/abs/2307.11673)|null|
+|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654](http://arxiv.org/abs/2307.11654)|null|
+|**2023-07-21**|**Stability of multi-component Israel-Stewart-Maxwell theory for charge diffusion**|Lorenzo Gavassino et.al.|[2307.11615](http://arxiv.org/abs/2307.11615)|null|
+|**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608](http://arxiv.org/abs/2307.11608)|null|
+|**2023-07-21**|**Mixbiotic society measures: Assessment of community well-going as living system**|Takeshi Kato et.al.|[2307.11594](http://arxiv.org/abs/2307.11594)|null|
+|**2023-07-21**|**Wilson-Itô diffusions**|Ismael Bailleul et.al.|[2307.11580](http://arxiv.org/abs/2307.11580)|null|
+|**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494](http://arxiv.org/abs/2307.11494)|null|
+|**2023-07-21**|**On the convergence order of the Euler scheme for scalar SDEs with Hölder-type diffusion coefficients**|Annalena Mickel et.al.|[2307.11448](http://arxiv.org/abs/2307.11448)|null|
+|**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429](http://arxiv.org/abs/2307.11429)|null|
+|**2023-07-21**|**Approximating a continuously stratified hydrostatic system by the multi-layer shallow water system**|Mahieddine Adim et.al.|[2307.11426](http://arxiv.org/abs/2307.11426)|null|
 |**2023-07-20**|**Discovery Forecasts of the Diffuse Ultra-High-Energy Neutrino Flux with IceCube-Gen2**|Victor B. Valera et.al.|[2307.11055](http://arxiv.org/abs/2307.11055)|null|
 |**2023-07-20**|**Hypergraph Diffusions and Resolvents for Norm-Based Hypergraph Laplacians**|Konstantinos Ameranis et.al.|[2307.11042](http://arxiv.org/abs/2307.11042)|null|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
@@ -399,6 +409,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
+|**2023-07-21**|**Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection**|Decheng Liu et.al.|[2307.11438](http://arxiv.org/abs/2307.11438)|null|
+|**2023-07-21**|**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**|Jian Ma et.al.|[2307.11410](http://arxiv.org/abs/2307.11410)|**[link](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)**|
+|**2023-07-20**|**Diffusion Sampling with Momentum for Mitigating Divergence Artifacts**|Suttisak Wizadwongsa et.al.|[2307.11118](http://arxiv.org/abs/2307.11118)|**[link](https://github.com/sWizad/momentum-diffusion)**|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
 |**2023-07-20**|**Divide & Bind Your Attention for Improved Generative Semantic Nursing**|Yumeng Li et.al.|[2307.10864](http://arxiv.org/abs/2307.10864)|null|
