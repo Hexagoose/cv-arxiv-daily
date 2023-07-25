@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|null|
+|**2023-07-24**|**Quantitative and qualitative properties for Hamilton-Jacobi PDEs via the nonlinear adjoint method**|Fabio Camilli et.al.|[2307.12932](http://arxiv.org/abs/2307.12932)|null|
+|**2023-07-24**|**Modelling intermittent anomalous diffusion with switching fractional Brownian motion**|Michał Balcerek et.al.|[2307.12919](http://arxiv.org/abs/2307.12919)|null|
+|**2023-07-24**|**Data-free Black-box Attack based on Diffusion Model**|Mingwen Shao et.al.|[2307.12872](http://arxiv.org/abs/2307.12872)|null|
+|**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
+|**2023-07-24**|**Temperature and thickness dependence of the thermal conductivity in 2D ferromagnet Fe $_3$GeTe$_2$**|Marcel S. Claro et.al.|[2307.12863](http://arxiv.org/abs/2307.12863)|null|
+|**2023-07-24**|**The ro-vibrational $ν_2$ mode spectrum of methane investigated by ultrabroadband coherent Raman spectroscopy**|Francesco Mazza et.al.|[2307.12740](http://arxiv.org/abs/2307.12740)|null|
+|**2023-07-24**|**Adaptive Parameter Optimization For An Elliptic-Parabolic System Using The Reduced-Basis Method With Hierarchical A-Posteriori Error Analysis**|Behzad Azmi et.al.|[2307.12723](http://arxiv.org/abs/2307.12723)|null|
+|**2023-07-24**|**Exponential Rosenbrock methods without order reduction when integrating nonlinear initial value problems**|Begoña Cano et.al.|[2307.12722](http://arxiv.org/abs/2307.12722)|null|
+|**2023-07-24**|**First-passage functionals of Brownian motion in logarithmic potentials and heterogeneous diffusion**|Mattia Radice et.al.|[2307.12699](http://arxiv.org/abs/2307.12699)|null|
 |**2023-07-21**|**Exact hydrodynamics and onset of phase separation for an active exclusion process**|James Mason et.al.|[2307.11673](http://arxiv.org/abs/2307.11673)|null|
 |**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654](http://arxiv.org/abs/2307.11654)|null|
 |**2023-07-21**|**Stability of multi-component Israel-Stewart-Maxwell theory for charge diffusion**|Lorenzo Gavassino et.al.|[2307.11615](http://arxiv.org/abs/2307.11615)|null|
@@ -367,6 +377,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Persistent-Transient Duality: A Multi-mechanism Approach for Modeling Human-Object Interaction**|Hung Tran et.al.|[2307.12729](http://arxiv.org/abs/2307.12729)|null|
+|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
 |**2023-07-20**|**Human Motion Generation: A Survey**|Wentao Zhu et.al.|[2307.10894](http://arxiv.org/abs/2307.10894)|null|
 |**2023-07-20**|**Predicting human motion intention for pHRI assistive control**|Paolo Franceschi et.al.|[2307.10743](http://arxiv.org/abs/2307.10743)|null|
 |**2023-07-21**|**Whole-Body Dynamic Telelocomotion: A Step-to-Step Dynamics Approach to Human Walking Reference Generation**|Guillermo Colin et.al.|[2307.10533](http://arxiv.org/abs/2307.10533)|null|
@@ -409,8 +421,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|null|
+|**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
+|**2023-07-24**|**Attribute Regularized Soft Introspective VAE: Towards Cardiac Attribute Regularization Through MRI Domains**|Maxime Di Folco et.al.|[2307.12618](http://arxiv.org/abs/2307.12618)|null|
+|**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560](http://arxiv.org/abs/2307.12560)|null|
+|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
+|**2023-07-22**|**Edge Guided GANs with Multi-Scale Contrastive Learning for Semantic Image Synthesis**|Hao Tang et.al.|[2307.12084](http://arxiv.org/abs/2307.12084)|**[link](https://github.com/ha0tang/ecgan)**|
+|**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926](http://arxiv.org/abs/2307.11926)|null|
 |**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
-|**2023-07-21**|**Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection**|Decheng Liu et.al.|[2307.11438](http://arxiv.org/abs/2307.11438)|null|
+|**2023-07-21**|**Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection**|Decheng Liu et.al.|[2307.11438](http://arxiv.org/abs/2307.11438)|**[link](https://github.com/chenboluo/acmf)**|
 |**2023-07-21**|**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**|Jian Ma et.al.|[2307.11410](http://arxiv.org/abs/2307.11410)|**[link](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)**|
 |**2023-07-20**|**Diffusion Sampling with Momentum for Mitigating Divergence Artifacts**|Suttisak Wizadwongsa et.al.|[2307.11118](http://arxiv.org/abs/2307.11118)|**[link](https://github.com/sWizad/momentum-diffusion)**|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
