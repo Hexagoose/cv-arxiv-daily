@@ -25,7 +25,7 @@ layout: default
 |**2023-07-24**|**Exponential Rosenbrock methods without order reduction when integrating nonlinear initial value problems**|Begoña Cano et.al.|[2307.12722](http://arxiv.org/abs/2307.12722)|null|
 |**2023-07-24**|**First-passage functionals of Brownian motion in logarithmic potentials and heterogeneous diffusion**|Mattia Radice et.al.|[2307.12699](http://arxiv.org/abs/2307.12699)|null|
 |**2023-07-21**|**Exact hydrodynamics and onset of phase separation for an active exclusion process**|James Mason et.al.|[2307.11673](http://arxiv.org/abs/2307.11673)|null|
-|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654](http://arxiv.org/abs/2307.11654)|null|
+|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654](http://arxiv.org/abs/2307.11654)|**[link](https://github.com/hectorcarrion/fedd)**|
 |**2023-07-21**|**Stability of multi-component Israel-Stewart-Maxwell theory for charge diffusion**|Lorenzo Gavassino et.al.|[2307.11615](http://arxiv.org/abs/2307.11615)|null|
 |**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608](http://arxiv.org/abs/2307.11608)|**[link](https://github.com/gabrielfernandezfernandez/spivae)**|
 |**2023-07-21**|**Mixbiotic society measures: Assessment of community well-going as living system**|Takeshi Kato et.al.|[2307.11594](http://arxiv.org/abs/2307.11594)|null|
