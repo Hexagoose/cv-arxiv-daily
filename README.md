@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -371,7 +371,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
 
 ## Motion
 
@@ -415,7 +415,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
 
 ## Image Generation
 
@@ -425,7 +425,7 @@
 |**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
 |**2023-07-24**|**Attribute Regularized Soft Introspective VAE: Towards Cardiac Attribute Regularization Through MRI Domains**|Maxime Di Folco et.al.|[2307.12618](http://arxiv.org/abs/2307.12618)|null|
 |**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560](http://arxiv.org/abs/2307.12560)|null|
-|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
+|**2023-07-25**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
 |**2023-07-22**|**Edge Guided GANs with Multi-Scale Contrastive Learning for Semantic Image Synthesis**|Hao Tang et.al.|[2307.12084](http://arxiv.org/abs/2307.12084)|**[link](https://github.com/ha0tang/ecgan)**|
 |**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926](http://arxiv.org/abs/2307.11926)|null|
 |**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
@@ -624,7 +624,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
 
 ## Video Generation
 
@@ -664,7 +664,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

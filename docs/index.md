@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -415,7 +415,7 @@ layout: default
 |**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
 |**2023-07-24**|**Attribute Regularized Soft Introspective VAE: Towards Cardiac Attribute Regularization Through MRI Domains**|Maxime Di Folco et.al.|[2307.12618](http://arxiv.org/abs/2307.12618)|null|
 |**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560](http://arxiv.org/abs/2307.12560)|null|
-|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
+|**2023-07-25**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
 |**2023-07-22**|**Edge Guided GANs with Multi-Scale Contrastive Learning for Semantic Image Synthesis**|Hao Tang et.al.|[2307.12084](http://arxiv.org/abs/2307.12084)|**[link](https://github.com/ha0tang/ecgan)**|
 |**2023-07-21**|**PartDiff: Image Super-resolution with Partial Diffusion Models**|Kai Zhao et.al.|[2307.11926](http://arxiv.org/abs/2307.11926)|null|
 |**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
