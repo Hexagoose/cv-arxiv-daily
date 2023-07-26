@@ -30,7 +30,7 @@
 |**2023-07-25**|**Linearly stable and causal relativistic first-order spin hydrodynamics**|Nora Weickgenannt et.al.|[2307.13561](http://arxiv.org/abs/2307.13561)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560](http://arxiv.org/abs/2307.13560)|null|
 |**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|null|
-|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|null|
+|**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|**[link](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model)**|
 |**2023-07-24**|**Quantitative and qualitative properties for Hamilton-Jacobi PDEs via the nonlinear adjoint method**|Fabio Camilli et.al.|[2307.12932](http://arxiv.org/abs/2307.12932)|null|
 |**2023-07-24**|**Modelling intermittent anomalous diffusion with switching fractional Brownian motion**|Michał Balcerek et.al.|[2307.12919](http://arxiv.org/abs/2307.12919)|null|
 |**2023-07-24**|**Data-free Black-box Attack based on Diffusion Model**|Mingwen Shao et.al.|[2307.12872](http://arxiv.org/abs/2307.12872)|null|
@@ -518,7 +518,7 @@
 |**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193](http://arxiv.org/abs/2307.01193)|null|
 |**2023-07-03**|**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**|Salman Ul Hassan Dar et.al.|[2307.01148](http://arxiv.org/abs/2307.01148)|null|
 |**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097](http://arxiv.org/abs/2307.01097)|**[link](https://github.com/Tangshitao/MVDiffusion)**|
-|**2023-07-03**|**DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**|Weimin Tan et.al.|[2307.00773](http://arxiv.org/abs/2307.00773)|null|
+|**2023-07-03**|**DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**|Weimin Tan et.al.|[2307.00773](http://arxiv.org/abs/2307.00773)|**[link](https://github.com/TrinitialChan/DifFSS)**|
 |**2023-07-02**|**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance**|Linoy Tsaban et.al.|[2307.00522](http://arxiv.org/abs/2307.00522)|null|
 |**2023-07-01**|**DreamIdentity: Improved Editability for Efficient Face-identity Preserved Image Generation**|Zhuowei Chen et.al.|[2307.00300](http://arxiv.org/abs/2307.00300)|null|
 |**2023-07-01**|**AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI Generated Images: from the Perspectives of Quality, Authenticity and Correspondence**|Jiarui Wang et.al.|[2307.00211](http://arxiv.org/abs/2307.00211)|**[link](https://github.com/wangjiarui153/aigciqa2023)**|
