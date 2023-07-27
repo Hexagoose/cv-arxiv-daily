@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Virtual Mirrors: Non-Line-of-Sight Imaging Beyond the Third Bounce**|Diego Royo et.al.|[2307.14341](http://arxiv.org/abs/2307.14341)|null|
+|**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331](http://arxiv.org/abs/2307.14331)|null|
+|**2023-07-26**|**Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects**|I. Lazzizzera et.al.|[2307.14291](http://arxiv.org/abs/2307.14291)|null|
+|**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262](http://arxiv.org/abs/2307.14262)|**[link](https://github.com/zhenqi-he/artifusion)**|
+|**2023-07-26**|**Revealing the Gas Recycling in the Circumgalactic Medium (CGM) Utilizing a Luminous Ly $α$ Nebula Around a Type-II Quasar at z=2.6 with the Keck Cosmic Web Imager (KCWI)**|Shiwu Zhang et.al.|[2307.14224](http://arxiv.org/abs/2307.14224)|null|
+|**2023-07-26**|**Lagrangian statistics of dense emulsions**|Ivan Girotto et.al.|[2307.14184](http://arxiv.org/abs/2307.14184)|null|
+|**2023-07-26**|**An Antithetic Multilevel Monte Carlo-Milstein Scheme for Stochastic Partial Differential Equations**|Abdul-Lateef Haji-Al et.al.|[2307.14169](http://arxiv.org/abs/2307.14169)|null|
+|**2023-07-26**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials**|Weijun Wu et.al.|[2307.14088](http://arxiv.org/abs/2307.14088)|null|
+|**2023-07-26**|**Self-organized criticality explains the emergence of irregular vegetation patterns in semi-arid regions**|Jean-François de Kemmeter et.al.|[2307.14083](http://arxiv.org/abs/2307.14083)|null|
+|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
 |**2023-07-25**|**Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images**|Zeviel Imani et.al.|[2307.13687](http://arxiv.org/abs/2307.13687)|null|
 |**2023-07-25**|**Comparing phase-space and phenomenological modeling approaches for Lagrangian particles settling in a turbulent boundary layer**|Andrew P. Grace et.al.|[2307.13659](http://arxiv.org/abs/2307.13659)|null|
 |**2023-07-25**|**A threshold dislocation dynamics method**|Xiaoxue Qin et.al.|[2307.13653](http://arxiv.org/abs/2307.13653)|null|
@@ -379,6 +389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2307.14006](http://arxiv.org/abs/2307.14006)|null|
 |**2023-07-24**|**Persistent-Transient Duality: A Multi-mechanism Approach for Modeling Human-Object Interaction**|Hung Tran et.al.|[2307.12729](http://arxiv.org/abs/2307.12729)|null|
 |**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
 |**2023-07-20**|**Human Motion Generation: A Survey**|Wentao Zhu et.al.|[2307.10894](http://arxiv.org/abs/2307.10894)|null|
@@ -421,6 +432,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331](http://arxiv.org/abs/2307.14331)|null|
+|**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273](http://arxiv.org/abs/2307.14273)|null|
+|**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|null|
+|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
+|**2023-07-25**|**Composite Diffusion | whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560](http://arxiv.org/abs/2307.13560)|null|
 |**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|null|
