@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061](http://arxiv.org/abs/2307.15061)|**[link](https://github.com/ldkong1205/robodepth)**|
+|**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
+|**2023-07-27**|**Large-scale universality in Quantum Reaction-Diffusion from Keldysh field theory**|Federico Gerbino et.al.|[2307.14945](http://arxiv.org/abs/2307.14945)|null|
+|**2023-07-27**|**How long are the arms in DBM?**|Ilya Losev et.al.|[2307.14931](http://arxiv.org/abs/2307.14931)|null|
+|**2023-07-27**|**Generative convective parametrization of dry atmospheric boundary layer**|Florian Heyder et.al.|[2307.14857](http://arxiv.org/abs/2307.14857)|null|
+|**2023-07-27**|**Observation of high-energy neutrinos from the Galactic plane**|Stephen Sclafani et.al.|[2307.14842](http://arxiv.org/abs/2307.14842)|null|
+|**2023-07-27**|**Diffuse emission in microlensed quasars and its implications for accretion-disk physics**|C. Fian et.al.|[2307.14824](http://arxiv.org/abs/2307.14824)|null|
+|**2023-07-27**|**Revisiting charm versus bottom quark energy loss inside a color-deconfined medium**|Yichao Dang et.al.|[2307.14808](http://arxiv.org/abs/2307.14808)|null|
+|**2023-07-27**|**Empirical analysis of congestion spreading in Seoul traffic network**|Jung-Hoon Jung et.al.|[2307.14800](http://arxiv.org/abs/2307.14800)|null|
+|**2023-07-27**|**Entropic repulsion and scaling limit for a finite number of non-intersecting subcritical FK interfaces**|Lucas D'Alimonte et.al.|[2307.14767](http://arxiv.org/abs/2307.14767)|null|
 |**2023-07-26**|**Virtual Mirrors: Non-Line-of-Sight Imaging Beyond the Third Bounce**|Diego Royo et.al.|[2307.14341](http://arxiv.org/abs/2307.14341)|null|
 |**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331](http://arxiv.org/abs/2307.14331)|null|
 |**2023-07-26**|**Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects**|I. Lazzizzera et.al.|[2307.14291](http://arxiv.org/abs/2307.14291)|null|
@@ -442,11 +452,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
+|**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
+|**2023-07-27**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura1 et.al.|[2307.14710](http://arxiv.org/abs/2307.14710)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
+|**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
+|**2023-07-27**|**EqGAN: Feature Equalization Fusion for Few-shot Image Generation**|Yingbo Zhou et.al.|[2307.14638](http://arxiv.org/abs/2307.14638)|null|
 |**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331](http://arxiv.org/abs/2307.14331)|null|
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273](http://arxiv.org/abs/2307.14273)|null|
-|**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|null|
+|**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|**[link](https://github.com/david-friede/lddr)**|
 |**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
-|**2023-07-25**|**Composite Diffusion|whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|
+|**2023-07-25**|**Composite Diffusion | whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560](http://arxiv.org/abs/2307.13560)|null|
 |**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|null|
