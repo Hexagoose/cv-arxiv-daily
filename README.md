@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.28
+## Updated on 2023.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -401,7 +401,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230729>back to top</a>)</p>
 
 ## Motion
 
@@ -446,7 +446,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230729>back to top</a>)</p>
 
 ## Image Generation
 
@@ -461,7 +461,7 @@
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273](http://arxiv.org/abs/2307.14273)|null|
 |**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|**[link](https://github.com/david-friede/lddr)**|
 |**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
-|**2023-07-25**|**Composite Diffusion|whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|
+|**2023-07-25**|**Composite Diffusion | whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|null|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560](http://arxiv.org/abs/2307.13560)|null|
 |**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|**[link](https://github.com/ictlab-unict/not-with-my-name)**|
@@ -668,7 +668,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230729>back to top</a>)</p>
 
 ## Video Generation
 
@@ -708,7 +708,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
