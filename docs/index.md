@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**A quantitative phase-field model for void evolution in defect supersaturated environments: a novel introduction of defect reaction asymmetry**|Sreekar Rayaprolu et.al.|[2307.15626](http://arxiv.org/abs/2307.15626)|null|
+|**2023-07-28**|**Collision term dependence of the hadronic shear viscosity and diffusion coefficients**|Jan Hammelmann et.al.|[2307.15606](http://arxiv.org/abs/2307.15606)|null|
+|**2023-07-28**|**Momentum distribution of charm hadrons in a fluid-dynamic approach**|Federica Capellino et.al.|[2307.15580](http://arxiv.org/abs/2307.15580)|null|
+|**2023-07-28**|**Self-organized states of solutions of active ring polymers in bulk and under confinement**|Juan Pablo Miranda-López et.al.|[2307.15579](http://arxiv.org/abs/2307.15579)|null|
+|**2023-07-28**|**Understanding the Anomalous Diffusion of Water in Aqueous Electrolytes Using Machine Learned Potentials**|Nikhil V. S. Avula et.al.|[2307.15576](http://arxiv.org/abs/2307.15576)|null|
+|**2023-07-28**|**Search for High-Energy Neutrinos from TDE-like Flares with IceCube**|Jannis Necker et.al.|[2307.15531](http://arxiv.org/abs/2307.15531)|null|
+|**2023-07-28**|**Machine Learning Potential for Modelling H $_2$ Adsorption/Diffusion in MOF with Open Metal Sites**|Shanping Liu et.al.|[2307.15528](http://arxiv.org/abs/2307.15528)|null|
+|**2023-07-28**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484](http://arxiv.org/abs/2307.15484)|null|
+|**2023-07-28**|**Empirical Validation of a Class of Ray-Based Fading Models**|Juan E. Galeote-Cazorla et.al.|[2307.15467](http://arxiv.org/abs/2307.15467)|null|
+|**2023-07-28**|**Electronic structure and lattice dynamics of 1T-VSe $_2$ : origin of the 3D-CDW**|Josu Diego et.al.|[2307.15392](http://arxiv.org/abs/2307.15392)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061](http://arxiv.org/abs/2307.15061)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
 |**2023-07-27**|**Large-scale universality in Quantum Reaction-Diffusion from Keldysh field theory**|Federico Gerbino et.al.|[2307.14945](http://arxiv.org/abs/2307.14945)|null|
@@ -442,6 +452,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621](http://arxiv.org/abs/2307.15621)|**[link](https://github.com/awesomelemon/pbt-nas)**|
+|**2023-07-28**|**Quasi-Monte Carlo Algorithms (not only) for Graphics Software**|Alexander Keller et.al.|[2307.15584](http://arxiv.org/abs/2307.15584)|null|
+|**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443](http://arxiv.org/abs/2307.15443)|null|
+|**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326](http://arxiv.org/abs/2307.15326)|null|
 |**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
 |**2023-07-27**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura1 et.al.|[2307.14710](http://arxiv.org/abs/2307.14710)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
