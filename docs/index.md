@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -456,9 +456,9 @@ layout: default
 |**2023-07-28**|**Quasi-Monte Carlo Algorithms (not only) for Graphics Software**|Alexander Keller et.al.|[2307.15584](http://arxiv.org/abs/2307.15584)|null|
 |**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443](http://arxiv.org/abs/2307.15443)|null|
 |**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326](http://arxiv.org/abs/2307.15326)|null|
-|**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
+|**2023-07-29**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
-|**2023-07-27**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura1 et.al.|[2307.14710](http://arxiv.org/abs/2307.14710)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
+|**2023-07-31**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura et.al.|[2307.14710](http://arxiv.org/abs/2307.14710)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
 |**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
 |**2023-07-27**|**EqGAN: Feature Equalization Fusion for Few-shot Image Generation**|Yingbo Zhou et.al.|[2307.14638](http://arxiv.org/abs/2307.14638)|null|
 |**2023-07-26**|**Visual Instruction Inversion: Image Editing via Visual Prompting**|Thao Nguyen et.al.|[2307.14331](http://arxiv.org/abs/2307.14331)|null|
