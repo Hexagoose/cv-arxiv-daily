@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**A sharp càdlàg property for jump diffusions and dynamic programming principle**|Alessandro Bondi et.al.|[2307.16871](http://arxiv.org/abs/2307.16871)|null|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865](http://arxiv.org/abs/2307.16865)|null|
+|**2023-07-31**|**Generation of charge current by the Inverse Stern-Gerlach Effect and the suppression of spin transport due to spin counter-current exchange in semiconductors**|Nicholas J. Harmon et.al.|[2307.16838](http://arxiv.org/abs/2307.16838)|null|
+|**2023-07-31**|**From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**|Wanyu Wu et.al.|[2307.16783](http://arxiv.org/abs/2307.16783)|null|
+|**2023-07-31**|**Protostellar Disks Fed By Dense Collapsing Gravo-Magneto-Sheetlets**|Yisheng Tu et.al.|[2307.16774](http://arxiv.org/abs/2307.16774)|null|
+|**2023-07-31**|**Understanding Dynamics in Coarse-Grained Models: III. Roles of Rotational Motion and Translation-Rotation Coupling in Coarse-Grained Dynamics**|Jaehyeok Jin et.al.|[2307.16747](http://arxiv.org/abs/2307.16747)|null|
+|**2023-07-31**|**Transverse modulational dynamics of quenched patterns**|Sierra Dunn et.al.|[2307.16711](http://arxiv.org/abs/2307.16711)|null|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-31**|**On the Trustworthiness Landscape of State-of-the-art Generative Models: A Comprehensive Survey**|Mingyuan Fan et.al.|[2307.16680](http://arxiv.org/abs/2307.16680)|null|
+|**2023-07-31**|**Comparing normalizing flows and diffusion models for prosody and acoustic modelling in text-to-speech**|Guangyan Zhang et.al.|[2307.16679](http://arxiv.org/abs/2307.16679)|null|
 |**2023-07-28**|**A quantitative phase-field model for void evolution in defect supersaturated environments: a novel introduction of defect reaction asymmetry**|Sreekar Rayaprolu et.al.|[2307.15626](http://arxiv.org/abs/2307.15626)|null|
 |**2023-07-28**|**Collision term dependence of the hadronic shear viscosity and diffusion coefficients**|Jan Hammelmann et.al.|[2307.15606](http://arxiv.org/abs/2307.15606)|null|
 |**2023-07-28**|**Momentum distribution of charm hadrons in a fluid-dynamic approach**|Federica Capellino et.al.|[2307.15580](http://arxiv.org/abs/2307.15580)|null|
@@ -409,6 +419,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
+|**2023-07-30**|**TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction**|Sibo Tian et.al.|[2307.16106](http://arxiv.org/abs/2307.16106)|null|
 |**2023-07-26**|**Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2307.14006](http://arxiv.org/abs/2307.14006)|null|
 |**2023-07-24**|**Persistent-Transient Duality: A Multi-mechanism Approach for Modeling Human-Object Interaction**|Hung Tran et.al.|[2307.12729](http://arxiv.org/abs/2307.12729)|null|
 |**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
@@ -452,6 +464,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Image Synthesis under Limited Data: A Survey and Taxonomy**|Mengping Yang et.al.|[2307.16879](http://arxiv.org/abs/2307.16879)|**[link](https://github.com/kobeshegu/awesome-few-shot-generation)**|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-31**|**Towards General Visual-Linguistic Face Forgery Detection**|Ke Sun et.al.|[2307.16545](http://arxiv.org/abs/2307.16545)|null|
+|**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
+|**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410](http://arxiv.org/abs/2307.16410)|null|
+|**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314](http://arxiv.org/abs/2307.16314)|null|
+|**2023-07-30**|**Stylized Projected GAN: A Novel Architecture for Fast and Realistic Image Generation**|Md Nurul Muttakin et.al.|[2307.16275](http://arxiv.org/abs/2307.16275)|null|
+|**2023-07-30**|**Structure-Preserving Synthesis: MaskGAN for Unpaired MR-CT Translation**|Minh Hieu Phan et.al.|[2307.16143](http://arxiv.org/abs/2307.16143)|**[link](https://github.com/HieuPhan33/MaskGAN)**|
+|**2023-07-29**|**HandMIM: Pose-Aware Self-Supervised Learning for 3D Hand Mesh Estimation**|Zuyan Liu et.al.|[2307.16061](http://arxiv.org/abs/2307.16061)|null|
+|**2023-07-29**|**LOTUS: Learning to Optimize Task-based US representations**|Yordanka Velikova et.al.|[2307.16021](http://arxiv.org/abs/2307.16021)|null|
 |**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621](http://arxiv.org/abs/2307.15621)|**[link](https://github.com/awesomelemon/pbt-nas)**|
 |**2023-07-28**|**Quasi-Monte Carlo Algorithms (not only) for Graphics Software**|Alexander Keller et.al.|[2307.15584](http://arxiv.org/abs/2307.15584)|null|
 |**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443](http://arxiv.org/abs/2307.15443)|null|
@@ -676,6 +698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**|Junchen Zhu et.al.|[2307.16371](http://arxiv.org/abs/2307.16371)|null|
+|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|null|
 |**2023-07-20**|**Learning and Evaluating Human Preferences for Conversational Head Generation**|Mohan Zhou et.al.|[2307.10636](http://arxiv.org/abs/2307.10636)|null|
 |**2023-07-23**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
 |**2023-07-20**|**Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**|Fa-Ting Hong et.al.|[2307.09906](http://arxiv.org/abs/2307.09906)|**[link](https://github.com/harlanhong/iccv2023-mcnet)**|
