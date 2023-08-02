@@ -478,7 +478,7 @@ layout: default
 |**2023-08-01**|**Metrics to Quantify Global Consistency in Synthetic Medical Images**|Daniel Scholz et.al.|[2308.00402](http://arxiv.org/abs/2308.00402)|null|
 |**2023-08-01**|**Experiments on Generative AI-Powered Parametric Modeling and BIM for Architectural Design**|Jaechang Ko et.al.|[2308.00227](http://arxiv.org/abs/2308.00227)|null|
 |**2023-08-01**|**SkullGAN: Synthetic Skull CT Generation with Generative Adversarial Networks**|Kasra Naftchi-Ardebili et.al.|[2308.00206](http://arxiv.org/abs/2308.00206)|**[link](https://github.com/kbp-lab/skullgan)**|
-|**2023-07-31**|**Controlling Geometric Abstraction and Texture for Artistic Images**|Martin Büßemeyer et.al.|[2308.00148](http://arxiv.org/abs/2308.00148)|null|
+|**2023-07-31**|**Controlling Geometric Abstraction and Texture for Artistic Images**|Martin Büßemeyer et.al.|[2308.00148](http://arxiv.org/abs/2308.00148)|**[link](https://github.com/MartinBuessemeyer/Artistic-Texture-Control)**|
 |**2023-07-31**|**Image Synthesis under Limited Data: A Survey and Taxonomy**|Mengping Yang et.al.|[2307.16879](http://arxiv.org/abs/2307.16879)|**[link](https://github.com/kobeshegu/awesome-few-shot-generation)**|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
 |**2023-07-31**|**Towards General Visual-Linguistic Face Forgery Detection**|Ke Sun et.al.|[2307.16545](http://arxiv.org/abs/2307.16545)|null|
