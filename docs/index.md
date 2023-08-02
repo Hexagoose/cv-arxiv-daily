@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.01
+## Updated on 2023.08.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -471,7 +471,7 @@ layout: default
 |**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410](http://arxiv.org/abs/2307.16410)|null|
 |**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314](http://arxiv.org/abs/2307.16314)|null|
 |**2023-07-30**|**Stylized Projected GAN: A Novel Architecture for Fast and Realistic Image Generation**|Md Nurul Muttakin et.al.|[2307.16275](http://arxiv.org/abs/2307.16275)|null|
-|**2023-07-30**|**Structure-Preserving Synthesis: MaskGAN for Unpaired MR-CT Translation**|Minh Hieu Phan et.al.|[2307.16143](http://arxiv.org/abs/2307.16143)|**[link](https://github.com/HieuPhan33/MaskGAN)**|
+|**2023-08-01**|**Structure-Preserving Synthesis: MaskGAN for Unpaired MR-CT Translation**|Minh Hieu Phan et.al.|[2307.16143](http://arxiv.org/abs/2307.16143)|**[link](https://github.com/HieuPhan33/MaskGAN)**|
 |**2023-07-29**|**HandMIM: Pose-Aware Self-Supervised Learning for 3D Hand Mesh Estimation**|Zuyan Liu et.al.|[2307.16061](http://arxiv.org/abs/2307.16061)|null|
 |**2023-07-29**|**LOTUS: Learning to Optimize Task-based US representations**|Yordanka Velikova et.al.|[2307.16021](http://arxiv.org/abs/2307.16021)|null|
 |**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621](http://arxiv.org/abs/2307.15621)|**[link](https://github.com/awesomelemon/pbt-nas)**|
