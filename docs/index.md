@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -714,10 +714,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
-|**2023-07-22**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
+|**2023-08-02**|**InFusion: Inject and Attention Fusion for Multi Concept Zero Shot Text based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
 |**2023-07-31**|**MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**|Junchen Zhu et.al.|[2307.16371](http://arxiv.org/abs/2307.16371)|null|
-|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|null|
-|**2023-07-20**|**Learning and Evaluating Human Preferences for Conversational Head Generation**|Mohan Zhou et.al.|[2307.10636](http://arxiv.org/abs/2307.10636)|null|
+|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|**[link](https://github.com/ucalgary-ilab/realitycanvas)**|
+|**2023-08-02**|**Learning and Evaluating Human Preferences for Conversational Head Generation**|Mohan Zhou et.al.|[2307.10636](http://arxiv.org/abs/2307.10636)|null|
 |**2023-07-23**|**TokenFlow: Consistent Diffusion Features for Consistent Video Editing**|Michal Geyer et.al.|[2307.10373](http://arxiv.org/abs/2307.10373)|null|
 |**2023-07-20**|**Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**|Fa-Ting Hong et.al.|[2307.09906](http://arxiv.org/abs/2307.09906)|**[link](https://github.com/harlanhong/iccv2023-mcnet)**|
 |**2023-07-19**|**Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline**|Zhigang Chang et.al.|[2307.09821](http://arxiv.org/abs/2307.09821)|null|
