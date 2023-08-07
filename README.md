@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**Quantum Dynamical Approach to Predicting the Optical Pumping Threshold for Lasing in Organic Materials**|Bin Zhang et.al.|[2308.02447](http://arxiv.org/abs/2308.02447)|null|
+|**2023-08-04**|**Long-term Evolution of Warps in Debris Disks -- Application to the Gyr-old system HD 202628**|Madison Brady et.al.|[2308.02333](http://arxiv.org/abs/2308.02333)|null|
+|**2023-08-04**|**Quantum transport regimes in quartic dispersion materials with Anderson disorder**|Mustafa Polat et.al.|[2308.02300](http://arxiv.org/abs/2308.02300)|null|
+|**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283](http://arxiv.org/abs/2308.02283)|null|
+|**2023-08-04**|**Maximum-norm a posteriori error bounds for an extrapolated upwind scheme applied to a singularly perturbed convection-diffusion problem**|Torsten Linß et.al.|[2308.02264](http://arxiv.org/abs/2308.02264)|null|
+|**2023-08-04**|**Segregation disrupts the Arrhenius behavior of an isomerization reaction**|Shubham Thwal et.al.|[2308.02258](http://arxiv.org/abs/2308.02258)|null|
+|**2023-08-04**|**Disorder-Induced Phase Transitions in Three-Dimensional Chiral Second-Order Topological Insulator**|Yedi Shen et.al.|[2308.02256](http://arxiv.org/abs/2308.02256)|null|
+|**2023-08-04**|**Statistically consistent term structures have affine geometry**|Paul Krühner et.al.|[2308.02246](http://arxiv.org/abs/2308.02246)|null|
+|**2023-08-04**|**Explicit Local density bounds for Itô-processes with irregular drift**|Paul Krühner et.al.|[2308.02241](http://arxiv.org/abs/2308.02241)|null|
+|**2023-08-04**|**Painterly Image Harmonization using Diffusion Model**|Lingxiao Lu et.al.|[2308.02228](http://arxiv.org/abs/2308.02228)|**[link](https://github.com/bcmi/phdiffusion-painterly-image-harmonization)**|
 |**2023-08-03**|**LOFAR detection of extended emission around a mini-halo in the galaxy cluster Abell 1413**|Giulia Lusetti et.al.|[2308.01884](http://arxiv.org/abs/2308.01884)|null|
 |**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
 |**2023-08-03**|**Pushed and pulled fronts in a logistic Keller-Segel model with chemorepulsion**|Montie Avery et.al.|[2308.01754](http://arxiv.org/abs/2308.01754)|null|
@@ -457,6 +467,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397](http://arxiv.org/abs/2308.02397)|null|
 |**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
 |**2023-08-02**|**Spatio-Temporal Branching for Motion Prediction using Motion Increments**|Jiexin Wang et.al.|[2308.01097](http://arxiv.org/abs/2308.01097)|**[link](https://github.com/jasonwang959/stpmp)**|
 |**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
@@ -506,6 +517,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|null|
+|**2023-08-04**|**CTP-Net: Character Texture Perception Network for Document Image Forgery Localization**|Xin Liao et.al.|[2308.02158](http://arxiv.org/abs/2308.02158)|null|
+|**2023-08-04**|**SDDM: Score-Decomposed Diffusion Models on Manifolds for Unpaired Image-to-Image Translation**|Shikun Sun et.al.|[2308.02154](http://arxiv.org/abs/2308.02154)|null|
+|**2023-08-03**|**A Multidimensional Analysis of Social Biases in Vision Transformers**|Jannik Brinkmann et.al.|[2308.01948](http://arxiv.org/abs/2308.01948)|null|
 |**2023-08-03**|**Focus on Content not Noise: Improving Image Generation for Nuclei Segmentation by Suppressing Steganography in CycleGAN**|Jonas Utz et.al.|[2308.01769](http://arxiv.org/abs/2308.01769)|null|
 |**2023-08-04**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661](http://arxiv.org/abs/2308.01661)|null|
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
