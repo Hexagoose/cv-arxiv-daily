@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
+|**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288](http://arxiv.org/abs/2308.04288)|null|
+|**2023-08-08**|**MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction**|Xiaowen Wang et.al.|[2308.04266](http://arxiv.org/abs/2308.04266)|null|
+|**2023-08-08**|**FLIRT: Feedback Loop In-context Red Teaming**|Ninareh Mehrabi et.al.|[2308.04265](http://arxiv.org/abs/2308.04265)|null|
+|**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249](http://arxiv.org/abs/2308.04249)|**[link](https://github.com/reedonepeck/minddiffuser)**|
+|**2023-08-08**|**Improved placement precision of implanted donor spin qubits in silicon using molecule ions**|Danielle Holmes et.al.|[2308.04117](http://arxiv.org/abs/2308.04117)|null|
+|**2023-08-08**|**Designing optoelectronic properties by on-surface synthesis: formation and electronic structure of an iron-terpyridine macromolecular complex**|Agustin Schiffrin et.al.|[2308.04105](http://arxiv.org/abs/2308.04105)|null|
+|**2023-08-08**|**Boundary-preserving Lamperti-splitting scheme for some Stochastic Differential Equations**|Johan Ulander et.al.|[2308.04075](http://arxiv.org/abs/2308.04075)|null|
+|**2023-08-08**|**Synthetic Augmentation with Large-scale Unconditional Pre-training**|Jiarong Ye et.al.|[2308.04020](http://arxiv.org/abs/2308.04020)|**[link](https://github.com/karenyyy/histodiffaug)**|
+|**2023-08-08**|**Target Speech Extraction with Conditional Diffusion Model**|Naoyuki Kamo et.al.|[2308.03987](http://arxiv.org/abs/2308.03987)|null|
 |**2023-08-07**|**Rearrangement of Granular Surfaces on Asteroids due to Thermal Cycling**|Danielle Bovie et.al.|[2308.03749](http://arxiv.org/abs/2308.03749)|null|
 |**2023-08-07**|**Superconvergence analysis of interior penalty discontinuous Galerkin method for a class of time-fractional diffusion problems**|Sandip Maji et.al.|[2308.03715](http://arxiv.org/abs/2308.03715)|null|
 |**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686](http://arxiv.org/abs/2308.03686)|null|
@@ -518,6 +528,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
+|**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163](http://arxiv.org/abs/2308.04163)|**[link](https://github.com/namecantbenull/srudc)**|
+|**2023-08-08**|**The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**|Timothy Merino et.al.|[2308.04052](http://arxiv.org/abs/2308.04052)|null|
 |**2023-08-08**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-05**|**DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation**|Afshin Bozorgpour et.al.|[2308.02959](http://arxiv.org/abs/2308.02959)|**[link](https://github.com/mindflow-institue/dermosegdiff)**|
 |**2023-08-05**|**Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation**|Zijie Wu et.al.|[2308.02874](http://arxiv.org/abs/2308.02874)|null|
