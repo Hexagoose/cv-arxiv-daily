@@ -478,7 +478,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-05**|**DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation**|Qiaosong Qi et.al.|[2308.02915](http://arxiv.org/abs/2308.02915)|null|
-|**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397](http://arxiv.org/abs/2308.02397)|null|
+|**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397](http://arxiv.org/abs/2308.02397)|**[link](https://github.com/itiv-kit/dse-sparse-imu)**|
 |**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
 |**2023-08-02**|**Spatio-Temporal Branching for Motion Prediction using Motion Increments**|Jiexin Wang et.al.|[2308.01097](http://arxiv.org/abs/2308.01097)|**[link](https://github.com/jasonwang959/stpmp)**|
 |**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
