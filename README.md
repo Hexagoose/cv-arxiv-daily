@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103](http://arxiv.org/abs/2308.05103)|null|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
+|**2023-08-09**|**Deuterium Escape on Sub-Neptunes**|Pin-Gao Gu et.al.|[2308.05057](http://arxiv.org/abs/2308.05057)|null|
+|**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021](http://arxiv.org/abs/2308.05021)|null|
+|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995](http://arxiv.org/abs/2308.04995)|null|
+|**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961](http://arxiv.org/abs/2308.04961)|null|
+|**2023-08-09**|**Deep Learning-Based Prediction of Fractional Flow Reserve along the Coronary Artery**|Nils Hampe et.al.|[2308.04923](http://arxiv.org/abs/2308.04923)|null|
+|**2023-08-09**|**Interaction-induced directional transport on periodically driven chains**|Helena Drüeke et.al.|[2308.04845](http://arxiv.org/abs/2308.04845)|null|
+|**2023-08-09**|**Existence and Uniqueness of Solution to Unsteady Darcy-Brinkman Problem with Korteweg Stress for Modelling Miscible Porous Media Flow**|Sahil Kundu et.al.|[2308.04843](http://arxiv.org/abs/2308.04843)|null|
+|**2023-08-09**|**On a diffusion equation with rupture**|Yoshikazu Giga et.al.|[2308.04754](http://arxiv.org/abs/2308.04754)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
 |**2023-08-08**|**Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On**|Daiheng Gao et.al.|[2308.04288](http://arxiv.org/abs/2308.04288)|null|
 |**2023-08-08**|**MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction**|Xiaowen Wang et.al.|[2308.04266](http://arxiv.org/abs/2308.04266)|null|
@@ -538,6 +548,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
+|**2023-08-09**|**TextPainter: Multimodal Text Image Generation withVisual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733](http://arxiv.org/abs/2308.04733)|null|
+|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|null|
+|**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699](http://arxiv.org/abs/2308.04699)|**[link](https://github.com/ffhibnese/gifd)**|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
 |**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163](http://arxiv.org/abs/2308.04163)|**[link](https://github.com/namecantbenull/srudc)**|
 |**2023-08-08**|**The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**|Timothy Merino et.al.|[2308.04052](http://arxiv.org/abs/2308.04052)|null|
