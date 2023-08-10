@@ -18,7 +18,7 @@ layout: default
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
 |**2023-08-09**|**Deuterium Escape on Sub-Neptunes**|Pin-Gao Gu et.al.|[2308.05057](http://arxiv.org/abs/2308.05057)|null|
 |**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021](http://arxiv.org/abs/2308.05021)|null|
-|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995](http://arxiv.org/abs/2308.04995)|null|
+|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995](http://arxiv.org/abs/2308.04995)|**[link](https://github.com/fdbtrs/IDiff-Face)**|
 |**2023-08-09**|**CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks**|Hongjun Zhu et.al.|[2308.04961](http://arxiv.org/abs/2308.04961)|null|
 |**2023-08-09**|**Deep Learning-Based Prediction of Fractional Flow Reserve along the Coronary Artery**|Nils Hampe et.al.|[2308.04923](http://arxiv.org/abs/2308.04923)|null|
 |**2023-08-09**|**Interaction-induced directional transport on periodically driven chains**|Helena Drüeke et.al.|[2308.04845](http://arxiv.org/abs/2308.04845)|null|
