@@ -68,7 +68,7 @@
 |**2023-08-02**|**Open heavy flavors: Theory**|Santosh K. Das et.al.|[2308.01167](http://arxiv.org/abs/2308.01167)|null|
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-02**|**DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation**|Jingfan Chen et.al.|[2308.01127](http://arxiv.org/abs/2308.01127)|null|
-|**2023-08-02**|**Hidden Markov modeling of single particle diffusion with stochastic tethering**|Amit Federbush et.al.|[2308.01100](http://arxiv.org/abs/2308.01100)|null|
+|**2023-08-02**|**Hidden Markov modeling of single particle diffusion with stochastic tethering**|Amit Federbush et.al.|[2308.01100](http://arxiv.org/abs/2308.01100)|**[link](https://github.com/ybs-lab/diffusion-with-tethering)**|
 |**2023-08-02**|**Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction**|Muhammad U. Mirza et.al.|[2308.01096](http://arxiv.org/abs/2308.01096)|**[link](https://github.com/icon-lab/fdb)**|
 |**2023-08-01**|**On the vibrational properties of transition metal doped ZnO: surface, defect, and bandgap engineering**|Viviane M. A. Lage et.al.|[2308.00684](http://arxiv.org/abs/2308.00684)|null|
 |**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675](http://arxiv.org/abs/2308.00675)|null|
