@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734](http://arxiv.org/abs/2308.05734)|null|
+|**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732](http://arxiv.org/abs/2308.05732)|null|
+|**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695](http://arxiv.org/abs/2308.05695)|null|
+|**2023-08-10**|**Escape by jumps and diffusion by α-stable noise across the barrier in a double well potential**|Ignacio del Amo et.al.|[2308.05684](http://arxiv.org/abs/2308.05684)|null|
+|**2023-08-10**|**Modelling non-local cell-cell adhesion: a multiscale approach**|Anna Zhigun et.al.|[2308.05676](http://arxiv.org/abs/2308.05676)|null|
+|**2023-08-10**|**Sublimation of refractory minerals in the gas envelopes of accreting rocky planets**|Marie-Luise Steinmeyer et.al.|[2308.05647](http://arxiv.org/abs/2308.05647)|null|
+|**2023-08-10**|**On a nonlocal two-phase flow with convective heat transfer**|Šárka Ňecasová et.al.|[2308.05608](http://arxiv.org/abs/2308.05608)|null|
+|**2023-08-10**|**Budget equations and astrophysical nonlinear mean-field dynamos**|I. Rogachevskii et.al.|[2308.05590](http://arxiv.org/abs/2308.05590)|null|
+|**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583](http://arxiv.org/abs/2308.05583)|null|
+|**2023-08-10**|**Fokker-Planck-Poisson kinetics: Multi-phase flow beyond equilibrium**|Mohsen Sadr et.al.|[2308.05580](http://arxiv.org/abs/2308.05580)|null|
 |**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103](http://arxiv.org/abs/2308.05103)|**[link](https://github.com/jaejin-cho/miccai2023)**|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
 |**2023-08-09**|**Deuterium Escape on Sub-Neptunes**|Pin-Gao Gu et.al.|[2308.05057](http://arxiv.org/abs/2308.05057)|null|
@@ -489,6 +499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Double-chain Constraints for 3D Human Pose Estimation in Images and Videos**|Hongbo Kang et.al.|[2308.05298](http://arxiv.org/abs/2308.05298)|**[link](https://github.com/KHB1698/DC-GCT)**|
 |**2023-08-05**|**DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation**|Qiaosong Qi et.al.|[2308.02915](http://arxiv.org/abs/2308.02915)|null|
 |**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397](http://arxiv.org/abs/2308.02397)|**[link](https://github.com/itiv-kit/dse-sparse-imu)**|
 |**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
@@ -538,6 +549,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
+|**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384](http://arxiv.org/abs/2308.05384)|null|
+|**2023-08-09**|**Vector quantization loss analysis in VQGANs: a single-GPU ablation study for image-to-image synthesis**|Luv Verma et.al.|[2308.05242](http://arxiv.org/abs/2308.05242)|null|
+|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184](http://arxiv.org/abs/2308.05184)|null|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
 |**2023-08-10**|**TextPainter: Multimodal Text Image Generation withVisual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733](http://arxiv.org/abs/2308.04733)|null|
 |**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|null|
@@ -802,6 +817,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|null|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-08-10**|**InFusion: Inject and Attention Fusion for Multi Concept Zero-Shot Text-based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
