@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.11
+## Updated on 2023.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -551,11 +551,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
 |**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384](http://arxiv.org/abs/2308.05384)|null|
-|**2023-08-09**|**Vector quantization loss analysis in VQGANs: a single-GPU ablation study for image-to-image synthesis**|Luv Verma et.al.|[2308.05242](http://arxiv.org/abs/2308.05242)|null|
-|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184](http://arxiv.org/abs/2308.05184)|null|
+|**2023-08-09**|**Vector quantization loss analysis in VQGANs: a single-GPU ablation study for image-to-image synthesis**|Luv Verma et.al.|[2308.05242](http://arxiv.org/abs/2308.05242)|**[link](https://github.com/luv91/vqgan_project)**|
+|**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184](http://arxiv.org/abs/2308.05184)|**[link](https://github.com/johnr0/promptpaint)**|
 |**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
 |**2023-08-10**|**TextPainter: Multimodal Text Image Generation withVisual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733](http://arxiv.org/abs/2308.04733)|null|
-|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|null|
+|**2023-08-09**|**A Forensic Methodology for Detecting Image Manipulations**|Jiwon Lee et.al.|[2308.04723](http://arxiv.org/abs/2308.04723)|**[link](https://github.com/allinonee/manipulated-image-dataset)**|
 |**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699](http://arxiv.org/abs/2308.04699)|**[link](https://github.com/ffhibnese/gifd)**|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
 |**2023-08-08**|**Under-Display Camera Image Restoration with Scattering Effect**|Binbin Song et.al.|[2308.04163](http://arxiv.org/abs/2308.04163)|**[link](https://github.com/namecantbenull/srudc)**|
@@ -817,7 +817,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|null|
+|**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|**[link](https://github.com/frans-db/progress-prediction)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-08-10**|**InFusion: Inject and Attention Fusion for Multi Concept Zero-Shot Text-based Video Editing**|Anant Khandelwal et.al.|[2308.00135](http://arxiv.org/abs/2308.00135)|null|
