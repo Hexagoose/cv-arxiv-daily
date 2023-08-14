@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -21,7 +21,7 @@ layout: default
 |**2023-08-10**|**Modelling non-local cell-cell adhesion: a multiscale approach**|Anna Zhigun et.al.|[2308.05676](http://arxiv.org/abs/2308.05676)|null|
 |**2023-08-10**|**Sublimation of refractory minerals in the gas envelopes of accreting rocky planets**|Marie-Luise Steinmeyer et.al.|[2308.05647](http://arxiv.org/abs/2308.05647)|null|
 |**2023-08-10**|**On a nonlocal two-phase flow with convective heat transfer**|Šárka Ňecasová et.al.|[2308.05608](http://arxiv.org/abs/2308.05608)|null|
-|**2023-08-10**|**Budget equations and astrophysical nonlinear mean-field dynamos**|I. Rogachevskii et.al.|[2308.05590](http://arxiv.org/abs/2308.05590)|null|
+|**2023-08-11**|**Budget equations and astrophysical nonlinear mean-field dynamos**|I. Rogachevskii et.al.|[2308.05590](http://arxiv.org/abs/2308.05590)|null|
 |**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583](http://arxiv.org/abs/2308.05583)|null|
 |**2023-08-10**|**Fokker-Planck-Poisson kinetics: Multi-phase flow beyond equilibrium**|Mohsen Sadr et.al.|[2308.05580](http://arxiv.org/abs/2308.05580)|null|
 |**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103](http://arxiv.org/abs/2308.05103)|**[link](https://github.com/jaejin-cho/miccai2023)**|
@@ -503,7 +503,7 @@ layout: default
 |**2023-08-05**|**DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation**|Qiaosong Qi et.al.|[2308.02915](http://arxiv.org/abs/2308.02915)|null|
 |**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397](http://arxiv.org/abs/2308.02397)|**[link](https://github.com/itiv-kit/dse-sparse-imu)**|
 |**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
-|**2023-08-09**|**Spatio-Temporal Branching for Motion Prediction using Motion Increments**|Jiexin Wang et.al.|[2308.01097](http://arxiv.org/abs/2308.01097)|**[link](https://github.com/jasonwang959/stpmp)**|
+|**2023-08-11**|**Spatio-Temporal Branching for Motion Prediction using Motion Increments**|Jiexin Wang et.al.|[2308.01097](http://arxiv.org/abs/2308.01097)|**[link](https://github.com/jasonwang959/stpmp)**|
 |**2023-07-31**|**Don't be so negative! Score-based Generative Modeling with Oracle-assisted Guidance**|Saeid Naderiparizi et.al.|[2307.16463](http://arxiv.org/abs/2307.16463)|null|
 |**2023-07-30**|**TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction**|Sibo Tian et.al.|[2307.16106](http://arxiv.org/abs/2307.16106)|null|
 |**2023-07-26**|**Learning Snippet-to-Motion Progression for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2307.14006](http://arxiv.org/abs/2307.14006)|null|
