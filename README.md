@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,12 +24,12 @@
 |**2023-08-11**|**Exploiting locality in sparse polynomial approximation of parametric elliptic PDEs and application to parameterized domains**|Wouter van Harten et.al.|[2308.06188](http://arxiv.org/abs/2308.06188)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Non-equilibrium phase transitions in active rank diffusions**|Léo Touzo et.al.|[2308.06118](http://arxiv.org/abs/2308.06118)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Diffusion-based Visual Counterfactual Explanations -- Towards Systematic Quantitative Evaluation**|Philipp Vaeth et.al.|[2308.06100](http://arxiv.org/abs/2308.06100)|**[link](https://github.com/cairo-thws/dbvce_eval)**|
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
 |**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038](http://arxiv.org/abs/2308.06038)|null|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
-|**2023-08-11**|**Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model**|Fan Zhang et.al.|[2308.05995](http://arxiv.org/abs/2308.05995)|null|
+|**2023-08-14**|**Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model**|Fan Zhang et.al.|[2308.05995](http://arxiv.org/abs/2308.05995)|null|
 |**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734](http://arxiv.org/abs/2308.05734)|null|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732](http://arxiv.org/abs/2308.05732)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695](http://arxiv.org/abs/2308.05695)|null|
@@ -511,7 +511,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## Motion
 
@@ -564,7 +564,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## Image Generation
 
@@ -573,7 +573,7 @@
 |**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
 |**2023-08-11**|**BATINet: Background-Aware Text to Image Synthesis and Manipulation Network**|Ryugo Morita et.al.|[2308.05921](http://arxiv.org/abs/2308.05921)|null|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
@@ -840,7 +840,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 ## Video Generation
 
@@ -886,7 +886,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

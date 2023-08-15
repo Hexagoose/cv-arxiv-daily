@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -18,12 +18,12 @@ layout: default
 |**2023-08-11**|**Exploiting locality in sparse polynomial approximation of parametric elliptic PDEs and application to parameterized domains**|Wouter van Harten et.al.|[2308.06188](http://arxiv.org/abs/2308.06188)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Non-equilibrium phase transitions in active rank diffusions**|Léo Touzo et.al.|[2308.06118](http://arxiv.org/abs/2308.06118)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Diffusion-based Visual Counterfactual Explanations -- Towards Systematic Quantitative Evaluation**|Philipp Vaeth et.al.|[2308.06100](http://arxiv.org/abs/2308.06100)|**[link](https://github.com/cairo-thws/dbvce_eval)**|
 |**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
 |**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038](http://arxiv.org/abs/2308.06038)|null|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
-|**2023-08-11**|**Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model**|Fan Zhang et.al.|[2308.05995](http://arxiv.org/abs/2308.05995)|null|
+|**2023-08-14**|**Audio is all in one: speech-driven gesture synthetics using WavLM pre-trained model**|Fan Zhang et.al.|[2308.05995](http://arxiv.org/abs/2308.05995)|null|
 |**2023-08-10**|**AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining**|Haohe Liu et.al.|[2308.05734](http://arxiv.org/abs/2308.05734)|null|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732](http://arxiv.org/abs/2308.05732)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695](http://arxiv.org/abs/2308.05695)|null|
@@ -563,7 +563,7 @@ layout: default
 |**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
-|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
 |**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
 |**2023-08-11**|**BATINet: Background-Aware Text to Image Synthesis and Manipulation Network**|Ryugo Morita et.al.|[2308.05921](http://arxiv.org/abs/2308.05921)|null|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
