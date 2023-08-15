@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
+|**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293](http://arxiv.org/abs/2308.07293)|null|
+|**2023-08-14**|**Heavy quark diffusion coefficient during hydrodynamization -- non-equilibrium vs. equilibrium**|Kirill Boguslavski et.al.|[2308.07169](http://arxiv.org/abs/2308.07169)|null|
+|**2023-08-14**|**Magnetic monopole meets primordial black hole: An extended analysis**|Chen Zhang et.al.|[2308.07166](http://arxiv.org/abs/2308.07166)|null|
+|**2023-08-14**|**Lightcurve and spectral modelling of the Type IIb SN 2020acat. Evidence for a strong Ni bubble effect on the diffusion time**|Mattias Ergon et.al.|[2308.07158](http://arxiv.org/abs/2308.07158)|null|
+|**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151](http://arxiv.org/abs/2308.07151)|null|
+|**2023-08-14**|**Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion**|Giulia Cencetti et.al.|[2308.07058](http://arxiv.org/abs/2308.07058)|null|
+|**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037](http://arxiv.org/abs/2308.07037)|null|
+|**2023-08-14**|**An efficient topology optimization method for steady gas flows in all flow regimes**|Ruifeng Yuan et.al.|[2308.07018](http://arxiv.org/abs/2308.07018)|null|
+|**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
 |**2023-08-11**|**Acoustofluidic Engineering Functional Vessel-on-a-Chip**|Yue Wu et.al.|[2308.06219](http://arxiv.org/abs/2308.06219)|null|
 |**2023-08-11**|**Exploiting locality in sparse polynomial approximation of parametric elliptic PDEs and application to parameterized domains**|Wouter van Harten et.al.|[2308.06188](http://arxiv.org/abs/2308.06188)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
@@ -509,6 +519,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301](http://arxiv.org/abs/2308.07301)|null|
+|**2023-08-12**|**Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction**|Hyeongjin Nam et.al.|[2308.06554](http://arxiv.org/abs/2308.06554)|null|
+|**2023-08-12**|**Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference**|Zeming Zhuang et.al.|[2308.06503](http://arxiv.org/abs/2308.06503)|null|
 |**2023-08-11**|**A Game-Theoretic Framework for Joint Forecasting and Planning**|Kushal Kedia et.al.|[2308.06137](http://arxiv.org/abs/2308.06137)|**[link](https://github.com/portal-cornell/game-theoretic-forecasting-planning)**|
 |**2023-08-10**|**Double-chain Constraints for 3D Human Pose Estimation in Images and Videos**|Hongbo Kang et.al.|[2308.05298](http://arxiv.org/abs/2308.05298)|**[link](https://github.com/KHB1698/DC-GCT)**|
 |**2023-08-05**|**DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation**|Qiaosong Qi et.al.|[2308.02915](http://arxiv.org/abs/2308.02915)|null|
@@ -560,6 +573,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
+|**2023-08-14**|**Semantic-aware Network for Aerial-to-Ground Image Synthesis**|Jinhyun Jang et.al.|[2308.06945](http://arxiv.org/abs/2308.06945)|**[link](https://github.com/jinhyunj/sanet)**|
+|**2023-08-13**|**Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks**|David Junhao Zhang et.al.|[2308.06739](http://arxiv.org/abs/2308.06739)|null|
+|**2023-08-13**|**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models**|Hu Ye et.al.|[2308.06721](http://arxiv.org/abs/2308.06721)|null|
+|**2023-08-13**|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|Binbin Yang et.al.|[2308.06713](http://arxiv.org/abs/2308.06713)|null|
+|**2023-08-13**|**Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection**|Haichao Zhang et.al.|[2308.06701](http://arxiv.org/abs/2308.06701)|null|
+|**2023-08-12**|**Semantic Communications with Explicit Semantic Base for Image Transmission**|Yuan Zheng et.al.|[2308.06599](http://arxiv.org/abs/2308.06599)|null|
+|**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
+|**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405](http://arxiv.org/abs/2308.06405)|null|
 |**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
@@ -834,6 +856,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
 |**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|**[link](https://github.com/frans-db/progress-prediction)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
