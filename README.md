@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
+|**2023-08-15**|**Time-fractional Caputo derivative versus other integro-differential operators in generalized Fokker-Planck and generalized Langevin equations**|Qing Wei et.al.|[2308.07850](http://arxiv.org/abs/2308.07850)|null|
+|**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
+|**2023-08-15**|**Explainable Machine Learning for Hydrogen Diffusion in Metals and Random Binary Alloys**|Grace M. Lu et.al.|[2308.07823](http://arxiv.org/abs/2308.07823)|null|
+|**2023-08-15**|**First Passage Times for Continuous Quantum Measurement Currents**|Michael J. Kewming et.al.|[2308.07810](http://arxiv.org/abs/2308.07810)|null|
+|**2023-08-15**|**DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding**|Jeongsoo Choi et.al.|[2308.07787](http://arxiv.org/abs/2308.07787)|**[link](https://github.com/joannahong/diffv2s)**|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
+|**2023-08-15**|**Low Mach number limit for non-isentropic magnetohydrodynamic equations with ill-prepared data and zero magnetic diffusivity in bounded domains**|Yaobin Ou et.al.|[2308.07745](http://arxiv.org/abs/2308.07745)|null|
+|**2023-08-15**|**Microstructural and material property changes in severely deformed Eurofer-97**|Kay Song et.al.|[2308.07735](http://arxiv.org/abs/2308.07735)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293](http://arxiv.org/abs/2308.07293)|null|
 |**2023-08-14**|**Heavy quark diffusion coefficient during hydrodynamization -- non-equilibrium vs. equilibrium**|Kirill Boguslavski et.al.|[2308.07169](http://arxiv.org/abs/2308.07169)|null|
@@ -527,6 +537,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301](http://arxiv.org/abs/2308.07301)|null|
 |**2023-08-12**|**Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction**|Hyeongjin Nam et.al.|[2308.06554](http://arxiv.org/abs/2308.06554)|null|
 |**2023-08-12**|**Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference**|Zeming Zhuang et.al.|[2308.06503](http://arxiv.org/abs/2308.06503)|null|
@@ -583,6 +594,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|null|
+|**2023-08-15**|**Story Visualization by Online Text Augmentation with Context Memory**|Daechul Ahn et.al.|[2308.07575](http://arxiv.org/abs/2308.07575)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Semantic-aware Network for Aerial-to-Ground Image Synthesis**|Jinhyun Jang et.al.|[2308.06945](http://arxiv.org/abs/2308.06945)|**[link](https://github.com/jinhyunj/sanet)**|
 |**2023-08-13**|**Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks**|David Junhao Zhang et.al.|[2308.06739](http://arxiv.org/abs/2308.06739)|null|
@@ -868,6 +882,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
 |**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|**[link](https://github.com/frans-db/progress-prediction)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
