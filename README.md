@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 ## Motion
 
@@ -577,7 +577,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 ## Image Generation
 
@@ -592,7 +592,7 @@
 |**2023-08-12**|**Semantic Communications with Explicit Semantic Base for Image Transmission**|Yuan Zheng et.al.|[2308.06599](http://arxiv.org/abs/2308.06599)|null|
 |**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
 |**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405](http://arxiv.org/abs/2308.06405)|null|
-|**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
+|**2023-08-15**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
@@ -862,7 +862,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 ## Video Generation
 
@@ -909,7 +909,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -582,7 +582,7 @@ layout: default
 |**2023-08-12**|**Semantic Communications with Explicit Semantic Base for Image Transmission**|Yuan Zheng et.al.|[2308.06599](http://arxiv.org/abs/2308.06599)|null|
 |**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
 |**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405](http://arxiv.org/abs/2308.06405)|null|
-|**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
+|**2023-08-15**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
