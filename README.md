@@ -35,8 +35,8 @@
 |**2023-08-14**|**Heavy quark diffusion coefficient during hydrodynamization -- non-equilibrium vs. equilibrium**|Kirill Boguslavski et.al.|[2308.07169](http://arxiv.org/abs/2308.07169)|null|
 |**2023-08-14**|**Magnetic monopole meets primordial black hole: An extended analysis**|Chen Zhang et.al.|[2308.07166](http://arxiv.org/abs/2308.07166)|null|
 |**2023-08-14**|**Lightcurve and spectral modelling of the Type IIb SN 2020acat. Evidence for a strong Ni bubble effect on the diffusion time**|Mattias Ergon et.al.|[2308.07158](http://arxiv.org/abs/2308.07158)|null|
-|**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151](http://arxiv.org/abs/2308.07151)|null|
-|**2023-08-14**|**Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion**|Giulia Cencetti et.al.|[2308.07058](http://arxiv.org/abs/2308.07058)|null|
+|**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151](http://arxiv.org/abs/2308.07151)|**[link](https://github.com/ciodar/cultural-heritage-diffaug)**|
+|**2023-08-14**|**Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion**|Giulia Cencetti et.al.|[2308.07058](http://arxiv.org/abs/2308.07058)|**[link](https://github.com/giuliacencetti/social_bubbles)**|
 |**2023-08-14**|**Bayesian Flow Networks**|Alex Graves et.al.|[2308.07037](http://arxiv.org/abs/2308.07037)|null|
 |**2023-08-14**|**An efficient topology optimization method for steady gas flows in all flow regimes**|Ruifeng Yuan et.al.|[2308.07018](http://arxiv.org/abs/2308.07018)|null|
 |**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
