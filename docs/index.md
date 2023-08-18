@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -541,7 +541,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301](http://arxiv.org/abs/2308.07301)|null|
-|**2023-08-12**|**Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction**|Hyeongjin Nam et.al.|[2308.06554](http://arxiv.org/abs/2308.06554)|null|
+|**2023-08-12**|**Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction**|Hyeongjin Nam et.al.|[2308.06554](http://arxiv.org/abs/2308.06554)|**[link](https://github.com/hygenie1228/cycleadapt_release)**|
 |**2023-08-12**|**Integrated Sensing-Communication-Computation for Over-the-Air Edge AI Inference**|Zeming Zhuang et.al.|[2308.06503](http://arxiv.org/abs/2308.06503)|null|
 |**2023-08-11**|**A Game-Theoretic Framework for Joint Forecasting and Planning**|Kushal Kedia et.al.|[2308.06137](http://arxiv.org/abs/2308.06137)|**[link](https://github.com/portal-cornell/game-theoretic-forecasting-planning)**|
 |**2023-08-10**|**Double-chain Constraints for 3D Human Pose Estimation in Images and Videos**|Hongbo Kang et.al.|[2308.05298](http://arxiv.org/abs/2308.05298)|**[link](https://github.com/KHB1698/DC-GCT)**|
@@ -594,13 +594,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-16**|**Likelihood-Based Text-to-Image Evaluation with Patch-Level Perceptual and Semantic Credit Assignment**|Qi Chen et.al.|[2308.08525](http://arxiv.org/abs/2308.08525)|null|
+|**2023-08-16**|**Likelihood-Based Text-to-Image Evaluation with Patch-Level Perceptual and Semantic Credit Assignment**|Qi Chen et.al.|[2308.08525](http://arxiv.org/abs/2308.08525)|**[link](https://github.com/chenqi008/leica)**|
 |**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520](http://arxiv.org/abs/2308.08520)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
 |**2023-08-16**|**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**|Minho Park et.al.|[2308.08157](http://arxiv.org/abs/2308.08157)|null|
 |**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
-|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|null|
+|**2023-08-15**|**SGDiff: A Style Guided Diffusion Model for Fashion Synthesis**|Zhengwentai Sun et.al.|[2308.07605](http://arxiv.org/abs/2308.07605)|**[link](https://github.com/taited/sgdiff)**|
 |**2023-08-15**|**Story Visualization by Online Text Augmentation with Context Memory**|Daechul Ahn et.al.|[2308.07575](http://arxiv.org/abs/2308.07575)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Semantic-aware Network for Aerial-to-Ground Image Synthesis**|Jinhyun Jang et.al.|[2308.06945](http://arxiv.org/abs/2308.06945)|**[link](https://github.com/jinhyunj/sanet)**|
