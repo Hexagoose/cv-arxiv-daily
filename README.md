@@ -766,7 +766,7 @@
 |**2023-07-05**|**SoK: Privacy-Preserving Data Synthesis**|Yuzheng Hu et.al.|[2307.02106](http://arxiv.org/abs/2307.02106)|null|
 |**2023-07-04**|**SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis**|Dustin Podell et.al.|[2307.01952](http://arxiv.org/abs/2307.01952)|**[link](https://github.com/stability-ai/generative-models)**|
 |**2023-07-04**|**A Synthetic Electrocardiogram (ECG) Image Generation Toolbox to Facilitate Deep Learning-Based Scanned ECG Digitization**|Kshama Kodthalu Shivashankara et.al.|[2307.01946](http://arxiv.org/abs/2307.01946)|null|
-|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|null|
+|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|**[link](https://github.com/leieric/text-sketch)**|
 |**2023-07-04**|**Generative Artificial Intelligence Consensus in a Trustless Network**|Edward Kim et.al.|[2307.01898](http://arxiv.org/abs/2307.01898)|null|
 |**2023-07-04**|**Disentanglement in a GAN for Unconditional Speech Synthesis**|Matthew Baas et.al.|[2307.01673](http://arxiv.org/abs/2307.01673)|**[link](https://github.com/rf5/simple-asgan)**|
 |**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193](http://arxiv.org/abs/2307.01193)|null|
