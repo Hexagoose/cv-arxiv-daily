@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
+|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
+|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
+|**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
+|**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678](http://arxiv.org/abs/2308.09678)|**[link](https://github.com/hbing-l/posynda)**|
+|**2023-08-18**|**Existence and Stability of a Boundary Layer with an Interior Spike in the Singularly Perturbed Shadow Gierer-Meinhardt System**|Daniel Gomez et.al.|[2308.09620](http://arxiv.org/abs/2308.09620)|null|
+|**2023-08-18**|**Constrained Bayesian Optimization Using a Lagrange Multiplier Applied to Power Transistor Design**|Ping-Ju Chuang et.al.|[2308.09612](http://arxiv.org/abs/2308.09612)|null|
+|**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599](http://arxiv.org/abs/2308.09599)|null|
+|**2023-08-18**|**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**|Wenhao Chai et.al.|[2308.09592](http://arxiv.org/abs/2308.09592)|**[link](https://github.com/rese1f/stablevideo)**|
+|**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|null|
 |**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|null|
 |**2023-08-16**|**Voxlines: Streamline Transparency through Voxelization and View-Dependent Line Orders**|Besm Osman et.al.|[2308.08436](http://arxiv.org/abs/2308.08436)|null|
 |**2023-08-18**|**Lasing, quantum geometry and coherence in non-Hermitian flat bands**|Ivan Amelio et.al.|[2308.08418](http://arxiv.org/abs/2308.08418)|null|
@@ -547,6 +557,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Language-guided Human Motion Synthesis with Atomic Actions**|Yuanhao Zhai et.al.|[2308.09611](http://arxiv.org/abs/2308.09611)|**[link](https://github.com/yhzhai/atom)**|
+|**2023-08-17**|**Synthesizing Physically Plausible Human Motions in 3D Scenes**|Liang Pan et.al.|[2308.09036](http://arxiv.org/abs/2308.09036)|**[link](https://github.com/liangpan99/interscene)**|
+|**2023-08-17**|**Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction**|Chenxin Xu et.al.|[2308.08942](http://arxiv.org/abs/2308.08942)|**[link](https://github.com/mediabrain-sjtu/auxformer)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301](http://arxiv.org/abs/2308.07301)|null|
 |**2023-08-12**|**Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction**|Hyeongjin Nam et.al.|[2308.06554](http://arxiv.org/abs/2308.06554)|**[link](https://github.com/hygenie1228/cycleadapt_release)**|
@@ -604,6 +617,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
+|**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306](http://arxiv.org/abs/2308.09306)|null|
+|**2023-08-18**|**RFDforFin: Robust Deep Forgery Detection for GAN-generated Fingerprint Images**|Hui Miao et.al.|[2308.09285](http://arxiv.org/abs/2308.09285)|null|
+|**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947](http://arxiv.org/abs/2308.08947)|null|
 |**2023-08-16**|**Likelihood-Based Text-to-Image Evaluation with Patch-Level Perceptual and Semantic Credit Assignment**|Qi Chen et.al.|[2308.08525](http://arxiv.org/abs/2308.08525)|**[link](https://github.com/chenqi008/leica)**|
 |**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520](http://arxiv.org/abs/2308.08520)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
@@ -897,6 +914,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713](http://arxiv.org/abs/2308.09713)|null|
+|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
+|**2023-08-18**|**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**|Wenhao Chai et.al.|[2308.09592](http://arxiv.org/abs/2308.09592)|**[link](https://github.com/rese1f/stablevideo)**|
+|**2023-08-17**|**Edit Temporal-Consistent Videos with Image Diffusion Model**|Yuanzhi Wang et.al.|[2308.09091](http://arxiv.org/abs/2308.09091)|null|
 |**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
 |**2023-08-16**|**OnUVS: Online Feature Decoupling Framework for High-Fidelity Ultrasound Video Synthesis**|Han Zhou et.al.|[2308.08269](http://arxiv.org/abs/2308.08269)|null|
 |**2023-08-16**|**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**|Shengming Yin et.al.|[2308.08089](http://arxiv.org/abs/2308.08089)|null|
