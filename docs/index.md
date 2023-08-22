@@ -24,7 +24,7 @@ layout: default
 |**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599](http://arxiv.org/abs/2308.09599)|null|
 |**2023-08-18**|**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**|Wenhao Chai et.al.|[2308.09592](http://arxiv.org/abs/2308.09592)|**[link](https://github.com/rese1f/stablevideo)**|
 |**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|null|
-|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|null|
+|**2023-08-16**|**TeCH: Text-guided Reconstruction of Lifelike Clothed Humans**|Yangyi Huang et.al.|[2308.08545](http://arxiv.org/abs/2308.08545)|**[link](https://github.com/huangyangyi/tech)**|
 |**2023-08-16**|**Voxlines: Streamline Transparency through Voxelization and View-Dependent Line Orders**|Besm Osman et.al.|[2308.08436](http://arxiv.org/abs/2308.08436)|null|
 |**2023-08-18**|**Lasing, quantum geometry and coherence in non-Hermitian flat bands**|Ivan Amelio et.al.|[2308.08418](http://arxiv.org/abs/2308.08418)|null|
 |**2023-08-16**|**The Cauchy-Dirichlet Problem for the Fast Diffusion Equation on Bounded Domains**|Matteo Bonforte et.al.|[2308.08394](http://arxiv.org/abs/2308.08394)|null|
