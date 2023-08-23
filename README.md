@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Theory of Transverse Mode Instability in Fiber Amplifiers with Multimode Excitations**|Kabish Wisal et.al.|[2308.11599](http://arxiv.org/abs/2308.11599)|null|
+|**2023-08-22**|**The grapheme-valued Wright-Fisher diffusion with mutation**|Andreas Greven et.al.|[2308.11598](http://arxiv.org/abs/2308.11598)|null|
+|**2023-08-22**|**NIPG-DG schemes for transformed master equations modeling open quantum systems**|Jose A. Morales Escalante et.al.|[2308.11580](http://arxiv.org/abs/2308.11580)|null|
+|**2023-08-22**|**Modelling Structural Breaks In Stock Price Time Series Using Stochastic Differential Equations**|Daniil Karzanov et.al.|[2308.11548](http://arxiv.org/abs/2308.11548)|null|
+|**2023-08-22**|**Ultra diffuse galaxies in the Hydra I cluster from the LEWIS Project: Phase-Space distribution and globular cluster richness**|Duncan Forbes et.al.|[2308.11496](http://arxiv.org/abs/2308.11496)|null|
+|**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493](http://arxiv.org/abs/2308.11493)|null|
+|**2023-08-22**|**IT3D: Improved Text-to-3D Generation with Explicit View Synthesis**|Yiwen Chen et.al.|[2308.11473](http://arxiv.org/abs/2308.11473)|**[link](https://github.com/buaacyw/it3d-text-to-3d)**|
+|**2023-08-22**|**Quantitative global well-posedness of Boltzmann-Bose-Einstein equation and incompressible Navier-Stokes-Fourier limit**|Ling-Bing He et.al.|[2308.11453](http://arxiv.org/abs/2308.11453)|null|
+|**2023-08-22**|**Convergence guarantee for consistency models**|Junlong Lyu et.al.|[2308.11449](http://arxiv.org/abs/2308.11449)|null|
+|**2023-08-22**|**SDeMorph: Towards Better Facial De-morphing from Single Morph**|Nitish Shukla et.al.|[2308.11442](http://arxiv.org/abs/2308.11442)|null|
 |**2023-08-21**|**TADA! Text to Animatable Digital Avatars**|Tingting Liao et.al.|[2308.10899](http://arxiv.org/abs/2308.10899)|null|
 |**2023-08-21**|**Dynamic and static large deviations of a one dimensional SSEP in weak contact with reservoirs**|Claudio Landim et.al.|[2308.10895](http://arxiv.org/abs/2308.10895)|null|
 |**2023-08-21**|**Election Manipulation in Social Networks with Single-Peaked Agents**|Vincenzo Auletta et.al.|[2308.10845](http://arxiv.org/abs/2308.10845)|null|
@@ -629,6 +639,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557](http://arxiv.org/abs/2308.11557)|null|
+|**2023-08-22**|**Semantic RGB-D Image Synthesis**|Shijie Li et.al.|[2308.11356](http://arxiv.org/abs/2308.11356)|null|
+|**2023-08-22**|**MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers**|Daniel Silver et.al.|[2308.11096](http://arxiv.org/abs/2308.11096)|null|
+|**2023-08-21**|**Debiasing Counterfactuals In the Presence of Spurious Correlations**|Amar Kumar et.al.|[2308.10984](http://arxiv.org/abs/2308.10984)|null|
 |**2023-08-21**|**Sampling From Autoencoders' Latent Space via Quantization And Probability Mass Function Concepts**|Aymene Mohammed Bouayed et.al.|[2308.10704](http://arxiv.org/abs/2308.10704)|null|
 |**2023-08-21**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
 |**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273](http://arxiv.org/abs/2308.10273)|null|
@@ -936,6 +950,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606](http://arxiv.org/abs/2308.11606)|**[link](https://github.com/google/storybench)**|
+|**2023-08-22**|**Hamiltonian GAN**|Christine Allen-Blanchette et.al.|[2308.11216](http://arxiv.org/abs/2308.11216)|null|
 |**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648](http://arxiv.org/abs/2308.10648)|null|
 |**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713](http://arxiv.org/abs/2308.09713)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
