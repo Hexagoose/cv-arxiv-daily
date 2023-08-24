@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279](http://arxiv.org/abs/2308.12279)|null|
+|**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
+|**2023-08-23**|**Enhancing cardiovascular risk prediction through AI-enabled calcium-omics**|Ammar Hoori et.al.|[2308.12224](http://arxiv.org/abs/2308.12224)|null|
+|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219](http://arxiv.org/abs/2308.12219)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-23**|**Turing patterns on a two-component isotropic growing system. Part 1: Homogeneous state and stability of perturbations in absence of diffusion**|Aldo Ledesma-Durán et.al.|[2308.12196](http://arxiv.org/abs/2308.12196)|null|
+|**2023-08-23**|**Multiple-scale analysis of the simplest large-delay differential equation**|Gregory Kozyreff et.al.|[2308.12172](http://arxiv.org/abs/2308.12172)|null|
+|**2023-08-23**|**Space-time hybridizable discontinuous Galerkin method for advection-diffusion on deforming domains: The advection-dominated regime**|Yuan Wang et.al.|[2308.12130](http://arxiv.org/abs/2308.12130)|null|
+|**2023-08-23**|**Progress Towards a Diffuse Neutrino Search in the Full Livetime of the Askaryan Radio Array**|Paramita Dasgupta et.al.|[2308.12125](http://arxiv.org/abs/2308.12125)|null|
+|**2023-08-23**|**Pulse shape discrimination for the CONUS experiment in the keV and sub-keV regime**|H. Bonet et.al.|[2308.12105](http://arxiv.org/abs/2308.12105)|null|
+|**2023-08-23**|**Nonequilibrium transition between a continuous and a discrete time-crystal**|Albert Cabot et.al.|[2308.12080](http://arxiv.org/abs/2308.12080)|null|
 |**2023-08-22**|**Theory of Transverse Mode Instability in Fiber Amplifiers with Multimode Excitations**|Kabish Wisal et.al.|[2308.11599](http://arxiv.org/abs/2308.11599)|null|
 |**2023-08-22**|**The grapheme-valued Wright-Fisher diffusion with mutation**|Andreas Greven et.al.|[2308.11598](http://arxiv.org/abs/2308.11598)|null|
 |**2023-08-22**|**NIPG-DG schemes for transformed master equations modeling open quantum systems**|Jose A. Morales Escalante et.al.|[2308.11580](http://arxiv.org/abs/2308.11580)|null|
@@ -577,6 +587,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition**|Yujun Ma et.al.|[2308.12006](http://arxiv.org/abs/2308.12006)|null|
+|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-20**|**Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video**|Yingxuan You et.al.|[2308.10305](http://arxiv.org/abs/2308.10305)|**[link](https://github.com/kasvii/pmce)**|
 |**2023-08-19**|**Physics-Guided Human Motion Capture with Pose Probability Modeling**|Jingyi Ju et.al.|[2308.09910](http://arxiv.org/abs/2308.09910)|**[link](https://github.com/me-ditto/physics-guided-mocap)**|
 |**2023-08-18**|**Language-guided Human Motion Synthesis with Atomic Actions**|Yuanhao Zhai et.al.|[2308.09611](http://arxiv.org/abs/2308.09611)|**[link](https://github.com/yhzhai/atom)**|
@@ -639,6 +651,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084](http://arxiv.org/abs/2308.12084)|null|
+|**2023-08-23**|**Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages**|Jinyi Hu et.al.|[2308.12038](http://arxiv.org/abs/2308.12038)|**[link](https://github.com/openbmb/viscpm)**|
+|**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948](http://arxiv.org/abs/2308.11948)|null|
+|**2023-08-23**|**LFS-GAN: Lifelong Few-Shot Image Generation**|Juwon Seo et.al.|[2308.11917](http://arxiv.org/abs/2308.11917)|**[link](https://github.com/jjuon/lfs-gan)**|
+|**2023-08-23**|**CoC-GAN: Employing Context Cluster for Unveiling a New Pathway in Image Generation**|Zihao Wang et.al.|[2308.11857](http://arxiv.org/abs/2308.11857)|null|
+|**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804](http://arxiv.org/abs/2308.11804)|null|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557](http://arxiv.org/abs/2308.11557)|null|
 |**2023-08-22**|**Semantic RGB-D Image Synthesis**|Shijie Li et.al.|[2308.11356](http://arxiv.org/abs/2308.11356)|null|
 |**2023-08-22**|**MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers**|Daniel Silver et.al.|[2308.11096](http://arxiv.org/abs/2308.11096)|null|
