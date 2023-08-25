@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964](http://arxiv.org/abs/2308.12964)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-24**|**On the importance of disc chemistry in the formation of protoplanetary disc rings**|C. A. Nolan et.al.|[2308.12946](http://arxiv.org/abs/2308.12946)|null|
+|**2023-08-24**|**Language as Reality: A Co-Creative Storytelling Game Experience in 1001 Nights using Generative AI**|Yuqian Sun et.al.|[2308.12915](http://arxiv.org/abs/2308.12915)|null|
+|**2023-08-24**|**Inverse problem in the conditioning of Markov processes on trajectory observables : what canonical conditionings can connect two given Markov generators ?**|Cecile Monthus et.al.|[2308.12638](http://arxiv.org/abs/2308.12638)|null|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
+|**2023-08-24**|**Unveiling Hidden Physics in the 215-Kelvin Superconducting Calcium Hydride: Temperature, Quantum and Defect Effects**|Hui Wang et.al.|[2308.12618](http://arxiv.org/abs/2308.12618)|null|
+|**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605](http://arxiv.org/abs/2308.12605)|null|
+|**2023-08-24**|**Stability threshold of the 2D Couette flow in a homogeneous magnetic field using symmetric variables**|Michele Dolce et.al.|[2308.12589](http://arxiv.org/abs/2308.12589)|null|
+|**2023-08-24**|**Effective reaction temperatures of irreversible dust chemical reactions in a protoplanetary disk**|Lily Ishizaki et.al.|[2308.12571](http://arxiv.org/abs/2308.12571)|null|
+|**2023-08-24**|**General Covariance-Based Conditions for Central Limit Theorems with Dependent Triangular Arrays**|Arun G. Chandrasekhar et.al.|[2308.12506](http://arxiv.org/abs/2308.12506)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279](http://arxiv.org/abs/2308.12279)|null|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
 |**2023-08-23**|**Enhancing cardiovascular risk prediction through AI-enabled calcium-omics**|Ammar Hoori et.al.|[2308.12224](http://arxiv.org/abs/2308.12224)|null|
@@ -651,6 +661,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Dense Text-to-Image Generation with Attention Modulation**|Yunji Kim et.al.|[2308.12964](http://arxiv.org/abs/2308.12964)|**[link](https://github.com/naver-ai/densediffusion)**|
+|**2023-08-23**|**Augmenting medical image classifiers with synthetic data from latent diffusion models**|Luke W. Sagers et.al.|[2308.12453](http://arxiv.org/abs/2308.12453)|null|
 |**2023-08-23**|**DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning**|Qi Wang et.al.|[2308.12084](http://arxiv.org/abs/2308.12084)|null|
 |**2023-08-23**|**Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages**|Jinyi Hu et.al.|[2308.12038](http://arxiv.org/abs/2308.12038)|**[link](https://github.com/openbmb/viscpm)**|
 |**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948](http://arxiv.org/abs/2308.11948)|null|
@@ -968,6 +980,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605](http://arxiv.org/abs/2308.12605)|null|
 |**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606](http://arxiv.org/abs/2308.11606)|**[link](https://github.com/google/storybench)**|
 |**2023-08-22**|**Hamiltonian GAN**|Christine Allen-Blanchette et.al.|[2308.11216](http://arxiv.org/abs/2308.11216)|null|
 |**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648](http://arxiv.org/abs/2308.10648)|null|
