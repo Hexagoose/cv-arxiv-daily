@@ -668,7 +668,7 @@
 |**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156](http://arxiv.org/abs/2308.10156)|null|
 |**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|
-|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040](http://arxiv.org/abs/2308.10040)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040](http://arxiv.org/abs/2308.10040)|**[link](https://github.com/bcmi/controlcom-image-composition)**|
 |**2023-08-19**|**ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval**|Kaihang Pan et.al.|[2308.10025](http://arxiv.org/abs/2308.10025)|null|
 |**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
