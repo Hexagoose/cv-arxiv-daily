@@ -658,7 +658,7 @@ layout: default
 |**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948](http://arxiv.org/abs/2308.11948)|null|
 |**2023-08-23**|**LFS-GAN: Lifelong Few-Shot Image Generation**|Juwon Seo et.al.|[2308.11917](http://arxiv.org/abs/2308.11917)|**[link](https://github.com/jjuon/lfs-gan)**|
 |**2023-08-23**|**CoC-GAN: Employing Context Cluster for Unveiling a New Pathway in Image Generation**|Zihao Wang et.al.|[2308.11857](http://arxiv.org/abs/2308.11857)|null|
-|**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804](http://arxiv.org/abs/2308.11804)|null|
+|**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804](http://arxiv.org/abs/2308.11804)|**[link](https://github.com/ebagdasa/adversarial_illusions)**|
 |**2023-08-22**|**Open Set Synthetic Image Source Attribution**|Shengbang Fang et.al.|[2308.11557](http://arxiv.org/abs/2308.11557)|null|
 |**2023-08-22**|**Semantic RGB-D Image Synthesis**|Shijie Li et.al.|[2308.11356](http://arxiv.org/abs/2308.11356)|null|
 |**2023-08-22**|**MosaiQ: Quantum Generative Adversarial Networks for Image Generation on NISQ Computers**|Daniel Silver et.al.|[2308.11096](http://arxiv.org/abs/2308.11096)|null|
