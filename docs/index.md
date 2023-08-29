@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -600,7 +600,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-23**|**Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition**|Yujun Ma et.al.|[2308.12006](http://arxiv.org/abs/2308.12006)|null|
-|**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
+|**2023-08-25**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-20**|**Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video**|Yingxuan You et.al.|[2308.10305](http://arxiv.org/abs/2308.10305)|**[link](https://github.com/kasvii/pmce)**|
 |**2023-08-19**|**Physics-Guided Human Motion Capture with Pose Probability Modeling**|Jingyi Ju et.al.|[2308.09910](http://arxiv.org/abs/2308.09910)|**[link](https://github.com/me-ditto/physics-guided-mocap)**|
 |**2023-08-18**|**Language-guided Human Motion Synthesis with Atomic Actions**|Yuanhao Zhai et.al.|[2308.09611](http://arxiv.org/abs/2308.09611)|**[link](https://github.com/yhzhai/atom)**|
