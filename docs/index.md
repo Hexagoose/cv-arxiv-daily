@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740](http://arxiv.org/abs/2308.14740)|null|
+|**2023-08-28**|**Oscillating reaction in porous media under saddle flow**|Satoshi Izumoto et.al.|[2308.14723](http://arxiv.org/abs/2308.14723)|null|
+|**2023-08-28**|**Chaos and anomalous transport in a semiclassical Bose-Hubbard chain**|Dragan Marković et.al.|[2308.14720](http://arxiv.org/abs/2308.14720)|null|
+|**2023-08-28**|**Towards rational design of power-law rheology via DNA nanostar networks**|Nathaniel Conrad et.al.|[2308.14699](http://arxiv.org/abs/2308.14699)|null|
+|**2023-08-28**|**360-Degree Panorama Generation from Few Unregistered NFoV Images**|Jionghao Wang et.al.|[2308.14686](http://arxiv.org/abs/2308.14686)|**[link](https://github.com/shanemankiw/panodiff)**|
+|**2023-08-28**|**Effect of gas diffusion layer fiber shape on cathode two-phase dynamics in proton exchange membrane fuel cells**|Danan Yang et.al.|[2308.14539](http://arxiv.org/abs/2308.14539)|null|
+|**2023-08-28**|**Heavy quark diffusion and radiation at intermediate momentum**|Juhee Hong et.al.|[2308.14530](http://arxiv.org/abs/2308.14530)|null|
+|**2023-08-28**|**Deep learning-based computational method for soft matter dynamics: Deep Onsager-Machlup method**|Zhihao Li et.al.|[2308.14513](http://arxiv.org/abs/2308.14513)|null|
+|**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480](http://arxiv.org/abs/2308.14480)|null|
+|**2023-08-28**|**A convergent interacting particle method for computing KPP front speeds in random flows**|Tan Zhang et.al.|[2308.14479](http://arxiv.org/abs/2308.14479)|null|
 |**2023-08-25**|**Cover times of many diffusive or subdiffusive searchers**|Hyunjoong Kim et.al.|[2308.13417](http://arxiv.org/abs/2308.13417)|null|
 |**2023-08-25**|**Separation of interacting active particles in an asymmetric channel**|Ankit Gupta et.al.|[2308.13390](http://arxiv.org/abs/2308.13390)|null|
 |**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369](http://arxiv.org/abs/2308.13369)|null|
@@ -599,6 +609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480](http://arxiv.org/abs/2308.14480)|null|
 |**2023-08-23**|**Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition**|Yujun Ma et.al.|[2308.12006](http://arxiv.org/abs/2308.12006)|null|
 |**2023-08-25**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-20**|**Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video**|Yingxuan You et.al.|[2308.10305](http://arxiv.org/abs/2308.10305)|**[link](https://github.com/kasvii/pmce)**|
@@ -661,6 +672,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Causality-Based Feature Importance Quantifying Methods:PN-FI, PS-FI and PNS-FI**|Shuxian Du et.al.|[2308.14474](http://arxiv.org/abs/2308.14474)|null|
+|**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
+|**2023-08-28**|**FaceChain: A Playground for Identity-Preserving Portrait Generation**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
+|**2023-08-28**|**HoloFusion: Towards Photo-realistic 3D Generative Modeling**|Animesh Karnewar et.al.|[2308.14244](http://arxiv.org/abs/2308.14244)|null|
+|**2023-08-27**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
+|**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048](http://arxiv.org/abs/2308.14048)|null|
+|**2023-08-26**|**ORES: Open-vocabulary Responsible Visual Synthesis**|Minheng Ni et.al.|[2308.13785](http://arxiv.org/abs/2308.13785)|**[link](https://github.com/kodenii/ores)**|
+|**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767](http://arxiv.org/abs/2308.13767)|null|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
+|**2023-08-25**|**Is Deep Learning Network Necessary for Image Generation?**|Chenqiu Zhao et.al.|[2308.13612](http://arxiv.org/abs/2308.13612)|null|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355](http://arxiv.org/abs/2308.13355)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
@@ -982,6 +1003,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**|Jun Hao Liew et.al.|[2308.14749](http://arxiv.org/abs/2308.14749)|null|
+|**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748](http://arxiv.org/abs/2308.14748)|null|
+|**2023-08-28**|**VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation**|Xudong Wang et.al.|[2308.14710](http://arxiv.org/abs/2308.14710)|**[link](https://github.com/facebookresearch/cutler)**|
+|**2023-08-28**|**1st Place Solution for the 5th LSVOS Challenge: Video Instance Segmentation**|Tao Zhang et.al.|[2308.14392](http://arxiv.org/abs/2308.14392)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
+|**2023-08-26**|**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models**|Hao Fei et.al.|[2308.13812](http://arxiv.org/abs/2308.13812)|null|
 |**2023-08-24**|**APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency**|Yupu Yao et.al.|[2308.12605](http://arxiv.org/abs/2308.12605)|null|
 |**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606](http://arxiv.org/abs/2308.11606)|**[link](https://github.com/google/storybench)**|
 |**2023-08-22**|**Hamiltonian GAN**|Christine Allen-Blanchette et.al.|[2308.11216](http://arxiv.org/abs/2308.11216)|null|
