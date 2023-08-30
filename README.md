@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459](http://arxiv.org/abs/2308.15459)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-08-29**|**Vortex core radius in baroclinic turbulence: Implications for scaling predictions**|Gabriel Hadjerci et.al.|[2308.15398](http://arxiv.org/abs/2308.15398)|null|
+|**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359](http://arxiv.org/abs/2308.15359)|null|
+|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321](http://arxiv.org/abs/2308.15321)|null|
+|**2023-08-29**|**Turing instabilities are not enough to ensure pattern formation**|Andrew L. Krause et.al.|[2308.15311](http://arxiv.org/abs/2308.15311)|null|
+|**2023-08-29**|**Diffusion-based kernel density estimation improves the assessment of carbon isotope modelling**|Maria-Theresia Pelz et.al.|[2308.15282](http://arxiv.org/abs/2308.15282)|null|
+|**2023-08-29**|**Summary of IceCube Tau Neutrino Searches and Flavor Composition Measurements of the Diffuse Astrophysical Neutrino Flux**|Neha Lad et.al.|[2308.15213](http://arxiv.org/abs/2308.15213)|null|
+|**2023-08-29**|**Propagation of Chaos for Mean Field Interacting Particle System with Multiplicative Noise**|Xing Huang et.al.|[2308.15181](http://arxiv.org/abs/2308.15181)|null|
+|**2023-08-29**|**Non-equilibrium cluster-cluster aggregation in the presence of anchoring sites**|Renaud Baillou et.al.|[2308.15162](http://arxiv.org/abs/2308.15162)|null|
+|**2023-08-29**|**Unravelling H $_2$ chemisorption and physisorption on metal decorated graphene using quantum Monte Carlo**|Yasmine S. Al-Hamdani et.al.|[2308.15160](http://arxiv.org/abs/2308.15160)|null|
 |**2023-08-28**|**Total Selfie: Generating Full-Body Selfies**|Bowei Chen et.al.|[2308.14740](http://arxiv.org/abs/2308.14740)|null|
 |**2023-08-28**|**Oscillating reaction in porous media under saddle flow**|Satoshi Izumoto et.al.|[2308.14723](http://arxiv.org/abs/2308.14723)|null|
 |**2023-08-28**|**Chaos and anomalous transport in a semiclassical Bose-Hubbard chain**|Dragan Marković et.al.|[2308.14720](http://arxiv.org/abs/2308.14720)|null|
@@ -617,6 +627,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**In-hand manipulation planning using human motion dictionary**|Ali Hammoud et.al.|[2308.15153](http://arxiv.org/abs/2308.15153)|null|
 |**2023-08-28**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480](http://arxiv.org/abs/2308.14480)|null|
 |**2023-08-23**|**Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition**|Yujun Ma et.al.|[2308.12006](http://arxiv.org/abs/2308.12006)|null|
 |**2023-08-25**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
@@ -682,6 +693,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|null|
+|**2023-08-29**|**A Multimodal Visual Encoding Model Aided by Introducing Verbal Semantic Information**|Shuxiao Ma et.al.|[2308.15142](http://arxiv.org/abs/2308.15142)|null|
+|**2023-08-28**|**RobustCLEVR: A Benchmark and Framework for Evaluating Robustness in Object-centric Learning**|Nathan Drenkow et.al.|[2308.14899](http://arxiv.org/abs/2308.14899)|null|
+|**2023-08-28**|**Identifying and Mitigating the Security Risks of Generative AI**|Clark Barrett et.al.|[2308.14840](http://arxiv.org/abs/2308.14840)|null|
+|**2023-08-28**|**Copy-Paste Image Augmentation with Poisson Image Editing for Ultrasound Instance Segmentation Learning**|Wei-Hsiang Shen et.al.|[2308.14772](http://arxiv.org/abs/2308.14772)|null|
 |**2023-08-28**|**Causality-Based Feature Importance Quantifying Methods:PN-FI, PS-FI and PNS-FI**|Shuxian Du et.al.|[2308.14474](http://arxiv.org/abs/2308.14474)|null|
 |**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
 |**2023-08-28**|**FaceChain: A Playground for Identity-Preserving Portrait Generation**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
@@ -1015,6 +1031,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|null|
+|**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345](http://arxiv.org/abs/2308.15345)|null|
+|**2023-08-28**|**Automated Conversion of Music Videos into Lyric Videos**|Jiaju Ma et.al.|[2308.14922](http://arxiv.org/abs/2308.14922)|null|
 |**2023-08-28**|**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**|Jun Hao Liew et.al.|[2308.14749](http://arxiv.org/abs/2308.14749)|null|
 |**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748](http://arxiv.org/abs/2308.14748)|null|
 |**2023-08-28**|**VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation**|Xudong Wang et.al.|[2308.14710](http://arxiv.org/abs/2308.14710)|**[link](https://github.com/facebookresearch/cutler)**|
