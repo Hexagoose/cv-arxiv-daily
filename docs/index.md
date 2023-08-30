@@ -104,7 +104,7 @@ layout: default
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
 |**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
 |**2023-08-16**|**Electron transfer efficiency in liquid xenon across THGEM holes**|G. Martínez-Lema et.al.|[2308.08314](http://arxiv.org/abs/2308.08314)|null|
-|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|**[link](https://github.com/shiguili/scire-solver)**|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
 |**2023-08-15**|**Time-fractional Caputo derivative versus other integro-differential operators in generalized Fokker-Planck and generalized Langevin equations**|Qing Wei et.al.|[2308.07850](http://arxiv.org/abs/2308.07850)|null|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|

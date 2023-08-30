@@ -110,7 +110,7 @@
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
 |**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
 |**2023-08-16**|**Electron transfer efficiency in liquid xenon across THGEM holes**|G. Martínez-Lema et.al.|[2308.08314](http://arxiv.org/abs/2308.08314)|null|
-|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|**[link](https://github.com/shiguili/scire-solver)**|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
 |**2023-08-15**|**Time-fractional Caputo derivative versus other integro-differential operators in generalized Fokker-Planck and generalized Langevin equations**|Qing Wei et.al.|[2308.07850](http://arxiv.org/abs/2308.07850)|null|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
@@ -706,7 +706,7 @@
 |**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048](http://arxiv.org/abs/2308.14048)|null|
 |**2023-08-26**|**ORES: Open-vocabulary Responsible Visual Synthesis**|Minheng Ni et.al.|[2308.13785](http://arxiv.org/abs/2308.13785)|**[link](https://github.com/kodenii/ores)**|
 |**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767](http://arxiv.org/abs/2308.13767)|null|
-|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|**[link](https://github.com/nachifur/rddm)**|
 |**2023-08-25**|**Is Deep Learning Network Necessary for Image Generation?**|Chenqiu Zhao et.al.|[2308.13612](http://arxiv.org/abs/2308.13612)|null|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355](http://arxiv.org/abs/2308.13355)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
