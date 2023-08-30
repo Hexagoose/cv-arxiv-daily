@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -676,7 +676,7 @@ layout: default
 |**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
 |**2023-08-28**|**FaceChain: A Playground for Identity-Preserving Portrait Generation**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
 |**2023-08-28**|**HoloFusion: Towards Photo-realistic 3D Generative Modeling**|Animesh Karnewar et.al.|[2308.14244](http://arxiv.org/abs/2308.14244)|null|
-|**2023-08-27**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
+|**2023-08-29**|**Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks**|Xin Yang et.al.|[2308.14066](http://arxiv.org/abs/2308.14066)|null|
 |**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048](http://arxiv.org/abs/2308.14048)|null|
 |**2023-08-26**|**ORES: Open-vocabulary Responsible Visual Synthesis**|Minheng Ni et.al.|[2308.13785](http://arxiv.org/abs/2308.13785)|**[link](https://github.com/kodenii/ores)**|
 |**2023-08-26**|**DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**|Bin Xia et.al.|[2308.13767](http://arxiv.org/abs/2308.13767)|null|
