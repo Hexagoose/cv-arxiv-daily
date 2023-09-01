@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Robust Variational Physics-Informed Neural Networks**|Sergio Rojas et.al.|[2308.16910](http://arxiv.org/abs/2308.16910)|null|
+|**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|null|
+|**2023-08-31**|**GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**|Yanjie Ze et.al.|[2308.16891](http://arxiv.org/abs/2308.16891)|**[link](https://github.com/YanjieZe/GNFactor)**|
+|**2023-08-31**|**Prediction of Diblock Copolymer Morphology via Machine Learning**|Hyun Park et.al.|[2308.16886](http://arxiv.org/abs/2308.16886)|null|
+|**2023-08-31**|**Constraining the geometry of the reflection nebula NGC 2023 with [O I]: Emission & Absorption**|Bhaswati Mookerjea et.al.|[2308.16872](http://arxiv.org/abs/2308.16872)|null|
+|**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
+|**2023-08-31**|**Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network**|Weijia Zhang et.al.|[2308.16818](http://arxiv.org/abs/2308.16818)|null|
+|**2023-08-31**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777](http://arxiv.org/abs/2308.16777)|null|
+|**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
+|**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
 |**2023-08-30**|**Understanding coupled mass-heat transport in fluids by approach-to-equilibrium molecular dynamics**|Antonio Cappai et.al.|[2308.16169](http://arxiv.org/abs/2308.16169)|null|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150](http://arxiv.org/abs/2308.16150)|null|
 |**2023-08-30**|**Seasonal thaws under mid-to-low pressure atmospheres on Early Mars**|Paolo Simonetti et.al.|[2308.16094](http://arxiv.org/abs/2308.16094)|null|
@@ -629,6 +639,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Multiscale Residual Learning of Graph Convolutional Sequence Chunks for Human Motion Prediction**|Mohsen Zand et.al.|[2308.16801](http://arxiv.org/abs/2308.16801)|null|
+|**2023-08-31**|**Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurations**|Tom Van Wouwe et.al.|[2308.16682](http://arxiv.org/abs/2308.16682)|null|
 |**2023-08-29**|**In-hand manipulation planning using human motion dictionary**|Ali Hammoud et.al.|[2308.15153](http://arxiv.org/abs/2308.15153)|null|
 |**2023-08-30**|**Priority-Centric Human Motion Generation in Discrete Latent Space**|Hanyang Kong et.al.|[2308.14480](http://arxiv.org/abs/2308.14480)|null|
 |**2023-08-23**|**Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition**|Yujun Ma et.al.|[2308.12006](http://arxiv.org/abs/2308.12006)|null|
@@ -693,6 +705,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909](http://arxiv.org/abs/2308.16909)|**[link](https://github.com/johannwyh/styleinv)**|
+|**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
+|**2023-08-31**|**Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images**|Cuican Yu et.al.|[2308.16758](http://arxiv.org/abs/2308.16758)|null|
+|**2023-08-31**|**Generate Your Own Scotland: Satellite Image Generation Conditioned on Maps**|Miguel Espinosa et.al.|[2308.16648](http://arxiv.org/abs/2308.16648)|**[link](https://github.com/miquel-espinosa/map-sat)**|
+|**2023-08-31**|**Detecting Out-of-Context Image-Caption Pairs in News: A Counter-Intuitive Method**|Eivind Moholdt et.al.|[2308.16611](http://arxiv.org/abs/2308.16611)|null|
+|**2023-08-31**|**Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images**|Qingping Zheng et.al.|[2308.16582](http://arxiv.org/abs/2308.16582)|null|
+|**2023-08-31**|**Robust GAN inversion**|Egor Sevriugov et.al.|[2308.16510](http://arxiv.org/abs/2308.16510)|null|
 |**2023-08-30**|**Improving Few-shot Image Generation by Structural Discrimination and Textural Modulation**|Mengping Yang et.al.|[2308.16110](http://arxiv.org/abs/2308.16110)|**[link](https://github.com/kobeshegu/sdtm-gan-acmmm-2023)**|
 |**2023-08-30**|**Semantic Image Synthesis via Class-Adaptive Cross-Attention**|Tomaso Fontanini et.al.|[2308.16071](http://arxiv.org/abs/2308.16071)|null|
 |**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|null|
@@ -1033,6 +1052,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909](http://arxiv.org/abs/2308.16909)|**[link](https://github.com/johannwyh/styleinv)**|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|**[link](https://github.com/limbo0000/mtm)**|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345](http://arxiv.org/abs/2308.15345)|null|
 |**2023-08-28**|**Automated Conversion of Music Videos into Lyric Videos**|Jiaju Ma et.al.|[2308.14922](http://arxiv.org/abs/2308.14922)|null|
