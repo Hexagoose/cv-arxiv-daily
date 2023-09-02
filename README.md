@@ -582,7 +582,7 @@
 |**2023-06-09**|**Active stop and go motion: a strategy to improve spatial exploration?**|Fernando Peruani et.al.|[2306.05647](http://arxiv.org/abs/2306.05647)|null|
 |**2023-06-08**|**Grounded Text-to-Image Synthesis with Attention Refocusing**|Quynh Phung et.al.|[2306.05427](http://arxiv.org/abs/2306.05427)|null|
 |**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423](http://arxiv.org/abs/2306.05423)|null|
-|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|**[link](https://github.com/Sirui-Xu/DuMMF)**|
 |**2023-06-08**|**Improving Negative-Prompt Inversion via Proximal Guidance**|Ligong Han et.al.|[2306.05414](http://arxiv.org/abs/2306.05414)|**[link](https://github.com/phymhan/prompt-to-prompt)**|
 |**2023-06-08**|**The FRB20190520B Sightline Intersects Foreground Galaxy Clusters**|Khee-Gan Lee et.al.|[2306.05403](http://arxiv.org/abs/2306.05403)|null|
 |**2023-06-08**|**Design of Sturm global attractors 2: Time-reversible Chafee-Infante lattices of 3-nose meanders**|Bernold Fiedler et.al.|[2306.05232](http://arxiv.org/abs/2306.05232)|null|
@@ -693,7 +693,7 @@
 |**2023-06-13**|**The interplay of fatigue dynamics and task achievement using optimal control predictive simulation**|Pierre Puchaud et.al.|[2306.08164](http://arxiv.org/abs/2306.08164)|**[link](https://github.com/s2mLab/dumbbell_lifting)**|
 |**2023-06-12**|**4DHumanOutfit: a multi-subject 4D dataset of human motion sequences in varying outfits exhibiting large displacements**|Matthieu Armando et.al.|[2306.07399](http://arxiv.org/abs/2306.07399)|null|
 |**2023-06-09**|**Motion-DVAE: Unsupervised learning for fast human motion denoising**|Guénolé Fiche et.al.|[2306.05846](http://arxiv.org/abs/2306.05846)|null|
-|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
+|**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|**[link](https://github.com/Sirui-Xu/DuMMF)**|
 |**2023-06-08**|**Time-Optimal Path Tracking with ISO Safety Guarantees**|Shohei Fujii et.al.|[2306.05197](http://arxiv.org/abs/2306.05197)|null|
 |**2023-06-06**|**A Data-Efficient Approach for Long-Term Human Motion Prediction Using Maps of Dynamics**|Yufei Zhu et.al.|[2306.03617](http://arxiv.org/abs/2306.03617)|null|
 |**2023-06-05**|**Integrated Sensing, Computation, and Communication for UAV-assisted Federated Edge Learning**|Yao Tang et.al.|[2306.02990](http://arxiv.org/abs/2306.02990)|null|
