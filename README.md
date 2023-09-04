@@ -38,7 +38,7 @@
 |**2023-08-30**|**Description of multinucleon transfer mechanism for ${}^{48} \mathrm{Ca}+{ }^{244} \mathrm{Pu}$ and ${ }^{86} \mathrm{Kr}+{}^{198} \mathrm{Pt}$ reactions in quantal transport approach**|M. Arik et.al.|[2308.16027](http://arxiv.org/abs/2308.16027)|null|
 |**2023-08-30**|**DiffuVolume: Diffusion Model for Volume based Stereo Matching**|Dian Zheng et.al.|[2308.15989](http://arxiv.org/abs/2308.15989)|null|
 |**2023-08-30**|**Jitter radiation as an alternative mechanism for the nonthermal X-ray emission of Cassiopeia A**|Emanuele Greco et.al.|[2308.15956](http://arxiv.org/abs/2308.15956)|null|
-|**2023-08-30**|**Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction**|Kai Xu et.al.|[2308.15942](http://arxiv.org/abs/2308.15942)|null|
+|**2023-08-30**|**Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction**|Kai Xu et.al.|[2308.15942](http://arxiv.org/abs/2308.15942)|**[link](https://github.com/yqx7150/sword)**|
 |**2023-08-30**|**Physics-Informed DeepMRI: Bridging the Gap from Heat Diffusion to k-Space Interpolation**|Zhuo-Xu Cui et.al.|[2308.15918](http://arxiv.org/abs/2308.15918)|null|
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459](http://arxiv.org/abs/2308.15459)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**Vortex core radius in baroclinic turbulence: Implications for scaling predictions**|Gabriel Hadjerci et.al.|[2308.15398](http://arxiv.org/abs/2308.15398)|null|
@@ -786,7 +786,7 @@
 |**2023-08-13**|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|Binbin Yang et.al.|[2308.06713](http://arxiv.org/abs/2308.06713)|null|
 |**2023-08-13**|**Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection**|Haichao Zhang et.al.|[2308.06701](http://arxiv.org/abs/2308.06701)|null|
 |**2023-08-12**|**Semantic Communications with Explicit Semantic Base for Image Transmission**|Yuan Zheng et.al.|[2308.06599](http://arxiv.org/abs/2308.06599)|null|
-|**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
+|**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|**[link](https://github.com/exponentialml/text-to-video-finetuning)**|
 |**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405](http://arxiv.org/abs/2308.06405)|null|
 |**2023-08-15**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
@@ -1085,7 +1085,7 @@
 |**2023-08-16**|**OnUVS: Online Feature Decoupling Framework for High-Fidelity Ultrasound Video Synthesis**|Han Zhou et.al.|[2308.08269](http://arxiv.org/abs/2308.08269)|null|
 |**2023-08-16**|**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**|Shengming Yin et.al.|[2308.08089](http://arxiv.org/abs/2308.08089)|null|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
-|**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|null|
+|**2023-08-12**|**ModelScope Text-to-Video Technical Report**|Jiuniu Wang et.al.|[2308.06571](http://arxiv.org/abs/2308.06571)|**[link](https://github.com/exponentialml/text-to-video-finetuning)**|
 |**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|**[link](https://github.com/frans-db/progress-prediction)**|
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
