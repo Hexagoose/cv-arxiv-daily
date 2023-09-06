@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Crack propagation in anisotropic brittle materials: from a phase-field model to a shape optimization approach**|Tim Suchan et.al.|[2309.02431](http://arxiv.org/abs/2309.02431)|null|
+|**2023-09-05**|**Generating Realistic Images from In-the-wild Sounds**|Taegyeong Lee et.al.|[2309.02405](http://arxiv.org/abs/2309.02405)|null|
+|**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349](http://arxiv.org/abs/2309.02349)|null|
+|**2023-09-05**|**Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization**|J. Hamilton et.al.|[2309.02319](http://arxiv.org/abs/2309.02319)|null|
+|**2023-09-05**|**Neuromorphic nanocluster networks: Critical role of the substrate in nano-link formation**|Wenkai Wu et.al.|[2309.02299](http://arxiv.org/abs/2309.02299)|null|
+|**2023-09-05**|**Unconventional photo-induced charge-density-wave dynamics in 2H-NbSe $_{2}$**|Rok Venturini et.al.|[2309.02222](http://arxiv.org/abs/2309.02222)|null|
+|**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218](http://arxiv.org/abs/2309.02218)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
+|**2023-09-05**|**Finite dimensional backstepping controller design**|Varga Kalantarov et.al.|[2309.02196](http://arxiv.org/abs/2309.02196)|null|
+|**2023-09-05**|**Quasiparticles for the one-dimensional nonlocal Fisher-Kolmogorov-Petrovskii-Piskunov equation**|A. E. Kulagin et.al.|[2309.02129](http://arxiv.org/abs/2309.02129)|null|
+|**2023-09-05**|**Wiometrics: Comparative Performance of Artificial Neural Networks for Wireless Navigation**|Russ Whiton et.al.|[2309.02121](http://arxiv.org/abs/2309.02121)|null|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-09-01**|**Presentation of some elementary properties of Segal-Bargmann space and of unitary Segal-Bargmann transform with applications**|Abdelkader Intissar et.al.|[2309.00566](http://arxiv.org/abs/2309.00566)|null|
 |**2023-09-01**|**Diffusion limited aggregation, resetting and large deviations of Brownian motion**|Uriel Villanueva-Alcalá et.al.|[2309.00560](http://arxiv.org/abs/2309.00560)|null|
@@ -657,6 +667,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion**|Yunhong Lou et.al.|[2309.01372](http://arxiv.org/abs/2309.01372)|null|
+|**2023-09-03**|**BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking**|Dorian F. Henning et.al.|[2309.01236](http://arxiv.org/abs/2309.01236)|null|
+|**2023-09-02**|**AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism**|Chongyang Zhong et.al.|[2309.00796](http://arxiv.org/abs/2309.00796)|null|
+|**2023-09-01**|**Shared Control Based on Extended Lipschitz Analysis With Application to Human-Superlimb Collaboration**|Hanjun Song et.al.|[2309.00685](http://arxiv.org/abs/2309.00685)|null|
 |**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310](http://arxiv.org/abs/2309.00310)|**[link](https://github.com/shaohua-pan/RobustCap)**|
 |**2023-08-31**|**Multiscale Residual Learning of Graph Convolutional Sequence Chunks for Human Motion Prediction**|Mohsen Zand et.al.|[2308.16801](http://arxiv.org/abs/2308.16801)|null|
 |**2023-08-31**|**Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurations**|Tom Van Wouwe et.al.|[2308.16682](http://arxiv.org/abs/2308.16682)|null|
@@ -726,6 +740,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Breaking Barriers to Creative Expression: Co-Designing and Implementing an Accessible Text-to-Image Interface**|Atieh Taheri et.al.|[2309.02402](http://arxiv.org/abs/2309.02402)|null|
+|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190](http://arxiv.org/abs/2309.02190)|null|
+|**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
+|**2023-09-04**|**Uncertainty in AI: Evaluating Deep Neural Networks on Out-of-Distribution Images**|Jamiu Idowu et.al.|[2309.01850](http://arxiv.org/abs/2309.01850)|null|
+|**2023-09-04**|**StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation**|Zhouxia Wang et.al.|[2309.01770](http://arxiv.org/abs/2309.01770)|null|
+|**2023-09-04**|**Accelerating Markov Chain Monte Carlo sampling with diffusion models**|N. T. Hunt-Smith et.al.|[2309.01454](http://arxiv.org/abs/2309.01454)|null|
+|**2023-09-04**|**Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion**|Ryota Yoshihashi et.al.|[2309.01369](http://arxiv.org/abs/2309.01369)|null|
+|**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
+|**2023-09-03**|**Diffusion Models with Deterministic Normalizing Flow Priors**|Mohsen Zand et.al.|[2309.01274](http://arxiv.org/abs/2309.01274)|null|
+|**2023-09-03**|**ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models**|Yuhao Du et.al.|[2309.01111](http://arxiv.org/abs/2309.01111)|null|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
 |**2023-09-01**|**DiffuGen: Adaptable Approach for Generating Labeled Image Datasets using Stable Diffusion Models**|Michael Shenoda et.al.|[2309.00248](http://arxiv.org/abs/2309.00248)|**[link](https://github.com/mshenoda/diffugen)**|
@@ -1080,6 +1104,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**RADIO: Reference-Agnostic Dubbing Video Synthesis**|Dongyeun Lee et.al.|[2309.01950](http://arxiv.org/abs/2309.01950)|null|
+|**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
+|**2023-09-02**|**MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation**|Hanshu Yan et.al.|[2309.00908](http://arxiv.org/abs/2309.00908)|null|
+|**2023-09-02**|**RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model**|Fengxiang Bie et.al.|[2309.00810](http://arxiv.org/abs/2309.00810)|null|
 |**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
 |**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909](http://arxiv.org/abs/2308.16909)|**[link](https://github.com/johannwyh/styleinv)**|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|**[link](https://github.com/limbo0000/mtm)**|
