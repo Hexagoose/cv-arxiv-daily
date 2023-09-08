@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1116,7 +1116,7 @@ layout: default
 |**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
 |**2023-09-02**|**MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation**|Hanshu Yan et.al.|[2309.00908](http://arxiv.org/abs/2309.00908)|null|
 |**2023-09-02**|**RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model**|Fengxiang Bie et.al.|[2309.00810](http://arxiv.org/abs/2309.00810)|null|
-|**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
+|**2023-09-07**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
 |**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909](http://arxiv.org/abs/2308.16909)|**[link](https://github.com/johannwyh/styleinv)**|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|**[link](https://github.com/limbo0000/mtm)**|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345](http://arxiv.org/abs/2308.15345)|null|
