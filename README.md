@@ -776,15 +776,15 @@
 |**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591](http://arxiv.org/abs/2309.02591)|null|
 |**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530](http://arxiv.org/abs/2309.02530)|null|
 |**2023-09-05**|**Breaking Barriers to Creative Expression: Co-Designing and Implementing an Accessible Text-to-Image Interface**|Atieh Taheri et.al.|[2309.02402](http://arxiv.org/abs/2309.02402)|null|
-|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190](http://arxiv.org/abs/2309.02190)|null|
+|**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190](http://arxiv.org/abs/2309.02190)|**[link](https://github.com/recklessronan/muse)**|
 |**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
 |**2023-09-04**|**Uncertainty in AI: Evaluating Deep Neural Networks on Out-of-Distribution Images**|Jamiu Idowu et.al.|[2309.01850](http://arxiv.org/abs/2309.01850)|null|
 |**2023-09-04**|**StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation**|Zhouxia Wang et.al.|[2309.01770](http://arxiv.org/abs/2309.01770)|null|
 |**2023-09-04**|**Accelerating Markov Chain Monte Carlo sampling with diffusion models**|N. T. Hunt-Smith et.al.|[2309.01454](http://arxiv.org/abs/2309.01454)|null|
 |**2023-09-04**|**Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion**|Ryota Yoshihashi et.al.|[2309.01369](http://arxiv.org/abs/2309.01369)|null|
 |**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
-|**2023-09-03**|**Diffusion Models with Deterministic Normalizing Flow Priors**|Mohsen Zand et.al.|[2309.01274](http://arxiv.org/abs/2309.01274)|null|
-|**2023-09-03**|**ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models**|Yuhao Du et.al.|[2309.01111](http://arxiv.org/abs/2309.01111)|null|
+|**2023-09-03**|**Diffusion Models with Deterministic Normalizing Flow Priors**|Mohsen Zand et.al.|[2309.01274](http://arxiv.org/abs/2309.01274)|**[link](https://github.com/mohsenzand/dinof)**|
+|**2023-09-03**|**ArSDM: Colonoscopy Images Synthesis with Adaptive Refinement Semantic Diffusion Models**|Yuhao Du et.al.|[2309.01111](http://arxiv.org/abs/2309.01111)|**[link](https://github.com/duyooho/arsdm)**|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
 |**2023-09-01**|**DiffuGen: Adaptable Approach for Generating Labeled Image Datasets using Stable Diffusion Models**|Michael Shenoda et.al.|[2309.00248](http://arxiv.org/abs/2309.00248)|**[link](https://github.com/mshenoda/diffugen)**|
