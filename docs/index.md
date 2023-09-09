@@ -682,7 +682,7 @@ layout: default
 |**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111](http://arxiv.org/abs/2309.03111)|null|
 |**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031](http://arxiv.org/abs/2309.03031)|null|
 |**2023-09-06**|**SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video**|You Rim Choi et.al.|[2309.02713](http://arxiv.org/abs/2309.02713)|null|
-|**2023-09-04**|**DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion**|Yunhong Lou et.al.|[2309.01372](http://arxiv.org/abs/2309.01372)|null|
+|**2023-09-04**|**DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion**|Yunhong Lou et.al.|[2309.01372](http://arxiv.org/abs/2309.01372)|**[link](https://github.com/axdfhj/mdd)**|
 |**2023-09-03**|**BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking**|Dorian F. Henning et.al.|[2309.01236](http://arxiv.org/abs/2309.01236)|null|
 |**2023-09-02**|**AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism**|Chongyang Zhong et.al.|[2309.00796](http://arxiv.org/abs/2309.00796)|null|
 |**2023-09-01**|**Shared Control Based on Extended Lipschitz Analysis With Application to Human-Superlimb Collaboration**|Hanjun Song et.al.|[2309.00685](http://arxiv.org/abs/2309.00685)|null|
