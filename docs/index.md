@@ -109,7 +109,7 @@ layout: default
 |**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369](http://arxiv.org/abs/2308.13369)|null|
 |**2023-08-25**|**Is the topological surface state floating on top of a thick lead layer? The case of the Pb/Bi2Se3 interface**|Oreste De Luca et.al.|[2308.13316](http://arxiv.org/abs/2308.13316)|null|
 |**2023-08-25**|**Age of Information Diffusion on Social Networks: Optimizing Multi-Stage Seeding Strategies**|Songhua Li et.al.|[2308.13303](http://arxiv.org/abs/2308.13303)|null|
-|**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223](http://arxiv.org/abs/2308.13223)|null|
+|**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223](http://arxiv.org/abs/2308.13223)|**[link](https://github.com/EfficientDreamer/EfficientDreamer)**|
 |**2023-08-25**|**On the radial growth of ballistic aggregation and other aggregation models**|Tillmann Bosch et.al.|[2308.13193](http://arxiv.org/abs/2308.13193)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
 |**2023-08-25**|**A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions**|Tianyi Zhang et.al.|[2308.13142](http://arxiv.org/abs/2308.13142)|null|
