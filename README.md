@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
+|**2023-09-11**|**Anisotropic Diffusion Stencils: From Simple Derivations over Stability Estimates to ResNet Implementations**|Karl Schrader et.al.|[2309.05575](http://arxiv.org/abs/2309.05575)|null|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519](http://arxiv.org/abs/2309.05519)|null|
+|**2023-09-11**|**Median Surface Brightness Profiles of Lyman- $α$ Haloes in the MUSE Extremely Deep Field**|Yucheng Guo et.al.|[2309.05513](http://arxiv.org/abs/2309.05513)|null|
+|**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455](http://arxiv.org/abs/2309.05455)|null|
+|**2023-09-11**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
+|**2023-09-11**|**Anomalous Hall effect in ultraclean electronic channels**|K. K. Grigoryan et.al.|[2309.05401](http://arxiv.org/abs/2309.05401)|null|
+|**2023-09-11**|**Large time behaviour of the 2D thermally non-diffusive Boussinesq equations with Navier-slip boundary conditions**|Fabian Bleitner et.al.|[2309.05400](http://arxiv.org/abs/2309.05400)|null|
+|**2023-09-11**|**Influence of protostellar outflows on star and protoplanetary disk formation in a massive star-forming clump**|U. Lebreuilly et.al.|[2309.05397](http://arxiv.org/abs/2309.05397)|null|
 |**2023-09-08**|**A search for faint resolved galaxies beyond the Milky Way in DES Year 6: A new faint, diffuse dwarf satellite of NGC 55**|M. McNanna et.al.|[2309.04467](http://arxiv.org/abs/2309.04467)|null|
 |**2023-09-08**|**Laplacian with singular drift in a critical borderline case**|Damir Kinzebulatov et.al.|[2309.04436](http://arxiv.org/abs/2309.04436)|null|
 |**2023-09-08**|**Variations and Relaxations of Normalizing Flows**|Keegan Kelly et.al.|[2309.04433](http://arxiv.org/abs/2309.04433)|null|
@@ -697,6 +707,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Unsupervised human-to-robot motion retargeting via expressive latent space**|Yashuai Yan et.al.|[2309.05310](http://arxiv.org/abs/2309.05310)|null|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-08**|**Realistic pedestrian behaviour in the CARLA simulator using VR and mocap**|Sergio Martín Serrano et.al.|[2309.04418](http://arxiv.org/abs/2309.04418)|null|
 |**2023-09-06**|**Serving Time: Real-Time, Safe Motion Planning and Control for Manipulation of Unsecured Objects**|Zachary Brei et.al.|[2309.03111](http://arxiv.org/abs/2309.03111)|null|
 |**2023-09-06**|**MCM: Multi-condition Motion Synthesis Framework for Multi-scenario**|Zeyu Ling et.al.|[2309.03031](http://arxiv.org/abs/2309.03031)|null|
@@ -774,6 +786,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**ITI-GEN: Inclusive Text-to-Image Generation**|Cheng Zhang et.al.|[2309.05569](http://arxiv.org/abs/2309.05569)|null|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-11**|**Comprehensive analysis of synthetic learning applied to neonatal brain MRI segmentation**|R Valabregue et.al.|[2309.05306](http://arxiv.org/abs/2309.05306)|**[link](https://github.com/romainvala/synthetic_learning_on_dhcp)**|
+|**2023-09-10**|**Gender Bias in Multimodal Models: A Transnational Feminist Approach Considering Geographical Region and Culture**|Abhishek Mandal et.al.|[2309.04997](http://arxiv.org/abs/2309.04997)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|null|
+|**2023-09-10**|**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**|Zhihong Pan et.al.|[2309.04907](http://arxiv.org/abs/2309.04907)|null|
+|**2023-09-09**|**Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video**|Xiuzhe Wu et.al.|[2309.04814](http://arxiv.org/abs/2309.04814)|null|
+|**2023-09-09**|**VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis**|Xinya Chen et.al.|[2309.04800](http://arxiv.org/abs/2309.04800)|null|
+|**2023-09-08**|**Style Generation: Image Synthesis based on Coarsely Matched Texts**|Mengyao Cui et.al.|[2309.04608](http://arxiv.org/abs/2309.04608)|null|
 |**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430](http://arxiv.org/abs/2309.04430)|null|
 |**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372](http://arxiv.org/abs/2309.04372)|null|
 |**2023-09-08**|**Sequential Semantic Generative Communication for Progressive Text-to-Image Generation**|Hyelin Nam et.al.|[2309.04287](http://arxiv.org/abs/2309.04287)|null|
@@ -1155,6 +1176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion**|Yujin Jeong et.al.|[2309.04509](http://arxiv.org/abs/2309.04509)|null|
 |**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549](http://arxiv.org/abs/2309.03549)|null|
 |**2023-09-05**|**RADIO: Reference-Agnostic Dubbing Video Synthesis**|Dongyeun Lee et.al.|[2309.01950](http://arxiv.org/abs/2309.01950)|null|
 |**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
