@@ -34,9 +34,9 @@
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
 |**2023-09-07**|**Early warning via transitions in latent stochastic dynamical systems**|Lingyu Feng et.al.|[2309.03842](http://arxiv.org/abs/2309.03842)|null|
-|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729](http://arxiv.org/abs/2309.03729)|null|
+|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729](http://arxiv.org/abs/2309.03729)|**[link](https://github.com/sjtuplayer/few-shot-diffusion)**|
 |**2023-09-07**|**Prospects for $γ$ -ray observations of the Perseus galaxy cluster with the Cherenkov Telescope Array**|The Cherenkov Telescope Array Consortium et.al.|[2309.03712](http://arxiv.org/abs/2309.03712)|null|
-|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702](http://arxiv.org/abs/2309.03702)|null|
+|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702](http://arxiv.org/abs/2309.03702)|**[link](https://github.com/hondamunigeprasannasilva/diffdefence)**|
 |**2023-09-07**|**Electric Analog of Magnons in Order-Disorder Ferroelectrics**|Ping Tang et.al.|[2309.03691](http://arxiv.org/abs/2309.03691)|null|
 |**2023-09-07**|**Diffuse gamma-ray emission around the Rosette Nebula**|Jiahao Liu et.al.|[2309.03577](http://arxiv.org/abs/2309.03577)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
@@ -787,7 +787,7 @@
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
 |**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964](http://arxiv.org/abs/2309.02964)|null|
-|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|null|
+|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|**[link](https://github.com/sony/bigvsan)**|
 |**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773](http://arxiv.org/abs/2309.02773)|null|
 |**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591](http://arxiv.org/abs/2309.02591)|null|
 |**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530](http://arxiv.org/abs/2309.02530)|null|
@@ -796,7 +796,7 @@
 |**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
 |**2023-09-04**|**Uncertainty in AI: Evaluating Deep Neural Networks on Out-of-Distribution Images**|Jamiu Idowu et.al.|[2309.01850](http://arxiv.org/abs/2309.01850)|null|
 |**2023-09-04**|**StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation**|Zhouxia Wang et.al.|[2309.01770](http://arxiv.org/abs/2309.01770)|null|
-|**2023-09-04**|**Accelerating Markov Chain Monte Carlo sampling with diffusion models**|N. T. Hunt-Smith et.al.|[2309.01454](http://arxiv.org/abs/2309.01454)|null|
+|**2023-09-04**|**Accelerating Markov Chain Monte Carlo sampling with diffusion models**|N. T. Hunt-Smith et.al.|[2309.01454](http://arxiv.org/abs/2309.01454)|**[link](https://github.com/nickhunt-smith/mcmc-diffusion)**|
 |**2023-09-04**|**Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion**|Ryota Yoshihashi et.al.|[2309.01369](http://arxiv.org/abs/2309.01369)|null|
 |**2023-09-04**|**Mutual Information Maximizing Quantum Generative Adversarial Network and Its Applications in Finance**|Mingyu Lee et.al.|[2309.01363](http://arxiv.org/abs/2309.01363)|null|
 |**2023-09-03**|**Diffusion Models with Deterministic Normalizing Flow Priors**|Mohsen Zand et.al.|[2309.01274](http://arxiv.org/abs/2309.01274)|**[link](https://github.com/mohsenzand/dinof)**|
@@ -922,7 +922,7 @@
 |**2023-07-31**|**Image Synthesis under Limited Data: A Survey and Taxonomy**|Mengping Yang et.al.|[2307.16879](http://arxiv.org/abs/2307.16879)|**[link](https://github.com/kobeshegu/awesome-few-shot-generation)**|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
 |**2023-07-31**|**Towards General Visual-Linguistic Face Forgery Detection**|Ke Sun et.al.|[2307.16545](http://arxiv.org/abs/2307.16545)|null|
-|**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
+|**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|**[link](https://github.com/jj-vice/bagm)**|
 |**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410](http://arxiv.org/abs/2307.16410)|null|
 |**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314](http://arxiv.org/abs/2307.16314)|null|
 |**2023-07-30**|**Stylized Projected GAN: A Novel Architecture for Fast and Realistic Image Generation**|Md Nurul Muttakin et.al.|[2307.16275](http://arxiv.org/abs/2307.16275)|null|
