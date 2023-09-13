@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Suppression of lift-up effect in the 3D Boussinesq equations around a stably stratified Couette flow**|Michele Coti Zelati et.al.|[2309.06426](http://arxiv.org/abs/2309.06426)|null|
+|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
+|**2023-09-12**|**Dispersion versus diffusion in mixing fronts**|Gauthier Rousseau et.al.|[2309.06347](http://arxiv.org/abs/2309.06347)|null|
+|**2023-09-12**|**Unraveling biochemical spatial patterns: machine learning approaches to the inverse problem of Turing patterns**|Antonio Matas-Gil et.al.|[2309.06339](http://arxiv.org/abs/2309.06339)|null|
+|**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284](http://arxiv.org/abs/2309.06284)|null|
+|**2023-09-12**|**ssVERDICT: Self-Supervised VERDICT-MRI for Enhanced Prostate Tumour Characterisation**|Snigdha Sen et.al.|[2309.06268](http://arxiv.org/abs/2309.06268)|null|
+|**2023-09-12**|**Steady-state selection in multi-species driven diffusive systems**|Luigi Cantini et.al.|[2309.06231](http://arxiv.org/abs/2309.06231)|null|
+|**2023-09-12**|**Resolvent approach to diffusions with discontinuous scale**|Liping Li et.al.|[2309.06211](http://arxiv.org/abs/2309.06211)|null|
+|**2023-09-12**|**Spreading speeds of a nonlocal diffusion model with free boundaries in the time almost periodic media**|Chengcheng Cheng et.al.|[2309.06190](http://arxiv.org/abs/2309.06190)|null|
+|**2023-09-12**|**Dynamics and spreading speeds of a nonlocal diffusion model with advection and free boundaries**|Chengcheng Cheng et.al.|[2309.06185](http://arxiv.org/abs/2309.06185)|null|
 |**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
 |**2023-09-11**|**Anisotropic Diffusion Stencils: From Simple Derivations over Stability Estimates to ResNet Implementations**|Karl Schrader et.al.|[2309.05575](http://arxiv.org/abs/2309.05575)|null|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
@@ -707,6 +717,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284](http://arxiv.org/abs/2309.06284)|null|
+|**2023-09-12**|**Self-supervised Extraction of Human Motion Structures via Frame-wise Discrete Features**|Tetsuya Abe et.al.|[2309.05972](http://arxiv.org/abs/2309.05972)|null|
 |**2023-09-11**|**Unsupervised human-to-robot motion retargeting via expressive latent space**|Yashuai Yan et.al.|[2309.05310](http://arxiv.org/abs/2309.05310)|null|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750](http://arxiv.org/abs/2309.04750)|null|
 |**2023-09-08**|**Realistic pedestrian behaviour in the CARLA simulator using VR and mocap**|Sergio Martín Serrano et.al.|[2309.04418](http://arxiv.org/abs/2309.04418)|null|
@@ -786,6 +798,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
+|**2023-09-12**|**Elucidating the solution space of extended reverse-time SDE for diffusion models**|Qinpeng Cui et.al.|[2309.06169](http://arxiv.org/abs/2309.06169)|null|
+|**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956](http://arxiv.org/abs/2309.05956)|null|
+|**2023-09-12**|**Deep evidential fusion with uncertainty quantification and contextual discounting for multimodal medical image segmentation**|Ling Huang et.al.|[2309.05919](http://arxiv.org/abs/2309.05919)|null|
+|**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809](http://arxiv.org/abs/2309.05809)|null|
+|**2023-09-11**|**PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models**|Li Chen et.al.|[2309.05793](http://arxiv.org/abs/2309.05793)|null|
 |**2023-09-11**|**ITI-GEN: Inclusive Text-to-Image Generation**|Cheng Zhang et.al.|[2309.05569](http://arxiv.org/abs/2309.05569)|null|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-11**|**Comprehensive analysis of synthetic learning applied to neonatal brain MRI segmentation**|R Valabregue et.al.|[2309.05306](http://arxiv.org/abs/2309.05306)|**[link](https://github.com/romainvala/synthetic_learning_on_dhcp)**|
@@ -1176,6 +1194,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102](http://arxiv.org/abs/2309.06102)|**[link](https://github.com/ombretta/most-replayed-data)**|
+|**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
 |**2023-09-08**|**The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion**|Yujin Jeong et.al.|[2309.04509](http://arxiv.org/abs/2309.04509)|null|
 |**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549](http://arxiv.org/abs/2309.03549)|null|
 |**2023-09-05**|**RADIO: Reference-Agnostic Dubbing Video Synthesis**|Dongyeun Lee et.al.|[2309.01950](http://arxiv.org/abs/2309.01950)|null|
