@@ -53,7 +53,7 @@
 |**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
 |**2023-09-11**|**Anisotropic Diffusion Stencils: From Simple Derivations over Stability Estimates to ResNet Implementations**|Karl Schrader et.al.|[2309.05575](http://arxiv.org/abs/2309.05575)|null|
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
-|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519](http://arxiv.org/abs/2309.05519)|null|
+|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519](http://arxiv.org/abs/2309.05519)|**[link](https://github.com/NExT-GPT/NExT-GPT)**|
 |**2023-09-11**|**Median Surface Brightness Profiles of Lyman- $α$ Haloes in the MUSE Extremely Deep Field**|Yucheng Guo et.al.|[2309.05513](http://arxiv.org/abs/2309.05513)|null|
 |**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455](http://arxiv.org/abs/2309.05455)|null|
 |**2023-09-12**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
