@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
+|**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906](http://arxiv.org/abs/2309.07906)|null|
+|**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
+|**2023-09-14**|**Logarithmic Sobolev inequalities for non-equilibrium steady states**|Pierre Monmarché et.al.|[2309.07858](http://arxiv.org/abs/2309.07858)|null|
+|**2023-09-14**|**EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data**|Navin Raj Prabhu et.al.|[2309.07828](http://arxiv.org/abs/2309.07828)|null|
+|**2023-09-14**|**Behaviour of molecular hydrogen emission in three solar flares**|Sargam M. Mulay et.al.|[2309.07799](http://arxiv.org/abs/2309.07799)|null|
+|**2023-09-14**|**Study and evaluation of the Ronen Method accuracy at material interfaces**|Johan Cufe et.al.|[2309.07756](http://arxiv.org/abs/2309.07756)|null|
+|**2023-09-14**|**Adaptive Reduced Basis Trust Region Methods for Parameter Identification Problems**|Michael Kartmann et.al.|[2309.07627](http://arxiv.org/abs/2309.07627)|null|
+|**2023-09-14**|**Dual-angle interferometric scattering microscopy for optical multiparametric particle characterization**|Erik Olsén et.al.|[2309.07572](http://arxiv.org/abs/2309.07572)|null|
+|**2023-09-14**|**Search for the Prompt Atmospheric Neutrino Flux in IceCube**|Jakob Böttcher et.al.|[2309.07560](http://arxiv.org/abs/2309.07560)|null|
 |**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|null|
 |**2023-09-13**|**Experimental Study on the Detection of Frozen Diffused Ammonia Blockage in the Inactive Section of a Variable Conductance Heat Pipe**|F. K. Miranda et.al.|[2309.06936](http://arxiv.org/abs/2309.06936)|null|
 |**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934](http://arxiv.org/abs/2309.06934)|null|
@@ -719,6 +729,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Naturalistic Robot Arm Trajectory Generation via Representation Learning**|Jayjun Lee et.al.|[2309.07550](http://arxiv.org/abs/2309.07550)|null|
 |**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066](http://arxiv.org/abs/2309.07066)|null|
 |**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284](http://arxiv.org/abs/2309.06284)|null|
 |**2023-09-12**|**Self-supervised Extraction of Human Motion Structures via Frame-wise Discrete Features**|Tetsuya Abe et.al.|[2309.05972](http://arxiv.org/abs/2309.05972)|null|
@@ -799,6 +810,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**ALWOD: Active Learning for Weakly-Supervised Object Detection**|Yuting Wang et.al.|[2309.07914](http://arxiv.org/abs/2309.07914)|null|
+|**2023-09-13**|**Unbiased Face Synthesis With Diffusion Models: Are We There Yet?**|Harrison Rosenberg et.al.|[2309.07277](http://arxiv.org/abs/2309.07277)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
 |**2023-09-13**|**MagiCapture: High-Resolution Multi-Concept Portrait Customization**|Junha Hyung et.al.|[2309.06895](http://arxiv.org/abs/2309.06895)|null|
 |**2023-09-14**|**Deep Nonparametric Convexified Filtering for Computational Photography, Image Synthesis and Adversarial Defense**|Jianqiao Wangni et.al.|[2309.06724](http://arxiv.org/abs/2309.06724)|null|
@@ -1196,6 +1209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|null|
 |**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102](http://arxiv.org/abs/2309.06102)|**[link](https://github.com/ombretta/most-replayed-data)**|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
 |**2023-09-08**|**The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion**|Yujin Jeong et.al.|[2309.04509](http://arxiv.org/abs/2309.04509)|null|
