@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.15
+## Updated on 2023.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1209,7 +1209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|null|
+|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|**[link](https://github.com/yylgoodlucky/hdtr)**|
 |**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102](http://arxiv.org/abs/2309.06102)|**[link](https://github.com/ombretta/most-replayed-data)**|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
 |**2023-09-08**|**The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion**|Yujin Jeong et.al.|[2309.04509](http://arxiv.org/abs/2309.04509)|null|
