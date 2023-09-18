@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.17
+## Updated on 2023.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-14**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
+|**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
 |**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906](http://arxiv.org/abs/2309.07906)|null|
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
 |**2023-09-14**|**Logarithmic Sobolev inequalities for non-equilibrium steady states**|Pierre Monmarché et.al.|[2309.07858](http://arxiv.org/abs/2309.07858)|null|
