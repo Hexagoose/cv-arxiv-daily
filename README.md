@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Projected Langevin dynamics and a gradient flow for entropic optimal transport**|Giovanni Conforti et.al.|[2309.08598](http://arxiv.org/abs/2309.08598)|null|
+|**2023-09-15**|**Confirmation of an anomalously low dark matter content for the galaxy NGC1052-DF4 from deep, high resolution continuum spectroscopy**|Zili Shen et.al.|[2309.08592](http://arxiv.org/abs/2309.08592)|null|
+|**2023-09-15**|**Compositional Foundation Models for Hierarchical Planning**|Anurag Ajay et.al.|[2309.08587](http://arxiv.org/abs/2309.08587)|null|
+|**2023-09-15**|**Norm Growth, Non-uniqueness, and Anomalous Dissipation in Passive Scalars**|Tarek M. Elgindi et.al.|[2309.08576](http://arxiv.org/abs/2309.08576)|null|
+|**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568](http://arxiv.org/abs/2309.08568)|null|
+|**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523](http://arxiv.org/abs/2309.08523)|**[link](https://github.com/kongdai123/repainting_3d_assets)**|
+|**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511](http://arxiv.org/abs/2309.08511)|null|
+|**2023-09-15**|**Diffuse-illumination holographic optical coherence tomography**|Léo Puyo et.al.|[2309.08486](http://arxiv.org/abs/2309.08486)|null|
+|**2023-09-15**|**Isotropic active colloids: explicit vs. implicit descriptions of propulsion mechanisms**|Jeanne Decayeux et.al.|[2309.08455](http://arxiv.org/abs/2309.08455)|null|
+|**2023-09-15**|**Fractional Advection Diffusion Asymmetry Equation, derivation, solution and application**|Wanli Wang et.al.|[2309.08391](http://arxiv.org/abs/2309.08391)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
 |**2023-09-14**|**Generative Image Dynamics**|Zhengqi Li et.al.|[2309.07906](http://arxiv.org/abs/2309.07906)|null|
 |**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
@@ -820,6 +830,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models**|Feihong He et.al.|[2309.08251](http://arxiv.org/abs/2309.08251)|null|
+|**2023-09-15**|**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**|Katherine Lee et.al.|[2309.08133](http://arxiv.org/abs/2309.08133)|null|
+|**2023-09-15**|**Increasing diversity of omni-directional images generated from single image using cGAN based on MLPMixer**|Atsuya Nakata et.al.|[2309.08129](http://arxiv.org/abs/2309.08129)|**[link](https://github.com/islab-sophia/odigen-mlpmixer)**|
+|**2023-09-15**|**MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces**|Zhicun Yin et.al.|[2309.08113](http://arxiv.org/abs/2309.08113)|null|
+|**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986](http://arxiv.org/abs/2309.07986)|null|
+|**2023-09-14**|**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations**|Giada Zingarini et.al.|[2309.07973](http://arxiv.org/abs/2309.07973)|null|
 |**2023-09-14**|**ALWOD: Active Learning for Weakly-Supervised Object Detection**|Yuting Wang et.al.|[2309.07914](http://arxiv.org/abs/2309.07914)|null|
 |**2023-09-13**|**Unbiased Face Synthesis With Diffusion Models: Are We There Yet?**|Harrison Rosenberg et.al.|[2309.07277](http://arxiv.org/abs/2309.07277)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
@@ -1221,6 +1237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset**|Iya Chivileva et.al.|[2309.08009](http://arxiv.org/abs/2309.08009)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|**[link](https://github.com/yylgoodlucky/hdtr)**|
 |**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102](http://arxiv.org/abs/2309.06102)|**[link](https://github.com/ombretta/most-replayed-data)**|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
