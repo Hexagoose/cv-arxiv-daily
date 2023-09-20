@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
+|**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810](http://arxiv.org/abs/2309.10810)|**[link](https://github.com/pq-yang/pgdiff)**|
+|**2023-09-19**|**Probing the spatial and velocity anisotropies in stellar halos from the Aquarius simulations**|Amit Mondal et.al.|[2309.10798](http://arxiv.org/abs/2309.10798)|null|
+|**2023-09-19**|**The Kinematic Structure of Magnetically Aligned HI Filaments**|Doyeon Avery Kim et.al.|[2309.10777](http://arxiv.org/abs/2309.10777)|null|
+|**2023-09-19**|**An optical Ising spin glass simulator with tuneable short range couplings**|Louis Delloye et.al.|[2309.10764](http://arxiv.org/abs/2309.10764)|null|
+|**2023-09-19**|**Accelerating Diffusion-Based Text-to-Audio Generation with Consistency Distillation**|Yatong Bai et.al.|[2309.10740](http://arxiv.org/abs/2309.10740)|null|
+|**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714](http://arxiv.org/abs/2309.10714)|null|
+|**2023-09-19**|**Small Molecules, Big Impact: A tale of hydrides past, present, and future**|Arshia Maria Jacob et.al.|[2309.10712](http://arxiv.org/abs/2309.10712)|null|
+|**2023-09-19**|**Ni/Bi bilayers: The effect of thickness on the superconducting properties**|Gabriel Sant'ana et.al.|[2309.10705](http://arxiv.org/abs/2309.10705)|null|
+|**2023-09-19**|**Unbiased Parameter Estimation for Partially Observed Diffusions**|Elsiddig Awadelkarim et.al.|[2309.10589](http://arxiv.org/abs/2309.10589)|null|
 |**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968](http://arxiv.org/abs/2309.09968)|null|
 |**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
 |**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944](http://arxiv.org/abs/2309.09944)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
@@ -757,6 +767,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**What is the Best Automated Metric for Text to Motion Generation?**|Jordan Voas et.al.|[2309.10248](http://arxiv.org/abs/2309.10248)|null|
+|**2023-09-19**|**Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance**|Wang Kai et.al.|[2309.10226](http://arxiv.org/abs/2309.10226)|null|
 |**2023-09-17**|**Double Normalizing Flows: Flexible Bayesian Gaussian Process ODEs Learning**|Jian Xu et.al.|[2309.09222](http://arxiv.org/abs/2309.09222)|null|
 |**2023-09-16**|**Pedestrian Trajectory Prediction Using Dynamics-based Deep Learning**|Honghui Wang et.al.|[2309.09021](http://arxiv.org/abs/2309.09021)|null|
 |**2023-09-16**|**Staged Contact-Aware Global Human Motion Forecasting**|Luca Scofano et.al.|[2309.08947](http://arxiv.org/abs/2309.08947)|**[link](https://github.com/l-scofano/stag)**|
@@ -843,6 +855,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
+|**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556](http://arxiv.org/abs/2309.10556)|**[link](https://github.com/witcherofresearch/forgedit)**|
+|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
+|**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438](http://arxiv.org/abs/2309.10438)|null|
+|**2023-09-19**|**SideGAN: 3D-Aware Generative Model for Improved Side-View Image Synthesis**|Kyungmin Jo et.al.|[2309.10388](http://arxiv.org/abs/2309.10388)|null|
+|**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348](http://arxiv.org/abs/2309.10348)|null|
+|**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020](http://arxiv.org/abs/2309.10020)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614](http://arxiv.org/abs/2309.09614)|null|
 |**2023-09-18**|**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis**|Tianyi Song et.al.|[2309.09553](http://arxiv.org/abs/2309.09553)|null|
 |**2023-09-18**|**DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues**|Kun Pan et.al.|[2309.09526](http://arxiv.org/abs/2309.09526)|**[link](https://github.com/deepfakeil/dfil)**|
