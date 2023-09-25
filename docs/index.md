@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Free fermions with dephasing and boundary driving: Bethe Ansatz results**|Vincenzo Alba et.al.|[2309.12978](http://arxiv.org/abs/2309.12978)|null|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
+|**2023-09-22**|**Accuracy and stability analysis of horizontal discretizations used in unstructured grid ocean models**|Fabricio Rodrigues Lapolli et.al.|[2309.12832](http://arxiv.org/abs/2309.12832)|null|
+|**2023-09-22**|**Synthetic Boost: Leveraging Synthetic Data for Enhanced Vision-Language Segmentation in Echocardiography**|Rabin Adhikari et.al.|[2309.12829](http://arxiv.org/abs/2309.12829)|**[link](https://github.com/naamiinepal/synthetic-boost)**|
+|**2023-09-22**|**DurIAN-E: Duration Informed Attention Network For Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2309.12792](http://arxiv.org/abs/2309.12792)|null|
+|**2023-09-22**|**Semantic Change Driven Generative Semantic Communication Framework**|Wanting Yang et.al.|[2309.12775](http://arxiv.org/abs/2309.12775)|null|
+|**2023-09-22**|**Coverage Dependent H $_2$ Desorption Energy: a Quantitative Explanation Based on Encounter Desorption Mechanism**|Qingkuan Meng et.al.|[2309.12587](http://arxiv.org/abs/2309.12587)|null|
+|**2023-09-21**|**A Diffusion-Model of Joint Interactive Navigation**|Matthew Niedoba et.al.|[2309.12508](http://arxiv.org/abs/2309.12508)|null|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**A rigorous model reduction for the anisotropic-scattering transport process**|Yuan Hu et.al.|[2309.12296](http://arxiv.org/abs/2309.12296)|null|
 |**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
 |**2023-09-21**|**Intertype superconductivity evoked by the interplay of disorder and multiple bands**|P. M. Marychev et.al.|[2309.12133](http://arxiv.org/abs/2309.12133)|null|
@@ -865,6 +875,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation**|Bo-Hsun Chen et.al.|[2309.12397](http://arxiv.org/abs/2309.12397)|null|
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923](http://arxiv.org/abs/2309.11923)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
 |**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667](http://arxiv.org/abs/2309.11667)|null|
