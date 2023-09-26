@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-25**|**Bayesian parameter estimation for characterising mobile ion vacancies in perovskite solar cells**|Samuel G. McCallum et.al.|[2309.14302](http://arxiv.org/abs/2309.14302)|null|
+|**2023-09-25**|**A Multi-Frequency View of the Radio Phoenix in the Abell 85 Cluster**|Ramij Raja et.al.|[2309.14244](http://arxiv.org/abs/2309.14244)|null|
+|**2023-09-25**|**Magneto-thermal evolution in the cores of adolescent neutron stars: The Grad-Shafranov equilibrium is never reached in the 'strong-coupling' regime**|Nicolás A. Moraga et.al.|[2309.14182](http://arxiv.org/abs/2309.14182)|null|
+|**2023-09-25**|**Nonlinear Filtering of Classical and Quantum Spin Systems**|Sivaguru S. Sritharan et.al.|[2309.14143](http://arxiv.org/abs/2309.14143)|null|
+|**2023-09-25**|**Non-equilibrium steady states of electrolyte interfaces**|Markus Bier et.al.|[2309.14126](http://arxiv.org/abs/2309.14126)|null|
+|**2023-09-25**|**A Common Approach to Singular Perturbation and Homogenization II: Semilinear Elliptic Systems**|Nikolay N. Nefedov et.al.|[2309.14108](http://arxiv.org/abs/2309.14108)|null|
+|**2023-09-25**|**Bayesian inference of 3D densities of galactic HI and H2**|Laurin Söding et.al.|[2309.14075](http://arxiv.org/abs/2309.14075)|null|
+|**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
+|**2023-09-25**|**Mixing as a correlated aggregation process**|Joris Heyman et.al.|[2309.14040](http://arxiv.org/abs/2309.14040)|null|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Free fermions with dephasing and boundary driving: Bethe Ansatz results**|Vincenzo Alba et.al.|[2309.12978](http://arxiv.org/abs/2309.12978)|null|
 |**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
@@ -797,6 +807,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation**|Annan Tang et.al.|[2309.14225](http://arxiv.org/abs/2309.14225)|null|
+|**2023-09-24**|**DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics**|Yifeng Jiang et.al.|[2309.13742](http://arxiv.org/abs/2309.13742)|null|
 |**2023-09-19**|**What is the Best Automated Metric for Text to Motion Generation?**|Jordan Voas et.al.|[2309.10248](http://arxiv.org/abs/2309.10248)|null|
 |**2023-09-22**|**Computational Design of Wiring Layout on Tight Suits with Minimal Motion Resistance**|Kai Wang et.al.|[2309.10226](http://arxiv.org/abs/2309.10226)|null|
 |**2023-09-17**|**Double Normalizing Flows: Flexible Bayesian Gaussian Process ODEs Learning**|Jian Xu et.al.|[2309.09222](http://arxiv.org/abs/2309.09222)|null|
@@ -885,6 +897,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339](http://arxiv.org/abs/2309.14339)|null|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267](http://arxiv.org/abs/2309.14267)|null|
+|**2023-09-25**|**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**|Zhongjie Ba et.al.|[2309.14122](http://arxiv.org/abs/2309.14122)|null|
+|**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
+|**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975](http://arxiv.org/abs/2309.13975)|**[link](https://github.com/hakansivuk/divsem)**|
+|**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956](http://arxiv.org/abs/2309.13956)|null|
+|**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq et.al.|[2309.13264](http://arxiv.org/abs/2309.13264)|null|
+|**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240](http://arxiv.org/abs/2309.13240)|null|
+|**2023-09-22**|**MISFIT-V: Misaligned Image Synthesis and Fusion using Information from Thermal and Visual**|Aadhar Chauhan et.al.|[2309.13216](http://arxiv.org/abs/2309.13216)|**[link](https://github.com/Aadharc/Visual_Thermal_Image_Fusion)**|
 |**2023-09-21**|**POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation**|Bo-Hsun Chen et.al.|[2309.12397](http://arxiv.org/abs/2309.12397)|null|
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923](http://arxiv.org/abs/2309.11923)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
@@ -1310,7 +1332,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
+|**2023-09-25**|**Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time**|Cheng-Hung Chan et.al.|[2309.14022](http://arxiv.org/abs/2309.14022)|null|
+|**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857](http://arxiv.org/abs/2309.13857)|null|
+|**2023-09-23**|**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER**|Mingzhen Sun et.al.|[2309.13274](http://arxiv.org/abs/2309.13274)|**[link](https://github.com/iva-mzsun/glober)**|
+|**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|**[link](https://github.com/ChenyangSi/FreeU)**|
 |**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
 |**2023-09-14**|**Measuring the Quality of Text-to-Video Model Outputs: Metrics and Dataset**|Iya Chivileva et.al.|[2309.08009](http://arxiv.org/abs/2309.08009)|null|
 |**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|**[link](https://github.com/yylgoodlucky/hdtr)**|
