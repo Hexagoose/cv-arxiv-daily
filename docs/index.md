@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -879,7 +879,7 @@ layout: default
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923](http://arxiv.org/abs/2309.11923)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
 |**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667](http://arxiv.org/abs/2309.11667)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**|Manuel Brack et.al.|[2309.11575](http://arxiv.org/abs/2309.11575)|null|
 |**2023-09-20**|**Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation**|Hyelin Nam et.al.|[2309.11127](http://arxiv.org/abs/2309.11127)|null|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
