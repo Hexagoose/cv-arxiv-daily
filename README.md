@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
+|**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
+|**2023-09-27**|**Distinguishing between long-transient and asymptotic states in a biological aggregation model**|Jonathan R. Potts et.al.|[2309.15810](http://arxiv.org/abs/2309.15810)|null|
+|**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807](http://arxiv.org/abs/2309.15807)|null|
+|**2023-09-27**|**A note on asymptotics of linear dissipative kinetic equations in bounded domains**|Yuzhe Zhu et.al.|[2309.15758](http://arxiv.org/abs/2309.15758)|null|
+|**2023-09-27**|**Statistically self-similar mixing by Gaussian random fields**|Michele Coti Zelati et.al.|[2309.15744](http://arxiv.org/abs/2309.15744)|null|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726](http://arxiv.org/abs/2309.15726)|null|
+|**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664](http://arxiv.org/abs/2309.15664)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2023-09-27**|**Direct Sensing of Remote Nuclei: Expanding the Reach of Cross-Effect Dynamic Nuclear Polarization**|Amaria Javed et.al.|[2309.15653](http://arxiv.org/abs/2309.15653)|null|
+|**2023-09-27**|**Large deviations for trajectory observables of diffusion processes in dimension $d>1$ in the double limit of large time and small diffusion coefficient**|Cecile Monthus et.al.|[2309.15542](http://arxiv.org/abs/2309.15542)|null|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117](http://arxiv.org/abs/2309.15117)|null|
 |**2023-09-26**|**Solutions with positive components to quasilinear parabolic systems**|Evelina Shamarova et.al.|[2309.15114](http://arxiv.org/abs/2309.15114)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
@@ -908,6 +918,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack**|Xiaoliang Dai et.al.|[2309.15807](http://arxiv.org/abs/2309.15807)|null|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726](http://arxiv.org/abs/2309.15726)|null|
+|**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664](http://arxiv.org/abs/2309.15664)|**[link](https://github.com/wangkai930418/DPL)**|
+|**2023-09-27**|**Position and Orientation-Aware One-Shot Learning for Medical Action Recognition from Signal Data**|Leiyu Xie et.al.|[2309.15635](http://arxiv.org/abs/2309.15635)|null|
+|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564](http://arxiv.org/abs/2309.15564)|null|
+|**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563](http://arxiv.org/abs/2309.15563)|null|
+|**2023-09-27**|**Teaching Text-to-Image Models to Communicate**|Xiaowen Sun et.al.|[2309.15516](http://arxiv.org/abs/2309.15516)|null|
+|**2023-09-27**|**DreamCom: Finetuning Text-guided Inpainting Model for Image Composition**|Lingxiao Lu et.al.|[2309.15508](http://arxiv.org/abs/2309.15508)|null|
+|**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505](http://arxiv.org/abs/2309.15505)|null|
 |**2023-09-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: Unveiling the origin and evolution of Galactic halo PN H4-1**|Masaaki Otsuka et.al.|[2309.15099](http://arxiv.org/abs/2309.15099)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091](http://arxiv.org/abs/2309.15091)|null|
 |**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934](http://arxiv.org/abs/2309.14934)|null|
@@ -1350,6 +1369,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091](http://arxiv.org/abs/2309.15091)|null|
 |**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494](http://arxiv.org/abs/2309.14494)|**[link](https://github.com/soolab/free-bloom)**|
