@@ -850,7 +850,7 @@ layout: default
 |**2023-09-06**|**SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video**|You Rim Choi et.al.|[2309.02713](http://arxiv.org/abs/2309.02713)|null|
 |**2023-09-04**|**DiverseMotion: Towards Diverse Human Motion Generation via Discrete Diffusion**|Yunhong Lou et.al.|[2309.01372](http://arxiv.org/abs/2309.01372)|**[link](https://github.com/axdfhj/mdd)**|
 |**2023-09-03**|**BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking**|Dorian F. Henning et.al.|[2309.01236](http://arxiv.org/abs/2309.01236)|null|
-|**2023-09-02**|**AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism**|Chongyang Zhong et.al.|[2309.00796](http://arxiv.org/abs/2309.00796)|null|
+|**2023-09-02**|**AttT2M: Text-Driven Human Motion Generation with Multi-Perspective Attention Mechanism**|Chongyang Zhong et.al.|[2309.00796](http://arxiv.org/abs/2309.00796)|**[link](https://github.com/zcymonkey/attt2m)**|
 |**2023-09-01**|**Shared Control Based on Extended Lipschitz Analysis With Application to Human-Superlimb Collaboration**|Hanjun Song et.al.|[2309.00685](http://arxiv.org/abs/2309.00685)|null|
 |**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310](http://arxiv.org/abs/2309.00310)|**[link](https://github.com/shaohua-pan/RobustCap)**|
 |**2023-08-31**|**Multiscale Residual Learning of Graph Convolutional Sequence Chunks for Human Motion Prediction**|Mohsen Zand et.al.|[2308.16801](http://arxiv.org/abs/2308.16801)|null|
