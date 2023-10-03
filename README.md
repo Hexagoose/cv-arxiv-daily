@@ -21,7 +21,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451](http://arxiv.org/abs/2309.17451)|null|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-29**|**Long time dynamics of a fractional dissipative model of electroconvection in bounded domains**|E. Abdo et.al.|[2309.17423](http://arxiv.org/abs/2309.17423)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
 |**2023-09-29**|**Analytic and Gevrey class regularity for parametric semilinear reaction-diffusion problems and applications in uncertainty quantification**|Alexey Chernov et.al.|[2309.17397](http://arxiv.org/abs/2309.17397)|null|
@@ -1401,7 +1401,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-29**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
+|**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496](http://arxiv.org/abs/2309.16496)|null|
 |**2023-09-28**|**Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation**|Guy Yariv et.al.|[2309.16429](http://arxiv.org/abs/2309.16429)|**[link](https://github.com/guyyariv/TempoTokens)**|
 |**2023-09-28**|**OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions**|Jin Liu et.al.|[2309.16148](http://arxiv.org/abs/2309.16148)|null|
