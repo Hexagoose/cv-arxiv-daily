@@ -873,7 +873,7 @@ layout: default
 |**2023-10-05**|**Enhanced Human-Robot Collaboration using Constrained Probabilistic Human-Motion Prediction**|Aadi Kothari et.al.|[2310.03314](http://arxiv.org/abs/2310.03314)|null|
 |**2023-10-05**|**Human Respiration Detection Under Interference: Challenges and Solutions**|Kehan Wu et.al.|[2310.03297](http://arxiv.org/abs/2310.03297)|null|
 |**2023-10-01**|**Scene-aware Human Motion Forecasting via Mutual Distance Prediction**|Chaoyue Xing et.al.|[2310.00615](http://arxiv.org/abs/2310.00615)|null|
-|**2023-09-30**|**Berkeley Open Extended Reality Recordings 2023 (BOXRR-23): 4.7 Million Motion Capture Recordings from 105,852 Extended Reality Device Users**|Vivek Nair et.al.|[2310.00430](http://arxiv.org/abs/2310.00430)|null|
+|**2023-09-30**|**Berkeley Open Extended Reality Recordings 2023 (BOXRR-23): 4.7 Million Motion Capture Recordings from 105,852 Extended Reality Device Users**|Vivek Nair et.al.|[2310.00430](http://arxiv.org/abs/2310.00430)|**[link](https://github.com/metaguard/metaguard)**|
 |**2023-09-30**|**Bayesian Approach for Adaptive EMG Pattern Classification Via Semi-Supervised Sequential Learning**|Seitaro Yoneda et.al.|[2310.00252](http://arxiv.org/abs/2310.00252)|null|
 |**2023-09-29**|**CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning**|Tianyu Li et.al.|[2309.17046](http://arxiv.org/abs/2309.17046)|null|
 |**2023-09-28**|**Object Motion Guided Human Motion Synthesis**|Jiaman Li et.al.|[2309.16237](http://arxiv.org/abs/2309.16237)|null|
