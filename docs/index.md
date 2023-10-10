@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
+|**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
 |**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
 |**2023-10-06**|**Seeding the CGM: How Satellites Populate the Cold Phase of Milky Way Halos**|Manami Roy et.al.|[2310.04404](http://arxiv.org/abs/2310.04404)|null|
 |**2023-10-06**|**Supernova Remnants in the Irregular Galaxy NGC4449**|P. Frank Winkler et.al.|[2310.04382](http://arxiv.org/abs/2310.04382)|null|
@@ -987,7 +987,7 @@ layout: default
 |**2023-10-06**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559](http://arxiv.org/abs/2310.03559)|null|
 |**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|**[link](https://github.com/ajsvb/rl_path_tracing)**|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502](http://arxiv.org/abs/2310.03502)|**[link](https://github.com/ai-forever/movqgan)**|
-|**2023-10-05**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270](http://arxiv.org/abs/2310.03270)|null|
+|**2023-10-07**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270](http://arxiv.org/abs/2310.03270)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015](http://arxiv.org/abs/2310.03015)|null|
 |**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992](http://arxiv.org/abs/2310.02992)|**[link](https://github.com/microsoft/unilm/tree/master/kosmos-g)**|
 |**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
