@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
+|**2023-10-10**|**Characterizing Gibbs states for area-tilted Brownian lines**|Mriganka Basu Roy Chowdhury et.al.|[2310.06817](http://arxiv.org/abs/2310.06817)|null|
+|**2023-10-10**|**V1507 Cygni (HD187399): A Highly Evolved, Enigmatic Interacting Binary System with an Eccentric Orbit**|T. J. Davidge et.al.|[2310.06802](http://arxiv.org/abs/2310.06802)|null|
+|**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
+|**2023-10-10**|**HiFi-123: Towards High-fidelity One Image to 3D Content Generation**|Wangbo Yu et.al.|[2310.06744](http://arxiv.org/abs/2310.06744)|null|
+|**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Chiral Active Particles are Sensitive Reporter to Environmental Geometry**|Chung Wing Chan et.al.|[2310.06662](http://arxiv.org/abs/2310.06662)|null|
+|**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661](http://arxiv.org/abs/2310.06661)|null|
+|**2023-10-10**|**Emergent Facilitation and Glassy Dynamics in Supercooled Liquids**|Muhammad R. Hasyim et.al.|[2310.06584](http://arxiv.org/abs/2310.06584)|null|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922](http://arxiv.org/abs/2310.05922)|null|
 |**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873](http://arxiv.org/abs/2310.05873)|null|
 |**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866](http://arxiv.org/abs/2310.05866)|null|
@@ -990,6 +1000,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389](http://arxiv.org/abs/2310.06389)|null|
+|**2023-10-10**|**JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling**|Jingyang Zhang et.al.|[2310.06347](http://arxiv.org/abs/2310.06347)|null|
+|**2023-10-10**|**Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models**|Fei Shen et.al.|[2310.06313](http://arxiv.org/abs/2310.06313)|**[link](https://github.com/muzishen/pcdms)**|
+|**2023-10-10**|**Improving Compositional Text-to-image Generation with Large Vision-Language Models**|Song Wen et.al.|[2310.06311](http://arxiv.org/abs/2310.06311)|null|
+|**2023-10-09**|**Latent Diffusion Model for DNA Sequence Generation**|Zehui Li et.al.|[2310.06150](http://arxiv.org/abs/2310.06150)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833](http://arxiv.org/abs/2310.05833)|null|
 |**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810](http://arxiv.org/abs/2310.05810)|null|
 |**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
