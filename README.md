@@ -1024,7 +1024,7 @@
 |**2023-10-09**|**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**|Shiyue Cao et.al.|[2310.05400](http://arxiv.org/abs/2310.05400)|null|
 |**2023-10-08**|**The Emergence of Reproducibility and Consistency in Diffusion Models**|Huijie Zhang et.al.|[2310.05264](http://arxiv.org/abs/2310.05264)|null|
 |**2023-10-07**|**Generative AI May Prefer to Present National-level Characteristics of Cities Based on Stereotypical Geographic Impressions at the Continental Level**|Shan Ye et.al.|[2310.04897](http://arxiv.org/abs/2310.04897)|null|
-|**2023-10-07**|**Understanding and Improving Adversarial Attacks on Latent Diffusion Model**|Boyang Zheng et.al.|[2310.04687](http://arxiv.org/abs/2310.04687)|null|
+|**2023-10-07**|**Understanding and Improving Adversarial Attacks on Latent Diffusion Model**|Boyang Zheng et.al.|[2310.04687](http://arxiv.org/abs/2310.04687)|**[link](https://github.com/caradryanliang/improvedadvdm)**|
 |**2023-10-06**|**BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity**|Andrew F. Luo et.al.|[2310.04420](http://arxiv.org/abs/2310.04420)|null|
 |**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378](http://arxiv.org/abs/2310.04378)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285](http://arxiv.org/abs/2310.04285)|null|
