@@ -24,7 +24,7 @@
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
 |**2023-10-11**|**Thermal rectification in mass-asymmetric one-dimensional anharmonic oscillator lattices with and without a ballistic spacer**|M Romero-Bastida et.al.|[2310.07673](http://arxiv.org/abs/2310.07673)|null|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
-|**2023-10-11**|**Third order tensor-oriented directional splitting for exponential integrators**|Fabio Cassini et.al.|[2310.07551](http://arxiv.org/abs/2310.07551)|null|
+|**2023-10-11**|**Third order tensor-oriented directional splitting for exponential integrators**|Fabio Cassini et.al.|[2310.07551](http://arxiv.org/abs/2310.07551)|**[link](https://github.com/cassinif/expds3)**|
 |**2023-10-11**|**Flux gradient relations and their dependence on turbulence anisotropy**|Samuele Mosso et.al.|[2310.07503](http://arxiv.org/abs/2310.07503)|null|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
 |**2023-10-11**|**Variational stabilization of degenerate p-elasticae**|Tatsuya Miura et.al.|[2310.07451](http://arxiv.org/abs/2310.07451)|null|
@@ -1093,7 +1093,7 @@
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563](http://arxiv.org/abs/2309.15563)|null|
 |**2023-09-27**|**Teaching Text-to-Image Models to Communicate**|Xiaowen Sun et.al.|[2309.15516](http://arxiv.org/abs/2309.15516)|null|
 |**2023-09-27**|**DreamCom: Finetuning Text-guided Inpainting Model for Image Composition**|Lingxiao Lu et.al.|[2309.15508](http://arxiv.org/abs/2309.15508)|null|
-|**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505](http://arxiv.org/abs/2309.15505)|null|
+|**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505](http://arxiv.org/abs/2309.15505)|**[link](https://github.com/google-research/google-research)**|
 |**2023-09-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: Unveiling the origin and evolution of Galactic halo PN H4-1**|Masaaki Otsuka et.al.|[2309.15099](http://arxiv.org/abs/2309.15099)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091](http://arxiv.org/abs/2309.15091)|null|
 |**2023-09-26**|**FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing**|Songyan Chen et.al.|[2309.14934](http://arxiv.org/abs/2309.14934)|null|
