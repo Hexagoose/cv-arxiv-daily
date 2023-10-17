@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644](http://arxiv.org/abs/2310.10644)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model**|Bo Ni et.al.|[2310.10605](http://arxiv.org/abs/2310.10605)|null|
+|**2023-10-16**|**Generation or Replication: Auscultating Audio Latent Diffusion Models**|Dimitrios Bralios et.al.|[2310.10604](http://arxiv.org/abs/2310.10604)|null|
+|**2023-10-16**|**Corrections to diffusion in interacting quantum systems**|Alexios A. Michailidis et.al.|[2310.10564](http://arxiv.org/abs/2310.10564)|null|
+|**2023-10-16**|**Stability and bifurcation analysis of a two-patch model with Allee effect and dispersal**|Yue Xia et.al.|[2310.10558](http://arxiv.org/abs/2310.10558)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
 |**2023-10-13**|**Driven transport of active particles through arrays of symmetric obstacles**|Shubhadip Nayak et.al.|[2310.09272](http://arxiv.org/abs/2310.09272)|null|
 |**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247](http://arxiv.org/abs/2310.09247)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
 |**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213](http://arxiv.org/abs/2310.09213)|null|
@@ -919,6 +929,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
+|**2023-10-16**|**Expression Domain Translation Network for Cross-domain Head Reenactment**|Taewoong Kang et.al.|[2310.10073](http://arxiv.org/abs/2310.10073)|null|
+|**2023-10-16**|**A Human Motion Compensation Framework for a Supernumerary Robotic Arm**|Xin Zhang et.al.|[2310.10029](http://arxiv.org/abs/2310.10029)|null|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-11**|**Guided Attention for Interpretable Motion Captioning**|Karim Radouane et.al.|[2310.07324](http://arxiv.org/abs/2310.07324)|**[link](https://github.com/rd20karim/m2t-interpretable)**|
 |**2023-10-10**|**MEDUSA: Scalable Biometric Sensing in the Wild through Distributed MIMO Radars**|Yilong Li et.al.|[2310.05507](http://arxiv.org/abs/2310.05507)|null|
@@ -1022,6 +1035,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
+|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
+|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|null|
+|**2023-10-16**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
+|**2023-10-16**|**Evading Detection Actively: Toward Anti-Forensics against Forgery Localization**|Long Zhuo et.al.|[2310.10036](http://arxiv.org/abs/2310.10036)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
 |**2023-10-13**|**Hypernymy Understanding Evaluation of Text-to-Image Models via WordNet Hierarchy**|Anton Baryshnikov et.al.|[2310.09247](http://arxiv.org/abs/2310.09247)|**[link](https://github.com/yandex-research/text-to-img-hypernymy)**|
 |**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213](http://arxiv.org/abs/2310.09213)|null|
 |**2023-10-13**|**BIPP: An efficient HPC implementation of the Bluebild algorithm for radio astronomy**|Emma Tolley et.al.|[2310.09200](http://arxiv.org/abs/2310.09200)|null|
@@ -1545,6 +1568,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
 |**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|null|
 |**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771](http://arxiv.org/abs/2310.07771)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
