@@ -504,7 +504,7 @@ layout: default
 |**2023-08-03**|**Beyond small-scale transients: a closer look at the diffuse quiet solar corona**|J. Gorman et.al.|[2308.01640](http://arxiv.org/abs/2308.01640)|null|
 |**2023-08-03**|**Reference-Free Isotropic 3D EM Reconstruction using Diffusion Models**|Kyungryun Lee et.al.|[2308.01594](http://arxiv.org/abs/2308.01594)|null|
 |**2023-08-03**|**Adversarial Training of Denoising Diffusion Model Using Dual Discriminators for High-Fidelity Multi-Speaker TTS**|Myeongjin Ko et.al.|[2308.01573](http://arxiv.org/abs/2308.01573)|**[link](https://github.com/komyeongjin/specdiff-gan)**|
-|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
+|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|**[link](https://github.com/mlpc-ucsd/patch-dm)**|
 |**2023-08-02**|**Unified Entropy-Ruled Einstein Relation for Bulk and Low-Dimensional Systems: A Hopping to Band Shift Analysis**|K. Navamani et.al.|[2308.01275](http://arxiv.org/abs/2308.01275)|null|
 |**2023-08-02**|**First Passage Time for Many Particle Diffusion in Space-Time Random Environments**|Jacob B. Hass et.al.|[2308.01267](http://arxiv.org/abs/2308.01267)|**[link](https://github.com/corwinlab/rwre-simulations)**|
 |**2023-08-02**|**Well-posedness and Long-time Behavior of a Bulk-surface Coupled Cahn-Hilliard-diffusion System with Singular Potential for Lipid Raft Formation**|Hao Wu et.al.|[2308.01228](http://arxiv.org/abs/2308.01228)|null|
@@ -1324,7 +1324,7 @@ layout: default
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
 |**2023-08-03**|**Circumventing Concept Erasure Methods For Text-to-Image Generative Models**|Minh Pham et.al.|[2308.01508](http://arxiv.org/abs/2308.01508)|**[link](https://github.com/nyu-dice-lab/circumventing-concept-erasure)**|
 |**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472](http://arxiv.org/abs/2308.01472)|null|
-|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
+|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|**[link](https://github.com/mlpc-ucsd/patch-dm)**|
 |**2023-08-02**|**Revisiting DETR Pre-training for Object Detection**|Yan Ma et.al.|[2308.01300](http://arxiv.org/abs/2308.01300)|null|
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906](http://arxiv.org/abs/2308.00906)|null|
@@ -1412,7 +1412,7 @@ layout: default
 |**2023-07-12**|**CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification**|Zhenrong Shen et.al.|[2307.06182](http://arxiv.org/abs/2307.06182)|**[link](https://github.com/zhenrongshen/cellgan)**|
 |**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
 |**2023-07-12**|**DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation**|Yipeng Leng et.al.|[2307.05899](http://arxiv.org/abs/2307.05899)|null|
-|**2023-07-11**|**Automatic Generation of Semantic Parts for Face Image Synthesis**|Tomaso Fontanini et.al.|[2307.05317](http://arxiv.org/abs/2307.05317)|null|
+|**2023-07-11**|**Automatic Generation of Semantic Parts for Face Image Synthesis**|Tomaso Fontanini et.al.|[2307.05317](http://arxiv.org/abs/2307.05317)|**[link](https://github.com/tfonta/semantic-vae)**|
 |**2023-07-12**|**Precise Image Generation on Current Noisy Quantum Computing Devices**|Florian Rehm et.al.|[2307.05253](http://arxiv.org/abs/2307.05253)|null|
 |**2023-07-11**|**DRMC: A Generalist Model with Dynamic Routing for Multi-Center PET Image Synthesis**|Zhiwen Yang et.al.|[2307.05249](http://arxiv.org/abs/2307.05249)|**[link](https://github.com/yaziwel/multi-center-pet-image-synthesis)**|
 |**2023-07-11**|**Generative Pretraining in Multimodality**|Quan Sun et.al.|[2307.05222](http://arxiv.org/abs/2307.05222)|**[link](https://github.com/baaivision/emu)**|
