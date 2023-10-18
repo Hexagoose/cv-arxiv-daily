@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation**|Haonan Wang et.al.|[2310.11320](http://arxiv.org/abs/2310.11320)|**[link](https://github.com/xmed-lab/GenericSSL)**|
+|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
+|**2023-10-17**|**Favorable and unfavorable many-body interactions for near-field radiative heat transfer in nanoparticle networks**|Minggang Luo et.al.|[2310.11273](http://arxiv.org/abs/2310.11273)|null|
+|**2023-10-17**|**Optimal existence, uniqueness and blow-up for a quasilinear diffusion equation with spatially inhomogeneous reaction**|Razvan Gabriel Iagar et.al.|[2310.11224](http://arxiv.org/abs/2310.11224)|null|
+|**2023-10-17**|**Photospheric aluminium abundances of A-type main-sequence stars**|Yoichi Takeda et.al.|[2310.11181](http://arxiv.org/abs/2310.11181)|null|
+|**2023-10-17**|**A diffusive wetting model for water entry/exit based on the weakly-compressible SPH method**|Shuoguo Zhang et.al.|[2310.11179](http://arxiv.org/abs/2310.11179)|null|
+|**2023-10-17**|**Leveraging Content-based Features from Multiple Acoustic Models for Singing Voice Conversion**|Xueyao Zhang et.al.|[2310.11160](http://arxiv.org/abs/2310.11160)|null|
+|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
+|**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106](http://arxiv.org/abs/2310.11106)|null|
+|**2023-10-17**|**A Lp-Theory for fractional stationary Navier-Stokes equations**|Oscar Jarrín et.al.|[2310.11078](http://arxiv.org/abs/2310.11078)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644](http://arxiv.org/abs/2310.10644)|null|
 |**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|**[link](https://github.com/hananshafi/llmblueprint)**|
@@ -937,6 +947,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**SICNav: Safe and Interactive Crowd Navigation using Model Predictive Control and Bilevel Optimization**|Sepehr Samavi et.al.|[2310.10982](http://arxiv.org/abs/2310.10982)|null|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-16**|**Expression Domain Translation Network for Cross-domain Head Reenactment**|Taewoong Kang et.al.|[2310.10073](http://arxiv.org/abs/2310.10073)|null|
 |**2023-10-16**|**A Human Motion Compensation Framework for a Supernumerary Robotic Arm**|Xin Zhang et.al.|[2310.10029](http://arxiv.org/abs/2310.10029)|null|
@@ -1045,6 +1056,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
+|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|null|
+|**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|**[link](https://github.com/hananshafi/llmblueprint)**|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
@@ -1580,6 +1595,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440](http://arxiv.org/abs/2310.11440)|null|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|**[link](https://github.com/zhijie-group/lovecon)**|
