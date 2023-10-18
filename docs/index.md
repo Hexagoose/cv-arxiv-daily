@@ -1199,7 +1199,7 @@ layout: default
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
 |**2023-09-11**|**Comprehensive analysis of synthetic learning applied to neonatal brain MRI segmentation**|R Valabregue et.al.|[2309.05306](http://arxiv.org/abs/2309.05306)|**[link](https://github.com/romainvala/synthetic_learning_on_dhcp)**|
 |**2023-09-10**|**Gender Bias in Multimodal Models: A Transnational Feminist Approach Considering Geographical Region and Culture**|Abhishek Mandal et.al.|[2309.04997](http://arxiv.org/abs/2309.04997)|null|
-|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|**[link](https://github.com/Fangkang515/DN2N)**|
 |**2023-09-10**|**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**|Zhihong Pan et.al.|[2309.04907](http://arxiv.org/abs/2309.04907)|null|
 |**2023-09-09**|**Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video**|Xiuzhe Wu et.al.|[2309.04814](http://arxiv.org/abs/2309.04814)|null|
 |**2023-09-09**|**VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis**|Xinya Chen et.al.|[2309.04800](http://arxiv.org/abs/2309.04800)|null|
