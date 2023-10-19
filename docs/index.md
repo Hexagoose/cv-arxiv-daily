@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Accessing ultrafast spin-transport dynamics in copper using broadband terahertz spectroscopy**|Jiří Jechumtál et.al.|[2310.12082](http://arxiv.org/abs/2310.12082)|null|
+|**2023-10-18**|**Random resetting in search problems**|Arnab Pal et.al.|[2310.12057](http://arxiv.org/abs/2310.12057)|null|
+|**2023-10-18**|**Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation**|Bin Fan et.al.|[2310.12029](http://arxiv.org/abs/2310.12029)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001](http://arxiv.org/abs/2310.12001)|null|
+|**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
+|**2023-10-18**|**A Kernel-Density-Estimator Minimizing Movement Scheme for Diffusion Equations**|Florentine Fleißner et.al.|[2310.11961](http://arxiv.org/abs/2310.11961)|null|
+|**2023-10-18**|**Observation of the diffusive Nambu-Goldstone mode of a non-equilibrium phase transition**|Ferdinand Claude et.al.|[2310.11903](http://arxiv.org/abs/2310.11903)|null|
 |**2023-10-17**|**Towards Generic Semi-Supervised Framework for Volumetric Medical Image Segmentation**|Haonan Wang et.al.|[2310.11320](http://arxiv.org/abs/2310.11320)|**[link](https://github.com/xmed-lab/GenericSSL)**|
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
 |**2023-10-17**|**Favorable and unfavorable many-body interactions for near-field radiative heat transfer in nanoparticle networks**|Minggang Luo et.al.|[2310.11273](http://arxiv.org/abs/2310.11273)|null|
@@ -1046,6 +1056,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-17**|**GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**|Dhruba Ghosh et.al.|[2310.11513](http://arxiv.org/abs/2310.11513)|**[link](https://github.com/djghosh13/geneval)**|
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|null|
