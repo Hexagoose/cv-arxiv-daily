@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162](http://arxiv.org/abs/2310.15162)|null|
+|**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122](http://arxiv.org/abs/2310.15122)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
+|**2023-10-23**|**First passage duality in $d>2$**|Merek Johnson et.al.|[2310.14889](http://arxiv.org/abs/2310.14889)|null|
+|**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
+|**2023-10-23**|**Elementary catastrophes underlying bifurcations of vector fields and PDEs**|Mike R Jeffrey et.al.|[2310.14818](http://arxiv.org/abs/2310.14818)|null|
 |**2023-10-20**|**Achieving Single-Electron Sensitivity at Enhanced Speed in Fully-Depleted CCDs with Double-Gate MOSFETs**|Miguel Sofo-Haro et.al.|[2310.13644](http://arxiv.org/abs/2310.13644)|null|
 |**2023-10-20**|**Front propagation close to the onset of instability**|Montie Avery et.al.|[2310.13602](http://arxiv.org/abs/2310.13602)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
@@ -977,6 +987,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
+|**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768](http://arxiv.org/abs/2310.13768)|null|
 |**2023-10-20**|**ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting**|Kushal Kedia et.al.|[2310.13258](http://arxiv.org/abs/2310.13258)|null|
 |**2023-10-19**|**Object-Aware Impedance Control for Human-Robot Collaborative Task with Online Object Parameter Estimation**|Jinseong Park et.al.|[2310.12409](http://arxiv.org/abs/2310.12409)|null|
 |**2023-10-17**|**SICNav: Safe and Interactive Crowd Navigation using Model Predictive Control and Bilevel Optimization**|Sepehr Samavi et.al.|[2310.10982](http://arxiv.org/abs/2310.10982)|null|
@@ -1088,6 +1100,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design**|Kevin Lin et.al.|[2310.15144](http://arxiv.org/abs/2310.15144)|**[link](https://github.com/design-bench/design-bench.github.io)**|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
+|**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804](http://arxiv.org/abs/2310.14804)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
+|**2023-10-22**|**A Pytorch Reproduction of Masked Generative Image Transformer**|Victor Besnier et.al.|[2310.14400](http://arxiv.org/abs/2310.14400)|**[link](https://github.com/valeoai/maskgit-pytorch)**|
+|**2023-10-22**|**Diffusion-based Data Augmentation for Nuclei Image Segmentation**|Xinyi Yu et.al.|[2310.14197](http://arxiv.org/abs/2310.14197)|**[link](https://github.com/lhaof/nudiff)**|
+|**2023-10-21**|**Adversarial Image Generation by Spatial Transformation in Perceptual Colorspaces**|Ayberk Aydin et.al.|[2310.13950](http://arxiv.org/abs/2310.13950)|**[link](https://github.com/ayberkydn/stadv-torch)**|
+|**2023-10-20**|**Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models**|Shawn Shan et.al.|[2310.13828](http://arxiv.org/abs/2310.13828)|null|
+|**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730](http://arxiv.org/abs/2310.13730)|null|
 |**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|null|
 |**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268](http://arxiv.org/abs/2310.13268)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165](http://arxiv.org/abs/2310.13165)|**[link](https://github.com/sled-group/cyclenet)**|
@@ -1643,6 +1664,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-18**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440](http://arxiv.org/abs/2310.11440)|null|
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
