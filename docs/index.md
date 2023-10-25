@@ -24,7 +24,7 @@ layout: default
 |**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
 |**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
 |**2023-10-24**|**Long time behavior of a porous medium model with degenerate hysteresis**|Chiara Gavioli et.al.|[2310.15881](http://arxiv.org/abs/2310.15881)|null|
-|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
 |**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162](http://arxiv.org/abs/2310.15162)|null|
 |**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122](http://arxiv.org/abs/2310.15122)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
