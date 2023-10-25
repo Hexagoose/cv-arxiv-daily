@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
+|**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
+|**2023-10-24**|**Weak well-posedness of stochastic Volterra equations with completely monotone kernels and non-degenerate noise**|Yushi Hamaguchi et.al.|[2310.16030](http://arxiv.org/abs/2310.16030)|null|
+|**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
+|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
+|**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000](http://arxiv.org/abs/2310.16000)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
+|**2023-10-24**|**Long time behavior of a porous medium model with degenerate hysteresis**|Chiara Gavioli et.al.|[2310.15881](http://arxiv.org/abs/2310.15881)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
 |**2023-10-23**|**Ionized Gas Extended Over 40 kpc in an Odd Radio Circle Host Galaxy**|Alison L. Coil et.al.|[2310.15162](http://arxiv.org/abs/2310.15162)|null|
 |**2023-10-23**|**A Reactive Molecular Dynamics Model for Uranium/Hydrogen Containing Systems**|A. Soshnikov et.al.|[2310.15122](http://arxiv.org/abs/2310.15122)|null|
@@ -987,6 +997,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035](http://arxiv.org/abs/2310.16035)|**[link](https://github.com/joyhsu0504/left)**|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
 |**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768](http://arxiv.org/abs/2310.13768)|null|
 |**2023-10-20**|**ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting**|Kushal Kedia et.al.|[2310.13258](http://arxiv.org/abs/2310.13258)|null|
@@ -1100,6 +1112,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
+|**2023-10-23**|**Fast Forward Modelling of Galaxy Spatial and Statistical Distributions**|Pascale Berner et.al.|[2310.15223](http://arxiv.org/abs/2310.15223)|null|
 |**2023-10-23**|**DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design**|Kevin Lin et.al.|[2310.15144](http://arxiv.org/abs/2310.15144)|**[link](https://github.com/design-bench/design-bench.github.io)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
@@ -1664,7 +1678,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-18**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440](http://arxiv.org/abs/2310.11440)|null|
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
