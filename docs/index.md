@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -20,8 +20,8 @@ layout: default
 |**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
 |**2023-10-24**|**Classical wave-particle localization in disordered landscapes**|Abel J. Abraham et.al.|[2310.16000](http://arxiv.org/abs/2310.16000)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
 |**2023-10-24**|**Long time behavior of a porous medium model with degenerate hysteresis**|Chiara Gavioli et.al.|[2310.15881](http://arxiv.org/abs/2310.15881)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
@@ -990,7 +990,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035](http://arxiv.org/abs/2310.16035)|**[link](https://github.com/joyhsu0504/left)**|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907](http://arxiv.org/abs/2310.14907)|null|
 |**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768](http://arxiv.org/abs/2310.13768)|null|
 |**2023-10-20**|**ManiCast: Collaborative Manipulation with Cost-Aware Human Forecasting**|Kushal Kedia et.al.|[2310.13258](http://arxiv.org/abs/2310.13258)|null|
