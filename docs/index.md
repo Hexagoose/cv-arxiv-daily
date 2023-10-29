@@ -113,7 +113,7 @@ layout: default
 |**2023-10-13**|**Galactic Gamma-Ray Diffuse Emission at TeV energies with HAWC Data**|R. Alfaro et.al.|[2310.09117](http://arxiv.org/abs/2310.09117)|null|
 |**2023-10-13**|**From Maximum of Intervisit Times to Starving Random Walks**|L. Régnier et.al.|[2310.09082](http://arxiv.org/abs/2310.09082)|null|
 |**2023-10-16**|**Methods for Averaging Spectral Line Data**|L. D. Anderson et.al.|[2310.09076](http://arxiv.org/abs/2310.09076)|null|
-|**2023-10-13**|**Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics**|Ting Liang et.al.|[2310.09062](http://arxiv.org/abs/2310.09062)|null|
+|**2023-10-13**|**Mechanisms of temperature-dependent thermal transport in amorphous silica from machine-learning molecular dynamics**|Ting Liang et.al.|[2310.09062](http://arxiv.org/abs/2310.09062)|**[link](https://gitlab.com/brucefan1983/nep-data)**|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
 |**2023-10-11**|**Thermal rectification in mass-asymmetric one-dimensional anharmonic oscillator lattices with and without a ballistic spacer**|M Romero-Bastida et.al.|[2310.07673](http://arxiv.org/abs/2310.07673)|null|
