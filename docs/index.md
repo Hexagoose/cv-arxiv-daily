@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1717,7 +1717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835](http://arxiv.org/abs/2310.17835)|null|
+|**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835](http://arxiv.org/abs/2310.17835)|**[link](https://github.com/sandman002/One-Style-is-All-You-Need-to-Generate-a-Video)**|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|**[link](https://github.com/showlab/loveu-tgve-2023)**|
 |**2023-10-27**|**FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
