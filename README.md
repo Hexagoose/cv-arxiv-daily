@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
+|**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
+|**2023-10-31**|**Modelling of dust emission of a filament in the Taurus molecular cloud**|M. Juvela et.al.|[2310.20585](http://arxiv.org/abs/2310.20585)|null|
+|**2023-10-31**|**The effect of demographic stochasticity on predatory-prey oscillations**|Solmaz Golmohammadi et.al.|[2310.20575](http://arxiv.org/abs/2310.20575)|null|
+|**2023-10-31**|**The very singular solution for the Anisotropic Fast Diffusion Equation and its consequences**|Juan Luis Vázquez et.al.|[2310.20569](http://arxiv.org/abs/2310.20569)|null|
+|**2023-10-31**|**On the structure-viscoelasticity relationship of a dually crosslinked reversible polymer network**|Mounika Gosika et.al.|[2310.20553](http://arxiv.org/abs/2310.20553)|null|
+|**2023-10-31**|**Semipermeable interfaces and the target problem**|Paul C Bressloff et.al.|[2310.20532](http://arxiv.org/abs/2310.20532)|null|
+|**2023-10-31**|**Structure and Color Gradients of Ultra-diffuse Galaxies in Distant Massive Galaxy Clusters**|Pinsong Zhao et.al.|[2310.20530](http://arxiv.org/abs/2310.20530)|null|
+|**2023-10-31**|**Truncated stochastically switching processes**|Paul C Bressloff et.al.|[2310.20502](http://arxiv.org/abs/2310.20502)|null|
+|**2023-10-31**|**On the Long-time Dynamics and Ergodicity of the Stochastic Nernst-Planck-Navier-Stokes System**|Elie Abdo et.al.|[2310.20484](http://arxiv.org/abs/2310.20484)|null|
 |**2023-10-29**|**JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation**|Yao Yao et.al.|[2310.19180](http://arxiv.org/abs/2310.19180)|null|
 |**2023-10-29**|**Linear optical properties of organic microcavity polaritons with non-Markovian Quantum State Diffusion**|Timo Leppälä et.al.|[2310.19162](http://arxiv.org/abs/2310.19162)|null|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
@@ -1037,6 +1047,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning**|Moritz A. Graule et.al.|[2310.20034](http://arxiv.org/abs/2310.20034)|null|
 |**2023-10-28**|**Triplet Attention Transformer for Spatiotemporal Predictive Learning**|Xuesong Nie et.al.|[2310.18698](http://arxiv.org/abs/2310.18698)|null|
 |**2023-10-27**|**FLSH -- Friendly Library for the Simulation of Humans**|Pablo Ramón et.al.|[2310.18206](http://arxiv.org/abs/2310.18206)|null|
 |**2023-10-25**|**MimicTouch: Learning Human's Control Strategy with Multi-Modal Tactile Feedback**|Kelin Yu et.al.|[2310.16917](http://arxiv.org/abs/2310.16917)|null|
@@ -1155,6 +1166,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**HWD: A Novel Evaluation Score for Styled Handwritten Text Generation**|Vittorio Pippi et.al.|[2310.20316](http://arxiv.org/abs/2310.20316)|**[link](https://github.com/aimagelab/hwd)**|
+|**2023-10-31**|**Machine learning refinement of in situ images acquired by low electron dose LC-TEM**|Hiroyasu Katsuno et.al.|[2310.20279](http://arxiv.org/abs/2310.20279)|null|
+|**2023-10-31**|**Beyond U: Making Diffusion Models Faster & Lighter**|Sergio Calvo-Ordonez et.al.|[2310.20092](http://arxiv.org/abs/2310.20092)|null|
+|**2023-10-30**|**'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion**|Sourojit Ghosh et.al.|[2310.19981](http://arxiv.org/abs/2310.19981)|null|
+|**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
+|**2023-10-30**|**Transformation vs Tradition: Artificial General Intelligence (AGI) for Arts and Humanities**|Zhengliang Liu et.al.|[2310.19626](http://arxiv.org/abs/2310.19626)|null|
+|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
+|**2023-10-30**|**Few-shot Hybrid Domain Adaptation of Image Generators**|Hengjia Li et.al.|[2310.19378](http://arxiv.org/abs/2310.19378)|**[link](https://github.com/echopluto/fhda)**|
+|**2023-10-30**|**On Measuring Fairness in Generative Models**|Christopher T. H. Teo et.al.|[2310.19297](http://arxiv.org/abs/2310.19297)|null|
+|**2023-10-30**|**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**|Bochuan Cao et.al.|[2310.19248](http://arxiv.org/abs/2310.19248)|**[link](https://github.com/aaaaaasuka/impress)**|
 |**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
 |**2023-10-29**|**FPGAN-Control: A Controllable Fingerprint Generator for Training with Synthetic Data**|Alon Shoshan et.al.|[2310.19024](http://arxiv.org/abs/2310.19024)|null|
 |**2023-10-29**|**Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity**|Tianqin Li et.al.|[2310.18894](http://arxiv.org/abs/2310.18894)|**[link](https://github.com/crazy-jack/nips2023_shape_vs_texture)**|
@@ -1743,6 +1764,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
+|**2023-10-31**|**Beyond U: Making Diffusion Models Faster & Lighter**|Sergio Calvo-Ordonez et.al.|[2310.20092](http://arxiv.org/abs/2310.20092)|null|
+|**2023-10-30**|**VideoCrafter1: Open Diffusion Models for High-Quality Video Generation**|Haoxin Chen et.al.|[2310.19512](http://arxiv.org/abs/2310.19512)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835](http://arxiv.org/abs/2310.17835)|**[link](https://github.com/sandman002/One-Style-is-All-You-Need-to-Generate-a-Video)**|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|**[link](https://github.com/showlab/loveu-tgve-2023)**|
