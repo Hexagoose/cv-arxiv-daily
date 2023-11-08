@@ -931,7 +931,7 @@ layout: default
 |**2023-06-26**|**ViNT: A Foundation Model for Visual Navigation**|Dhruv Shah et.al.|[2306.14846](http://arxiv.org/abs/2306.14846)|null|
 |**2023-06-26**|**Cuplength estimates for time-periodic measures of Hamiltonian systems with diffusion**|Oliver Fabert et.al.|[2306.14819](http://arxiv.org/abs/2306.14819)|null|
 |**2023-06-26**|**PECVD and PEALD on polymer substrates (Part II): Understanding and tuning of barrier and membrane properties of thin films**|Teresa de los Arcos et.al.|[2306.14797](http://arxiv.org/abs/2306.14797)|null|
-|**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
+|**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|**[link](https://github.com/ydu-uva/protodiff)**|
 |**2023-06-26**|**Impact of strain and surface reconstruction on long-range diffusion of Ge atoms on Ge(111) surface**|R. A. Zhachuk et.al.|[2306.14763](http://arxiv.org/abs/2306.14763)|null|
 |**2023-06-26**|**The temporal evolution of gas accretion onto the discs of simulated Milky Way-mass galaxies**|F. G. Iza et.al.|[2306.14760](http://arxiv.org/abs/2306.14760)|null|
 |**2023-06-23**|**Vorticity and level-set variations of invariant current bound steady-state dissipation**|Hao De et.al.|[2306.13647](http://arxiv.org/abs/2306.13647)|null|
@@ -1685,7 +1685,7 @@ layout: default
 |**2023-07-08**|**Measuring the Success of Diffusion Models at Imitating Human Artists**|Stephen Casper et.al.|[2307.04028](http://arxiv.org/abs/2307.04028)|null|
 |**2023-07-08**|**HUMS2023 Data Challenge Result Submission**|Dhiraj Neupane et.al.|[2307.03871](http://arxiv.org/abs/2307.03871)|null|
 |**2023-07-07**|**Synthesizing Forestry Images Conditioned on Plant Phenotype Using a Generative Adversarial Network**|Debasmita Pal et.al.|[2307.03789](http://arxiv.org/abs/2307.03789)|null|
-|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|**[link](https://github.com/ysus33/rgb-d_plenoxel_mapping_tracking)**|
 |**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971](http://arxiv.org/abs/2307.02971)|null|
 |**2023-07-06**|**Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback**|TaeHo Yoon et.al.|[2307.02770](http://arxiv.org/abs/2307.02770)|**[link](https://github.com/tetrzim/diffusion-human-feedback)**|
 |**2023-07-05**|**Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation**|Sébastien Lachapelle et.al.|[2307.02598](http://arxiv.org/abs/2307.02598)|**[link](https://github.com/divyat09/additive_decoder_extrapolation)**|
