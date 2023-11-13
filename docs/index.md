@@ -1264,7 +1264,7 @@ layout: default
 |**2023-10-30**|**'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion**|Sourojit Ghosh et.al.|[2310.19981](http://arxiv.org/abs/2310.19981)|null|
 |**2023-10-30**|**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models**|Ziyang Yuan et.al.|[2310.19784](http://arxiv.org/abs/2310.19784)|null|
 |**2023-10-30**|**Transformation vs Tradition: Artificial General Intelligence (AGI) for Arts and Humanities**|Zhengliang Liu et.al.|[2310.19626](http://arxiv.org/abs/2310.19626)|null|
-|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|null|
+|**2023-10-30**|**IterInv: Iterative Inversion for Pixel-Level T2I Models**|Chuanming Tang et.al.|[2310.19540](http://arxiv.org/abs/2310.19540)|**[link](https://github.com/tchuanm/iterinv)**|
 |**2023-10-30**|**Few-shot Hybrid Domain Adaptation of Image Generators**|Hengjia Li et.al.|[2310.19378](http://arxiv.org/abs/2310.19378)|**[link](https://github.com/echopluto/fhda)**|
 |**2023-10-30**|**On Measuring Fairness in Generative Models**|Christopher T. H. Teo et.al.|[2310.19297](http://arxiv.org/abs/2310.19297)|null|
 |**2023-10-30**|**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**|Bochuan Cao et.al.|[2310.19248](http://arxiv.org/abs/2310.19248)|**[link](https://github.com/aaaaaasuka/impress)**|
