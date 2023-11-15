@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
+|**2023-11-14**|**Modelling two Energetic Storm Particle Events Observed by Solar Orbiter Using the Combined EUHFORIA and iPATH Models**|Zheyi Ding et.al.|[2311.08346](http://arxiv.org/abs/2311.08346)|null|
+|**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
+|**2023-11-14**|**Dynamical evolution of spinodal decomposition in holographic superfluids**|Xin Zhao et.al.|[2311.08277](http://arxiv.org/abs/2311.08277)|null|
+|**2023-11-14**|**Learning Physics-Inspired Regularization for Medical Image Registration with Hypernetworks**|Anna Reithmeir et.al.|[2311.08239](http://arxiv.org/abs/2311.08239)|**[link](https://github.com/annareithmeir/elastic-regularization-hypermorph)**|
+|**2023-11-14**|**Fermi accelerating an Anderson-localized Fermi gas to superdiffusion**|Sian Barbosa et.al.|[2311.08224](http://arxiv.org/abs/2311.08224)|null|
+|**2023-11-14**|**Electronic plasma diffusion with radiation reaction force and time-dependent electric field**|J. F. García-Camacho et.al.|[2311.08215](http://arxiv.org/abs/2311.08215)|null|
+|**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
+|**2023-11-14**|**Large deviations in statistics of the convex hull of passive and active particles: A theoretical study**|Soheli Mukherjee et.al.|[2311.08193](http://arxiv.org/abs/2311.08193)|null|
+|**2023-11-14**|**T-wave Inversion through Inhomogeneous Voltage Diffusion within the FK3V Cardiac Model**|E. Angelaki et.al.|[2311.08173](http://arxiv.org/abs/2311.08173)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
 |**2023-11-13**|**Scalar Curvature For Metric Spaces: Defining Curvature For Quantum Gravity Without Coordinates**|Agustín Silva et.al.|[2311.07507](http://arxiv.org/abs/2311.07507)|null|
 |**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505](http://arxiv.org/abs/2311.07505)|null|
@@ -1250,6 +1260,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225](http://arxiv.org/abs/2311.08225)|null|
+|**2023-11-14**|**Peer is Your Pillar: A Data-unbalanced Conditional GANs for Few-shot Image Generation**|Ziqiang Li et.al.|[2311.08217](http://arxiv.org/abs/2311.08217)|null|
+|**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
+|**2023-11-14**|**One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**|Minghua Liu et.al.|[2311.07885](http://arxiv.org/abs/2311.07885)|null|
 |**2023-11-13**|**The Impact of Generative Artificial Intelligence**|Kaichen Zhang et.al.|[2311.07071](http://arxiv.org/abs/2311.07071)|null|
 |**2023-11-12**|**IMPUS: Image Morphing with Perceptually-Uniform Sampling Using Diffusion Models**|Zhaoyuan Yang et.al.|[2311.06792](http://arxiv.org/abs/2311.06792)|null|
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
@@ -1882,6 +1896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation**|Zhihang Zhong et.al.|[2311.08007](http://arxiv.org/abs/2311.08007)|**[link](https://github.com/zzh-tech/interpany-clearer)**|
 |**2023-11-10**|**A Survey of AI Text-to-Image and AI Text-to-Video Generators**|Aditi Singh et.al.|[2311.06329](http://arxiv.org/abs/2311.06329)|null|
 |**2023-11-11**|**Learning the What and How of Annotation in Video Object Segmentation**|Thanos Delatolas et.al.|[2311.04414](http://arxiv.org/abs/2311.04414)|null|
 |**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
