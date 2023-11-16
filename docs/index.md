@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
+|**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
+|**2023-11-15**|**Planetary nebulae as tracers of stellar population properties: unlocking their potential with integral-field spectroscopy**|Ana Ennis et.al.|[2311.09176](http://arxiv.org/abs/2311.09176)|null|
+|**2023-11-15**|**KPZ equation limit of random walks in random environments**|Sayan Das et.al.|[2311.09151](http://arxiv.org/abs/2311.09151)|null|
+|**2023-11-15**|**Degenerate Mean Field Type Control with Linear and Unbounded Diffusion, and their Associated Equations**|Alain Bensoussan et.al.|[2311.09138](http://arxiv.org/abs/2311.09138)|null|
+|**2023-11-15**|**Fast Detection of Phase Transitions with Multi-Task Learning-by-Confusion**|Julian Arnold et.al.|[2311.09128](http://arxiv.org/abs/2311.09128)|null|
+|**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
+|**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955](http://arxiv.org/abs/2311.08955)|null|
+|**2023-11-15**|**Observing planetesimal formation under streaming instability in the rings of HD 163296**|Francesco Zagaria et.al.|[2311.08950](http://arxiv.org/abs/2311.08950)|null|
 |**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
 |**2023-11-14**|**Modelling two Energetic Storm Particle Events Observed by Solar Orbiter Using the Combined EUHFORIA and iPATH Models**|Zheyi Ding et.al.|[2311.08346](http://arxiv.org/abs/2311.08346)|null|
 |**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
@@ -1139,6 +1149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Cross-view and Cross-pose Completion for 3D Human Understanding**|Matthieu Armando et.al.|[2311.09104](http://arxiv.org/abs/2311.09104)|null|
 |**2023-11-13**|**Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text**|Zhongfei Qing et.al.|[2311.07446](http://arxiv.org/abs/2311.07446)|null|
 |**2023-11-09**|**SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers**|Sammy Christen et.al.|[2311.05599](http://arxiv.org/abs/2311.05599)|null|
 |**2023-11-03**|**SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data**|Jose Luis Ponton et.al.|[2311.02191](http://arxiv.org/abs/2311.02191)|**[link](https://github.com/UPC-ViRVIG/SparsePoser)**|
@@ -1260,6 +1271,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**Progressive Feedback-Enhanced Transformer for Image Forgery Localization**|Haochen Zhu et.al.|[2311.08910](http://arxiv.org/abs/2311.08910)|null|
+|**2023-11-14**|**Finding AI-Generated Faces in the Wild**|Gonzalo J. Aniano Porcile et.al.|[2311.08577](http://arxiv.org/abs/2311.08577)|null|
 |**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225](http://arxiv.org/abs/2311.08225)|null|
 |**2023-11-14**|**Peer is Your Pillar: A Data-unbalanced Conditional GANs for Few-shot Image Generation**|Ziqiang Li et.al.|[2311.08217](http://arxiv.org/abs/2311.08217)|null|
 |**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
