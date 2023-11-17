@@ -40,7 +40,7 @@
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955](http://arxiv.org/abs/2311.08955)|null|
 |**2023-11-15**|**Observing planetesimal formation under streaming instability in the rings of HD 163296**|Francesco Zagaria et.al.|[2311.08950](http://arxiv.org/abs/2311.08950)|null|
-|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|null|
+|**2023-11-14**|**Mustango: Toward Controllable Text-to-Music Generation**|Jan Melechovsky et.al.|[2311.08355](http://arxiv.org/abs/2311.08355)|**[link](https://github.com/amaai-lab/mustango)**|
 |**2023-11-14**|**Modelling two Energetic Storm Particle Events Observed by Solar Orbiter Using the Combined EUHFORIA and iPATH Models**|Zheyi Ding et.al.|[2311.08346](http://arxiv.org/abs/2311.08346)|null|
 |**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
 |**2023-11-14**|**Dynamical evolution of spinodal decomposition in holographic superfluids**|Xin Zhao et.al.|[2311.08277](http://arxiv.org/abs/2311.08277)|null|
