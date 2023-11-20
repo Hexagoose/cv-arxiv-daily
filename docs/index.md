@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709](http://arxiv.org/abs/2311.10709)|null|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
+|**2023-11-17**|**TODD-Graphene: A Novel Porous 2D Carbon Allotrope for High-Performance Lithium-Ion Batteries**|E. J. A. Santos et.al.|[2311.10704](http://arxiv.org/abs/2311.10704)|null|
+|**2023-11-17**|**Aging Dynamics of $d-$ dimensional Locally Activated Random Walks**|Julien Brémont et.al.|[2311.10647](http://arxiv.org/abs/2311.10647)|null|
+|**2023-11-17**|**Hadronization of Heavy Quarks**|Jiaxing Zhao et.al.|[2311.10621](http://arxiv.org/abs/2311.10621)|null|
+|**2023-11-17**|**Bacterial diffusion in disordered media, by forgetting the media**|Henry H. Mattingly et.al.|[2311.10612](http://arxiv.org/abs/2311.10612)|null|
+|**2023-11-17**|**Searching for activated transitions in complex magnetic systems**|H. Bocquet et.al.|[2311.10584](http://arxiv.org/abs/2311.10584)|null|
+|**2023-11-17**|**Beginner's guide to visual analysis of perovskite and organic solar cell current density-voltage characteristics**|Albert These et.al.|[2311.10553](http://arxiv.org/abs/2311.10553)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
+|**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457](http://arxiv.org/abs/2311.10457)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**Spontaneous Opinion Swings in the Voter Model with Latency**|Giovanni Palermo et.al.|[2311.10045](http://arxiv.org/abs/2311.10045)|null|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
@@ -1159,6 +1169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications**|Oscar Gil et.al.|[2311.10582](http://arxiv.org/abs/2311.10582)|null|
 |**2023-11-16**|**A Dynamic Computational Model of Head Sway Responses in Human Upright Stance Postural Control during Support Surface Tilt**|Vittorio Lippi et.al.|[2311.09697](http://arxiv.org/abs/2311.09697)|null|
 |**2023-11-16**|**Temporal-Aware Refinement for Video-based Human Pose and Shape Recovery**|Ming Chen et.al.|[2311.09543](http://arxiv.org/abs/2311.09543)|null|
 |**2023-11-15**|**Cross-view and Cross-pose Completion for 3D Human Understanding**|Matthieu Armando et.al.|[2311.09104](http://arxiv.org/abs/2311.09104)|null|
@@ -1283,6 +1294,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
+|**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617](http://arxiv.org/abs/2311.10617)|null|
+|**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
+|**2023-11-17**|**End-to-end autoencoding architecture for the simultaneous generation of medical images and corresponding segmentation masks**|Aghiles Kebaili et.al.|[2311.10472](http://arxiv.org/abs/2311.10472)|null|
+|**2023-11-17**|**High-fidelity Person-centric Subject-to-Image Synthesis**|Yibin Wang et.al.|[2311.10329](http://arxiv.org/abs/2311.10329)|null|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089](http://arxiv.org/abs/2311.10089)|null|
 |**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822](http://arxiv.org/abs/2311.09822)|**[link](https://github.com/Likalto4/diffusion-models_master)**|
@@ -1930,6 +1947,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709](http://arxiv.org/abs/2311.10709)|null|
 |**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265](http://arxiv.org/abs/2311.09265)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
 |**2023-11-14**|**Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation**|Zhihang Zhong et.al.|[2311.08007](http://arxiv.org/abs/2311.08007)|**[link](https://github.com/zzh-tech/interpany-clearer)**|
 |**2023-11-10**|**A Survey of AI Text-to-Image and AI Text-to-Video Generators**|Aditi Singh et.al.|[2311.06329](http://arxiv.org/abs/2311.06329)|null|
