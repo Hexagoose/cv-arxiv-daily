@@ -1083,7 +1083,7 @@ layout: default
 |**2023-06-13**|**Room temperature wavelike exciton transport in a van der Waals superatomic semiconductor**|Jakhangirkhodja A. Tulyagankhodjaev et.al.|[2306.07808](http://arxiv.org/abs/2306.07808)|null|
 |**2023-06-13**|**Stochastic differential equation for modelling health related quality of life**|Ralph Brinks et.al.|[2306.07789](http://arxiv.org/abs/2306.07789)|null|
 |**2023-06-13**|**Diffusive and convective dissolution of carbon dioxide in a vertical cylindrical cell**|Daniël P. Faasen et.al.|[2306.07721](http://arxiv.org/abs/2306.07721)|null|
-|**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
+|**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|**[link](https://github.com/yl4579/StyleTTS2)**|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257](http://arxiv.org/abs/2306.07257)|null|
 |**2023-06-12**|**Direct Observation of the Translational Immobilization of Water Molecules Under Nanoscale Confinement**|Alec A. Beaton et.al.|[2306.07240](http://arxiv.org/abs/2306.07240)|null|
