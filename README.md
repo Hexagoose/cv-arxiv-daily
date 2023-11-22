@@ -846,7 +846,7 @@
 |**2023-07-21**|**Learning minimal representations of stochastic processes with variational autoencoders**|Gabriel Fernández-Fernández et.al.|[2307.11608](http://arxiv.org/abs/2307.11608)|**[link](https://github.com/gabrielfernandezfernandez/spivae)**|
 |**2023-07-21**|**Mixbiotic society measures: Assessment of community well-going as living system**|Takeshi Kato et.al.|[2307.11594](http://arxiv.org/abs/2307.11594)|null|
 |**2023-07-21**|**Wilson-Itô diffusions**|Ismael Bailleul et.al.|[2307.11580](http://arxiv.org/abs/2307.11580)|null|
-|**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494](http://arxiv.org/abs/2307.11494)|null|
+|**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494](http://arxiv.org/abs/2307.11494)|**[link](https://github.com/amazon-science/unconditional-time-series-diffusion)**|
 |**2023-07-21**|**On the convergence order of the Euler scheme for scalar SDEs with Hölder-type diffusion coefficients**|Annalena Mickel et.al.|[2307.11448](http://arxiv.org/abs/2307.11448)|null|
 |**2023-07-21**|**Unveiling the solid-like dynamics of liquids at low-frequency via nano-confinement**|Yuanxi Yu et.al.|[2307.11429](http://arxiv.org/abs/2307.11429)|null|
 |**2023-07-21**|**Approximating a continuously stratified hydrostatic system by the multi-layer shallow water system**|Mahieddine Adim et.al.|[2307.11426](http://arxiv.org/abs/2307.11426)|null|
