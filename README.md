@@ -873,7 +873,7 @@
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
-|**2023-07-19**|**XSkill: Cross Embodiment Skill Discovery**|Mengda Xu et.al.|[2307.09955](http://arxiv.org/abs/2307.09955)|null|
+|**2023-07-19**|**XSkill: Cross Embodiment Skill Discovery**|Mengda Xu et.al.|[2307.09955](http://arxiv.org/abs/2307.09955)|**[link](https://github.com/real-stanford/xskill)**|
 |**2023-07-19**|**Nonequilibrium phase transitions in Brownian $p$ -state clock model**|Chul-Ung Woo et.al.|[2307.09945](http://arxiv.org/abs/2307.09945)|null|
 |**2023-07-19**|**Tracer dynamics in active random average process**|Saikat Santra et.al.|[2307.09908](http://arxiv.org/abs/2307.09908)|null|
 |**2023-07-19**|**Visual Representation for Patterned Proliferation of Social Media Addiction: Quantitative Model and Network Analysis**|Dibyajyoti Mallick et.al.|[2307.09902](http://arxiv.org/abs/2307.09902)|null|
