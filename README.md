@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). VI. Nuclear Star Clusters**|Mika Lambert et.al.|[2311.12795](http://arxiv.org/abs/2311.12795)|null|
+|**2023-11-21**|**Bubble departure and sliding in high-pressure flow boiling of water**|Artyom Kossolapov et.al.|[2311.12749](http://arxiv.org/abs/2311.12749)|null|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-21**|**HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis**|Sang-Hoon Lee et.al.|[2311.12454](http://arxiv.org/abs/2311.12454)|**[link](https://github.com/sh-lee-prml/hierspeechpp)**|
+|**2023-11-21**|**Hydrodynamic limit of N-branching Markov processes**|Jean Bérard et.al.|[2311.12453](http://arxiv.org/abs/2311.12453)|null|
+|**2023-11-21**|**Autoencoder-assisted study of directed percolation with spatial long-range interactions**|Yanyang Wang et.al.|[2311.12426](http://arxiv.org/abs/2311.12426)|null|
+|**2023-11-21**|**Spin current relaxation time in thermally evaporated naphthyl diamine derivative films**|Eiji Shikoh et.al.|[2311.12406](http://arxiv.org/abs/2311.12406)|null|
+|**2023-11-21**|**Stable Diffusion For Aerial Object Detection**|Yanan Jian et.al.|[2311.12345](http://arxiv.org/abs/2311.12345)|null|
+|**2023-11-21**|**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**|Peiang Zhao et.al.|[2311.12342](http://arxiv.org/abs/2311.12342)|null|
+|**2023-11-21**|**Overcoming Pathology Image Data Deficiency: Generating Images from Pathological Transformation Process**|Zeyu Liu et.al.|[2311.12316](http://arxiv.org/abs/2311.12316)|**[link](https://github.com/rowerliu/adbd)**|
 |**2023-11-20**|**Macroscopic description of a heavy particle immersed within a flow of light particles**|Radek Erban et.al.|[2311.12021](http://arxiv.org/abs/2311.12021)|null|
 |**2023-11-20**|**Brownian bridge limit of path measures in the upper tail of KPZ models**|Shirshendu Ganguly et.al.|[2311.12009](http://arxiv.org/abs/2311.12009)|null|
 |**2023-11-20**|**Extreme heterogeneity in the microrheology of lamellar surfactant gels analyzed with neural networks**|Owen Watts Moore et.al.|[2311.11941](http://arxiv.org/abs/2311.11941)|null|
@@ -1187,6 +1197,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Digital Twin-Based User-Centric Edge Continual Learning in Integrated Sensing and Communication**|Shisheng Hu et.al.|[2311.12223](http://arxiv.org/abs/2311.12223)|null|
+|**2023-11-18**|**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer**|Di Chang et.al.|[2311.12052](http://arxiv.org/abs/2311.12052)|**[link](https://github.com/boese0601/magicdance)**|
 |**2023-11-20**|**Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos**|Sushovan Chanda et.al.|[2311.11662](http://arxiv.org/abs/2311.11662)|null|
 |**2023-11-17**|**Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications**|Oscar Gil et.al.|[2311.10582](http://arxiv.org/abs/2311.10582)|null|
 |**2023-11-16**|**A Dynamic Computational Model of Head Sway Responses in Human Upright Stance Postural Control during Support Surface Tilt**|Vittorio Lippi et.al.|[2311.09697](http://arxiv.org/abs/2311.09697)|null|
@@ -1315,6 +1327,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-21**|**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**|Peiang Zhao et.al.|[2311.12342](http://arxiv.org/abs/2311.12342)|null|
+|**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229](http://arxiv.org/abs/2311.12229)|null|
+|**2023-11-20**|**Nepotistically Trained Generative-AI Models Collapse**|Matyas Bohacek et.al.|[2311.12202](http://arxiv.org/abs/2311.12202)|null|
+|**2023-11-20**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092](http://arxiv.org/abs/2311.12092)|**[link](https://github.com/rohitgandikota/sliders)**|
 |**2023-11-20**|**An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2311.11919](http://arxiv.org/abs/2311.11919)|null|
 |**2023-11-20**|**Cut-and-Paste: Subject-Driven Video Editing with Attention Control**|Zhichao Zuo et.al.|[2311.11697](http://arxiv.org/abs/2311.11697)|null|
 |**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
@@ -1980,6 +1997,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-18**|**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer**|Di Chang et.al.|[2311.12052](http://arxiv.org/abs/2311.12052)|**[link](https://github.com/boese0601/magicdance)**|
 |**2023-11-20**|**Cut-and-Paste: Subject-Driven Video Editing with Attention Control**|Zhichao Zuo et.al.|[2311.11697](http://arxiv.org/abs/2311.11697)|null|
 |**2023-11-19**|**MoVideo: Motion-Aware Video Generation with Diffusion Models**|Jingyun Liang et.al.|[2311.11325](http://arxiv.org/abs/2311.11325)|null|
 |**2023-11-18**|**Make Pixels Dance: High-Dynamic Video Generation**|Yan Zeng et.al.|[2311.10982](http://arxiv.org/abs/2311.10982)|null|
