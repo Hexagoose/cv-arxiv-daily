@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1199,7 +1199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
+|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|**[link](https://github.com/YessionCC/AnimatableGaussian)**|
 |**2023-11-20**|**Digital Twin-Based User-Centric Edge Continual Learning in Integrated Sensing and Communication**|Shisheng Hu et.al.|[2311.12223](http://arxiv.org/abs/2311.12223)|null|
 |**2023-11-18**|**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer**|Di Chang et.al.|[2311.12052](http://arxiv.org/abs/2311.12052)|**[link](https://github.com/boese0601/magicdance)**|
 |**2023-11-20**|**Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos**|Sushovan Chanda et.al.|[2311.11662](http://arxiv.org/abs/2311.11662)|null|
