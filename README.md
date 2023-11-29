@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Material Palette: Extraction of Materials from a Single Image**|Ivan Lopes et.al.|[2311.17060](http://arxiv.org/abs/2311.17060)|null|
+|**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
+|**2023-11-28**|**DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**|Tsun-Hsuan Wang et.al.|[2311.17053](http://arxiv.org/abs/2311.17053)|null|
+|**2023-11-28**|**Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models**|Zhengming Yu et.al.|[2311.17050](http://arxiv.org/abs/2311.17050)|null|
+|**2023-11-28**|**Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2311.17042](http://arxiv.org/abs/2311.17042)|**[link](https://github.com/stability-ai/generative-models)**|
+|**2023-11-28**|**Rumors with Changing Credibility**|Charlotte Out et.al.|[2311.17040](http://arxiv.org/abs/2311.17040)|null|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**Pricing and hedging for a sticky diffusion**|Alexis Anagnostakis et.al.|[2311.17011](http://arxiv.org/abs/2311.17011)|null|
+|**2023-11-28**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
+|**2023-11-28**|**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**|Yutong Feng et.al.|[2311.17002](http://arxiv.org/abs/2311.17002)|null|
 |**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102](http://arxiv.org/abs/2311.16102)|null|
 |**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097](http://arxiv.org/abs/2311.16097)|null|
 |**2023-11-27**|**KPZ-type equation from growth driven by a non-Markovian diffusion**|Amir Dembo et.al.|[2311.16095](http://arxiv.org/abs/2311.16095)|null|
@@ -1227,6 +1237,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
+|**2023-11-28**|**A Unified Framework for Multimodal, Multi-Part Human Motion Synthesis**|Zixiang Zhou et.al.|[2311.16471](http://arxiv.org/abs/2311.16471)|null|
+|**2023-11-28**|**AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond**|Zixiang Zhou et.al.|[2311.16468](http://arxiv.org/abs/2311.16468)|null|
 |**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097](http://arxiv.org/abs/2311.16097)|null|
 |**2023-11-27**|**InterControl: Generate Human Motion Interactions by Controlling Every Joint**|Zhenzhi Wang et.al.|[2311.15864](http://arxiv.org/abs/2311.15864)|**[link](https://github.com/zhenzhiwang/intercontrol)**|
 |**2023-11-25**|**GBD-TS: Goal-based Pedestrian Trajectory Prediction with Diffusion using Tree Sampling Algorithm**|Ge Sun et.al.|[2311.14922](http://arxiv.org/abs/2311.14922)|null|
@@ -1362,6 +1375,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2311.17042](http://arxiv.org/abs/2311.17042)|**[link](https://github.com/stability-ai/generative-models)**|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
+|**2023-11-28**|**Optimisation-Based Multi-Modal Semantic Image Editing**|Bowen Li et.al.|[2311.16882](http://arxiv.org/abs/2311.16882)|null|
+|**2023-11-28**|**Denoising Diffusion Probabilistic Models for Image Inpainting of Cell Distributions in the Human Brain**|Jan-Oliver Kropp et.al.|[2311.16821](http://arxiv.org/abs/2311.16821)|null|
+|**2023-11-28**|**Multi-Channel Cross Modal Detection of Synthetic Face Images**|M. Ibsen et.al.|[2311.16773](http://arxiv.org/abs/2311.16773)|null|
+|**2023-11-28**|**LEDITS++: Limitless Image Editing using Text-to-Image Models**|Manuel Brack et.al.|[2311.16711](http://arxiv.org/abs/2311.16711)|null|
+|**2023-11-28**|**MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices**|Yang Zhao et.al.|[2311.16567](http://arxiv.org/abs/2311.16567)|null|
+|**2023-11-28**|**Enhancing Scene Text Detectors with Realistic Text Image Synthesis Using Diffusion Models**|Ling Fu et.al.|[2311.16555](http://arxiv.org/abs/2311.16555)|null|
+|**2023-11-28**|**Federated Learning with Diffusion Models for Privacy-Sensitive Vision Tasks**|Ye Lin Tun et.al.|[2311.16538](http://arxiv.org/abs/2311.16538)|null|
 |**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
 |**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081](http://arxiv.org/abs/2311.16081)|**[link](https://github.com/TencentARC/ViT-Lens)**|
 |**2023-11-27**|**Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion**|Yuanxun Lu et.al.|[2311.15980](http://arxiv.org/abs/2311.15980)|null|
@@ -2057,6 +2080,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models**|Yuwei Guo et.al.|[2311.16933](http://arxiv.org/abs/2311.16933)|null|
+|**2023-11-28**|**Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2311.16813](http://arxiv.org/abs/2311.16813)|null|
+|**2023-11-28**|**MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation**|Sitong Su et.al.|[2311.16635](http://arxiv.org/abs/2311.16635)|null|
+|**2023-11-25**|**GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation**|Zhanyu Wang et.al.|[2311.16511](http://arxiv.org/abs/2311.16511)|null|
 |**2023-11-27**|**FlowZero: Zero-Shot Text-to-Video Synthesis with LLM-Driven Dynamic Scene Syntax**|Yu Lu et.al.|[2311.15813](http://arxiv.org/abs/2311.15813)|null|
 |**2023-11-27**|**Real Time GAZED: Online Shot Selection and Editing of Virtual Cameras from Wide-Angle Monocular Video Recordings**|Sudheer Achary et.al.|[2311.15581](http://arxiv.org/abs/2311.15581)|null|
 |**2023-11-26**|**Sketch Video Synthesis**|Yudian Zheng et.al.|[2311.15306](http://arxiv.org/abs/2311.15306)|**[link](https://github.com/yudianzheng/sketchvideo)**|
