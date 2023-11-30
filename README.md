@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|null|
+|**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919](http://arxiv.org/abs/2311.17919)|null|
+|**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
+|**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907](http://arxiv.org/abs/2311.17907)|null|
+|**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901](http://arxiv.org/abs/2311.17901)|null|
+|**2023-11-29**|**S 308 and other X-ray emitting bubbles around Wolf-Rayet stars**|Francesco Camilloni et.al.|[2311.17879](http://arxiv.org/abs/2311.17879)|null|
+|**2023-11-29**|**Leveraging Graph Diffusion Models for Network Refinement Tasks**|Puja Trivedi et.al.|[2311.17856](http://arxiv.org/abs/2311.17856)|null|
+|**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834](http://arxiv.org/abs/2311.17834)|null|
+|**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833](http://arxiv.org/abs/2311.17833)|null|
+|**2023-11-29**|**An Algorithm Based on a Cable-Nernst Planck Model Predicting Synaptic Activity throughout the Dendritic Arbor with Micron Specificity**|Claire Guerrier et.al.|[2311.17785](http://arxiv.org/abs/2311.17785)|null|
 |**2023-11-28**|**Material Palette: Extraction of Materials from a Single Image**|Ivan Lopes et.al.|[2311.17060](http://arxiv.org/abs/2311.17060)|null|
 |**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
 |**2023-11-28**|**DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**|Tsun-Hsuan Wang et.al.|[2311.17053](http://arxiv.org/abs/2311.17053)|null|
@@ -1237,6 +1247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Dynamic Dense Graph Convolutional Network for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2311.17408](http://arxiv.org/abs/2311.17408)|null|
+|**2023-11-28**|**TLControl: Trajectory and Language Control for Human Motion Synthesis**|Weilin Wan et.al.|[2311.17135](http://arxiv.org/abs/2311.17135)|null|
 |**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
 |**2023-11-28**|**A Unified Framework for Multimodal, Multi-Part Human Motion Synthesis**|Zixiang Zhou et.al.|[2311.16471](http://arxiv.org/abs/2311.16471)|null|
 |**2023-11-28**|**AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond**|Zixiang Zhou et.al.|[2311.16468](http://arxiv.org/abs/2311.16468)|null|
@@ -1375,6 +1387,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901](http://arxiv.org/abs/2311.17901)|null|
+|**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833](http://arxiv.org/abs/2311.17833)|null|
+|**2023-11-29**|**BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment**|Zijian Chen et.al.|[2311.17752](http://arxiv.org/abs/2311.17752)|null|
+|**2023-11-29**|**Fair Text-to-Image Diffusion via Fair Mapping**|Jia Li et.al.|[2311.17695](http://arxiv.org/abs/2311.17695)|null|
+|**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600](http://arxiv.org/abs/2311.17600)|null|
+|**2023-11-29**|**HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models**|Shen Zhang et.al.|[2311.17528](http://arxiv.org/abs/2311.17528)|null|
+|**2023-11-29**|**Non-Visible Light Data Synthesis and Application: A Case Study for Synthetic Aperture Radar Imagery**|Zichen Tian et.al.|[2311.17486](http://arxiv.org/abs/2311.17486)|null|
+|**2023-11-29**|**When StyleGAN Meets Stable Diffusion: a $\mathscr{W}_+$ Adapter for Personalized Image Generation**|Xiaoming Li et.al.|[2311.17461](http://arxiv.org/abs/2311.17461)|**[link](https://github.com/csxmli2016/w-plus-adapter)**|
+|**2023-11-28**|**Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation**|Hang Li et.al.|[2311.17216](http://arxiv.org/abs/2311.17216)|null|
 |**2023-11-28**|**Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2311.17042](http://arxiv.org/abs/2311.17042)|**[link](https://github.com/stability-ai/generative-models)**|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
 |**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
@@ -2080,6 +2101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning**|Liang Peng et.al.|[2311.17536](http://arxiv.org/abs/2311.17536)|**[link](https://github.com/spengliang/smoothvideo)**|
+|**2023-11-29**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338](http://arxiv.org/abs/2311.17338)|null|
+|**2023-11-28**|**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation**|Li Hu et.al.|[2311.17117](http://arxiv.org/abs/2311.17117)|null|
 |**2023-11-28**|**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models**|Yuwei Guo et.al.|[2311.16933](http://arxiv.org/abs/2311.16933)|null|
 |**2023-11-28**|**Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2311.16813](http://arxiv.org/abs/2311.16813)|null|
 |**2023-11-28**|**MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation**|Sitong Su et.al.|[2311.16635](http://arxiv.org/abs/2311.16635)|null|
