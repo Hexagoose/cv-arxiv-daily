@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
+|**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
+|**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832](http://arxiv.org/abs/2311.18832)|**[link](https://github.com/shinying/dmp)**|
+|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830](http://arxiv.org/abs/2311.18830)|**[link](https://github.com/Francis-Rings/MotionEditor)**|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829](http://arxiv.org/abs/2311.18829)|null|
+|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828](http://arxiv.org/abs/2311.18828)|null|
+|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822](http://arxiv.org/abs/2311.18822)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
+|**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763](http://arxiv.org/abs/2311.18763)|null|
+|**2023-11-30**|**Effect of heating or cooling in a suspension of phototactic algae with no-slip boundary conditions**|S. K. Rajput et.al.|[2311.18755](http://arxiv.org/abs/2311.18755)|null|
+|**2023-11-30**|**Random self-propulsion to rotational motion of a microswimmer with inertial memory**|F Adersh et.al.|[2311.18722](http://arxiv.org/abs/2311.18722)|null|
 |**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|null|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919](http://arxiv.org/abs/2311.17919)|null|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
@@ -1239,6 +1249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**OmniMotionGPT: Animal Motion Generation with Limited Data**|Zhangsihao Yang et.al.|[2311.18303](http://arxiv.org/abs/2311.18303)|null|
 |**2023-11-29**|**Dynamic Dense Graph Convolutional Network for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2311.17408](http://arxiv.org/abs/2311.17408)|null|
 |**2023-11-28**|**TLControl: Trajectory and Language Control for Human Motion Synthesis**|Weilin Wan et.al.|[2311.17135](http://arxiv.org/abs/2311.17135)|null|
 |**2023-11-28**|**ReMoS: Reactive 3D Motion Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
@@ -1377,6 +1388,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829](http://arxiv.org/abs/2311.18829)|null|
+|**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828](http://arxiv.org/abs/2311.18828)|null|
+|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827](http://arxiv.org/abs/2311.18827)|null|
+|**2023-11-30**|**ElasticDiffusion: Training-free Arbitrary Size Image Generation**|Moayed Haji-Ali et.al.|[2311.18822](http://arxiv.org/abs/2311.18822)|**[link](https://github.com/moayedhajiali/elasticdiffusion-official)**|
+|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775](http://arxiv.org/abs/2311.18775)|null|
+|**2023-11-30**|**Detailed Human-Centric Text Description-Driven Large Scene Synthesis**|Gwanghyun Kim et.al.|[2311.18654](http://arxiv.org/abs/2311.18654)|null|
+|**2023-11-30**|**Anatomy and Physiology of Artificial Intelligence in PET Imaging**|Tyler J. Bradshaw et.al.|[2311.18614](http://arxiv.org/abs/2311.18614)|null|
+|**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
+|**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491](http://arxiv.org/abs/2311.18491)|null|
+|**2023-11-30**|**Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis**|Zipeng Qi et.al.|[2311.18435](http://arxiv.org/abs/2311.18435)|null|
 |**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901](http://arxiv.org/abs/2311.17901)|null|
 |**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833](http://arxiv.org/abs/2311.17833)|null|
 |**2023-11-29**|**BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment**|Zijian Chen et.al.|[2311.17752](http://arxiv.org/abs/2311.17752)|null|
@@ -2089,6 +2110,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
+|**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
+|**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830](http://arxiv.org/abs/2311.18830)|**[link](https://github.com/Francis-Rings/MotionEditor)**|
+|**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829](http://arxiv.org/abs/2311.18829)|null|
+|**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827](http://arxiv.org/abs/2311.18827)|null|
+|**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491](http://arxiv.org/abs/2311.18491)|null|
+|**2023-11-29**|**VBench: Comprehensive Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2311.17982](http://arxiv.org/abs/2311.17982)|**[link](https://github.com/vchitect/vbench)**|
 |**2023-11-29**|**Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning**|Liang Peng et.al.|[2311.17536](http://arxiv.org/abs/2311.17536)|**[link](https://github.com/spengliang/smoothvideo)**|
 |**2023-11-29**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338](http://arxiv.org/abs/2311.17338)|null|
 |**2023-11-28**|**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation**|Li Hu et.al.|[2311.17117](http://arxiv.org/abs/2311.17117)|null|
