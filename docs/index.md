@@ -29,7 +29,7 @@ layout: default
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917](http://arxiv.org/abs/2311.17917)|null|
 |**2023-11-29**|**CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting**|Alexander Vilesov et.al.|[2311.17907](http://arxiv.org/abs/2311.17907)|null|
 |**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901](http://arxiv.org/abs/2311.17901)|null|
-|**2023-11-29**|**S 308 and other X-ray emitting bubbles around Wolf-Rayet stars**|Francesco Camilloni et.al.|[2311.17879](http://arxiv.org/abs/2311.17879)|null|
+|**2023-11-29**|**S 308 and other X-ray emitting bubbles around Wolf-Rayet stars**|Francesco Camilloni et.al.|[2311.17879](http://arxiv.org/abs/2311.17879)|**[link](https://github.com/jeltef/pylatex)**|
 |**2023-11-29**|**Leveraging Graph Diffusion Models for Network Refinement Tasks**|Puja Trivedi et.al.|[2311.17856](http://arxiv.org/abs/2311.17856)|null|
 |**2023-11-29**|**SPiC-E : Structural Priors in 3D Diffusion Models using Cross Entity Attention**|Etai Sella et.al.|[2311.17834](http://arxiv.org/abs/2311.17834)|null|
 |**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833](http://arxiv.org/abs/2311.17833)|null|
@@ -1557,7 +1557,7 @@ layout: default
 |**2023-10-21**|**Adversarial Image Generation by Spatial Transformation in Perceptual Colorspaces**|Ayberk Aydin et.al.|[2310.13950](http://arxiv.org/abs/2310.13950)|**[link](https://github.com/ayberkydn/stadv-torch)**|
 |**2023-10-20**|**Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models**|Shawn Shan et.al.|[2310.13828](http://arxiv.org/abs/2310.13828)|null|
 |**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730](http://arxiv.org/abs/2310.13730)|null|
-|**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|null|
+|**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|**[link](https://github.com/ictnlp/sammt)**|
 |**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268](http://arxiv.org/abs/2310.13268)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
 |**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165](http://arxiv.org/abs/2310.13165)|**[link](https://github.com/sled-group/cyclenet)**|
 |**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157](http://arxiv.org/abs/2310.13157)|null|
