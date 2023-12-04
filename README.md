@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
+|**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
+|**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776](http://arxiv.org/abs/2312.00776)|null|
+|**2023-12-01**|**Effects of three-dimensional slit geometry on flashback of premixed hydrogen flames in perforated burners**|Filippo Fruzza et.al.|[2312.00744](http://arxiv.org/abs/2312.00744)|null|
+|**2023-12-01**|**Functional Renormalization Group Study of Thermodynamic Geometry Around the Phase Transition of Quantum Chromodynamic**|Fabrizio Murgana et.al.|[2312.00665](http://arxiv.org/abs/2312.00665)|null|
+|**2023-12-01**|**Resource-constrained knowledge diffusion processes inspired by human peer learning**|Ehsan Beikihassan et.al.|[2312.00660](http://arxiv.org/abs/2312.00660)|null|
+|**2023-12-01**|**TrackDiffusion: Multi-object Tracking Data Generation via Diffusion Models**|Pengxiang Li et.al.|[2312.00651](http://arxiv.org/abs/2312.00651)|null|
+|**2023-12-01**|**How the zebra got its stripes: Curvature-dependent diffusion orients Turing patterns on 3D surfaces**|Michael F. Staddon et.al.|[2312.00637](http://arxiv.org/abs/2312.00637)|null|
+|**2023-12-01**|**Stopper vs. singular-controller games with degenerate diffusions**|Andrea Bovo et.al.|[2312.00613](http://arxiv.org/abs/2312.00613)|null|
+|**2023-12-01**|**New Continuum Observations of the Andromeda galaxy M31 with FAST**|Wenjun Zhang et.al.|[2312.00441](http://arxiv.org/abs/2312.00441)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832](http://arxiv.org/abs/2311.18832)|**[link](https://github.com/shinying/dmp)**|
@@ -1257,6 +1267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**MoMask: Generative Masked Modeling of 3D Human Motions**|Chuan Guo et.al.|[2312.00063](http://arxiv.org/abs/2312.00063)|null|
 |**2023-11-30**|**OmniMotionGPT: Animal Motion Generation with Limited Data**|Zhangsihao Yang et.al.|[2311.18303](http://arxiv.org/abs/2311.18303)|null|
 |**2023-11-29**|**Dynamic Dense Graph Convolutional Network for Skeleton-based Human Motion Prediction**|Xinshun Wang et.al.|[2311.17408](http://arxiv.org/abs/2311.17408)|null|
 |**2023-11-28**|**TLControl: Trajectory and Language Control for Human Motion Synthesis**|Weilin Wan et.al.|[2311.17135](http://arxiv.org/abs/2311.17135)|null|
@@ -1398,6 +1409,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739](http://arxiv.org/abs/2312.00739)|**[link](https://github.com/2y7c3/asd)**|
+|**2023-12-01**|**Generative models for visualising abstract social processes: Guiding streetview image synthesis of StyleGAN2 with indices of deprivation**|Aleksi Knuutila et.al.|[2312.00570](http://arxiv.org/abs/2312.00570)|null|
+|**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829](http://arxiv.org/abs/2311.18829)|null|
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828](http://arxiv.org/abs/2311.18828)|null|
 |**2023-11-30**|**Motion-Conditioned Image Animation for Video Editing**|Wilson Yan et.al.|[2311.18827](http://arxiv.org/abs/2311.18827)|null|
@@ -2122,6 +2136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
+|**2023-12-01**|**StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter**|Gongye Liu et.al.|[2312.00330](http://arxiv.org/abs/2312.00330)|**[link](https://github.com/GongyeLiu/StyleCrafter)**|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
 |**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830](http://arxiv.org/abs/2311.18830)|**[link](https://github.com/Francis-Rings/MotionEditor)**|
