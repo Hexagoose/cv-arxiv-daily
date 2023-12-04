@@ -374,7 +374,7 @@ layout: default
 |**2023-10-11**|**Variational stabilization of degenerate p-elasticae**|Tatsuya Miura et.al.|[2310.07451](http://arxiv.org/abs/2310.07451)|null|
 |**2023-10-11**|**Hadronic Re-Acceleration at the Crab Pulsar Wind Termination Shock as a Source of PeV Gamma-Rays**|Samuel T. Spencer et.al.|[2310.07429](http://arxiv.org/abs/2310.07429)|null|
 |**2023-10-11**|**Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else**|Hazarapet Tunanyan et.al.|[2310.07419](http://arxiv.org/abs/2310.07419)|null|
-|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|**[link](https://github.com/Championchess/phy-sd)**|
 |**2023-10-10**|**Characterizing Gibbs states for area-tilted Brownian lines**|Mriganka Basu Roy Chowdhury et.al.|[2310.06817](http://arxiv.org/abs/2310.06817)|null|
 |**2023-10-10**|**V1507 Cygni (HD187399): A Highly Evolved, Enigmatic Interacting Binary System with an Eccentric Orbit**|T. J. Davidge et.al.|[2310.06802](http://arxiv.org/abs/2310.06802)|null|
 |**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
