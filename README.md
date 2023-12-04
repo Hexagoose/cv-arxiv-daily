@@ -1654,7 +1654,7 @@
 |**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239](http://arxiv.org/abs/2310.02239)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
 |**2023-10-03**|**Optimizing microlens arrays for incoherent HiLo microscopy**|Ziao Jiao et.al.|[2310.01939](http://arxiv.org/abs/2310.01939)|null|
 |**2023-10-03**|**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation**|Jun Li et.al.|[2310.01819](http://arxiv.org/abs/2310.01819)|null|
-|**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
+|**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|**[link](https://github.com/TIGER-AI-Lab/ImagenHub)**|
 |**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
 |**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
 |**2023-10-02**|**Sequential Data Generation with Groupwise Diffusion Process**|Sangyun Lee et.al.|[2310.01400](http://arxiv.org/abs/2310.01400)|null|
