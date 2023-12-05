@@ -2158,7 +2158,7 @@ layout: default
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491](http://arxiv.org/abs/2311.18491)|null|
 |**2023-11-29**|**VBench: Comprehensive Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2311.17982](http://arxiv.org/abs/2311.17982)|**[link](https://github.com/vchitect/vbench)**|
 |**2023-11-29**|**Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning**|Liang Peng et.al.|[2311.17536](http://arxiv.org/abs/2311.17536)|**[link](https://github.com/spengliang/smoothvideo)**|
-|**2023-11-29**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338](http://arxiv.org/abs/2311.17338)|null|
+|**2023-11-29**|**VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model**|Haoyu Zhao et.al.|[2311.17338](http://arxiv.org/abs/2311.17338)|**[link](https://github.com/gulucaptain/videoassembler)**|
 |**2023-11-28**|**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation**|Li Hu et.al.|[2311.17117](http://arxiv.org/abs/2311.17117)|null|
 |**2023-11-28**|**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models**|Yuwei Guo et.al.|[2311.16933](http://arxiv.org/abs/2311.16933)|null|
 |**2023-11-28**|**Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2311.16813](http://arxiv.org/abs/2311.16813)|null|
@@ -2275,7 +2275,7 @@ layout: default
 |**2023-07-15**|**INVE: Interactive Neural Video Editing**|Jiahui Huang et.al.|[2307.07663](http://arxiv.org/abs/2307.07663)|null|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|**[link](https://github.com/videocrafter/animate-a-story)**|
-|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166](http://arxiv.org/abs/2307.03166)|null|
+|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166](http://arxiv.org/abs/2307.03166)|**[link](https://github.com/tensorflow/models)**|
 |**2023-06-30**|**DisCo: Disentangled Control for Referring Human Dance Generation in Real World**|Tan Wang et.al.|[2307.00040](http://arxiv.org/abs/2307.00040)|**[link](https://github.com/Wangt-CN/DisCo)**|
 |**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491](http://arxiv.org/abs/2306.13491)|null|
 |**2023-06-19**|**GD-VDM: Generated Depth for better Diffusion-based Video Generation**|Ariel Lapid et.al.|[2306.11173](http://arxiv.org/abs/2306.11173)|**[link](https://github.com/lapid92/gd-vdm)**|
