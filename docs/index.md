@@ -36,7 +36,7 @@ layout: default
 |**2023-12-04**|**Computational Investigation on Collective Dynamical Behaviors of Flickering Laminar Buoyant Diffusion Flames in Circular Arrays**|Tao Yang et.al.|[2312.02018](http://arxiv.org/abs/2312.02018)|null|
 |**2023-12-01**|**MorpheuS: Neural Dynamic 360° Surface Reconstruction from Monocular RGB-D Video**|Hengyi Wang et.al.|[2312.00778](http://arxiv.org/abs/2312.00778)|null|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
-|**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776](http://arxiv.org/abs/2312.00776)|null|
+|**2023-12-01**|**CompuCell3D Model of Cell Migration Reproduces Chemotaxis**|Pedro C. Dal-Castel et.al.|[2312.00776](http://arxiv.org/abs/2312.00776)|**[link](https://github.com/pdalcastel/single_cell_chemotaxis_2.3)**|
 |**2023-12-01**|**Effects of three-dimensional slit geometry on flashback of premixed hydrogen flames in perforated burners**|Filippo Fruzza et.al.|[2312.00744](http://arxiv.org/abs/2312.00744)|null|
 |**2023-12-01**|**Functional Renormalization Group Study of Thermodynamic Geometry Around the Phase Transition of Quantum Chromodynamic**|Fabrizio Murgana et.al.|[2312.00665](http://arxiv.org/abs/2312.00665)|null|
 |**2023-12-01**|**Resource-constrained knowledge diffusion processes inspired by human peer learning**|Ehsan Beikihassan et.al.|[2312.00660](http://arxiv.org/abs/2312.00660)|null|
@@ -222,7 +222,7 @@ layout: default
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
 |**2023-11-06**|**Persistent homology for high-dimensional data based on spectral methods**|Sebastian Damrich et.al.|[2311.03087](http://arxiv.org/abs/2311.03087)|**[link](https://github.com/berenslab/eff-ph)**|
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074](http://arxiv.org/abs/2311.03074)|**[link](https://github.com/zhyjsiat/a-two-stage-cyclegan-ve-brats2020)**|
-|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054](http://arxiv.org/abs/2311.03054)|null|
+|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054](http://arxiv.org/abs/2311.03054)|**[link](https://github.com/tyxsspa/anytext)**|
 |**2023-11-06**|**Lipschitz cutset for fractal graphs and applications to the spread of infections**|Alexander Drewitz et.al.|[2311.03045](http://arxiv.org/abs/2311.03045)|null|
 |**2023-11-03**|**Correlations of Conserved Quantities at Finite Baryon Density**|Oleh Savchuk et.al.|[2311.02046](http://arxiv.org/abs/2311.02046)|null|
 |**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
@@ -2220,7 +2220,7 @@ layout: default
 |**2023-11-02**|**Exploring the Hyperparameter Space of Image Diffusion Models for Echocardiogram Generation**|Hadrien Reynaud et.al.|[2311.01567](http://arxiv.org/abs/2311.01567)|null|
 |**2023-11-02**|**VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning**|Hong Chen et.al.|[2311.00990](http://arxiv.org/abs/2311.00990)|null|
 |**2023-11-02**|**Optimal Noise pursuit for Augmenting Text-to-Video Generation**|Shijie Ma et.al.|[2311.00949](http://arxiv.org/abs/2311.00949)|null|
-|**2023-11-01**|**Consistent Video-to-Video Transfer Using Synthetic Dataset**|Jiaxin Cheng et.al.|[2311.00213](http://arxiv.org/abs/2311.00213)|null|
+|**2023-11-01**|**Consistent Video-to-Video Transfer Using Synthetic Dataset**|Jiaxin Cheng et.al.|[2311.00213](http://arxiv.org/abs/2311.00213)|**[link](https://github.com/amazon-science/instruct-video-to-video)**|
 |**2023-11-06**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
 |**2023-10-31**|**Beyond U: Making Diffusion Models Faster & Lighter**|Sergio Calvo-Ordonez et.al.|[2310.20092](http://arxiv.org/abs/2310.20092)|null|
 |**2023-10-30**|**VideoCrafter1: Open Diffusion Models for High-Quality Video Generation**|Haoxin Chen et.al.|[2310.19512](http://arxiv.org/abs/2310.19512)|**[link](https://github.com/ailab-cvc/videocrafter)**|
@@ -2327,7 +2327,7 @@ layout: default
 |**2023-05-26**|**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing**|Min Zhao et.al.|[2305.17098](http://arxiv.org/abs/2305.17098)|**[link](https://github.com/thu-ml/controlvideo)**|
 |**2023-05-26**|**GenerateCT: Text-Guided 3D Chest CT Generation**|Ibrahim Ethem Hamamci et.al.|[2305.16037](http://arxiv.org/abs/2305.16037)|**[link](https://github.com/ibrahimethemhamamci/generatect)**|
 |**2023-06-01**|**Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation**|Susung Hong et.al.|[2305.14330](http://arxiv.org/abs/2305.14330)|**[link](https://github.com/ku-cvlab/direct2v)**|
-|**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
+|**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|**[link](https://github.com/weifeng-chen/control-a-video)**|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
