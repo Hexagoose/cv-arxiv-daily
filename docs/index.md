@@ -37,7 +37,7 @@ layout: default
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
 |**2023-12-04**|**Generative Powers of Ten**|Xiaojuan Wang et.al.|[2312.02149](http://arxiv.org/abs/2312.02149)|null|
-|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|**[link](https://github.com/prs-eth/marigold)**|
 |**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139](http://arxiv.org/abs/2312.02139)|**[link](https://github.com/nvlabs/diffit)**|
 |**2023-12-04**|**Style Aligned Image Generation via Shared Attention**|Amir Hertz et.al.|[2312.02133](http://arxiv.org/abs/2312.02133)|null|
 |**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087](http://arxiv.org/abs/2312.02087)|null|
@@ -1454,7 +1454,7 @@ layout: default
 |**2023-12-05**|**GeNIe: Generative Hard Negative Images Through Diffusion**|Soroush Abbasi Koohpayegani et.al.|[2312.02548](http://arxiv.org/abs/2312.02548)|**[link](https://github.com/ucdvision/genie)**|
 |**2023-12-05**|**Retrieving Conditions from Reference Images for Diffusion Models**|Haoran Tang et.al.|[2312.02521](http://arxiv.org/abs/2312.02521)|null|
 |**2023-12-05**|**Generator Born from Classifier**|Runpeng Yu et.al.|[2312.02470](http://arxiv.org/abs/2312.02470)|null|
-|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|**[link](https://github.com/prs-eth/marigold)**|
 |**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139](http://arxiv.org/abs/2312.02139)|**[link](https://github.com/nvlabs/diffit)**|
 |**2023-12-04**|**Style Aligned Image Generation via Shared Attention**|Amir Hertz et.al.|[2312.02133](http://arxiv.org/abs/2312.02133)|null|
 |**2023-12-04**|**GIVT: Generative Infinite-Vocabulary Transformers**|Michael Tschannen et.al.|[2312.02116](http://arxiv.org/abs/2312.02116)|null|
