@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1321,7 +1321,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 ## Motion
 
@@ -1475,7 +1475,7 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 ## Image Generation
 
@@ -1485,7 +1485,7 @@
 |**2023-12-11**|**Semantic Image Synthesis for Abdominal CT**|Yan Zhuang et.al.|[2312.06453](http://arxiv.org/abs/2312.06453)|null|
 |**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354](http://arxiv.org/abs/2312.06354)|null|
 |**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285](http://arxiv.org/abs/2312.06285)|null|
-|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|null|
 |**2023-12-11**|**Invariant Representation Learning via Decoupling Style and Spurious Features**|Ruimeng Li et.al.|[2312.06226](http://arxiv.org/abs/2312.06226)|null|
 |**2023-12-11**|**DisControlFace: Disentangled Control for Personalized Facial Image Editing**|Haozhe Jia et.al.|[2312.06193](http://arxiv.org/abs/2312.06193)|null|
 |**2023-12-11**|**Stellar: Systematic Evaluation of Human-Centric Personalized Text-to-Image Methods**|Panos Achlioptas et.al.|[2312.06116](http://arxiv.org/abs/2312.06116)|null|
@@ -2262,7 +2262,7 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 ## Video Generation
 
@@ -2449,7 +2449,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|**[link](https://github.com/weifeng-chen/control-a-video)**|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

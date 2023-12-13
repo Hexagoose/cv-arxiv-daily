@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1475,7 +1475,7 @@ layout: default
 |**2023-12-11**|**Semantic Image Synthesis for Abdominal CT**|Yan Zhuang et.al.|[2312.06453](http://arxiv.org/abs/2312.06453)|null|
 |**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354](http://arxiv.org/abs/2312.06354)|null|
 |**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285](http://arxiv.org/abs/2312.06285)|null|
-|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|null|
 |**2023-12-11**|**Invariant Representation Learning via Decoupling Style and Spurious Features**|Ruimeng Li et.al.|[2312.06226](http://arxiv.org/abs/2312.06226)|null|
 |**2023-12-11**|**DisControlFace: Disentangled Control for Personalized Facial Image Editing**|Haozhe Jia et.al.|[2312.06193](http://arxiv.org/abs/2312.06193)|null|
 |**2023-12-11**|**Stellar: Systematic Evaluation of Human-Centric Personalized Text-to-Image Methods**|Panos Achlioptas et.al.|[2312.06116](http://arxiv.org/abs/2312.06116)|null|
