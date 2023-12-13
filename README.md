@@ -35,7 +35,7 @@
 |**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204](http://arxiv.org/abs/2312.05204)|null|
 |**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140](http://arxiv.org/abs/2312.05140)|null|
 |**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107](http://arxiv.org/abs/2312.05107)|null|
-|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068](http://arxiv.org/abs/2312.05068)|null|
+|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068](http://arxiv.org/abs/2312.05068)|**[link](https://github.com/folkeks/dl-normalization)**|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039](http://arxiv.org/abs/2312.05039)|null|
 |**2023-12-08**|**Numerical determination of iron dust laminar flame speeds with the counterflow twin-flame technique**|C. E. A. G. van Gool et.al.|[2312.04994](http://arxiv.org/abs/2312.04994)|null|
 |**2023-12-08**|**Gas-to-soliton transition of attractive bosons on a spherical surface**|A. Tononi et.al.|[2312.04984](http://arxiv.org/abs/2312.04984)|null|
