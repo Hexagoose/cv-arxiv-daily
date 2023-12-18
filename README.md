@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008](http://arxiv.org/abs/2312.10008)|null|
+|**2023-12-15**|**Shear viscosity in interacting two-dimensional Fermi liquids**|Ulf Gran et.al.|[2312.09977](http://arxiv.org/abs/2312.09977)|null|
+|**2023-12-15**|**Contributions to the geomagnetic secular variation from a reanalysis of core surface dynamics**|Olivier Barrois et.al.|[2312.09942](http://arxiv.org/abs/2312.09942)|null|
+|**2023-12-15**|**A quasi-Trefftz discontinuous Galerkin method for the homogeneous diffusion-advection-reaction equation with piecewise-smooth coefficients**|Chiara Perinati et.al.|[2312.09919](http://arxiv.org/abs/2312.09919)|null|
+|**2023-12-15**|**Assimilation of ground and satellite magnetic measurements: inference of core surface magnetic and velocity field changes**|Olivier Barrois et.al.|[2312.09878](http://arxiv.org/abs/2312.09878)|null|
+|**2023-12-15**|**Integrating New Technologies into Science: The case of AI**|Stefano Bianchini et.al.|[2312.09843](http://arxiv.org/abs/2312.09843)|null|
+|**2023-12-15**|**Socio-Economic Deprivation Analysis: Diffusion Maps**|June Moh Goo et.al.|[2312.09830](http://arxiv.org/abs/2312.09830)|null|
+|**2023-12-15**|**Comparison of Quasi-Geostrophic, Hybrid and 3D models of planetary core convection**|Olivier Barrois et.al.|[2312.09826](http://arxiv.org/abs/2312.09826)|null|
+|**2023-12-15**|**Dynamic control of the Bose-Einstein-like condensation transition in scalar active matter**|Jonas Berx et.al.|[2312.09823](http://arxiv.org/abs/2312.09823)|null|
+|**2023-12-15**|**Neural networks for turbulent transport prediction in a simplified model of tokamak plasmas**|L. M. Pomârjanschi et.al.|[2312.09807](http://arxiv.org/abs/2312.09807)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252](http://arxiv.org/abs/2312.09252)|null|
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250](http://arxiv.org/abs/2312.09250)|null|
@@ -1516,12 +1526,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966](http://arxiv.org/abs/2312.09966)|null|
+|**2023-12-14**|**High-Resolution Maps of Left Atrial Displacements and Strains Estimated with 3D CINE MRI and Unsupervised Neural Networks**|Christoforos Galazis et.al.|[2312.09387](http://arxiv.org/abs/2312.09387)|**[link](https://github.com/cgalaz01/aladdin_cmr_la)**|
+|**2023-12-14**|**ArchiGuesser -- AI Art Architecture Educational Game**|Joern Ploennigs et.al.|[2312.09334](http://arxiv.org/abs/2312.09334)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252](http://arxiv.org/abs/2312.09252)|null|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251](http://arxiv.org/abs/2312.09251)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
 |**2023-12-14**|**SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds**|Minghao Chen et.al.|[2312.09246](http://arxiv.org/abs/2312.09246)|null|
-|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
+|**2023-12-15**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
 |**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
 |**2023-12-14**|**VideoLCM: Video Latent Consistency Model**|Xiang Wang et.al.|[2312.09109](http://arxiv.org/abs/2312.09109)|null|
 |**2023-12-14**|**Color Agnostic Cross-Spectral Disparity Estimation**|Frank Sippel et.al.|[2312.08946](http://arxiv.org/abs/2312.08946)|null|
