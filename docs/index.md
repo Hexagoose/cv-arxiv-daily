@@ -1685,7 +1685,7 @@ layout: default
 |**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617](http://arxiv.org/abs/2311.10617)|null|
 |**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
 |**2023-11-17**|**End-to-end autoencoding architecture for the simultaneous generation of medical images and corresponding segmentation masks**|Aghiles Kebaili et.al.|[2311.10472](http://arxiv.org/abs/2311.10472)|null|
-|**2023-11-17**|**High-fidelity Person-centric Subject-to-Image Synthesis**|Yibin Wang et.al.|[2311.10329](http://arxiv.org/abs/2311.10329)|null|
+|**2023-11-17**|**High-fidelity Person-centric Subject-to-Image Synthesis**|Yibin Wang et.al.|[2311.10329](http://arxiv.org/abs/2311.10329)|**[link](https://github.com/codegoat24/face-diffuser)**|
 |**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089](http://arxiv.org/abs/2311.10089)|null|
