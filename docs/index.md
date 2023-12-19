@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-18**|**Dirac walks on regular trees**|Nicolas Delporte et.al.|[2312.10881](http://arxiv.org/abs/2312.10881)|null|
+|**2023-12-17**|**Hydrodynamic interactions in anomalous rheology of active suspensions**|Haruki Hayano et.al.|[2312.10852](http://arxiv.org/abs/2312.10852)|null|
+|**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
+|**2023-12-17**|**Nernst Sign-Reversal in the Hexatic Vortex Phase of Weakly Disordered a-MoGe Thin Films**|Y. Wu et.al.|[2312.10805](http://arxiv.org/abs/2312.10805)|null|
+|**2023-12-17**|**Surface quantum critical phenomena in disordered Dirac semimetals**|Eric Brillaux et.al.|[2312.10790](http://arxiv.org/abs/2312.10790)|null|
+|**2023-12-17**|**From mixing to displacement of miscible phases in porous media: The role of heterogeneity and inlet pressure**|Yahel Eliyahu-Yakir et.al.|[2312.10722](http://arxiv.org/abs/2312.10722)|null|
+|**2023-12-17**|**CogCartoon: Towards Practical Story Visualization**|Zhongyang Zhu et.al.|[2312.10718](http://arxiv.org/abs/2312.10718)|null|
+|**2023-12-17**|**Stability Analysis of Degenerate Einstein Model of Brownian Motion**|Isanka Garli Hevage et.al.|[2312.10682](http://arxiv.org/abs/2312.10682)|null|
+|**2023-12-17**|**A Framework of Full-Process Generation Design for Park Green Spaces Based on Remote Sensing Segmentation-GAN-Diffusion**|Ran Chen et.al.|[2312.10674](http://arxiv.org/abs/2312.10674)|null|
 |**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008](http://arxiv.org/abs/2312.10008)|null|
 |**2023-12-15**|**Shear viscosity in interacting two-dimensional Fermi liquids**|Ulf Gran et.al.|[2312.09977](http://arxiv.org/abs/2312.09977)|null|
 |**2023-12-15**|**Contributions to the geomagnetic secular variation from a reanalysis of core surface dynamics**|Olivier Barrois et.al.|[2312.09942](http://arxiv.org/abs/2312.09942)|null|
@@ -1359,9 +1369,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**T2M-HiFiGPT: Generating High Quality Human Motion from Textual Descriptions with Residual Discrete Representations**|Congyi Wang et.al.|[2312.10628](http://arxiv.org/abs/2312.10628)|null|
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895](http://arxiv.org/abs/2312.08895)|null|
 |**2023-12-10**|**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**|Chengfeng Zhao et.al.|[2312.08869](http://arxiv.org/abs/2312.08869)|null|
-|**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937](http://arxiv.org/abs/2312.07937)|null|
+|**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937](http://arxiv.org/abs/2312.07937)|**[link](https://github.com/Godheritage/BOTH2Hands)**|
 |**2023-12-12**|**Towards a geometric understanding of Spatio Temporal Graph Convolution Networks**|Pratyusha Das et.al.|[2312.07777](http://arxiv.org/abs/2312.07777)|**[link](https://github.com/daspraty/stg-gradcam)**|
 |**2023-12-12**|**WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**|Soyong Shin et.al.|[2312.07531](http://arxiv.org/abs/2312.07531)|null|
 |**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653](http://arxiv.org/abs/2312.06653)|null|
@@ -1516,6 +1527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**The Right Losses for the Right Gains: Improving the Semantic Consistency of Deep Text-to-Image Generation with Distribution-Sensitive Losses**|Mahmoud Ahmed et.al.|[2312.10854](http://arxiv.org/abs/2312.10854)|null|
+|**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
+|**2023-12-17**|**Latent Space Editing in Transformer-Based Flow Matching**|Vincent Tao Hu et.al.|[2312.10825](http://arxiv.org/abs/2312.10825)|null|
+|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
+|**2023-12-17**|**Anomaly Score: Evaluating Generative Models and Individual Generated Images based on Complexity and Vulnerability**|Jaehui Hwang et.al.|[2312.10634](http://arxiv.org/abs/2312.10634)|null|
+|**2023-12-16**|**Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2312.10461](http://arxiv.org/abs/2312.10461)|null|
+|**2023-12-16**|**DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content**|Wentao Wang et.al.|[2312.10407](http://arxiv.org/abs/2312.10407)|**[link](https://github.com/rickwang28574/deepart)**|
+|**2023-12-16**|**Fusing Conditional Submodular GAN and Programmatic Weak Supervision**|Kumar Shubham et.al.|[2312.10366](http://arxiv.org/abs/2312.10366)|**[link](https://github.com/kyrs/subpws-gan)**|
+|**2023-12-16**|**DeepCalliFont: Few-shot Chinese Calligraphy Font Synthesis by Integrating Dual-modality Generative Models**|Yitian Liu et.al.|[2312.10314](http://arxiv.org/abs/2312.10314)|null|
+|**2023-12-16**|**Operator-learning-inspired Modeling of Neural Ordinary Differential Equations**|Woojin Cho et.al.|[2312.10274](http://arxiv.org/abs/2312.10274)|null|
 |**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966](http://arxiv.org/abs/2312.09966)|null|
 |**2023-12-14**|**High-Resolution Maps of Left Atrial Displacements and Strains Estimated with 3D CINE MRI and Unsupervised Neural Networks**|Christoforos Galazis et.al.|[2312.09387](http://arxiv.org/abs/2312.09387)|**[link](https://github.com/cgalaz01/aladdin_cmr_la)**|
 |**2023-12-14**|**ArchiGuesser -- AI Art Architecture Educational Game**|Joern Ploennigs et.al.|[2312.09334](http://arxiv.org/abs/2312.09334)|null|
@@ -2334,6 +2355,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
 |**2023-12-14**|**VideoLCM: Video Latent Consistency Model**|Xiang Wang et.al.|[2312.09109](http://arxiv.org/abs/2312.09109)|null|
 |**2023-12-12**|**Neural Video Fields Editing**|Shuzhou Yang et.al.|[2312.08882](http://arxiv.org/abs/2312.08882)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
