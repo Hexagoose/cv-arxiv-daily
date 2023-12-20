@@ -304,7 +304,7 @@ layout: default
 |**2023-11-08**|**A viscous ergodic problem with unbounded and measurable ingredients. Part 1: HJB Equation**|Hicham Kouhkouh et.al.|[2311.04596](http://arxiv.org/abs/2311.04596)|null|
 |**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584](http://arxiv.org/abs/2311.04584)|**[link](https://github.com/bit-ml/dolos)**|
 |**2023-11-08**|**Stochastic model for transfer of gaseous particles in polymer/CNT nanocomposites with interfacial regions**|Polina Kalashnikova et.al.|[2311.04576](http://arxiv.org/abs/2311.04576)|null|
-|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|**[link](https://github.com/modelscope/modelscope)**|
 |**2023-11-07**|**Simple Bundles of Complex Networks**|Alexandre Benatti et.al.|[2311.04133](http://arxiv.org/abs/2311.04133)|null|
 |**2023-11-07**|**Precision Measurement of Sub-Continuum Gas Conduction within Micro-Confinements**|Greg I. Acosta et.al.|[2311.04127](http://arxiv.org/abs/2311.04127)|null|
 |**2023-11-07**|**Strong relaxation limit and uniform time asymptotics of the Jin-Xin model in the $L^{p}$ framework**|Timothée Crin-Barat et.al.|[2311.04105](http://arxiv.org/abs/2311.04105)|null|
@@ -1064,7 +1064,7 @@ layout: default
 |**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861](http://arxiv.org/abs/2307.09861)|**[link](https://github.com/majitao-xd/bsdm-had)**|
 |**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822](http://arxiv.org/abs/2307.09822)|null|
 |**2023-07-19**|**DiffDP: Radiotherapy Dose Prediction via a Diffusion Model**|Zhenghao Feng et.al.|[2307.09794](http://arxiv.org/abs/2307.09794)|null|
-|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|null|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|**[link](https://github.com/modelscope/modelscope)**|
 |**2023-07-18**|**The effect of pressure-anisotropy-driven kinetic instabilities on magnetic field amplification in galaxy clusters**|Y. Rappaz et.al.|[2307.09451](http://arxiv.org/abs/2307.09451)|null|
 |**2023-07-18**|**Vibrational dichroism of chiral valley phonons**|Yiming Pan et.al.|[2307.09280](http://arxiv.org/abs/2307.09280)|null|
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
@@ -2198,7 +2198,7 @@ layout: default
 |**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822](http://arxiv.org/abs/2307.09822)|null|
 |**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781](http://arxiv.org/abs/2307.09781)|null|
 |**2023-07-18**|**Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**|Ka Chun Shum et.al.|[2307.09621](http://arxiv.org/abs/2307.09621)|null|
-|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|null|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|**[link](https://github.com/modelscope/modelscope)**|
 |**2023-07-19**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416](http://arxiv.org/abs/2307.09416)|null|
 |**2023-07-18**|**Plug the Leaks: Advancing Audio-driven Talking Face Generation by Preventing Unintended Information Flow**|Dogucan Yaman et.al.|[2307.09368](http://arxiv.org/abs/2307.09368)|null|
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
@@ -2452,7 +2452,7 @@ layout: default
 |**2023-11-14**|**Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation**|Zhihang Zhong et.al.|[2311.08007](http://arxiv.org/abs/2311.08007)|**[link](https://github.com/zzh-tech/interpany-clearer)**|
 |**2023-11-10**|**A Survey of AI Text-to-Image and AI Text-to-Video Generators**|Aditi Singh et.al.|[2311.06329](http://arxiv.org/abs/2311.06329)|null|
 |**2023-11-11**|**Learning the What and How of Annotation in Video Object Segmentation**|Thanos Delatolas et.al.|[2311.04414](http://arxiv.org/abs/2311.04414)|null|
-|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|**[link](https://github.com/modelscope/modelscope)**|
 |**2023-11-07**|**MeVGAN: GAN-based Plugin Model for Video Generation with Applications in Colonoscopy**|Łukasz Struski et.al.|[2311.03884](http://arxiv.org/abs/2311.03884)|null|
 |**2023-11-07**|**CapST: An Enhanced and Lightweight Method for Deepfake Video Classification**|Wasim Ahmad et.al.|[2311.03782](http://arxiv.org/abs/2311.03782)|null|
 |**2023-11-07**|**LLM as an Art Director (LaDi): Using LLMs to improve Text-to-Media Generators**|Allen Roush et.al.|[2311.03716](http://arxiv.org/abs/2311.03716)|null|
