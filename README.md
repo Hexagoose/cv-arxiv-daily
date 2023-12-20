@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425](http://arxiv.org/abs/2312.12425)|**[link](https://github.com/mengyuwang826/segrefiner)**|
+|**2023-12-19**|**Scene-Conditional 3D Object Stylization and Composition**|Jinghao Zhou et.al.|[2312.12419](http://arxiv.org/abs/2312.12419)|null|
+|**2023-12-19**|**LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset**|Haolin Liu et.al.|[2312.12418](http://arxiv.org/abs/2312.12418)|null|
+|**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
+|**2023-12-19**|**Diffusion limited aggregation in the layers model**|Colin Cooper et.al.|[2312.12326](http://arxiv.org/abs/2312.12326)|null|
+|**2023-12-19**|**Heavy quark momentum broadening in a non-Abelian plasma away from thermal equilibrium**|Harshit Pandey et.al.|[2312.12280](http://arxiv.org/abs/2312.12280)|null|
+|**2023-12-19**|**Travelling pulses on three spatial scales in a Klausmeier-type vegetation-autotoxicity model**|Paul Carter et.al.|[2312.12277](http://arxiv.org/abs/2312.12277)|null|
+|**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274](http://arxiv.org/abs/2312.12274)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
 |**2023-12-18**|**Dirac walks on regular trees**|Nicolas Delporte et.al.|[2312.10881](http://arxiv.org/abs/2312.10881)|null|
 |**2023-12-17**|**Hydrodynamic interactions in anomalous rheology of active suspensions**|Haruki Hayano et.al.|[2312.10852](http://arxiv.org/abs/2312.10852)|null|
@@ -1377,10 +1387,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**HuTuMotion: Human-Tuned Navigation of Latent Motion Diffusion Models with Minimal Feedback**|Gaoge Han et.al.|[2312.12227](http://arxiv.org/abs/2312.12227)|null|
+|**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090](http://arxiv.org/abs/2312.12090)|null|
+|**2023-12-19**|**Optimizing Diffusion Noise Can Serve As Universal Motion Priors**|Korrawe Karunratanakul et.al.|[2312.11994](http://arxiv.org/abs/2312.11994)|null|
+|**2023-12-19**|**Expressive Forecasting of 3D Whole-body Human Motions**|Pengxiang Ding et.al.|[2312.11972](http://arxiv.org/abs/2312.11972)|**[link](https://github.com/dingpx/eai)**|
+|**2023-12-19**|**GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**|Xinshun Wang et.al.|[2312.11850](http://arxiv.org/abs/2312.11850)|null|
+|**2023-12-18**|**Realistic Human Motion Generation with Cross-Diffusion Models**|Zeping Ren et.al.|[2312.10993](http://arxiv.org/abs/2312.10993)|null|
+|**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960](http://arxiv.org/abs/2312.10960)|null|
 |**2023-12-17**|**T2M-HiFiGPT: Generating High Quality Human Motion from Textual Descriptions with Residual Discrete Representations**|Congyi Wang et.al.|[2312.10628](http://arxiv.org/abs/2312.10628)|null|
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895](http://arxiv.org/abs/2312.08895)|null|
 |**2023-12-10**|**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**|Chengfeng Zhao et.al.|[2312.08869](http://arxiv.org/abs/2312.08869)|null|
-|**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937](http://arxiv.org/abs/2312.07937)|**[link](https://github.com/Godheritage/BOTH2Hands)**|
+|**2023-12-19**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937](http://arxiv.org/abs/2312.07937)|**[link](https://github.com/Godheritage/BOTH2Hands)**|
 |**2023-12-12**|**Towards a geometric understanding of Spatio Temporal Graph Convolution Networks**|Pratyusha Das et.al.|[2312.07777](http://arxiv.org/abs/2312.07777)|**[link](https://github.com/daspraty/stg-gradcam)**|
 |**2023-12-12**|**WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**|Soyong Shin et.al.|[2312.07531](http://arxiv.org/abs/2312.07531)|null|
 |**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653](http://arxiv.org/abs/2312.06653)|null|
@@ -1537,6 +1554,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
+|**2023-12-19**|**Decoupled Textual Embeddings for Customized Image Generation**|Yufei Cai et.al.|[2312.11826](http://arxiv.org/abs/2312.11826)|null|
+|**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
+|**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
+|**2023-12-18**|**Warping the Residuals for Image Editing with StyleGAN**|Ahmet Burak Yildirim et.al.|[2312.11422](http://arxiv.org/abs/2312.11422)|null|
+|**2023-12-18**|**MAG-Edit: Localized Image Editing in Complex Scenarios via $\underline{M}$ask-Based $\underline{A}$ttention-Adjusted $\underline{G}$ uidance**|Qi Mao et.al.|[2312.11396](http://arxiv.org/abs/2312.11396)|null|
+|**2023-12-18**|**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**|Zeyinzi Jiang et.al.|[2312.11392](http://arxiv.org/abs/2312.11392)|null|
+|**2023-12-18**|**Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model**|Decheng Liu et.al.|[2312.11285](http://arxiv.org/abs/2312.11285)|**[link](https://github.com/kopper-xdu/adv-diffusion)**|
 |**2023-12-18**|**The Right Losses for the Right Gains: Improving the Semantic Consistency of Deep Text-to-Image Generation with Distribution-Sensitive Losses**|Mahmoud Ahmed et.al.|[2312.10854](http://arxiv.org/abs/2312.10854)|null|
 |**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
 |**2023-12-17**|**Latent Space Editing in Transformer-Based Flow Matching**|Vincent Tao Hu et.al.|[2312.10825](http://arxiv.org/abs/2312.10825)|null|
@@ -2367,7 +2394,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
+|**2023-12-19**|**Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method**|Jiachun Pan et.al.|[2312.12030](http://arxiv.org/abs/2312.12030)|null|
+|**2023-12-19**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
 |**2023-12-14**|**VideoLCM: Video Latent Consistency Model**|Xiang Wang et.al.|[2312.09109](http://arxiv.org/abs/2312.09109)|null|
 |**2023-12-12**|**Neural Video Fields Editing**|Shuzhou Yang et.al.|[2312.08882](http://arxiv.org/abs/2312.08882)|null|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
