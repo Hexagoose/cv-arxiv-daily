@@ -2101,7 +2101,7 @@ layout: default
 |**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-05**|**DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation**|Afshin Bozorgpour et.al.|[2308.02959](http://arxiv.org/abs/2308.02959)|**[link](https://github.com/mindflow-institue/dermosegdiff)**|
 |**2023-08-05**|**Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation**|Zijie Wu et.al.|[2308.02874](http://arxiv.org/abs/2308.02874)|null|
-|**2023-08-03**|**ConceptLab: Creative Generation using Diffusion Prior Constraints**|Elad Richardson et.al.|[2308.02669](http://arxiv.org/abs/2308.02669)|null|
+|**2023-08-03**|**ConceptLab: Creative Generation using Diffusion Prior Constraints**|Elad Richardson et.al.|[2308.02669](http://arxiv.org/abs/2308.02669)|**[link](https://github.com/kfirgoldberg/ConceptLab)**|
 |**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|**[link](https://github.com/maps-research/gemrec)**|
 |**2023-08-04**|**CTP-Net: Character Texture Perception Network for Document Image Forgery Localization**|Xin Liao et.al.|[2308.02158](http://arxiv.org/abs/2308.02158)|null|
 |**2023-08-04**|**SDDM: Score-Decomposed Diffusion Models on Manifolds for Unpaired Image-to-Image Translation**|Shikun Sun et.al.|[2308.02154](http://arxiv.org/abs/2308.02154)|null|
