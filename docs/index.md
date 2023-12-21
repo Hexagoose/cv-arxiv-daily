@@ -59,7 +59,7 @@ layout: default
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250](http://arxiv.org/abs/2312.09250)|null|
 |**2023-12-14**|**Text2Immersion: Generative Immersive Scene with 3D Gaussians**|Hao Ouyang et.al.|[2312.09242](http://arxiv.org/abs/2312.09242)|null|
 |**2023-12-14**|**A framework for conditional diffusion modelling with applications in motif scaffolding for protein design**|Kieran Didi et.al.|[2312.09236](http://arxiv.org/abs/2312.09236)|null|
-|**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233](http://arxiv.org/abs/2312.09233)|null|
+|**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233](http://arxiv.org/abs/2312.09233)|**[link](https://github.com/jnibauer/tiltingdiskpotential)**|
 |**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|null|
 |**2023-12-14**|**Mosaic-SDF for 3D Generative Models**|Lior Yariv et.al.|[2312.09222](http://arxiv.org/abs/2312.09222)|null|
 |**2023-12-14**|**Measurement in the Age of LLMs: An Application to Ideological Scaling**|Sean O'Hagan et.al.|[2312.09203](http://arxiv.org/abs/2312.09203)|null|
@@ -199,7 +199,7 @@ layout: default
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**On the thermodynamic invariance of fine-grain and coarse-grain fluid models**|Thomas Dubos et.al.|[2311.14564](http://arxiv.org/abs/2311.14564)|null|
 |**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542](http://arxiv.org/abs/2311.14542)|null|
-|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|**[link](https://github.com/buaacyw/gaussianeditor)**|
 |**2023-11-24**|**Shifted Composition I: Harnack and Reverse Transport Inequalities**|Jason M. Altschuler et.al.|[2311.14520](http://arxiv.org/abs/2311.14520)|null|
 |**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494](http://arxiv.org/abs/2311.14494)|**[link](https://github.com/wu-cvgl/mvcontrol)**|
 |**2023-11-24**|**Joint Diffusion: Mutual Consistency-Driven Diffusion Model for PET-MRI Co-Reconstruction**|Taofeng Xie et.al.|[2311.14473](http://arxiv.org/abs/2311.14473)|null|
@@ -1569,7 +1569,7 @@ layout: default
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
 |**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
 |**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
-|**2023-12-19**|**Decoupled Textual Embeddings for Customized Image Generation**|Yufei Cai et.al.|[2312.11826](http://arxiv.org/abs/2312.11826)|null|
+|**2023-12-19**|**Decoupled Textual Embeddings for Customized Image Generation**|Yufei Cai et.al.|[2312.11826](http://arxiv.org/abs/2312.11826)|**[link](https://github.com/PrototypeNx/DETEX)**|
 |**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
 |**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
 |**2023-12-18**|**Warping the Residuals for Image Editing with StyleGAN**|Ahmet Burak Yildirim et.al.|[2312.11422](http://arxiv.org/abs/2312.11422)|null|

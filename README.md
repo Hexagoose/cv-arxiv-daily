@@ -65,7 +65,7 @@
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250](http://arxiv.org/abs/2312.09250)|null|
 |**2023-12-14**|**Text2Immersion: Generative Immersive Scene with 3D Gaussians**|Hao Ouyang et.al.|[2312.09242](http://arxiv.org/abs/2312.09242)|null|
 |**2023-12-14**|**A framework for conditional diffusion modelling with applications in motif scaffolding for protein design**|Kieran Didi et.al.|[2312.09236](http://arxiv.org/abs/2312.09236)|null|
-|**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233](http://arxiv.org/abs/2312.09233)|null|
+|**2023-12-14**|**Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk**|Jacob Nibauer et.al.|[2312.09233](http://arxiv.org/abs/2312.09233)|**[link](https://github.com/jnibauer/tiltingdiskpotential)**|
 |**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231](http://arxiv.org/abs/2312.09231)|null|
 |**2023-12-14**|**Mosaic-SDF for 3D Generative Models**|Lior Yariv et.al.|[2312.09222](http://arxiv.org/abs/2312.09222)|null|
 |**2023-12-14**|**Measurement in the Age of LLMs: An Application to Ideological Scaling**|Sean O'Hagan et.al.|[2312.09203](http://arxiv.org/abs/2312.09203)|null|
@@ -205,7 +205,7 @@
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**On the thermodynamic invariance of fine-grain and coarse-grain fluid models**|Thomas Dubos et.al.|[2311.14564](http://arxiv.org/abs/2311.14564)|null|
 |**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542](http://arxiv.org/abs/2311.14542)|null|
-|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|**[link](https://github.com/buaacyw/gaussianeditor)**|
 |**2023-11-24**|**Shifted Composition I: Harnack and Reverse Transport Inequalities**|Jason M. Altschuler et.al.|[2311.14520](http://arxiv.org/abs/2311.14520)|null|
 |**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494](http://arxiv.org/abs/2311.14494)|**[link](https://github.com/wu-cvgl/mvcontrol)**|
 |**2023-11-24**|**Joint Diffusion: Mutual Consistency-Driven Diffusion Model for PET-MRI Co-Reconstruction**|Taofeng Xie et.al.|[2311.14473](http://arxiv.org/abs/2311.14473)|null|
@@ -1579,7 +1579,7 @@
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
 |**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
 |**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
-|**2023-12-19**|**Decoupled Textual Embeddings for Customized Image Generation**|Yufei Cai et.al.|[2312.11826](http://arxiv.org/abs/2312.11826)|null|
+|**2023-12-19**|**Decoupled Textual Embeddings for Customized Image Generation**|Yufei Cai et.al.|[2312.11826](http://arxiv.org/abs/2312.11826)|**[link](https://github.com/PrototypeNx/DETEX)**|
 |**2023-12-18**|**Unified framework for diffusion generative models in SO(3): applications in computer vision and astrophysics**|Yesukhei Jagvaral et.al.|[2312.11707](http://arxiv.org/abs/2312.11707)|null|
 |**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
 |**2023-12-18**|**Warping the Residuals for Image Editing with StyleGAN**|Ahmet Burak Yildirim et.al.|[2312.11422](http://arxiv.org/abs/2312.11422)|null|
@@ -1591,7 +1591,7 @@
 |**2023-12-17**|**Latent Space Editing in Transformer-Based Flow Matching**|Vincent Tao Hu et.al.|[2312.10825](http://arxiv.org/abs/2312.10825)|null|
 |**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
 |**2023-12-17**|**Anomaly Score: Evaluating Generative Models and Individual Generated Images based on Complexity and Vulnerability**|Jaehui Hwang et.al.|[2312.10634](http://arxiv.org/abs/2312.10634)|null|
-|**2023-12-16**|**Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2312.10461](http://arxiv.org/abs/2312.10461)|null|
+|**2023-12-16**|**Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2312.10461](http://arxiv.org/abs/2312.10461)|**[link](https://github.com/chuangchuangtan/npr-deepfakedetection)**|
 |**2023-12-16**|**DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content**|Wentao Wang et.al.|[2312.10407](http://arxiv.org/abs/2312.10407)|**[link](https://github.com/rickwang28574/deepart)**|
 |**2023-12-16**|**Fusing Conditional Submodular GAN and Programmatic Weak Supervision**|Kumar Shubham et.al.|[2312.10366](http://arxiv.org/abs/2312.10366)|**[link](https://github.com/kyrs/subpws-gan)**|
 |**2023-12-16**|**DeepCalliFont: Few-shot Chinese Calligraphy Font Synthesis by Integrating Dual-modality Generative Models**|Yitian Liu et.al.|[2312.10314](http://arxiv.org/abs/2312.10314)|null|
