@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.22
+## Updated on 2023.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Designing Artificial Intelligence Equipped Social Decentralized Autonomous Organizations for Tackling Sextortion Cases Version 0.7**|Norta Alex et.al.|[2312.14090](http://arxiv.org/abs/2312.14090)|null|
+|**2023-12-21**|**The influence of controlled vibration effects on fluid flow**|Alexey Fedyushkin et.al.|[2312.14079](http://arxiv.org/abs/2312.14079)|null|
+|**2023-12-21**|**Tearing-mediated reconnection in magnetohydrodynamic poorly ionized plasmas. I. Onset and linear evolution**|Elizabeth A. Tolman et.al.|[2312.14076](http://arxiv.org/abs/2312.14076)|null|
+|**2023-12-21**|**OH as a probe of the warm water cycle in planet-forming disks**|Marion Zannese et.al.|[2312.14056](http://arxiv.org/abs/2312.14056)|null|
+|**2023-12-21**|**Identifying diffusive length scales in one-dimensional Bose gases**|Frederik Møller et.al.|[2312.14007](http://arxiv.org/abs/2312.14007)|null|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
+|**2023-12-21**|**Controllable 3D Face Generation with Conditional Style Code Diffusion**|Xiaolong Shen et.al.|[2312.13941](http://arxiv.org/abs/2312.13941)|**[link](https://github.com/sxl142/tex-face)**|
 |**2023-12-20**|**A structure preserving discretization for the Derrida-Lebowitz-Speer-Spohn equation based on diffusive transport**|Daniel Matthes et.al.|[2312.13284](http://arxiv.org/abs/2312.13284)|null|
 |**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
@@ -1391,13 +1401,13 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-20**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763](http://arxiv.org/abs/2312.12763)|null|
+|**2023-12-21**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763](http://arxiv.org/abs/2312.12763)|null|
 |**2023-12-19**|**MotionScript: Natural Language Descriptions for Expressive 3D Human Motions**|Payam Jome Yazdian et.al.|[2312.12634](http://arxiv.org/abs/2312.12634)|null|
 |**2023-12-19**|**HuTuMotion: Human-Tuned Navigation of Latent Motion Diffusion Models with Minimal Feedback**|Gaoge Han et.al.|[2312.12227](http://arxiv.org/abs/2312.12227)|null|
 |**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090](http://arxiv.org/abs/2312.12090)|null|
@@ -1560,13 +1570,18 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771](http://arxiv.org/abs/2312.13771)|null|
+|**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
+|**2023-12-21**|**Diff-Oracle: Diffusion Model for Oracle Character Generation with Controllable Styles and Contents**|Jing Li et.al.|[2312.13631](http://arxiv.org/abs/2312.13631)|null|
+|**2023-12-21**|**HyperEditor: Achieving Both Authenticity and Cross-Domain Capability in Image Editing via Hypernetworks**|Hai Zhang et.al.|[2312.13537](http://arxiv.org/abs/2312.13537)|null|
+|**2023-12-20**|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|Tariq Berrada et.al.|[2312.13314](http://arxiv.org/abs/2312.13314)|null|
+|**2023-12-21**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
 |**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
 |**2023-12-20**|**Quantifying Bias in Text-to-Image Generative Models**|Jordan Vice et.al.|[2312.13053](http://arxiv.org/abs/2312.13053)|null|
 |**2023-12-20**|**A self-attention-based differentially private tabular GAN with high data utility**|Zijian Li et.al.|[2312.13031](http://arxiv.org/abs/2312.13031)|null|
@@ -2410,14 +2425,18 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-20**|**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**|Hongtao Wu et.al.|[2312.13139](http://arxiv.org/abs/2312.13139)|null|
-|**2023-12-19**|**RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing**|Shutong Jin et.al.|[2312.12635](http://arxiv.org/abs/2312.12635)|null|
+|**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125](http://arxiv.org/abs/2312.14125)|null|
+|**2023-12-20**|**Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis**|Bichen Wu et.al.|[2312.13834](http://arxiv.org/abs/2312.13834)|null|
+|**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763](http://arxiv.org/abs/2312.13763)|null|
+|**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663](http://arxiv.org/abs/2312.13663)|null|
+|**2023-12-21**|**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**|Hongtao Wu et.al.|[2312.13139](http://arxiv.org/abs/2312.13139)|null|
+|**2023-12-21**|**RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing**|Shutong Jin et.al.|[2312.12635](http://arxiv.org/abs/2312.12635)|null|
 |**2023-12-19**|**InstructVideo: Instructing Video Diffusion Models with Human Feedback**|Hangjie Yuan et.al.|[2312.12490](http://arxiv.org/abs/2312.12490)|null|
 |**2023-12-19**|**MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers**|Haoyu Ma et.al.|[2312.12468](http://arxiv.org/abs/2312.12468)|null|
 |**2023-12-19**|**Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method**|Jiachun Pan et.al.|[2312.12030](http://arxiv.org/abs/2312.12030)|null|
@@ -2608,7 +2627,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|**[link](https://github.com/weifeng-chen/control-a-video)**|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
