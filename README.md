@@ -1719,7 +1719,7 @@
 |**2023-11-30**|**Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis**|Zipeng Qi et.al.|[2311.18435](http://arxiv.org/abs/2311.18435)|null|
 |**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901](http://arxiv.org/abs/2311.17901)|null|
 |**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833](http://arxiv.org/abs/2311.17833)|null|
-|**2023-11-29**|**BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment**|Zijian Chen et.al.|[2311.17752](http://arxiv.org/abs/2311.17752)|null|
+|**2023-11-29**|**BAND-2k: Banding Artifact Noticeable Database for Banding Detection and Quality Assessment**|Zijian Chen et.al.|[2311.17752](http://arxiv.org/abs/2311.17752)|**[link](https://github.com/zijianchen98/band-2k)**|
 |**2023-11-29**|**Fair Text-to-Image Diffusion via Fair Mapping**|Jia Li et.al.|[2311.17695](http://arxiv.org/abs/2311.17695)|null|
 |**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600](http://arxiv.org/abs/2311.17600)|**[link](https://github.com/isxinliu/mm-safetybench)**|
 |**2023-11-29**|**HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models**|Shen Zhang et.al.|[2311.17528](http://arxiv.org/abs/2311.17528)|null|
