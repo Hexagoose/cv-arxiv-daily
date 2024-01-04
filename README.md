@@ -1004,7 +1004,7 @@
 |**2023-08-07**|**Superconvergence analysis of interior penalty discontinuous Galerkin method for a class of time-fractional diffusion problems**|Sandip Maji et.al.|[2308.03715](http://arxiv.org/abs/2308.03715)|null|
 |**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686](http://arxiv.org/abs/2308.03686)|null|
 |**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669](http://arxiv.org/abs/2308.03669)|**[link](https://github.com/tatsu432/BDCM)**|
-|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610](http://arxiv.org/abs/2308.03610)|null|
+|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610](http://arxiv.org/abs/2308.03610)|**[link](https://github.com/bytedance/AvatarVerse)**|
 |**2023-08-07**|**Oxide layer formation prevents deteriorating ion migration in thermoelectric Cu $_2$ Se during operation in air**|Rasmus S. Christensen et.al.|[2308.03559](http://arxiv.org/abs/2308.03559)|null|
 |**2023-08-08**|**Palm problems arising in BAR approach and its applications**|Masakiyo Miyazawa et.al.|[2308.03553](http://arxiv.org/abs/2308.03553)|null|
 |**2023-08-07**|**Three-temperature radiation hydrodynamics with PLUTO: Tests and applications to protoplanetary disks**|Dhruv Muley et.al.|[2308.03504](http://arxiv.org/abs/2308.03504)|null|
