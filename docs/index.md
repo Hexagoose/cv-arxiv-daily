@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
+|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
+|**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394](http://arxiv.org/abs/2401.02394)|null|
+|**2024-01-04**|**A PDE approach for solving the characteristic function of the generalised signature process**|Terry Lyons et.al.|[2401.02393](http://arxiv.org/abs/2401.02393)|null|
+|**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363](http://arxiv.org/abs/2401.02363)|null|
+|**2024-01-04**|**Effects of forward scattering on the onset of phototactic bioconvection in an algal suspension under diffuse flux without collimated flux**|S. K. Rajput et.al.|[2401.02338](http://arxiv.org/abs/2401.02338)|null|
+|**2024-01-04**|**Phototactic bioconvection in an algal suspension with a free top wall due to diffuse flux in the absence of direct collimated flux**|S. K. Rajput et.al.|[2401.02336](http://arxiv.org/abs/2401.02336)|null|
+|**2024-01-04**|**A finite difference scheme for two-dimensional singularly perturbed convection-diffusion problem with discontinuous source term**|Ram Shiromani et.al.|[2401.02331](http://arxiv.org/abs/2401.02331)|null|
+|**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300](http://arxiv.org/abs/2401.02300)|null|
+|**2024-01-04**|**Factors Enabling Delocalized Charge-Carriers in Pnictogen-Based Solar Absorbers: In-depth Investigation into CuSbSe2**|Yuchen Fu et.al.|[2401.02257](http://arxiv.org/abs/2401.02257)|null|
 |**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885](http://arxiv.org/abs/2401.01885)|null|
 |**2024-01-03**|**Dissipative fracton superfluids**|Aleksander Głódkowski et.al.|[2401.01877](http://arxiv.org/abs/2401.01877)|null|
 |**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
@@ -1459,6 +1469,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
 |**2024-01-03**|**STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**|Wei Yao et.al.|[2401.01730](http://arxiv.org/abs/2401.01730)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135](http://arxiv.org/abs/2312.17135)|null|
@@ -1631,6 +1642,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335](http://arxiv.org/abs/2401.02335)|null|
+|**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
+|**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
+|**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015](http://arxiv.org/abs/2401.02015)|null|
+|**2024-01-03**|**Instruct-Imagen: Image Generation with Multi-modal Instruction**|Hexiang Hu et.al.|[2401.01952](http://arxiv.org/abs/2401.01952)|null|
+|**2024-01-03**|**Can We Generate Realistic Hands Only Using Convolution?**|Mehran Hosseini et.al.|[2401.01951](http://arxiv.org/abs/2401.01951)|null|
 |**2024-01-03**|**A Vision Check-up for Language Models**|Pratyusha Sharma et.al.|[2401.01862](http://arxiv.org/abs/2401.01862)|null|
 |**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|null|
 |**2024-01-03**|**Few-shot Image Generation via Information Transfer from the Built Geodesic Surface**|Yuexing Han et.al.|[2401.01749](http://arxiv.org/abs/2401.01749)|null|
