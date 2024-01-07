@@ -30,12 +30,12 @@
 |**2024-01-04**|**A finite difference scheme for two-dimensional singularly perturbed convection-diffusion problem with discontinuous source term**|Ram Shiromani et.al.|[2401.02331](http://arxiv.org/abs/2401.02331)|null|
 |**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300](http://arxiv.org/abs/2401.02300)|null|
 |**2024-01-04**|**Factors Enabling Delocalized Charge-Carriers in Pnictogen-Based Solar Absorbers: In-depth Investigation into CuSbSe2**|Yuchen Fu et.al.|[2401.02257](http://arxiv.org/abs/2401.02257)|null|
-|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885](http://arxiv.org/abs/2401.01885)|null|
+|**2024-01-03**|**From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations**|Evonne Ng et.al.|[2401.01885](http://arxiv.org/abs/2401.01885)|**[link](https://github.com/facebookresearch/audio2photoreal)**|
 |**2024-01-03**|**Dissipative fracton superfluids**|Aleksander Głódkowski et.al.|[2401.01877](http://arxiv.org/abs/2401.01877)|null|
 |**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
 |**2024-01-03**|**Aggregation-diffusion phenomena: from microscopic models to free boundary problems**|Inwon Kim et.al.|[2401.01840](http://arxiv.org/abs/2401.01840)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
-|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|null|
+|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|**[link](https://github.com/huggingface/amused)**|
 |**2024-01-03**|**CoMoSVC: Consistency Model-based Singing Voice Conversion**|Yiwen Lu et.al.|[2401.01792](http://arxiv.org/abs/2401.01792)|null|
 |**2024-01-03**|**Short-time expansion of one-dimensional Fokker-Planck equations with heterogeneous diffusion**|Tom Dupont et.al.|[2401.01765](http://arxiv.org/abs/2401.01765)|null|
 |**2024-01-03**|**Necessary conditions for the formation of filaments and star clusters in the cold neutral medium**|Rachel Pillsworth et.al.|[2401.01737](http://arxiv.org/abs/2401.01737)|null|
@@ -1489,7 +1489,7 @@
 |**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090](http://arxiv.org/abs/2312.12090)|null|
 |**2023-12-19**|**Optimizing Diffusion Noise Can Serve As Universal Motion Priors**|Korrawe Karunratanakul et.al.|[2312.11994](http://arxiv.org/abs/2312.11994)|null|
 |**2023-12-19**|**Expressive Forecasting of 3D Whole-body Human Motions**|Pengxiang Ding et.al.|[2312.11972](http://arxiv.org/abs/2312.11972)|**[link](https://github.com/dingpx/eai)**|
-|**2023-12-19**|**GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**|Xinshun Wang et.al.|[2312.11850](http://arxiv.org/abs/2312.11850)|null|
+|**2023-12-19**|**GCNext: Towards the Unity of Graph Convolutions for Human Motion Prediction**|Xinshun Wang et.al.|[2312.11850](http://arxiv.org/abs/2312.11850)|**[link](https://github.com/bradleywang0416/gcnext)**|
 |**2023-12-18**|**Realistic Human Motion Generation with Cross-Diffusion Models**|Zeping Ren et.al.|[2312.10993](http://arxiv.org/abs/2312.10993)|null|
 |**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960](http://arxiv.org/abs/2312.10960)|null|
 |**2023-12-24**|**T2M-HiFiGPT: Generating High Quality Human Motion from Textual Descriptions with Residual Discrete Representations**|Congyi Wang et.al.|[2312.10628](http://arxiv.org/abs/2312.10628)|null|
@@ -1695,7 +1695,7 @@
 |**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867](http://arxiv.org/abs/2312.14867)|null|
 |**2023-12-22**|**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing**|Xiaoyue Duan et.al.|[2312.14611](http://arxiv.org/abs/2312.14611)|null|
 |**2023-12-22**|**Environment-Specific People**|Mirela Ostrek et.al.|[2312.14579](http://arxiv.org/abs/2312.14579)|null|
-|**2023-12-22**|**Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks**|Haz Sameen Shahgir et.al.|[2312.14440](http://arxiv.org/abs/2312.14440)|null|
+|**2023-12-22**|**Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks**|Haz Sameen Shahgir et.al.|[2312.14440](http://arxiv.org/abs/2312.14440)|**[link](https://github.com/patchwork53/asymmetricattack)**|
 |**2023-12-22**|**Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation**|Chaowei Fang et.al.|[2312.14387](http://arxiv.org/abs/2312.14387)|null|
 |**2023-12-22**|**Removing Interference and Recovering Content Imaginatively for Visible Watermark Removal**|Yicheng Leng et.al.|[2312.14383](http://arxiv.org/abs/2312.14383)|null|
 |**2023-12-21**|**Fine-grained Forecasting Models Via Gaussian Process Blurring Effect**|Sepideh Koohfar et.al.|[2312.14280](http://arxiv.org/abs/2312.14280)|**[link](https://github.com/sepkfr/fine-grained-gaussian-process-forcating)**|
@@ -1974,7 +1974,7 @@
 |**2023-10-30**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation**|Jaemin Cho et.al.|[2310.18235](http://arxiv.org/abs/2310.18235)|null|
 |**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911](http://arxiv.org/abs/2310.17911)|**[link](https://github.com/hyperspectral-skin/hyper-skin-2023)**|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
-|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
+|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|**[link](https://github.com/nctu-eva-lab/antifakeprompt)**|
 |**2023-10-26**|**Exploring the Potential of Generative AI for the World Wide Web**|Nouar AlDahoul et.al.|[2310.17370](http://arxiv.org/abs/2310.17370)|null|
 |**2023-10-26**|**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics**|Shuai Yang et.al.|[2310.17316](http://arxiv.org/abs/2310.17316)|null|
 |**2023-10-26**|**Three-dimensional Bone Image Synthesis with Generative Adversarial Networks**|Christoph Angermann et.al.|[2310.17216](http://arxiv.org/abs/2310.17216)|null|
@@ -2172,7 +2172,7 @@
 |**2023-09-10**|**Gender Bias in Multimodal Models: A Transnational Feminist Approach Considering Geographical Region and Culture**|Abhishek Mandal et.al.|[2309.04997](http://arxiv.org/abs/2309.04997)|null|
 |**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917](http://arxiv.org/abs/2309.04917)|**[link](https://github.com/Fangkang515/DN2N)**|
 |**2023-09-10**|**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion**|Zhihong Pan et.al.|[2309.04907](http://arxiv.org/abs/2309.04907)|null|
-|**2023-09-09**|**Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video**|Xiuzhe Wu et.al.|[2309.04814](http://arxiv.org/abs/2309.04814)|null|
+|**2023-09-09**|**Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video**|Xiuzhe Wu et.al.|[2309.04814](http://arxiv.org/abs/2309.04814)|**[link](https://github.com/cvmi-lab/speech2lip)**|
 |**2023-09-09**|**VeRi3D: Generative Vertex-based Radiance Fields for 3D Controllable Human Image Synthesis**|Xinya Chen et.al.|[2309.04800](http://arxiv.org/abs/2309.04800)|null|
 |**2023-09-08**|**Style Generation: Image Synthesis based on Coarsely Matched Texts**|Mengyao Cui et.al.|[2309.04608](http://arxiv.org/abs/2309.04608)|null|
 |**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430](http://arxiv.org/abs/2309.04430)|null|
