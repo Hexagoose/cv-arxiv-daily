@@ -1652,14 +1652,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335](http://arxiv.org/abs/2401.02335)|null|
+|**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335](http://arxiv.org/abs/2401.02335)|**[link](https://github.com/dflip3k/dflip-3k)**|
 |**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
 |**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015](http://arxiv.org/abs/2401.02015)|null|
 |**2024-01-03**|**Instruct-Imagen: Image Generation with Multi-modal Instruction**|Hexiang Hu et.al.|[2401.01952](http://arxiv.org/abs/2401.01952)|null|
 |**2024-01-03**|**Can We Generate Realistic Hands Only Using Convolution?**|Mehran Hosseini et.al.|[2401.01951](http://arxiv.org/abs/2401.01951)|null|
 |**2024-01-03**|**A Vision Check-up for Language Models**|Pratyusha Sharma et.al.|[2401.01862](http://arxiv.org/abs/2401.01862)|null|
-|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|null|
+|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|**[link](https://github.com/huggingface/amused)**|
 |**2024-01-03**|**Few-shot Image Generation via Information Transfer from the Built Geodesic Surface**|Yuexing Han et.al.|[2401.01749](http://arxiv.org/abs/2401.01749)|null|
 |**2024-01-03**|**An Edge-Cloud Collaboration Framework for Generative AI Service Provision with Synergetic Big Cloud Model and Small Edge Models**|Yuqing Tian et.al.|[2401.01666](http://arxiv.org/abs/2401.01666)|null|
 |**2024-01-03**|**DDPM based X-ray Image Synthesizer**|Praveen Mahaulpatha et.al.|[2401.01539](http://arxiv.org/abs/2401.01539)|null|
