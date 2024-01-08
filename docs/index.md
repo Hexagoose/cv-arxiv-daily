@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
+|**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
+|**2024-01-05**|**Explicit numerical approximations for McKean-Vlasov stochastic differential equations in finite and infinite time**|Cui Yuanping et.al.|[2401.02878](http://arxiv.org/abs/2401.02878)|null|
+|**2024-01-05**|**Extraplanar emission in isolated edge-on late-type galaxies. I. The H $α$ distribution versus to the old and young stellar discs**|Minerva M. Sardaneta et.al.|[2401.02876](http://arxiv.org/abs/2401.02876)|null|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-05**|**Water transport through mesoporous amorphous-carbon dust**|Romain Basalgète et.al.|[2401.02821](http://arxiv.org/abs/2401.02821)|null|
+|**2024-01-05**|**Convergence of a Convective Allen-Cahn Equation to a Transport Equation**|Helmut Abels et.al.|[2401.02807](http://arxiv.org/abs/2401.02807)|null|
+|**2024-01-05**|**Diffbody: Diffusion-based Pose and Shape Editing of Human Images**|Yuta Okuyama et.al.|[2401.02804](http://arxiv.org/abs/2401.02804)|null|
+|**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739](http://arxiv.org/abs/2401.02739)|null|
+|**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
 |**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
 |**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394](http://arxiv.org/abs/2401.02394)|null|
@@ -1469,8 +1479,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
+|**2024-01-05**|**Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human**|Song Bai et.al.|[2401.02620](http://arxiv.org/abs/2401.02620)|null|
 |**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
-|**2024-01-03**|**STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**|Wei Yao et.al.|[2401.01730](http://arxiv.org/abs/2401.01730)|null|
+|**2024-01-03**|**STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion**|Wei Yao et.al.|[2401.01730](http://arxiv.org/abs/2401.01730)|**[link](https://github.com/yw0208/STAF)**|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135](http://arxiv.org/abs/2312.17135)|null|
 |**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737](http://arxiv.org/abs/2312.16737)|null|
@@ -1642,6 +1654,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335](http://arxiv.org/abs/2401.02335)|**[link](https://github.com/dflip3k/dflip-3k)**|
 |**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
 |**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
@@ -2544,6 +2559,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
 |**2024-01-03**|**AIGCBench: Comprehensive Evaluation of Image-to-Video Content Generated by AI**|Fanda Fan et.al.|[2401.01651](http://arxiv.org/abs/2401.01651)|null|
 |**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
