@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,10 +24,10 @@
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
 |**2024-01-05**|**Explicit numerical approximations for McKean-Vlasov stochastic differential equations in finite and infinite time**|Cui Yuanping et.al.|[2401.02878](http://arxiv.org/abs/2401.02878)|null|
 |**2024-01-05**|**Extraplanar emission in isolated edge-on late-type galaxies. I. The H $α$ distribution versus to the old and young stellar discs**|Minerva M. Sardaneta et.al.|[2401.02876](http://arxiv.org/abs/2401.02876)|null|
-|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-05**|**Water transport through mesoporous amorphous-carbon dust**|Romain Basalgète et.al.|[2401.02821](http://arxiv.org/abs/2401.02821)|null|
 |**2024-01-05**|**Convergence of a Convective Allen-Cahn Equation to a Transport Equation**|Helmut Abels et.al.|[2401.02807](http://arxiv.org/abs/2401.02807)|null|
-|**2024-01-05**|**Diffbody: Diffusion-based Pose and Shape Editing of Human Images**|Yuta Okuyama et.al.|[2401.02804](http://arxiv.org/abs/2401.02804)|null|
+|**2024-01-05**|**Diffbody: Diffusion-based Pose and Shape Editing of Human Images**|Yuta Okuyama et.al.|[2401.02804](http://arxiv.org/abs/2401.02804)|**[link](https://github.com/yutaokuyama/diffbody)**|
 |**2024-01-05**|**Diffusion Variational Inference: Diffusion Models as Expressive Variational Posteriors**|Top Piriyakulkij et.al.|[2401.02739](http://arxiv.org/abs/2401.02739)|null|
 |**2024-01-05**|**Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**|Can Xu et.al.|[2401.02683](http://arxiv.org/abs/2401.02683)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
@@ -1481,7 +1481,7 @@
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|**[link](https://github.com/exx8/differential-diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 ## Motion
 
@@ -1658,14 +1658,14 @@
 |**2023-05-18**|**QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation**|Sicheng Yang et.al.|[2305.11094](http://arxiv.org/abs/2305.11094)|**[link](https://github.com/youngseng/qpgesture)**|
 |**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
-|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335](http://arxiv.org/abs/2401.02335)|**[link](https://github.com/dflip3k/dflip-3k)**|
 |**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
@@ -2565,13 +2565,13 @@
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
 |**2024-01-03**|**AIGCBench: Comprehensive Evaluation of Image-to-Video Content Generated by AI**|Fanda Fan et.al.|[2401.01651](http://arxiv.org/abs/2401.01651)|null|
@@ -2778,7 +2778,7 @@
 |**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|**[link](https://github.com/weifeng-chen/control-a-video)**|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
