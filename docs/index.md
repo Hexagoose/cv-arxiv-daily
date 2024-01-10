@@ -1459,7 +1459,7 @@ layout: default
 |**2023-06-05**|**Influence of the finite transverse size of the accelerating region on the relativistic feedback**|Alexander Sedelnikov et.al.|[2306.03059](http://arxiv.org/abs/2306.03059)|null|
 |**2023-06-05**|**HeadSculpt: Crafting 3D Head Avatars with Text**|Xiao Han et.al.|[2306.03038](http://arxiv.org/abs/2306.03038)|null|
 |**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022](http://arxiv.org/abs/2306.03022)|**[link](https://github.com/A-Ijishakin/Contrast-DiffAE)**|
-|**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
+|**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|**[link](https://github.com/muhamadusman/assist)**|
 |**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957](http://arxiv.org/abs/2306.02957)|null|
 |**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949](http://arxiv.org/abs/2306.02949)|null|
 |**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|**[link](https://github.com/casus/pi-ddpm)**|
@@ -1666,7 +1666,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-08**|**3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis**|Ruiqi Liu et.al.|[2401.03764](http://arxiv.org/abs/2401.03764)|null|
 |**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450](http://arxiv.org/abs/2401.03450)|null|
-|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433](http://arxiv.org/abs/2401.03433)|null|
+|**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433](http://arxiv.org/abs/2401.03433)|**[link](https://github.com/jingjiqinggong/specp2p)**|
 |**2024-01-06**|**Controllable Image Synthesis of Industrial Data Using Stable Diffusion**|Gabriele Valvano et.al.|[2401.03152](http://arxiv.org/abs/2401.03152)|null|
 |**2024-01-05**|**Dataset of turbulent flow over interacting barchan dunes**|Jimmy Gabriel Alvarez et.al.|[2401.03032](http://arxiv.org/abs/2401.03032)|null|
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
