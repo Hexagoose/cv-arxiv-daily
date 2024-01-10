@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728](http://arxiv.org/abs/2401.04728)|null|
+|**2024-01-09**|**Efficient estimation for ergodic diffusion processes sampled at high frequency**|Michael Sørensen et.al.|[2401.04689](http://arxiv.org/abs/2401.04689)|null|
+|**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
+|**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|null|
+|**2024-01-09**|**A Deep Network for Explainable Prediction of Non-Imaging Phenotypes using Anatomical Multi-View Data**|Yuxiang Wei et.al.|[2401.04579](http://arxiv.org/abs/2401.04579)|null|
+|**2024-01-09**|**Resolving Galactic center GeV excess with MSP-like sources**|Dmitry V. Malyshev et.al.|[2401.04565](http://arxiv.org/abs/2401.04565)|null|
+|**2024-01-09**|**Probing the dipole of the diffuse gamma-ray background**|A. Kashlinsky et.al.|[2401.04564](http://arxiv.org/abs/2401.04564)|null|
+|**2024-01-09**|**Binary particle collisions with mass exchange**|Pierre Degond et.al.|[2401.04562](http://arxiv.org/abs/2401.04562)|null|
+|**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
+|**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463](http://arxiv.org/abs/2401.04463)|null|
 |**2024-01-08**|**Quantum mechanics without quantum potentials**|Adam Brownstein et.al.|[2401.04091](http://arxiv.org/abs/2401.04091)|null|
 |**2024-01-08**|**High-order Shakhov-like extension of the relaxation time approximation in relativistic kinetic theory**|Victor E. Ambruş et.al.|[2401.04017](http://arxiv.org/abs/2401.04017)|null|
 |**2024-01-08**|**BST1047+1156: A (Failing) Ultradiffuse Tidal Dwarf in the Leo I Group**|J. Christopher Mihos et.al.|[2401.03985](http://arxiv.org/abs/2401.03985)|null|
@@ -1664,6 +1674,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks**|Tanmay Garg et.al.|[2401.04647](http://arxiv.org/abs/2401.04647)|null|
+|**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
+|**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|null|
+|**2024-01-09**|**Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding**|Yatong Bai et.al.|[2401.04575](http://arxiv.org/abs/2401.04575)|null|
+|**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317](http://arxiv.org/abs/2401.04317)|null|
+|**2024-01-08**|**Detecting Face Synthesis Using a Concealed Fusion Model**|Roberto Leyva et.al.|[2401.04257](http://arxiv.org/abs/2401.04257)|null|
+|**2024-01-08**|**Data-Agnostic Face Image Synthesis Detection Using Bayesian CNNs**|Roberto Leyva et.al.|[2401.04241](http://arxiv.org/abs/2401.04241)|null|
 |**2024-01-08**|**3D-SSGAN: Lifting 2D Semantics for 3D-Aware Compositional Portrait Synthesis**|Ruiqi Liu et.al.|[2401.03764](http://arxiv.org/abs/2401.03764)|null|
 |**2024-01-07**|**A Classification of Critical Configurations for any Number of Projective Views**|Martin Bråtelund et.al.|[2401.03450](http://arxiv.org/abs/2401.03450)|null|
 |**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433](http://arxiv.org/abs/2401.03433)|**[link](https://github.com/jingjiqinggong/specp2p)**|
@@ -2574,6 +2591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
 |**2024-01-05**|**Latte: Latent Diffusion Transformer for Video Generation**|Xin Ma et.al.|[2401.03048](http://arxiv.org/abs/2401.03048)|**[link](https://github.com/maxin-cn/Latte)**|
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
