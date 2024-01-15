@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part II: Spatial and Tonal Data Optimization**|Niklas Kämper et.al.|[2401.06747](http://arxiv.org/abs/2401.06747)|null|
+|**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**|Niklas Kämper et.al.|[2401.06744](http://arxiv.org/abs/2401.06744)|null|
+|**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740](http://arxiv.org/abs/2401.06740)|null|
+|**2024-01-12**|**Adjoint chromoelectric and -magnetic correlators with gradient flow**|Viljami Leino et.al.|[2401.06733](http://arxiv.org/abs/2401.06733)|null|
+|**2024-01-12**|**Equity auction dynamics: latent liquidity models with activity acceleration**|Mohammed Salek et.al.|[2401.06724](http://arxiv.org/abs/2401.06724)|null|
+|**2024-01-12**|**Confinement determines transport of a reaction-diffusion active matter front**|Nicolas Lobato-Dauzier et.al.|[2401.06674](http://arxiv.org/abs/2401.06674)|null|
+|**2024-01-12**|**Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks**|Stefan Blücher et.al.|[2401.06654](http://arxiv.org/abs/2401.06654)|null|
+|**2024-01-12**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637](http://arxiv.org/abs/2401.06637)|null|
+|**2024-01-12**|**Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking**|Wei Cao et.al.|[2401.06614](http://arxiv.org/abs/2401.06614)|null|
+|**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578](http://arxiv.org/abs/2401.06578)|null|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
 |**2024-01-11**|**2D Li $^{\bf +}$ ionic hopping in Li$_{\bf 3}$InCl$_{\bf 6}$ as revealed by diffusion-induced nuclear spin relaxation**|Florian Stainer et.al.|[2401.06090](http://arxiv.org/abs/2401.06090)|null|
 |**2024-01-11**|**Invariance principle for the KPZ equation arising in stochastic flows of kernels**|Shalin Parekh et.al.|[2401.06073](http://arxiv.org/abs/2401.06073)|null|
@@ -1707,6 +1717,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**RotationDrag: Point-based Image Editing with Rotated Diffusion Features**|Minxing Luo et.al.|[2401.06442](http://arxiv.org/abs/2401.06442)|**[link](https://github.com/tony-lowe/rotationdrag)**|
+|**2024-01-12**|**Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering**|Chang Yu et.al.|[2401.06345](http://arxiv.org/abs/2401.06345)|null|
+|**2024-01-12**|**Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation**|Akshita Jha et.al.|[2401.06310](http://arxiv.org/abs/2401.06310)|null|
+|**2024-01-11**|**Frequency-Time Diffusion with Neural Cellular Automata**|John Kalkhof et.al.|[2401.06291](http://arxiv.org/abs/2401.06291)|null|
+|**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|null|
+|**2024-01-10**|**AI Art is Theft: Labour, Extraction, and Exploitation, Or, On the Dangers of Stochastic Pollocks**|Trystan S. Goetze et.al.|[2401.06178](http://arxiv.org/abs/2401.06178)|null|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
 |**2024-01-11**|**EraseDiff: Erasing Data Influence in Diffusion Models**|Jing Wu et.al.|[2401.05779](http://arxiv.org/abs/2401.05779)|null|
 |**2024-01-11**|**Learn From Zoom: Decoupled Supervised Contrastive Learning For WCE Image Classification**|Kunpeng Qiu et.al.|[2401.05771](http://arxiv.org/abs/2401.05771)|null|
@@ -2634,6 +2650,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578](http://arxiv.org/abs/2401.06578)|null|
 |**2024-01-11**|**RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**|Partha Ghosh et.al.|[2401.06035](http://arxiv.org/abs/2401.06035)|null|
 |**2024-01-11**|**Object-Centric Diffusion for Efficient Video Editing**|Kumara Kahatapitiya et.al.|[2401.05735](http://arxiv.org/abs/2401.05735)|null|
 |**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
