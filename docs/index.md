@@ -2706,7 +2706,7 @@ layout: default
 |**2023-12-08**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369](http://arxiv.org/abs/2312.04369)|null|
 |**2023-12-07**|**MTVG : Multi-text Video Generation with Text-to-Video Models**|Gyeongrok Oh et.al.|[2312.04086](http://arxiv.org/abs/2312.04086)|null|
 |**2023-12-06**|**AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**|Jiwen Yu et.al.|[2312.03793](http://arxiv.org/abs/2312.03793)|**[link](https://github.com/vvictoryuki/animatezero)**|
-|**2023-12-06**|**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation**|Zhouxia Wang et.al.|[2312.03641](http://arxiv.org/abs/2312.03641)|null|
+|**2023-12-06**|**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation**|Zhouxia Wang et.al.|[2312.03641](http://arxiv.org/abs/2312.03641)|**[link](https://github.com/TencentARC/MotionCtrl)**|
 |**2023-12-06**|**F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**|Sitong Su et.al.|[2312.03459](http://arxiv.org/abs/2312.03459)|null|
 |**2023-12-05**|**MagicStick: Controllable Video Editing via Control Handle Transformations**|Yue Ma et.al.|[2312.03047](http://arxiv.org/abs/2312.03047)|**[link](https://github.com/mayuelala/magicstick)**|
 |**2023-12-05**|**DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance**|Cong Wang et.al.|[2312.03018](http://arxiv.org/abs/2312.03018)|null|
@@ -2855,7 +2855,7 @@ layout: default
 |**2023-06-14**|**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing**|Paul Couairon et.al.|[2306.08707](http://arxiv.org/abs/2306.08707)|null|
 |**2023-06-09**|**DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles**|Tal Daniel et.al.|[2306.05957](http://arxiv.org/abs/2306.05957)|**[link](https://github.com/taldatech/ddlp)**|
 |**2023-06-08**|**1st Place Solution for PVUW Challenge 2023: Video Panoptic Segmentation**|Tao Zhang et.al.|[2306.04091](http://arxiv.org/abs/2306.04091)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
-|**2023-06-06**|**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions**|Aram Davtyan et.al.|[2306.03988](http://arxiv.org/abs/2306.03988)|null|
+|**2023-06-06**|**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions**|Aram Davtyan et.al.|[2306.03988](http://arxiv.org/abs/2306.03988)|**[link](https://github.com/araachie/yoda)**|
 |**2023-06-06**|**Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis**|Zhenhui Ye et.al.|[2306.03504](http://arxiv.org/abs/2306.03504)|null|
 |**2023-06-08**|**DVIS: Decoupled Video Instance Segmentation Framework**|Tao Zhang et.al.|[2306.03413](http://arxiv.org/abs/2306.03413)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
 |**2023-06-05**|**Video Diffusion Models with Local-Global Context Guidance**|Siyuan Yang et.al.|[2306.02562](http://arxiv.org/abs/2306.02562)|**[link](https://github.com/exisas/lgc-vd)**|
