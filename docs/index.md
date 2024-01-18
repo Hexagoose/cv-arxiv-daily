@@ -7,16 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Well-posedness of a bulk-surface convective Cahn--Hilliard system with dynamic boundary conditions**|Patrik Knopf et.al.|[2401.08400](http://arxiv.org/abs/2401.08400)|null|
+|**2024-01-16**|**Collective photoprotection through light-induced phase separation in a phototactic micro-alga**|Eisenmann Isabelle et.al.|[2401.08394](http://arxiv.org/abs/2401.08394)|null|
 |**2024-01-16**|**Robotic Imitation of Human Actions**|Josua Spisak et.al.|[2401.08381](http://arxiv.org/abs/2401.08381)|null|
 |**2024-01-16**|**Optimization of the plasmonic properties of titanium nitride films sputtered at room temperature through microstructure and thickness control**|Mateusz Nieborek et.al.|[2401.08353](http://arxiv.org/abs/2401.08353)|null|
-|**2024-01-16**|**Automated solver selection for simulation of multiphysics processes in porous media**|Yury Zabegaev et.al.|[2401.08352](http://arxiv.org/abs/2401.08352)|null|
+|**2024-01-16**|**Automated solver selection for simulation of multiphysics processes in porous media**|Yury Zabegaev et.al.|[2401.08352](http://arxiv.org/abs/2401.08352)|**[link](https://github.com/yuriyzabegaev/solver_selector)**|
 |**2024-01-16**|**Large-population asymptotics for the maximum of diffusive particles with mean-field interaction in the noises**|Nikolaos Kolliopoulos et.al.|[2401.08344](http://arxiv.org/abs/2401.08344)|null|
 |**2024-01-16**|**Controlled synthesis and characterization of porous silicon nanoparticles for dynamic nuclear polarization**|Gevin von Witte et.al.|[2401.08320](http://arxiv.org/abs/2401.08320)|null|
 |**2024-01-16**|**Hitomi-HXT deconvolution imaging of the Crab Nebula dazzled by the Crab pulsar**|Mikio Morii et.al.|[2401.08278](http://arxiv.org/abs/2401.08278)|null|
@@ -1718,7 +1720,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-16**|**Key-point Guided Deformable Image Manipulation Using Diffusion Model**|Seok-Hwan Oh et.al.|[2401.08178](http://arxiv.org/abs/2401.08178)|null|
-|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|null|
+|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053](http://arxiv.org/abs/2401.08053)|null|
 |**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
 |**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519](http://arxiv.org/abs/2401.07519)|**[link](https://github.com/instantid/instantid)**|
