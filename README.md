@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
+|**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
+|**2024-01-18**|**An Invariance Principle for a Random Walk Among Moving Traps via Thermodynamic Formalism**|Siva Athreya et.al.|[2401.10179](http://arxiv.org/abs/2401.10179)|null|
+|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-18**|**Quantitative equilibrium fluctuations for interacting particle systems**|Chenlin Gu et.al.|[2401.10080](http://arxiv.org/abs/2401.10080)|null|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
+|**2024-01-18**|**Drift Control with Discretionary Stopping for a Diffusion Process**|Václav E. Beneš et.al.|[2401.10043](http://arxiv.org/abs/2401.10043)|null|
+|**2024-01-18**|**FreGrad: Lightweight and Fast Frequency-aware Diffusion Vocoder**|Tan Dat Nguyen et.al.|[2401.10032](http://arxiv.org/abs/2401.10032)|null|
+|**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
+|**2024-01-18**|**Consistent asset modelling with random coefficients and switches between regimes**|Felix L. Wolf et.al.|[2401.09955](http://arxiv.org/abs/2401.09955)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416](http://arxiv.org/abs/2401.09416)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**Potential Energy Landscape of a Flexible Water Model: Equation-of-State, Configurational Entropy, and Adam-Gibbs Relationship**|Ali Eltareb et.al.|[2401.09355](http://arxiv.org/abs/2401.09355)|null|
@@ -1742,6 +1752,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219](http://arxiv.org/abs/2401.10219)|null|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
+|**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
+|**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
+|**2024-01-18**|**CLIP Model for Images to Textual Prompts Based on Top-k Neighbors**|Xin Zhang et.al.|[2401.09763](http://arxiv.org/abs/2401.09763)|null|
+|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|null|
+|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|null|
 |**2024-01-17**|**Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis**|Jonghyun Lee et.al.|[2401.09048](http://arxiv.org/abs/2401.09048)|**[link](https://github.com/tomtom1103/compose-and-conquer)**|
 |**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742](http://arxiv.org/abs/2401.08742)|null|
 |**2024-01-16**|**Fixed Point Diffusion Models**|Xingjian Bai et.al.|[2401.08741](http://arxiv.org/abs/2401.08741)|null|
@@ -2691,9 +2708,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985](http://arxiv.org/abs/2401.09985)|null|
+|**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**UniVG: Towards UNIfied-modal Video Generation**|Ludan Ruan et.al.|[2401.09084](http://arxiv.org/abs/2401.09084)|null|
-|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|null|
+|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2024-01-16**|**E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning**|Qiang Qu et.al.|[2401.08117](http://arxiv.org/abs/2401.08117)|**[link](https://github.com/vincentqqu/e2hqv)**|
 |**2024-01-15**|**Towards A Better Metric for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2401.07781](http://arxiv.org/abs/2401.07781)|null|
 |**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584](http://arxiv.org/abs/2401.07584)|null|
