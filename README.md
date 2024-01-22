@@ -1657,7 +1657,7 @@
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-16**|**Expression Domain Translation Network for Cross-domain Head Reenactment**|Taewoong Kang et.al.|[2310.10073](http://arxiv.org/abs/2310.10073)|null|
 |**2023-10-16**|**A Human Motion Compensation Framework for a Supernumerary Robotic Arm**|Xin Zhang et.al.|[2310.10029](http://arxiv.org/abs/2310.10029)|null|
-|**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
+|**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|**[link](https://github.com/neu-vi/OmniControl)**|
 |**2023-10-11**|**Guided Attention for Interpretable Motion Captioning**|Karim Radouane et.al.|[2310.07324](http://arxiv.org/abs/2310.07324)|**[link](https://github.com/rd20karim/m2t-interpretable)**|
 |**2023-10-10**|**MEDUSA: Scalable Biometric Sensing in the Wild through Distributed MIMO Radars**|Yilong Li et.al.|[2310.05507](http://arxiv.org/abs/2310.05507)|null|
 |**2023-10-06**|**Universal Humanoid Motion Representations for Physics-Based Control**|Zhengyi Luo et.al.|[2310.04582](http://arxiv.org/abs/2310.04582)|null|
