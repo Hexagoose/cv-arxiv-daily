@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Bi-Hamiltonian in Semiflexible Polymer as Strongly Coupled System**|Heeyuen Koh et.al.|[2401.13655](http://arxiv.org/abs/2401.13655)|null|
+|**2024-01-24**|**On the self-similarity of unbounded viscous Marangoni flows**|Fernando Temprano-Coleto et.al.|[2401.13647](http://arxiv.org/abs/2401.13647)|null|
+|**2024-01-24**|**Winding Clearness for Differentiable Point Cloud Optimization**|Dong Xiao et.al.|[2401.13639](http://arxiv.org/abs/2401.13639)|null|
+|**2024-01-24**|**Gaseous Diffusion as a Correlated Random Walk**|Santos Bravo Yuste et.al.|[2401.13571](http://arxiv.org/abs/2401.13571)|null|
+|**2024-01-24**|**Guided Diffusion for Fast Inverse Design of Density-based Mechanical Metamaterials**|Yanyan Yang et.al.|[2401.13570](http://arxiv.org/abs/2401.13570)|null|
+|**2024-01-24**|**Functional weak convergence of stochastic integrals for moving averages and continuous-time random walks**|Andreas Søjmark et.al.|[2401.13543](http://arxiv.org/abs/2401.13543)|null|
+|**2024-01-24**|**Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting**|Hounsu Kim et.al.|[2401.13498](http://arxiv.org/abs/2401.13498)|null|
+|**2024-01-24**|**Accurate Determination of the Band-Gap Energy of the Rare-Earth Niobate Series**|Alka B. Garg et.al.|[2401.13477](http://arxiv.org/abs/2401.13477)|null|
+|**2024-01-24**|**Ordering kinetics in the active Ising model**|Sayam Bandyopadhyay et.al.|[2401.13471](http://arxiv.org/abs/2401.13471)|null|
+|**2024-01-24**|**Diffusion of an Active Particle Bound to a Generalized Elastic Model: Fractional Langevin Equation**|Alessandro Taloni et.al.|[2401.13457](http://arxiv.org/abs/2401.13457)|null|
 |**2024-01-23**|**GALA: Generating Animatable Layered Assets from a Single Scan**|Taeksoo Kim et.al.|[2401.12979](http://arxiv.org/abs/2401.12979)|null|
 |**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
 |**2024-01-23**|**Measure transport with kernel mean embeddings**|L. Wang et.al.|[2401.12967](http://arxiv.org/abs/2401.12967)|null|
@@ -1591,11 +1601,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Generative Human Motion Stylization in Latent Space**|Chuan Guo et.al.|[2401.13505](http://arxiv.org/abs/2401.13505)|null|
+|**2024-01-24**|**GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition**|Xingyu Song et.al.|[2401.13414](http://arxiv.org/abs/2401.13414)|null|
 |**2024-01-23**|**Workspace Optimization Techniques to Improve Prediction of Human Motion During Human-Robot Collaboration**|Yi-Shiuan Tung et.al.|[2401.12965](http://arxiv.org/abs/2401.12965)|null|
 |**2024-01-23**|**Inertial Sensors for Human Motion Analysis: A Comprehensive Review**|Sara García-de-Villa et.al.|[2401.12919](http://arxiv.org/abs/2401.12919)|null|
 |**2024-01-23**|**A database of physical therapy exercises with variability of execution collected by wearable sensors**|Sara García-de-Villa et.al.|[2401.12868](http://arxiv.org/abs/2401.12868)|null|
 |**2024-01-22**|**Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective**|Feiyu Yao et.al.|[2401.11783](http://arxiv.org/abs/2401.11783)|null|
-|**2024-01-23**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|null|
+|**2024-01-24**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|null|
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
 |**2024-01-16**|**EgoGen: An Egocentric Synthetic Data Generator**|Gen Li et.al.|[2401.08739](http://arxiv.org/abs/2401.08739)|null|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
@@ -1778,11 +1790,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Research about the Ability of LLM in the Tamper-Detection Area**|Xinyu Yang et.al.|[2401.13504](http://arxiv.org/abs/2401.13504)|null|
+|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
+|**2024-01-24**|**Deep Learning for Improved Polyp Detection from Synthetic Narrow-Band Imaging**|Mathias Ramm Haugland et.al.|[2401.13315](http://arxiv.org/abs/2401.13315)|null|
+|**2024-01-24**|**Choose Your Diffusion: Efficient and flexible ways to accelerate the diffusion model in fast high energy physics simulation**|Cheng Jiang et.al.|[2401.13162](http://arxiv.org/abs/2401.13162)|null|
+|**2024-01-23**|**CCA: Collaborative Competitive Agents for Image Editing**|Tiankai Hang et.al.|[2401.13011](http://arxiv.org/abs/2401.13011)|**[link](https://github.com/tiankaihang/cca)**|
+|**2024-01-23**|**CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data**|Chandrakanth Gudavalli et.al.|[2401.13006](http://arxiv.org/abs/2401.13006)|null|
 |**2024-01-23**|**A Unified Generation-Registration Framework for Improved MR-based CT Synthesis in Proton Therapy**|Xia Li et.al.|[2401.12878](http://arxiv.org/abs/2401.12878)|null|
 |**2024-01-23**|**UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators**|Hengjia Li et.al.|[2401.12596](http://arxiv.org/abs/2401.12596)|null|
 |**2024-01-23**|**The Neglected Tails of Vision-Language Models**|Shubham Parashar et.al.|[2401.12425](http://arxiv.org/abs/2401.12425)|null|
 |**2024-01-20**|**Large-scale Reinforcement Learning for Diffusion Models**|Yinan Zhang et.al.|[2401.12244](http://arxiv.org/abs/2401.12244)|null|
-|**2024-01-22**|**Control of OSIRIS-REx OTES Observations using OCAMS TAG Images**|Kris J. Becker et.al.|[2401.12177](http://arxiv.org/abs/2401.12177)|null|
+|**2024-01-23**|**Control of OSIRIS-REx OTES Observations using OCAMS TAG Images**|Kris J. Becker et.al.|[2401.12177](http://arxiv.org/abs/2401.12177)|null|
 |**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
 |**2024-01-21**|**Text-to-Image Cross-Modal Generation: A Systematic Review**|Maciej Żelaszczyk et.al.|[2401.11631](http://arxiv.org/abs/2401.11631)|null|
 |**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|null|
@@ -2741,6 +2759,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
 |**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
 |**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
