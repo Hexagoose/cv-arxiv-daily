@@ -672,7 +672,7 @@ layout: default
 |**2023-10-19**|**Structure preservation in high-order hybrid discretisations of advection-diffusion equations: linear and nonlinear approaches**|Simon Lemaire et.al.|[2310.12870](http://arxiv.org/abs/2310.12870)|null|
 |**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868](http://arxiv.org/abs/2310.12868)|null|
 |**2023-10-19**|**Highlights from the IceCube Neutrino Observatory**|Naoko Kurahashi et.al.|[2310.12840](http://arxiv.org/abs/2310.12840)|null|
-|**2023-10-19**|**An effective theory of collective deep learning**|Lluís Arola-Fernández et.al.|[2310.12802](http://arxiv.org/abs/2310.12802)|null|
+|**2023-10-19**|**An effective theory of collective deep learning**|Lluís Arola-Fernández et.al.|[2310.12802](http://arxiv.org/abs/2310.12802)|**[link](https://github.com/mystic-blue/collective-learning)**|
 |**2023-10-19**|**Energy-Based Models For Speech Synthesis**|Wanli Sun et.al.|[2310.12765](http://arxiv.org/abs/2310.12765)|null|
 |**2023-10-19**|**A case study of early galaxy cluster with the Athena X-IFU**|F. Castellani et.al.|[2310.12759](http://arxiv.org/abs/2310.12759)|null|
 |**2023-10-19**|**Impact of dephasing probes on incommensurate lattices**|Bishal Ghosh et.al.|[2310.12758](http://arxiv.org/abs/2310.12758)|null|
