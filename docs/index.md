@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
+|**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398](http://arxiv.org/abs/2401.14398)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
+|**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|null|
+|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
+|**2024-01-25**|**Vanishing center-of-mass limit of the corotational Oldroyd-B polymeric fluid-structure interaction problem**|Prince Romeo Mensah et.al.|[2401.14337](http://arxiv.org/abs/2401.14337)|null|
+|**2024-01-25**|**Combined Generative and Predictive Modeling for Speech Super-resolution**|Heming Wang et.al.|[2401.14269](http://arxiv.org/abs/2401.14269)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257](http://arxiv.org/abs/2401.14257)|null|
+|**2024-01-25**|**Harnack inequalities for kinetic integral equations**|Francesca Anceschi et.al.|[2401.14182](http://arxiv.org/abs/2401.14182)|null|
 |**2024-01-24**|**Bi-Hamiltonian in Semiflexible Polymer as Strongly Coupled System**|Heeyuen Koh et.al.|[2401.13655](http://arxiv.org/abs/2401.13655)|null|
 |**2024-01-24**|**On the self-similarity of unbounded viscous Marangoni flows**|Fernando Temprano-Coleto et.al.|[2401.13647](http://arxiv.org/abs/2401.13647)|null|
 |**2024-01-24**|**Winding Clearness for Differentiable Point Cloud Optimization**|Dong Xiao et.al.|[2401.13639](http://arxiv.org/abs/2401.13639)|null|
@@ -1601,6 +1611,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|null|
 |**2024-01-24**|**Generative Human Motion Stylization in Latent Space**|Chuan Guo et.al.|[2401.13505](http://arxiv.org/abs/2401.13505)|null|
 |**2024-01-24**|**GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition**|Xingyu Song et.al.|[2401.13414](http://arxiv.org/abs/2401.13414)|null|
 |**2024-01-23**|**Workspace Optimization Techniques to Improve Prediction of Human Motion During Human-Robot Collaboration**|Yi-Shiuan Tung et.al.|[2401.12965](http://arxiv.org/abs/2401.12965)|null|
@@ -1790,6 +1801,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
+|**2024-01-25**|**Explicitly Representing Syntax Improves Sentence-to-layout Prediction of Unexpected Situations**|Wolf Nuyts et.al.|[2401.14212](http://arxiv.org/abs/2401.14212)|null|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|null|
+|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
+|**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992](http://arxiv.org/abs/2401.13992)|null|
+|**2024-01-25**|**Learning to Manipulate Artistic Images**|Wei Guo et.al.|[2401.13976](http://arxiv.org/abs/2401.13976)|**[link](https://github.com/snailforce/sim-net)**|
+|**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
+|**2024-01-25**|**A New Image Quality Database for Multiple Industrial Processes**|Xuanchao Ma et.al.|[2401.13956](http://arxiv.org/abs/2401.13956)|null|
 |**2024-01-24**|**Research about the Ability of LLM in the Tamper-Detection Area**|Xinyu Yang et.al.|[2401.13504](http://arxiv.org/abs/2401.13504)|null|
 |**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
 |**2024-01-24**|**Deep Learning for Improved Polyp Detection from Synthetic Narrow-Band Imaging**|Mathias Ramm Haugland et.al.|[2401.13315](http://arxiv.org/abs/2401.13315)|null|
