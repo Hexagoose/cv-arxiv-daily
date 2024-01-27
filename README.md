@@ -665,7 +665,7 @@
 |**2023-10-20**|**Achieving Single-Electron Sensitivity at Enhanced Speed in Fully-Depleted CCDs with Double-Gate MOSFETs**|Miguel Sofo-Haro et.al.|[2310.13644](http://arxiv.org/abs/2310.13644)|null|
 |**2023-10-20**|**Front propagation close to the onset of instability**|Montie Avery et.al.|[2310.13602](http://arxiv.org/abs/2310.13602)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
-|**2023-10-20**|**Shedding Light on Low Surface Brightness Galaxies in Dark Energy Survey with Transformers**|H. Thuruthipilly et.al.|[2310.13543](http://arxiv.org/abs/2310.13543)|null|
+|**2023-10-20**|**Shedding Light on Low Surface Brightness Galaxies in Dark Energy Survey with Transformers**|H. Thuruthipilly et.al.|[2310.13543](http://arxiv.org/abs/2310.13543)|**[link](https://github.com/hareesht23/LSBGs-in-DES-with-Transformers)**|
 |**2023-10-20**|**Masses, Revised Radii, and a Third Planet Candidate in the "Inverted" Planetary System Around TOI-1266**|Ryan Cloutier et.al.|[2310.13496](http://arxiv.org/abs/2310.13496)|null|
 |**2023-10-20**|**Well-posedness of diffusion-aggregation equations with bounded kernels and their mean-field approximations**|Li Chen et.al.|[2310.13463](http://arxiv.org/abs/2310.13463)|null|
 |**2023-10-20**|**Malliavin differentiability of McKean-Vlasov SDEs with locally Lipschitz coefficients**|Goncalo dos Reis et.al.|[2310.13400](http://arxiv.org/abs/2310.13400)|null|
