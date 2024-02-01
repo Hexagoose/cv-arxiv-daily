@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
+|**2024-01-31**|**An electrodynamic wave model for the action potential**|Vitaly L. Galinsky et.al.|[2401.18051](http://arxiv.org/abs/2401.18051)|null|
+|**2024-01-31**|**Reversible, Irreversible and Mixed Regimes for Periodically Driven Disks in Random Obstacle Arrays**|D. Minogue et.al.|[2401.18042](http://arxiv.org/abs/2401.18042)|null|
+|**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional $m-$Laplacian without the $Δ_2$ condition**|Julian Fernandez Bonder et.al.|[2401.18041](http://arxiv.org/abs/2401.18041)|null|
+|**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982](http://arxiv.org/abs/2401.17982)|null|
+|**2024-01-31**|**Convergence Analysis for General Probability Flow ODEs of Diffusion Models in Wasserstein Distances**|Xuefeng Gao et.al.|[2401.17958](http://arxiv.org/abs/2401.17958)|null|
+|**2024-01-31**|**Investigation of Microstructure and Corrosion Resistance of Ti-Al-V Titanium Alloys Obtained by Spark Plasma Sintering**|Aleksey Nokhrin et.al.|[2401.17941](http://arxiv.org/abs/2401.17941)|null|
+|**2024-01-31**|**Lipolysis on Lipid Droplets: Mathematical Modelling and Numerical Discretisation**|Reymart Salcedo Lagunero et.al.|[2401.17935](http://arxiv.org/abs/2401.17935)|null|
+|**2024-01-31**|**AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error**|Jonas Ricker et.al.|[2401.17879](http://arxiv.org/abs/2401.17879)|null|
+|**2024-01-31**|**Multiplicity results for mass constrained Allen-Cahn equations on Riemannian manifolds with boundary**|Dario Corona et.al.|[2401.17847](http://arxiv.org/abs/2401.17847)|null|
 |**2024-01-30**|**Study of X-ray emission from the S147 nebula with SRG/eROSITA: X-ray imaging, spectral characterization and a multiwavelength picture**|Miltiadis Michailidis et.al.|[2401.17312](http://arxiv.org/abs/2401.17312)|null|
 |**2024-01-30**|**G321.3-3.9: a new supernova remnant observed with multi-band radio data and in the SRG/eROSITA All-Sky Surveys**|S. Mantovanini et.al.|[2401.17294](http://arxiv.org/abs/2401.17294)|null|
 |**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291](http://arxiv.org/abs/2401.17291)|null|
@@ -44,6 +54,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
+|**2024-01-31**|**Head and Neck Tumor Segmentation from [18F]F-FDG PET/CT Images Based on 3D Diffusion Model**|Yafei Dong et.al.|[2401.17593](http://arxiv.org/abs/2401.17593)|null|
+|**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
+|**2024-01-31**|**Fréchet Distance for Offline Evaluation of Information Retrieval Systems with Sparse Labels**|Negar Arabzadeh et.al.|[2401.17543](http://arxiv.org/abs/2401.17543)|null|
 |**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061](http://arxiv.org/abs/2401.17061)|**[link](https://github.com/sbrunoberenguel/omniscv)**|
 |**2024-01-30**|**Repositioning the Subject within Image**|Yikai Wang et.al.|[2401.16861](http://arxiv.org/abs/2401.16861)|null|
 |**2024-01-30**|**X-ray Image Generation as a Method of Performance Prediction for Real-Time Inspection: a Case Study**|Vladyslav Andriiashen et.al.|[2401.16847](http://arxiv.org/abs/2401.16847)|**[link](https://github.com/vandriiashen/pod2settings)**|
@@ -59,7 +74,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
+|**2024-01-30**|**Anything in Any Scene: Photorealistic Video Object Insertion**|Chen Bai et.al.|[2401.17509](http://arxiv.org/abs/2401.17509)|null|
+|**2024-01-31**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
 |**2024-01-28**|**Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**|Weifeng Liu et.al.|[2401.15668](http://arxiv.org/abs/2401.15668)|**[link](https://github.com/aaroncomo/lipfd)**|
 |**2024-01-29**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
