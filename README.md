@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867](http://arxiv.org/abs/2402.00867)|null|
+|**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
+|**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
+|**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-02-01**|**The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios**|Sagnick Mukherjee et.al.|[2402.00756](http://arxiv.org/abs/2402.00756)|null|
+|**2024-02-01**|**Neutral carbon in diffuse interstellar medium: abundance matching with H2 for DLAs at high redshifts**|Sergei Balashev et.al.|[2402.00714](http://arxiv.org/abs/2402.00714)|null|
+|**2024-02-01**|**Cylindrically symmetric diffusion model for relativistic heavy-ion collisions**|Johannes Hoelck et.al.|[2402.00628](http://arxiv.org/abs/2402.00628)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao et.al.|[2402.00575](http://arxiv.org/abs/2402.00575)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
 |**2024-01-31**|**An electrodynamic wave model for the action potential**|Vitaly L. Galinsky et.al.|[2401.18051](http://arxiv.org/abs/2401.18051)|null|
 |**2024-01-31**|**Reversible, Irreversible and Mixed Regimes for Periodically Driven Disks in Random Obstacle Arrays**|D. Minogue et.al.|[2401.18042](http://arxiv.org/abs/2401.18042)|null|
@@ -47,6 +57,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Transferring human emotions to robot motions using Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00663](http://arxiv.org/abs/2402.00663)|null|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-24**|**Generative Human Motion Stylization in Latent Space**|Chuan Guo et.al.|[2401.13505](http://arxiv.org/abs/2401.13505)|null|
 |**2024-01-24**|**GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition**|Xingyu Song et.al.|[2401.13414](http://arxiv.org/abs/2401.13414)|null|
@@ -64,6 +75,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Examining the Influence of Digital Phantom Models in Virtual Imaging Trials for Tomographic Breast Imaging**|Amar Kavuri et.al.|[2402.00812](http://arxiv.org/abs/2402.00812)|null|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-01-31**|**SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**|Yang Li et.al.|[2402.00631](http://arxiv.org/abs/2402.00631)|null|
+|**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
+|**2024-02-01**|**Masked Conditional Diffusion Model for Enhancing Deepfake Detection**|Tiewen Chen et.al.|[2402.00541](http://arxiv.org/abs/2402.00541)|null|
+|**2024-02-01**|**High-Quality Medical Image Generation from Free-hand Sketch**|Quan Huu Cap et.al.|[2402.00353](http://arxiv.org/abs/2402.00353)|null|
+|**2024-02-01**|**Machine Unlearning for Image-to-Image Generative Models**|Guihong Li et.al.|[2402.00351](http://arxiv.org/abs/2402.00351)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
 |**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
 |**2024-01-31**|**Head and Neck Tumor Segmentation from [18F]F-FDG PET/CT Images Based on 3D Diffusion Model**|Yafei Dong et.al.|[2401.17593](http://arxiv.org/abs/2401.17593)|null|
@@ -86,6 +104,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-02-01**|**DRSM: efficient neural 4d decomposition for dynamic reconstruction in stationary monocular cameras**|Weixing Xie et.al.|[2402.00740](http://arxiv.org/abs/2402.00740)|null|
 |**2024-01-30**|**Anything in Any Scene: Photorealistic Video Object Insertion**|Chen Bai et.al.|[2401.17509](http://arxiv.org/abs/2401.17509)|null|
 |**2024-01-31**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
 |**2024-01-28**|**Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**|Weifeng Liu et.al.|[2401.15668](http://arxiv.org/abs/2401.15668)|**[link](https://github.com/aaroncomo/lipfd)**|
