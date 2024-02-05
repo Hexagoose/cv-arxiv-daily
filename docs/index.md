@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Revealing crucial effects of reservoir environment and hydrocarbon fractions on fluid behaviour in kaolinite pores**|Rixin Zhao et.al.|[2402.01633](http://arxiv.org/abs/2402.01633)|null|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590](http://arxiv.org/abs/2402.01590)|null|
+|**2024-02-02**|**Transformation semigroups and their applications**|Katarzyna Pichór et.al.|[2402.01572](http://arxiv.org/abs/2402.01572)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
+|**2024-02-02**|**Resolution dependence of most probable pathways with state-dependent diffusivity**|Alice L. Thorneywork et.al.|[2402.01559](http://arxiv.org/abs/2402.01559)|null|
+|**2024-02-02**|**The galactic bubbles of starburst galaxies The influence of galactic large-scale magnetic fields**|Z. Meliani et.al.|[2402.01541](http://arxiv.org/abs/2402.01541)|null|
+|**2024-02-02**|**Low-Resource Cross-Domain Singing Voice Synthesis via Reduced Self-Supervised Speech Representations**|Panos Kakoulidis et.al.|[2402.01520](http://arxiv.org/abs/2402.01520)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516](http://arxiv.org/abs/2402.01516)|null|
+|**2024-02-02**|**Binomial-tree approximation for time-inconsistent stopping**|Erhan Bayraktar et.al.|[2402.01482](http://arxiv.org/abs/2402.01482)|null|
+|**2024-02-02**|**SVI solutions to stochastic nonlinear diffusion equations on general measure spaces**|Benjamin Gess et.al.|[2402.01479](http://arxiv.org/abs/2402.01479)|null|
 |**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867](http://arxiv.org/abs/2402.00867)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
@@ -65,6 +75,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**The galactic bubbles of starburst galaxies The influence of galactic large-scale magnetic fields**|Z. Meliani et.al.|[2402.01541](http://arxiv.org/abs/2402.01541)|null|
+|**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516](http://arxiv.org/abs/2402.01516)|null|
+|**2024-02-02**|**Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors**|Dingcheng Yang et.al.|[2402.01369](http://arxiv.org/abs/2402.01369)|**[link](https://github.com/ydc123/mmp-attack)**|
+|**2024-02-02**|**Can MLLMs Perform Text-to-Image In-Context Learning?**|Yuchen Zeng et.al.|[2402.01293](http://arxiv.org/abs/2402.01293)|**[link](https://github.com/uw-madison-lee-lab/cobsat)**|
+|**2024-02-02**|**Can Shape-Infused Joint Embeddings Improve Image-Conditioned 3D Diffusion?**|Cristian Sbrolli et.al.|[2402.01241](http://arxiv.org/abs/2402.01241)|null|
+|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054](http://arxiv.org/abs/2402.01054)|null|
+|**2024-02-01**|**AI-generated faces free from racial and gender stereotypes**|Nouar AlDahoul et.al.|[2402.01002](http://arxiv.org/abs/2402.01002)|**[link](https://github.com/comnetsad/ai-generated-faces)**|
 |**2024-02-01**|**Examining the Influence of Digital Phantom Models in Virtual Imaging Trials for Tomographic Breast Imaging**|Amar Kavuri et.al.|[2402.00812](http://arxiv.org/abs/2402.00812)|null|
 |**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
 |**2024-01-31**|**SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation**|Yang Li et.al.|[2402.00631](http://arxiv.org/abs/2402.00631)|null|
@@ -92,6 +109,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590](http://arxiv.org/abs/2402.01590)|null|
+|**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
 |**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
 |**2024-02-01**|**DRSM: efficient neural 4d decomposition for dynamic reconstruction in stationary monocular cameras**|Weixing Xie et.al.|[2402.00740](http://arxiv.org/abs/2402.00740)|null|
 |**2024-01-30**|**Anything in Any Scene: Photorealistic Video Object Insertion**|Chen Bai et.al.|[2401.17509](http://arxiv.org/abs/2401.17509)|null|
