@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al.|[2402.05937](http://arxiv.org/abs/2402.05937)|null|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|null|
+|**2024-02-08**|**Dirichlet Flow Matching with Applications to DNA Sequence Design**|Hannes Stark et.al.|[2402.05841](http://arxiv.org/abs/2402.05841)|**[link](https://github.com/hannesstark/dirichlet-flow-matching)**|
+|**2024-02-08**|**AvatarMMC: 3D Head Avatar Generation and Editing with Multi-Modal Conditioning**|Wamiq Reyaz Para et.al.|[2402.05803](http://arxiv.org/abs/2402.05803)|null|
+|**2024-02-08**|**Determining the significance and relative importance of parameters of a simulated quenching algorithm using statistical tools**|Pedro A. Castillo et.al.|[2402.05791](http://arxiv.org/abs/2402.05791)|null|
+|**2024-02-08**|**Hydrogen abstraction from metal surfaces: When electron-hole pair excitations strongly affect hot-atom recombination**|Oihana Galparsoro et.al.|[2402.05743](http://arxiv.org/abs/2402.05743)|null|
+|**2024-02-08**|**First operation of a multi-channel Q-Pix prototype: measuring transverse electron diffusion in a gas time projection chamber**|Nora Hoch et.al.|[2402.05734](http://arxiv.org/abs/2402.05734)|null|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712](http://arxiv.org/abs/2402.05712)|**[link](https://github.com/theericma/diffspeaker)**|
+|**2024-02-08**|**Discovery and characterisation of a new Galactic Planetary Nebula**|W. E. Celnik et.al.|[2402.05658](http://arxiv.org/abs/2402.05658)|null|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
 |**2024-02-07**|**Nature of the diffuse emission sources in the H I supershell in the galaxy IC 1613**|Anastasiya D. Yarovova et.al.|[2402.05107](http://arxiv.org/abs/2402.05107)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
 |**2024-02-07**|**Convergence of spatial branching processes to $α$ -stable CSBPs: Genealogy of semi-pushed fronts**|Félix Foutel-Rodier et.al.|[2402.05096](http://arxiv.org/abs/2402.05096)|null|
@@ -108,6 +118,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Collaborative Control for Geometry-Conditioned PBR Image Generation**|Shimon Vainer et.al.|[2402.05919](http://arxiv.org/abs/2402.05919)|null|
+|**2024-02-08**|**CTGAN: Semantic-guided Conditional Texture Generator for 3D Shapes**|Yi-Ting Pan et.al.|[2402.05728](http://arxiv.org/abs/2402.05728)|null|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
+|**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
+|**2024-02-08**|**Scalable Wasserstein Gradient Flow for Generative Modeling through Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2402.05443](http://arxiv.org/abs/2402.05443)|null|
+|**2024-02-08**|**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**|Dewei Zhou et.al.|[2402.05408](http://arxiv.org/abs/2402.05408)|**[link](https://github.com/limuloo/migc)**|
+|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
 |**2024-02-07**|**ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12**|Liuqing Chen et.al.|[2402.04975](http://arxiv.org/abs/2402.04975)|null|
 |**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
 |**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
