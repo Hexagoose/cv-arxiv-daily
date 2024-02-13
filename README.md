@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Label-Efficient Model Selection for Text Generation**|Shir Ashury-Tahan et.al.|[2402.07891](http://arxiv.org/abs/2402.07891)|null|
+|**2024-02-12**|**High-order harmonic generation in 2D Transition Metal Disulphides**|Jose Manuel Iglesias et.al.|[2402.07850](http://arxiv.org/abs/2402.07850)|null|
+|**2024-02-12**|**Self-heating effects and switching dynamics in graphene multiterminal Josephson junctions**|Máté Kedves et.al.|[2402.07831](http://arxiv.org/abs/2402.07831)|null|
+|**2024-02-12**|**Towards a mathematical theory for consistency training in diffusion models**|Gen Li et.al.|[2402.07802](http://arxiv.org/abs/2402.07802)|null|
+|**2024-02-12**|**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**|Jiacheng Ye et.al.|[2402.07754](http://arxiv.org/abs/2402.07754)|null|
+|**2024-02-12**|**The GALAH survey: Elemental abundances in open clusters using joint effective temperature and surface gravity photometric priors**|Kevin L. Beeson et.al.|[2402.07748](http://arxiv.org/abs/2402.07748)|null|
+|**2024-02-12**|**Topological Edge States in Reconfigurable Multi-stable Mechanical Metamaterials**|Zhen Wang et.al.|[2402.07707](http://arxiv.org/abs/2402.07707)|null|
+|**2024-02-12**|**Metastability and time scales for parabolic equations with drift 2: the general time scale**|Claudio Landim et.al.|[2402.07695](http://arxiv.org/abs/2402.07695)|null|
+|**2024-02-12**|**Cosmology at the Field Level with Probabilistic Machine Learning**|Adam Rouhiainen et.al.|[2402.07694](http://arxiv.org/abs/2402.07694)|null|
+|**2024-02-12**|**Higher-order Connection Laplacians for Directed Simplicial Complexes**|Xue Gong et.al.|[2402.07631](http://arxiv.org/abs/2402.07631)|null|
 |**2024-02-09**|**The impact of different unravelings in a monitored system of free fermions**|Giulia Piccitto et.al.|[2402.06597](http://arxiv.org/abs/2402.06597)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
 |**2024-02-09**|**The role of mobility in epidemics near criticality**|Beatrice Nettuno et.al.|[2402.06505](http://arxiv.org/abs/2402.06505)|null|
@@ -117,6 +127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-11**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|null|
 |**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356](http://arxiv.org/abs/2402.04356)|null|
 |**2024-02-06**|**Novel IMU-based Adaptive Estimator of the Center of Rotation of Joints for Movement Analysis**|Sara García-de-Villa et.al.|[2402.04240](http://arxiv.org/abs/2402.04240)|null|
 |**2024-02-05**|**Replication of Impedance Identification Experiments on a Reinforcement-Learning-Controlled Digital Twin of Human Elbows**|Hao Yu et.al.|[2402.02904](http://arxiv.org/abs/2402.02904)|null|
@@ -138,6 +149,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597](http://arxiv.org/abs/2402.07597)|null|
+|**2024-02-12**|**Discovering Universal Semantic Triggers for Text-to-Image Synthesis**|Shengfang Zhai et.al.|[2402.07562](http://arxiv.org/abs/2402.07562)|null|
+|**2024-02-11**|**The Aleph & Other Metaphors for Image Generation**|Gonzalo Ramos et.al.|[2402.07104](http://arxiv.org/abs/2402.07104)|null|
+|**2024-02-10**|**Disentangled Latent Energy-Based Style Translation: An Image-Level Structural MRI Harmonization Framework**|Mengqi Wu et.al.|[2402.06875](http://arxiv.org/abs/2402.06875)|null|
 |**2024-02-09**|**Cardiac ultrasound simulation for autonomous ultrasound navigation**|Abdoul Aziz Amadou et.al.|[2402.06463](http://arxiv.org/abs/2402.06463)|null|
 |**2024-02-08**|**Collaborative Control for Geometry-Conditioned PBR Image Generation**|Shimon Vainer et.al.|[2402.05919](http://arxiv.org/abs/2402.05919)|null|
 |**2024-02-08**|**CTGAN: Semantic-guided Conditional Texture Generator for 3D Shapes**|Yi-Ting Pan et.al.|[2402.05728](http://arxiv.org/abs/2402.05728)|null|
@@ -199,7 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-06**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
+|**2024-02-10**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
 |**2024-02-06**|**ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**|Weiming Ren et.al.|[2402.04324](http://arxiv.org/abs/2402.04324)|null|
 |**2024-02-05**|**Projected Generative Diffusion Models for Constraint Satisfaction**|Jacob K Christopher et.al.|[2402.03559](http://arxiv.org/abs/2402.03559)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/abs/2402.03162)|null|
