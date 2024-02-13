@@ -166,7 +166,7 @@
 |**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
 |**2024-02-07**|**ColorSwap: A Color and Word Order Dataset for Multimodal Evaluation**|Jirayu Burapacheep et.al.|[2402.04492](http://arxiv.org/abs/2402.04492)|**[link](https://github.com/top34051/colorswap)**|
 |**2024-02-06**|**FoolSDEdit: Deceptively Steering Your Edits Towards Targeted Attribute-aware Distribution**|Qi Zhou et.al.|[2402.03705](http://arxiv.org/abs/2402.03705)|null|
-|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
+|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|**[link](https://github.com/hatchetProject/QuEST)**|
 |**2024-02-05**|**Assessing the Efficacy of Invisible Watermarks in AI-Generated Medical Images**|Xiaodan Xing et.al.|[2402.03473](http://arxiv.org/abs/2402.03473)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|**[link](https://github.com/frank-xwang/InstanceDiffusion)**|
