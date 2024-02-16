@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
+|**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208](http://arxiv.org/abs/2402.10208)|null|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Tracer dynamics in polymer networks: generalized Langevin description**|Sebastian Milster et.al.|[2402.10148](http://arxiv.org/abs/2402.10148)|null|
+|**2024-02-15**|**Energy Flux Decomposition in Magnetohydrodynamic Turbulence**|D. Capocci et.al.|[2402.10125](http://arxiv.org/abs/2402.10125)|null|
+|**2024-02-15**|**A Blob Method for Mean Field Control With Terminal Constraints**|Katy Craig et.al.|[2402.10124](http://arxiv.org/abs/2402.10124)|null|
+|**2024-02-15**|**Collision efficiency of droplets across diffusive, electrostatic and inertial regimes**|Florian Poydenot et.al.|[2402.10117](http://arxiv.org/abs/2402.10117)|null|
+|**2024-02-15**|**Quantized Embedding Vectors for Controllable Diffusion Language Models**|Cheng Kang et.al.|[2402.10107](http://arxiv.org/abs/2402.10107)|null|
+|**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|null|
 |**2024-02-14**|**Investigation of Ga interstitial and vacancy diffusion in $β$-Ga$_2$O$_3$ via split defects: a direct approach via master diffusion equations**|Channyung Lee et.al.|[2402.09354](http://arxiv.org/abs/2402.09354)|null|
 |**2024-02-14**|**On the system size dependence of the diffusion coefficients in MD simulations: A simple correction formula for pure dense fluids**|Sergey Khrapak et.al.|[2402.09348](http://arxiv.org/abs/2402.09348)|null|
@@ -147,6 +157,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-04**|**Custom IMU-Based Wearable System for Robust 2.4 GHz Wireless Human Body Parts Orientation Tracking and 3D Movement Visualization on an Avatar**|Javier González-Alonso et.al.|[2402.09459](http://arxiv.org/abs/2402.09459)|null|
+|**2024-01-30**|**Progress in artificial intelligence applications based on the combination of self-driven sensors and deep learning**|Weixiang Wan et.al.|[2402.09442](http://arxiv.org/abs/2402.09442)|null|
 |**2024-02-13**|**Approximately Piecewise E(3) Equivariant Point Networks**|Matan Atzmon et.al.|[2402.08529](http://arxiv.org/abs/2402.08529)|null|
 |**2024-02-11**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|**[link](https://github.com/nate-gillman/self-correcting-self-consuming)**|
 |**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356](http://arxiv.org/abs/2402.04356)|null|
@@ -170,8 +182,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
+|**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
+|**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966](http://arxiv.org/abs/2402.09966)|**[link](https://github.com/junjie-shentu/textual-localization)**|
+|**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|null|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|null|
-|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240](http://arxiv.org/abs/2402.09240)|null|
+|**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240](http://arxiv.org/abs/2402.09240)|**[link](https://github.com/westlake-ai/sema)**|
 |**2024-02-14**|**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**|Yutaro Yamada et.al.|[2402.09052](http://arxiv.org/abs/2402.09052)|null|
 |**2024-02-14**|**Multi-modality transrectal ultrasound vudei classification for identification of clinically significant prostate cancer**|Hong Wu et.al.|[2402.08987](http://arxiv.org/abs/2402.08987)|**[link](https://github.com/2313595986/prostatetrus)**|
 |**2024-02-13**|**Towards the Detection of AI-Synthesized Human Face Images**|Yuhang Lu et.al.|[2402.08750](http://arxiv.org/abs/2402.08750)|null|
