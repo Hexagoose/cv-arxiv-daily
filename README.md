@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
 |**2024-02-15**|**Tracer dynamics in polymer networks: generalized Langevin description**|Sebastian Milster et.al.|[2402.10148](http://arxiv.org/abs/2402.10148)|null|
 |**2024-02-15**|**Energy Flux Decomposition in Magnetohydrodynamic Turbulence**|D. Capocci et.al.|[2402.10125](http://arxiv.org/abs/2402.10125)|null|
-|**2024-02-15**|**A Blob Method for Mean Field Control With Terminal Constraints**|Katy Craig et.al.|[2402.10124](http://arxiv.org/abs/2402.10124)|null|
+|**2024-02-15**|**A Blob Method for Mean Field Control With Terminal Constraints**|Katy Craig et.al.|[2402.10124](http://arxiv.org/abs/2402.10124)|**[link](https://github.com/harlinlee/blobot)**|
 |**2024-02-15**|**Collision efficiency of droplets across diffusive, electrostatic and inertial regimes**|Florian Poydenot et.al.|[2402.10117](http://arxiv.org/abs/2402.10117)|null|
 |**2024-02-15**|**Quantized Embedding Vectors for Controllable Diffusion Language Models**|Cheng Kang et.al.|[2402.10107](http://arxiv.org/abs/2402.10107)|null|
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
@@ -151,7 +151,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## Motion
 
@@ -176,14 +176,14 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
 |**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
 |**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966](http://arxiv.org/abs/2402.09966)|**[link](https://github.com/junjie-shentu/textual-localization)**|
@@ -257,7 +257,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## Video Generation
 
@@ -287,7 +287,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
