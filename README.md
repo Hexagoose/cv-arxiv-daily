@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Nonequilibrium fluctuations of chemical reaction networks at criticality: The Schlögl model as paradigmatic case**|Benedikt Remlein et.al.|[2402.13168](http://arxiv.org/abs/2402.13168)|null|
+|**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
+|**2024-02-20**|**Ultrafast lattice disordering can be accelerated by electronic collisional forces**|Gilberto A. de la Pena Munoz et.al.|[2402.13133](http://arxiv.org/abs/2402.13133)|null|
+|**2024-02-20**|**How accurate are simulations and experiments for the lattice energies of molecular crystals?**|Flaviano Della Pia et.al.|[2402.13059](http://arxiv.org/abs/2402.13059)|null|
+|**2024-02-20**|**Excited state-specific CASSCF theory for the torsion of ethylene**|Sandra Saade et.al.|[2402.13046](http://arxiv.org/abs/2402.13046)|null|
+|**2024-02-20**|**Text-Guided Molecule Generation with Diffusion Language Model**|Haisong Gong et.al.|[2402.13040](http://arxiv.org/abs/2402.13040)|**[link](https://github.com/deno-v/tgm-dlm)**|
+|**2024-02-20**|**The Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids**|Thibaut Arnoulx de Pirey et.al.|[2402.12996](http://arxiv.org/abs/2402.12996)|null|
+|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-20**|**CLIPping the Deception: Adapting Vision-Language Models for Universal Deepfake Detection**|Sohail Ahmed Khan et.al.|[2402.12927](http://arxiv.org/abs/2402.12927)|null|
+|**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290](http://arxiv.org/abs/2402.12290)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
@@ -177,6 +187,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-02-20**|**A Recurrent Neural Network Enhanced Unscented Kalman Filter for Human Motion Prediction**|Wansong Liu et.al.|[2402.13045](http://arxiv.org/abs/2402.13045)|null|
 |**2024-02-19**|**Human Video Translation via Query Warping**|Haiming Zhu et.al.|[2402.12099](http://arxiv.org/abs/2402.12099)|null|
 |**2024-02-04**|**Custom IMU-Based Wearable System for Robust 2.4 GHz Wireless Human Body Parts Orientation Tracking and 3D Movement Visualization on an Avatar**|Javier González-Alonso et.al.|[2402.09459](http://arxiv.org/abs/2402.09459)|null|
 |**2024-01-30**|**Progress in artificial intelligence applications based on the combination of self-driven sensors and deep learning**|Weixiang Wan et.al.|[2402.09442](http://arxiv.org/abs/2402.09442)|null|
@@ -203,6 +215,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254](http://arxiv.org/abs/2402.13254)|null|
+|**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185](http://arxiv.org/abs/2402.13185)|null|
+|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
+|**2024-02-20**|**Two-stage Rainfall-Forecasting Diffusion Model**|XuDong Ling et.al.|[2402.12779](http://arxiv.org/abs/2402.12779)|**[link](https://github.com/clearlyzerolxd/trdm)**|
+|**2024-02-20**|**A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis**|Nailei Hei et.al.|[2402.12760](http://arxiv.org/abs/2402.12760)|**[link](https://github.com/naylenv/uf-fgtg)**|
+|**2024-02-20**|**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion**|Sen Li et.al.|[2402.12741](http://arxiv.org/abs/2402.12741)|**[link](https://github.com/measure-infinity/mulan-code)**|
+|**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712](http://arxiv.org/abs/2402.12712)|null|
+|**2024-02-20**|**Robust-Wide: Robust Watermarking against Instruction-driven Image Editing**|Runyi Hu et.al.|[2402.12688](http://arxiv.org/abs/2402.12688)|null|
+|**2024-02-19**|**The (R)Evolution of Multimodal Large Language Models: A Survey**|Davide Caffagni et.al.|[2402.12451](http://arxiv.org/abs/2402.12451)|null|
 |**2024-02-19**|**Revisiting registration-based synthesis: A focus on unsupervised MR image synthesis**|Savannah P. Hays et.al.|[2402.12288](http://arxiv.org/abs/2402.12288)|null|
 |**2024-02-19**|**Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability**|Xuelin Qian et.al.|[2402.12225](http://arxiv.org/abs/2402.12225)|null|
 |**2024-02-19**|**Groot: Adversarial Testing for Generative Text-to-Image Models with Tree-based Semantic Transformation**|Yi Liu et.al.|[2402.12100](http://arxiv.org/abs/2402.12100)|null|
@@ -297,6 +319,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185](http://arxiv.org/abs/2402.13185)|null|
+|**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
+|**2024-02-20**|**VGMShield: Mitigating Misuse of Video Generative Models**|Yan Pang et.al.|[2402.13126](http://arxiv.org/abs/2402.13126)|null|
+|**2024-02-19**|**Dynamic and Super-Personalized Media Ecosystem Driven by Generative AI: Unpredictable Plays Never Repeating The Same**|Sungjun Ahn et.al.|[2402.12412](http://arxiv.org/abs/2402.12412)|null|
 |**2024-02-19**|**Human Video Translation via Query Warping**|Haiming Zhu et.al.|[2402.12099](http://arxiv.org/abs/2402.12099)|null|
 |**2024-02-16**|**Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation**|Lanqing Guo et.al.|[2402.10491](http://arxiv.org/abs/2402.10491)|**[link](https://github.com/guolanqing/self-cascade)**|
 |**2024-02-15**|**LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing**|Bryan Wang et.al.|[2402.10294](http://arxiv.org/abs/2402.10294)|null|
