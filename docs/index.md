@@ -27,7 +27,7 @@ layout: default
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290](http://arxiv.org/abs/2402.12290)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
-|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242](http://arxiv.org/abs/2402.12242)|null|
+|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242](http://arxiv.org/abs/2402.12242)|**[link](https://github.com/irmlma/mobility-simulation-cdpm)**|
 |**2024-02-19**|**Diffusion Tempering Improves Parameter Estimation with Probabilistic Integrators for Ordinary Differential Equations**|Jonas Beck et.al.|[2402.12231](http://arxiv.org/abs/2402.12231)|**[link](https://github.com/jnsbck/hhdifftemp)**|
 |**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187](http://arxiv.org/abs/2402.12187)|null|
 |**2024-02-19**|**Anomalous Diffusion, Prethermalization, and Particle Binding in an Interacting Flat Band System**|Mirko Daumann et.al.|[2402.12180](http://arxiv.org/abs/2402.12180)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2024-02-16**|**Nearly-optimal effective stability estimates around Diophantine tori of Hölder Hamiltonians**|Santiago Barbieri et.al.|[2402.10764](http://arxiv.org/abs/2402.10764)|null|
 |**2024-02-16**|**Revisiting a Core-Jet Laboratory at High Redshift: Analysis of the Radio Jet in the Quasar PKS 2215+020 at z=3.572**|Sándor Frey et.al.|[2402.10722](http://arxiv.org/abs/2402.10722)|null|
 |**2024-02-16**|**Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**|Hongbin Na et.al.|[2402.10699](http://arxiv.org/abs/2402.10699)|null|
-|**2024-02-16**|**Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**|Yuanzhen Xie et.al.|[2402.10671](http://arxiv.org/abs/2402.10671)|null|
+|**2024-02-16**|**Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**|Yuanzhen Xie et.al.|[2402.10671](http://arxiv.org/abs/2402.10671)|**[link](https://github.com/flyingfeather/dea-sql)**|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Recovering the Pre-Fine-Tuning Weights of Generative Models**|Eliahu Horwitz et.al.|[2402.10208](http://arxiv.org/abs/2402.10208)|**[link](https://github.com/eliahuhorwitz/Spectral-DeTuning)**|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
