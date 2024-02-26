@@ -153,7 +153,7 @@
 |**2024-02-06**|**Geometric theory of (extended) time-reversal symmetries in stochastic processes -- Part I: finite dimension**|Jérémy O'Byrne et.al.|[2402.04217](http://arxiv.org/abs/2402.04217)|null|
 |**2024-02-06**|**Maximal regularity and optimal control for a non-local Cahn-Hilliard tumour growth model**|Matteo Fornoni et.al.|[2402.04204](http://arxiv.org/abs/2402.04204)|null|
 |**2024-02-06**|**SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models**|Yichen Shi et.al.|[2402.04178](http://arxiv.org/abs/2402.04178)|**[link](https://github.com/laiyingxin2/shield)**|
-|**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080](http://arxiv.org/abs/2402.04080)|null|
+|**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080](http://arxiv.org/abs/2402.04080)|**[link](https://github.com/ruoqizzz/entropy-regularized-diffusion-policy-with-qensemble)**|
 |**2024-02-06**|**Generative Modeling of Graphs via Joint Diffusion of Node and Edge Attributes**|Nimrod Berman et.al.|[2402.04046](http://arxiv.org/abs/2402.04046)|null|
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031](http://arxiv.org/abs/2402.04031)|**[link](https://github.com/mobaidoctor/polyp-ddpm)**|
