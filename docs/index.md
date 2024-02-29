@@ -283,7 +283,7 @@ layout: default
 |**2024-02-27**|**One-Shot Structure-Aware Stylized Image Synthesis**|Hansam Cho et.al.|[2402.17275](http://arxiv.org/abs/2402.17275)|null|
 |**2024-02-27**|**Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation**|Daiqing Li et.al.|[2402.17245](http://arxiv.org/abs/2402.17245)|null|
 |**2024-02-27**|**Advancing Generative Model Evaluation: A Novel Algorithm for Realistic Image Synthesis and Comparison in OCR System**|Majid Memari et.al.|[2402.17204](http://arxiv.org/abs/2402.17204)|null|
-|**2024-02-27**|**Transparent Image Layer Diffusion using Latent Transparency**|Lvmin Zhang et.al.|[2402.17113](http://arxiv.org/abs/2402.17113)|null|
+|**2024-02-27**|**Transparent Image Layer Diffusion using Latent Transparency**|Lvmin Zhang et.al.|[2402.17113](http://arxiv.org/abs/2402.17113)|**[link](https://github.com/layerdiffusion/layerdiffusion)**|
 |**2024-02-27**|**T-HITL Effectively Addresses Problematic Associations in Image Generation and Maintains Overall Visual Quality**|Susan Epstein et.al.|[2402.17101](http://arxiv.org/abs/2402.17101)|null|
 |**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
 |**2024-02-26**|**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion**|Xuantong Liu et.al.|[2402.16305](http://arxiv.org/abs/2402.16305)|null|
