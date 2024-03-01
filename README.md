@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470](http://arxiv.org/abs/2402.19470)|null|
+|**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459](http://arxiv.org/abs/2402.19459)|null|
+|**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455](http://arxiv.org/abs/2402.19455)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
+|**2024-02-29**|**Structure Preserving Diffusion Models**|Haoye Lu et.al.|[2402.19369](http://arxiv.org/abs/2402.19369)|null|
+|**2024-02-29**|**A new analytical model of the cosmic-ray energy flux for Galactic diffuse radio emission**|Andrea Bracco et.al.|[2402.19367](http://arxiv.org/abs/2402.19367)|null|
+|**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330](http://arxiv.org/abs/2402.19330)|null|
+|**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302](http://arxiv.org/abs/2402.19302)|**[link](https://github.com/iit-pavis/diffassemble)**|
+|**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260](http://arxiv.org/abs/2402.19260)|null|
+|**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196](http://arxiv.org/abs/2402.19196)|null|
 |**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572](http://arxiv.org/abs/2402.18572)|null|
 |**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
 |**2024-02-28**|**Photon statistics of resonantly driven spectrally diffusive quantum emitters**|Aymeric Delteil et.al.|[2402.18542](http://arxiv.org/abs/2402.18542)|null|
@@ -247,6 +257,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**Context-based Interpretable Spatio-Temporal Graph Convolutional Network for Human Motion Forecasting**|Edgar Medina et.al.|[2402.19237](http://arxiv.org/abs/2402.19237)|null|
+|**2024-02-29**|**MOSAIC: A Modular System for Assistive and Interactive Cooking**|Huaxiaoyue Wang et.al.|[2402.18796](http://arxiv.org/abs/2402.18796)|null|
 |**2024-02-27**|**SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents**|Wei Xiang et.al.|[2402.17339](http://arxiv.org/abs/2402.17339)|null|
 |**2024-02-27**|**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**|Yiming Ren et.al.|[2402.17171](http://arxiv.org/abs/2402.17171)|null|
 |**2024-02-26**|**Expressive Whole-Body Control for Humanoid Robots**|Xuxin Cheng et.al.|[2402.16796](http://arxiv.org/abs/2402.16796)|null|
@@ -279,6 +291,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330](http://arxiv.org/abs/2402.19330)|null|
+|**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186](http://arxiv.org/abs/2402.19186)|null|
+|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|null|
+|**2024-02-29**|**Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection**|Christos Koutlis et.al.|[2402.19091](http://arxiv.org/abs/2402.19091)|null|
+|**2024-02-29**|**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis**|Paul Friedrich et.al.|[2402.19043](http://arxiv.org/abs/2402.19043)|**[link](https://github.com/pfriedri/wdm-3d)**|
+|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842](http://arxiv.org/abs/2402.18842)|null|
+|**2024-02-29**|**A Quantitative Evaluation of Score Distillation Sampling Based Text-to-3D**|Xiaohan Fei et.al.|[2402.18780](http://arxiv.org/abs/2402.18780)|null|
 |**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|null|
 |**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
 |**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|null|
@@ -418,6 +437,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
 |**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
 |**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
