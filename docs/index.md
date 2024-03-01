@@ -29,7 +29,7 @@ layout: default
 |**2024-02-28**|**Photon statistics of resonantly driven spectrally diffusive quantum emitters**|Aymeric Delteil et.al.|[2402.18542](http://arxiv.org/abs/2402.18542)|null|
 |**2024-02-28**|**Optimality conditions for sparse optimal control of viscous Cahn-Hilliard systems with logarithmic potential**|Pierluigi Colli et.al.|[2402.18506](http://arxiv.org/abs/2402.18506)|null|
 |**2024-02-28**|**Dynamical Regimes of Diffusion Models**|Giulio Biroli et.al.|[2402.18491](http://arxiv.org/abs/2402.18491)|null|
-|**2024-02-28**|**Introducing cuDisc: a 2D code for protoplanetary disc structure and evolution calculations**|Alfie Robinson et.al.|[2402.18471](http://arxiv.org/abs/2402.18471)|null|
+|**2024-02-28**|**Introducing cuDisc: a 2D code for protoplanetary disc structure and evolution calculations**|Alfie Robinson et.al.|[2402.18471](http://arxiv.org/abs/2402.18471)|**[link](https://github.com/cudisc/cudisc)**|
 |**2024-02-28**|**Effect of a perpendicular magnetic field on bilayer graphene under dual gating**|Mouhamadou Hassane Saley et.al.|[2402.18399](http://arxiv.org/abs/2402.18399)|null|
 |**2024-02-28**|**Deep Confident Steps to New Pockets: Strategies for Docking Generalization**|Gabriele Corso et.al.|[2402.18396](http://arxiv.org/abs/2402.18396)|**[link](https://github.com/gcorso/diffdock)**|
 |**2024-02-28**|**Topological charge and spin Hall effects due to skyrmions in canted antiferromagnets**|A. N. Zarezad et.al.|[2402.18369](http://arxiv.org/abs/2402.18369)|null|
@@ -351,7 +351,7 @@ layout: default
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
 |**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
 |**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966](http://arxiv.org/abs/2402.09966)|**[link](https://github.com/junjie-shentu/textual-localization)**|
-|**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|null|
+|**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-14**|**Switch EMA: A Free Lunch for Better Flatness and Sharpness**|Siyuan Li et.al.|[2402.09240](http://arxiv.org/abs/2402.09240)|**[link](https://github.com/westlake-ai/sema)**|
 |**2024-02-14**|**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**|Yutaro Yamada et.al.|[2402.09052](http://arxiv.org/abs/2402.09052)|null|
