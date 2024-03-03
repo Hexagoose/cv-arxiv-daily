@@ -22,7 +22,7 @@ layout: default
 |**2024-02-29**|**A new analytical model of the cosmic-ray energy flux for Galactic diffuse radio emission**|Andrea Bracco et.al.|[2402.19367](http://arxiv.org/abs/2402.19367)|null|
 |**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330](http://arxiv.org/abs/2402.19330)|null|
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302](http://arxiv.org/abs/2402.19302)|**[link](https://github.com/iit-pavis/diffassemble)**|
-|**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260](http://arxiv.org/abs/2402.19260)|null|
+|**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260](http://arxiv.org/abs/2402.19260)|**[link](https://github.com/astrocatalogs/OACAPI)**|
 |**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196](http://arxiv.org/abs/2402.19196)|null|
 |**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572](http://arxiv.org/abs/2402.18572)|null|
 |**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
@@ -249,7 +249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-21**|**Context-based Interpretable Spatio-Temporal Graph Convolutional Network for Human Motion Forecasting**|Edgar Medina et.al.|[2402.19237](http://arxiv.org/abs/2402.19237)|null|
+|**2024-02-21**|**Context-based Interpretable Spatio-Temporal Graph Convolutional Network for Human Motion Forecasting**|Edgar Medina et.al.|[2402.19237](http://arxiv.org/abs/2402.19237)|**[link](https://github.com/qualityminds/cistgcn)**|
 |**2024-02-29**|**MOSAIC: A Modular System for Assistive and Interactive Cooking**|Huaxiaoyue Wang et.al.|[2402.18796](http://arxiv.org/abs/2402.18796)|null|
 |**2024-02-27**|**SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents**|Wei Xiang et.al.|[2402.17339](http://arxiv.org/abs/2402.17339)|null|
 |**2024-02-27**|**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**|Yiming Ren et.al.|[2402.17171](http://arxiv.org/abs/2402.17171)|null|
