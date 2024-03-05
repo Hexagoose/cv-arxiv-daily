@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
+|**2024-03-02**|**Longtime behavior of semilinear multi-term fractional in time diffusion**|Nataliya Vasylyeva et.al.|[2403.01302](http://arxiv.org/abs/2403.01302)|null|
+|**2024-03-02**|**Anomalous mass dependency in Hydra endoderm cell cluster diffusion**|Aline Lütz et.al.|[2403.01294](http://arxiv.org/abs/2403.01294)|null|
+|**2024-03-02**|**On the Arnold diffusion mechanism in Medium Earth Orbit**|Elisa Maria Alessi et.al.|[2403.01283](http://arxiv.org/abs/2403.01283)|null|
+|**2024-03-02**|**Rigidity results for group von Neumann algebras with diffuse center**|Ionuţ Chifan et.al.|[2403.01280](http://arxiv.org/abs/2403.01280)|null|
+|**2024-03-02**|**Analyzing the transport coefficients and observables of a rotating QGP medium in kinetic theory framework with a novel approach to the collision integral**|Shubhalaxmi Rath et.al.|[2403.01240](http://arxiv.org/abs/2403.01240)|null|
+|**2024-03-02**|**DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction**|Junwen Xiong et.al.|[2403.01226](http://arxiv.org/abs/2403.01226)|null|
+|**2024-03-02**|**TCIG: Two-Stage Controlled Image Generation with Quality Enhancement through Diffusion**|Salaheldin Mohamed et.al.|[2403.01212](http://arxiv.org/abs/2403.01212)|null|
+|**2024-03-02**|**Atacama Large Aperture Submillimeter Telescope (AtLAST) science: Gas and dust in nearby galaxies**|Daizhong Liu et.al.|[2403.01202](http://arxiv.org/abs/2403.01202)|null|
+|**2024-03-02**|**Modelling ion acceleration and transport in corotating interaction regions: the mass-to-charge ratio dependence of the particle spectrum**|Zheyi Ding et.al.|[2403.01201](http://arxiv.org/abs/2403.01201)|null|
 |**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|null|
 |**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470](http://arxiv.org/abs/2402.19470)|null|
 |**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459](http://arxiv.org/abs/2402.19459)|null|
@@ -257,13 +267,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Tri-Modal Motion Retrieval by Learning a Joint Embedding Space**|Kangning Yin et.al.|[2403.00691](http://arxiv.org/abs/2403.00691)|null|
 |**2024-02-21**|**Context-based Interpretable Spatio-Temporal Graph Convolutional Network for Human Motion Forecasting**|Edgar Medina et.al.|[2402.19237](http://arxiv.org/abs/2402.19237)|**[link](https://github.com/qualityminds/cistgcn)**|
 |**2024-02-29**|**MOSAIC: A Modular System for Assistive and Interactive Cooking**|Huaxiaoyue Wang et.al.|[2402.18796](http://arxiv.org/abs/2402.18796)|null|
 |**2024-02-27**|**SocialCVAE: Predicting Pedestrian Trajectory via Interaction Conditioned Latents**|Wei Xiang et.al.|[2402.17339](http://arxiv.org/abs/2402.17339)|null|
 |**2024-02-27**|**LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**|Yiming Ren et.al.|[2402.17171](http://arxiv.org/abs/2402.17171)|null|
 |**2024-02-26**|**Expressive Whole-Body Control for Humanoid Robots**|Xuxin Cheng et.al.|[2402.16796](http://arxiv.org/abs/2402.16796)|null|
 |**2024-02-23**|**Seamless Human Motion Composition with Blended Positional Encodings**|German Barquero et.al.|[2402.15509](http://arxiv.org/abs/2402.15509)|**[link](https://github.com/BarqueroGerman/FlowMDM)**|
-|**2024-02-26**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
+|**2024-03-04**|**3D Kinematics Estimation from Video with a Biomechanical Model and Synthetic Training Data**|Zhi-Yi Lin et.al.|[2402.13172](http://arxiv.org/abs/2402.13172)|null|
 |**2024-02-20**|**A Recurrent Neural Network Enhanced Unscented Kalman Filter for Human Motion Prediction**|Wansong Liu et.al.|[2402.13045](http://arxiv.org/abs/2402.13045)|null|
 |**2024-02-19**|**Human Video Translation via Query Warping**|Haiming Zhu et.al.|[2402.12099](http://arxiv.org/abs/2402.12099)|null|
 |**2024-02-04**|**Custom IMU-Based Wearable System for Robust 2.4 GHz Wireless Human Body Parts Orientation Tracking and 3D Movement Visualization on an Avatar**|Javier González-Alonso et.al.|[2402.09459](http://arxiv.org/abs/2402.09459)|null|
@@ -291,6 +302,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
+|**2024-03-02**|**TCIG: Two-Stage Controlled Image Generation with Quality Enhancement through Diffusion**|Salaheldin Mohamed et.al.|[2403.01212](http://arxiv.org/abs/2403.01212)|null|
+|**2024-03-01**|**Improving Android Malware Detection Through Data Augmentation Using Wasserstein Generative Adversarial Networks**|Kawana Stalin et.al.|[2403.00890](http://arxiv.org/abs/2403.00890)|null|
+|**2024-03-01**|**Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks**|Yuhao Liu et.al.|[2403.00644](http://arxiv.org/abs/2403.00644)|null|
+|**2024-03-01**|**Improving Explicit Spatial Relationships in Text-to-Image Generation through an Automatically Derived Dataset**|Ander Salaberria et.al.|[2403.00587](http://arxiv.org/abs/2403.00587)|**[link](https://github.com/salanueva/sr4g)**|
+|**2024-03-01**|**Rethinking cluster-conditioned diffusion models**|Nikolas Adaloglou et.al.|[2403.00570](http://arxiv.org/abs/2403.00570)|null|
+|**2024-03-01**|**VisionLLaMA: A Unified LLaMA Interface for Vision Tasks**|Xiangxiang Chu et.al.|[2403.00522](http://arxiv.org/abs/2403.00522)|**[link](https://github.com/meituan-automl/visionllama)**|
+|**2024-03-01**|**An Ordinal Diffusion Model for Generating Medical Images with Different Severity Levels**|Shumpei Takezaki et.al.|[2403.00452](http://arxiv.org/abs/2403.00452)|null|
+|**2024-03-01**|**LoMOE: Localized Multi-Object Editing via Multi-Diffusion**|Goirik Chakrabarty et.al.|[2403.00437](http://arxiv.org/abs/2403.00437)|null|
+|**2024-03-01**|**ChartReformer: Natural Language-Driven Chart Image Editing**|Pengyu Yan et.al.|[2403.00209](http://arxiv.org/abs/2403.00209)|null|
 |**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330](http://arxiv.org/abs/2402.19330)|null|
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186](http://arxiv.org/abs/2402.19186)|null|
 |**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|**[link](https://github.com/jabir-zheng/TCD)**|
@@ -437,13 +458,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code**|Ziniu Hu et.al.|[2403.01248](http://arxiv.org/abs/2403.01248)|null|
+|**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436](http://arxiv.org/abs/2403.00436)|null|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479](http://arxiv.org/abs/2402.19479)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092](http://arxiv.org/abs/2402.18092)|null|
 |**2024-02-27**|**EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
 |**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
 |**2024-02-28**|**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**|Yixin Liu et.al.|[2402.17177](http://arxiv.org/abs/2402.17177)|**[link](https://github.com/lichao-sun/sorareview)**|
 |**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
-|**2024-02-26**|**Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing**|Ling Yang et.al.|[2402.16627](http://arxiv.org/abs/2402.16627)|**[link](https://github.com/yangling0818/contextdiff)**|
+|**2024-03-04**|**Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing**|Ling Yang et.al.|[2402.16627](http://arxiv.org/abs/2402.16627)|**[link](https://github.com/yangling0818/contextdiff)**|
 |**2024-02-22**|**Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis**|Willi Menapace et.al.|[2402.14797](http://arxiv.org/abs/2402.14797)|null|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/abs/2402.14780)|null|
 |**2024-02-22**|**Place Anything into Any Video**|Ziling Liu et.al.|[2402.14316](http://arxiv.org/abs/2402.14316)|null|
