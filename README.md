@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.04
+## Updated on 2024.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|null|
 |**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470](http://arxiv.org/abs/2402.19470)|null|
 |**2024-02-29**|**Anomalous contribution to galactic rotation curves due to stochastic spacetime**|Jonathan Oppenheim et.al.|[2402.19459](http://arxiv.org/abs/2402.19459)|null|
 |**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455](http://arxiv.org/abs/2402.19455)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
@@ -251,7 +251,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## Motion
 
@@ -285,7 +285,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## Image Generation
 
@@ -293,12 +293,12 @@
 |---|---|---|---|---|
 |**2024-02-29**|**A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation**|Hanxi Li et.al.|[2402.19330](http://arxiv.org/abs/2402.19330)|null|
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186](http://arxiv.org/abs/2402.19186)|null|
-|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|null|
+|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|**[link](https://github.com/jabir-zheng/TCD)**|
 |**2024-02-29**|**Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection**|Christos Koutlis et.al.|[2402.19091](http://arxiv.org/abs/2402.19091)|null|
 |**2024-02-29**|**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis**|Paul Friedrich et.al.|[2402.19043](http://arxiv.org/abs/2402.19043)|**[link](https://github.com/pfriedri/wdm-3d)**|
-|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842](http://arxiv.org/abs/2402.18842)|null|
+|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842](http://arxiv.org/abs/2402.18842)|**[link](https://github.com/Wi-sc/ViewFusion)**|
 |**2024-02-29**|**A Quantitative Evaluation of Score Distillation Sampling Based Text-to-3D**|Xiaohan Fei et.al.|[2402.18780](http://arxiv.org/abs/2402.18780)|null|
-|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|null|
+|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|**[link](https://github.com/FineDiffusion/FineDiffusion)**|
 |**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
 |**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|null|
 |**2024-02-28**|**Block and Detail: Scaffolding Sketch-to-Image Generation**|Vishnu Sarukkai et.al.|[2402.18116](http://arxiv.org/abs/2402.18116)|null|
@@ -431,7 +431,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## Video Generation
 
@@ -479,7 +479,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
