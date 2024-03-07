@@ -325,7 +325,7 @@ layout: default
 |**2024-03-05**|**Bias in Generative AI**|Mi Zhou et.al.|[2403.02726](http://arxiv.org/abs/2403.02726)|null|
 |**2024-03-04**|**Transformer for Times Series: an Application to the S&P500**|Pierre Brugiere et.al.|[2403.02523](http://arxiv.org/abs/2403.02523)|null|
 |**2024-03-04**|**NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function**|Abdullah Nazhat Abdullah et.al.|[2403.02411](http://arxiv.org/abs/2403.02411)|**[link](https://github.com/Abdullah-88/NiNformer)**|
-|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|null|
+|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|**[link](https://github.com/bytedance/res-adapter)**|
 |**2024-03-04**|**PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis**|Zhengyao Lv et.al.|[2403.01852](http://arxiv.org/abs/2403.01852)|**[link](https://github.com/cszy98/place)**|
 |**2024-03-04**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-05**|**AtomoVideo: High Fidelity Image-to-Video Generation**|Litong Gong et.al.|[2403.01800](http://arxiv.org/abs/2403.01800)|null|
