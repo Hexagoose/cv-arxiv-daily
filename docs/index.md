@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Effects of mechanical stress, chemical potential, and coverage on hydrogen solubility during hydrogen enhanced decohesion of ferritic steel grain boundaries: A first-principles study**|Abril Azocar Guzman et.al.|[2403.04741](http://arxiv.org/abs/2403.04741)|null|
+|**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
+|**2024-03-07**|**ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes**|Hashmat Shadab Malik et.al.|[2403.04701](http://arxiv.org/abs/2403.04701)|null|
+|**2024-03-07**|**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.|[2403.04700](http://arxiv.org/abs/2403.04700)|**[link](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**|
+|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
+|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
+|**2024-03-07**|**Dynamic critical behavior of the chiral phase transition from the real-time functional renormalization group**|Johannes V. Roth et.al.|[2403.04573](http://arxiv.org/abs/2403.04573)|null|
+|**2024-03-07**|**Rescaled Mode-Coupling Scheme for the Quantitative Description of Experimentally Observed Colloid Dynamics**|Joel Diaz Maier et.al.|[2403.04556](http://arxiv.org/abs/2403.04556)|null|
+|**2024-03-07**|**Poisson equation with measure data, reconstruction formula and Doob classes of processes**|Andrzej Rozkosz et.al.|[2403.04543](http://arxiv.org/abs/2403.04543)|null|
 |**2024-03-06**|**3D Diffusion Policy**|Yanjie Ze et.al.|[2403.03954](http://arxiv.org/abs/2403.03954)|**[link](https://github.com/YanjieZe/3D-Diffusion-Policy)**|
 |**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
 |**2024-03-06**|**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**|Xiao Ma et.al.|[2403.03890](http://arxiv.org/abs/2403.03890)|null|
@@ -313,11 +323,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Photonic probabilistic machine learning using quantum vacuum noise**|Seou Choi et.al.|[2403.04731](http://arxiv.org/abs/2403.04731)|null|
+|**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
+|**2024-03-07**|**StableDrag: Stable Dragging for Point-based Image Editing**|Yutao Cui et.al.|[2403.04437](http://arxiv.org/abs/2403.04437)|null|
+|**2024-03-07**|**Discriminative Probing and Tuning for Text-to-Image Generation**|Leigang Qu et.al.|[2403.04321](http://arxiv.org/abs/2403.04321)|null|
+|**2024-03-06**|**PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement**|Zhijie Wang et.al.|[2403.04014](http://arxiv.org/abs/2403.04014)|**[link](https://github.com/ma-labo/promptcharm)**|
 |**2024-03-06**|**Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer**|Naifu Xue et.al.|[2403.03736](http://arxiv.org/abs/2403.03736)|null|
 |**2024-03-06**|**Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**|He Li et.al.|[2403.03541](http://arxiv.org/abs/2403.03541)|null|
 |**2024-03-06**|**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging**|Takahiro Shirakawa et.al.|[2403.03485](http://arxiv.org/abs/2403.03485)|null|
 |**2024-03-06**|**FLAME Diffuser: Grounded Wildfire Image Synthesis using Mask Guided Diffusion**|Hao Wang et.al.|[2403.03463](http://arxiv.org/abs/2403.03463)|null|
-|**2024-03-06**|**DLP-GAN: Learning to Draw Modern Chinese Landscape Photos with Generative Adversarial Network**|Xiangquan Gui et.al.|[2403.03456](http://arxiv.org/abs/2403.03456)|null|
+|**2024-03-07**|**DLP-GAN: learning to draw modern Chinese landscape photos with generative adversarial network**|Xiangquan Gui et.al.|[2403.03456](http://arxiv.org/abs/2403.03456)|null|
 |**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
 |**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206](http://arxiv.org/abs/2403.03206)|null|
 |**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
@@ -483,6 +498,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
 |**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
 |**2024-03-06**|**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control**|Xuweiyi Chen et.al.|[2403.02332](http://arxiv.org/abs/2403.02332)|**[link](https://github.com/XuweiyiChen/UniCtrl)**|
 |**2024-03-05**|**AtomoVideo: High Fidelity Image-to-Video Generation**|Litong Gong et.al.|[2403.01800](http://arxiv.org/abs/2403.01800)|null|
