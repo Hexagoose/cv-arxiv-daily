@@ -26,7 +26,7 @@ layout: default
 |**2024-03-11**|**A quasilinear Keller-Segel model with saturated discontinuous advection**|Maria Gualdani et.al.|[2403.06820](http://arxiv.org/abs/2403.06820)|null|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**Radiation transport methods in star formation simulations**|Richard Wünsch et.al.|[2403.05410](http://arxiv.org/abs/2403.05410)|null|
-|**2024-03-08**|**Simulating conditioned diffusions on manifolds**|Marc Corstanje et.al.|[2403.05409](http://arxiv.org/abs/2403.05409)|null|
+|**2024-03-08**|**Simulating conditioned diffusions on manifolds**|Marc Corstanje et.al.|[2403.05409](http://arxiv.org/abs/2403.05409)|**[link](https://github.com/macorstanje/manifold_bridge.jl)**|
 |**2024-03-08**|**An implicit algorithm for simulating the dynamics of small dust grains with smoothed particle hydrodynamics**|Daniel Elsender et.al.|[2403.05345](http://arxiv.org/abs/2403.05345)|null|
 |**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|null|
 |**2024-03-08**|**Disorder-induced instability of a Weyl nodal loop semimetal towards a diffusive topological metal with protected multifractal surface states**|João S. Silva et.al.|[2403.05298](http://arxiv.org/abs/2403.05298)|null|
