@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -18,10 +18,10 @@ layout: default
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
 |**2024-03-12**|**Fragmentation of Dense Rotation-Dominated Structures Fed by Collapsing Gravomagneto-Sheetlets and Origin of Misaligned 100 au-Scale Binaries and Multiple Systems**|Yisheng Tu et.al.|[2403.07777](http://arxiv.org/abs/2403.07777)|null|
-|**2024-03-12**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773](http://arxiv.org/abs/2403.07773)|**[link](https://github.com/zoomin-lee/semcity)**|
+|**2024-03-13**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773](http://arxiv.org/abs/2403.07773)|**[link](https://github.com/zoomin-lee/semcity)**|
 |**2024-03-12**|**A first principles study of the Stark shift effect on the zero-phonon line of the NV center in diamond**|Louis Alaerts et.al.|[2403.07771](http://arxiv.org/abs/2403.07771)|null|
 |**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
-|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|null|
+|**2024-03-13**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|**[link](https://github.com/dongyangli-del/eeg_image_decode)**|
 |**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
 |**2024-03-12**|**Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal**|Yijun Yang et.al.|[2403.07684](http://arxiv.org/abs/2403.07684)|null|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
@@ -323,7 +323,7 @@ layout: default
 |**2024-03-12**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|null|
 |**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164](http://arxiv.org/abs/2403.06164)|**[link](https://github.com/sinzlab/platypose)**|
 |**2024-03-09**|**MATRIX: Multi-Agent Trajectory Generation with Diverse Contexts**|Zhuo Xu et.al.|[2403.06041](http://arxiv.org/abs/2403.06041)|null|
-|**2024-03-09**|**Enhancing Expressiveness in Dance Generation via Integrating Frequency and Music Style Information**|Qiaochu Huang et.al.|[2403.05834](http://arxiv.org/abs/2403.05834)|null|
+|**2024-03-09**|**Enhancing Expressiveness in Dance Generation via Integrating Frequency and Music Style Information**|Qiaochu Huang et.al.|[2403.05834](http://arxiv.org/abs/2403.05834)|**[link](https://github.com/thuhcsi/expressivebailando)**|
 |**2024-03-08**|**Integrating Predictive Motion Uncertainties with Distributionally Robust Risk-Aware Control for Safe Robot Navigation in Crowds**|Kanghyun Ryu et.al.|[2403.05081](http://arxiv.org/abs/2403.05081)|**[link](https://github.com/labicon/DRCC-MPC)**|
 |**2024-03-11**|**Fooling Neural Networks for Motion Forecasting via Adversarial Attacks**|Edgar Medina et.al.|[2403.04954](http://arxiv.org/abs/2403.04954)|null|
 |**2024-03-06**|**HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations**|Peng Dai et.al.|[2403.03561](http://arxiv.org/abs/2403.03561)|null|
@@ -365,7 +365,7 @@ layout: default
 |**2024-03-12**|**BraSyn 2023 challenge: Missing MRI synthesis and the effect of different learning objectives**|Ivo M. Baltruschat et.al.|[2403.07800](http://arxiv.org/abs/2403.07800)|null|
 |**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
 |**2024-03-12**|**Synth $^2$ : Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750](http://arxiv.org/abs/2403.07750)|null|
-|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|null|
+|**2024-03-13**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|**[link](https://github.com/dongyangli-del/eeg_image_decode)**|
 |**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
 |**2024-03-12**|**Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation**|Michael Ogezi et.al.|[2403.07605](http://arxiv.org/abs/2403.07605)|null|
 |**2024-03-12**|**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation**|Likun Li et.al.|[2403.07500](http://arxiv.org/abs/2403.07500)|null|
@@ -566,14 +566,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
-|**2024-03-12**|**DragAnything: Motion Control for Anything using Entity Representation**|Wejia Wu et.al.|[2403.07420](http://arxiv.org/abs/2403.07420)|**[link](https://github.com/showlab/draganything)**|
+|**2024-03-13**|**DragAnything: Motion Control for Anything using Entity Representation**|Weijia Wu et.al.|[2403.07420](http://arxiv.org/abs/2403.07420)|**[link](https://github.com/showlab/draganything)**|
 |**2024-03-11**|**Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions**|Lan Wang et.al.|[2403.07198](http://arxiv.org/abs/2403.07198)|null|
 |**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
 |**2024-03-11**|**A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos**|Weixia Zhang et.al.|[2403.06421](http://arxiv.org/abs/2403.06421)|**[link](https://github.com/zwx8981/adth-qa)**|
 |**2024-03-11**|**Video Generation with Consistency Tuning**|Chaoyi Wang et.al.|[2403.06356](http://arxiv.org/abs/2403.06356)|null|
 |**2024-03-10**|**FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing**|Youyuan Zhang et.al.|[2403.06269](http://arxiv.org/abs/2403.06269)|null|
 |**2024-03-10**|**BlazeBVD: Make Scale-Time Equalization Great Again for Blind Video Deflickering**|Xinmin Qiu et.al.|[2403.06243](http://arxiv.org/abs/2403.06243)|null|
-|**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098](http://arxiv.org/abs/2403.06098)|null|
+|**2024-03-10**|**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models**|Wenhao Wang et.al.|[2403.06098](http://arxiv.org/abs/2403.06098)|**[link](https://github.com/wangwenhao0716/vidprom)**|
 |**2024-03-10**|**Reframe Anything: LLM Agent for Open World Video Reframing**|Jiawang Cao et.al.|[2403.06070](http://arxiv.org/abs/2403.06070)|null|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
