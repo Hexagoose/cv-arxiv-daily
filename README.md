@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638](http://arxiv.org/abs/2403.09638)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630](http://arxiv.org/abs/2403.09630)|null|
+|**2024-03-14**|**Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation**|Fangfu Liu et.al.|[2403.09625](http://arxiv.org/abs/2403.09625)|null|
+|**2024-03-14**|**Score-Guided Diffusion for 3D Human Recovery**|Anastasis Stathopoulos et.al.|[2403.09623](http://arxiv.org/abs/2403.09623)|**[link](https://github.com/statho/scorehmr)**|
+|**2024-03-14**|**Explore In-Context Segmentation via Latent Diffusion Models**|Chaoyang Wang et.al.|[2403.09616](http://arxiv.org/abs/2403.09616)|null|
+|**2024-03-14**|**Generative reconstruction of 3D volume elements for Ti-6Al-4V basketweave microstructure by optimization of CNN-based microstructural descriptors**|Vincent Blümer et.al.|[2403.09609](http://arxiv.org/abs/2403.09609)|null|
+|**2024-03-14**|**The effect of spatially-varying collision frequency on the development of the Rayleigh-Taylor instability**|John Rodman et.al.|[2403.09591](http://arxiv.org/abs/2403.09591)|null|
+|**2024-03-14**|**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**|Zunnan Xu et.al.|[2403.09471](http://arxiv.org/abs/2403.09471)|null|
+|**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
 |**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
@@ -337,6 +347,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**THÖR-MAGNI: A Large-scale Indoor Motion Capture Recording of Human Movement and Robot Interaction**|Tim Schreiter et.al.|[2403.09285](http://arxiv.org/abs/2403.09285)|null|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788](http://arxiv.org/abs/2403.07788)|null|
 |**2024-03-12**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|null|
@@ -381,6 +392,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior**|Huan-ang Gao et.al.|[2403.09638](http://arxiv.org/abs/2403.09638)|null|
+|**2024-03-14**|**Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**|Zeyu Liu et.al.|[2403.09622](http://arxiv.org/abs/2403.09622)|null|
+|**2024-03-14**|**PrompTHis: Visualizing the Process and Influence of Prompt Editing during Text-to-Image Creation**|Yuhan Guo et.al.|[2403.09615](http://arxiv.org/abs/2403.09615)|null|
+|**2024-03-14**|**Counterfactual contrastive learning: robust representations via causal image synthesis**|Melanie Roschewitz et.al.|[2403.09605](http://arxiv.org/abs/2403.09605)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
+|**2024-03-14**|**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing**|Wonjun Kang et.al.|[2403.09468](http://arxiv.org/abs/2403.09468)|**[link](https://github.com/furiosa-ai/eta-inversion)**|
+|**2024-03-14**|**Mitigating attribute amplification in counterfactual image generation**|Tian Xia et.al.|[2403.09422](http://arxiv.org/abs/2403.09422)|null|
+|**2024-03-14**|**Machine Learning Processes as Sources of Ambiguity: Insights from AI Art**|Christian Sivertsen et.al.|[2403.09374](http://arxiv.org/abs/2403.09374)|null|
+|**2024-03-14**|**Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-view CT Reconstruction**|Hanyu Chen et.al.|[2403.09355](http://arxiv.org/abs/2403.09355)|null|
+|**2024-03-14**|**Video Editing via Factorized Diffusion Distillation**|Uriel Singer et.al.|[2403.09334](http://arxiv.org/abs/2403.09334)|null|
+|**2024-03-14**|**Noise Dimension of GAN: An Image Compression Perspective**|Ziran Zhu et.al.|[2403.09196](http://arxiv.org/abs/2403.09196)|null|
 |**2024-03-13**|**iCONTRA: Toward Thematic Collection Design Via Interactive Concept Transfer**|Dinh-Khoi Vo et.al.|[2403.08746](http://arxiv.org/abs/2403.08746)|**[link](https://github.com/vdkhoi20/icontra)**|
 |**2024-03-13**|**HAIFIT: Human-Centered AI for Fashion Image Translation**|Jianan Jiang et.al.|[2403.08651](http://arxiv.org/abs/2403.08651)|**[link](https://github.com/exponentiai/haifit)**|
 |**2024-03-13**|**An Analysis of Human Alignment of Latent Diffusion Models**|Lorenz Linhardt et.al.|[2403.08469](http://arxiv.org/abs/2403.08469)|null|
@@ -597,6 +618,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Video Editing via Factorized Diffusion Distillation**|Uriel Singer et.al.|[2403.09334](http://arxiv.org/abs/2403.09334)|null|
+|**2024-03-14**|**Intention-driven Ego-to-Exo Video Generation**|Hongchen Luo et.al.|[2403.09194](http://arxiv.org/abs/2403.09194)|null|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
 |**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
 |**2024-03-12**|**AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production**|Jiuniu Wang et.al.|[2403.07952](http://arxiv.org/abs/2403.07952)|null|
