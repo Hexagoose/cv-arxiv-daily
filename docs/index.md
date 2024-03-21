@@ -705,7 +705,7 @@ layout: default
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
 |**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|null|
 |**2024-03-17**|**Endora: Video Generation Models as Endoscopy Simulators**|Chenxin Li et.al.|[2403.11050](http://arxiv.org/abs/2403.11050)|null|
-|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|null|
+|**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-03-15**|**Animate Your Motion: Turning Still Images into Dynamic Videos**|Mingxiao Li et.al.|[2403.10179](http://arxiv.org/abs/2403.10179)|null|
 |**2024-03-14**|**Video Editing via Factorized Diffusion Distillation**|Uriel Singer et.al.|[2403.09334](http://arxiv.org/abs/2403.09334)|null|
 |**2024-03-17**|**Intention-driven Ego-to-Exo Video Generation**|Hongchen Luo et.al.|[2403.09194](http://arxiv.org/abs/2403.09194)|null|
