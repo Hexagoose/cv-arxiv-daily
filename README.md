@@ -227,7 +227,7 @@
 |**2024-02-20**|**Excited state-specific CASSCF theory for the torsion of ethylene**|Sandra Saade et.al.|[2402.13046](http://arxiv.org/abs/2402.13046)|null|
 |**2024-02-20**|**Text-Guided Molecule Generation with Diffusion Language Model**|Haisong Gong et.al.|[2402.13040](http://arxiv.org/abs/2402.13040)|**[link](https://github.com/deno-v/tgm-dlm)**|
 |**2024-02-20**|**The Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids**|Thibaut Arnoulx de Pirey et.al.|[2402.12996](http://arxiv.org/abs/2402.12996)|null|
-|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-20**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|**[link](https://github.com/naver-ai/Visual-Style-Prompting)**|
 |**2024-02-20**|**CLIPping the Deception: Adapting Vision-Language Models for Universal Deepfake Detection**|Sohail Ahmed Khan et.al.|[2402.12927](http://arxiv.org/abs/2402.12927)|null|
 |**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
@@ -602,7 +602,7 @@
 |**2024-02-20**|**Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control**|Denis Lukovnikov et.al.|[2402.13404](http://arxiv.org/abs/2402.13404)|null|
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254](http://arxiv.org/abs/2402.13254)|**[link](https://github.com/hansolo9682/countercurate)**|
 |**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185](http://arxiv.org/abs/2402.13185)|null|
-|**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|**[link](https://github.com/naver-ai/Visual-Style-Prompting)**|
 |**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
 |**2024-02-20**|**Two-stage Rainfall-Forecasting Diffusion Model**|XuDong Ling et.al.|[2402.12779](http://arxiv.org/abs/2402.12779)|**[link](https://github.com/clearlyzerolxd/trdm)**|
 |**2024-02-20**|**A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis**|Nailei Hei et.al.|[2402.12760](http://arxiv.org/abs/2402.12760)|**[link](https://github.com/naylenv/uf-fgtg)**|
