@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936](http://arxiv.org/abs/2403.17936)|null|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
+|**2024-03-26**|**The instability mechanism of compact multiplanet systems**|Caleb Lammers et.al.|[2403.17928](http://arxiv.org/abs/2403.17928)|null|
+|**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924](http://arxiv.org/abs/2403.17924)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
+|**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
+|**2024-03-26**|**The Solution to an Impulse Control Problem Motivated by Optimal Harvesting**|Zhesheng Liu et.al.|[2403.17875](http://arxiv.org/abs/2403.17875)|null|
+|**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870](http://arxiv.org/abs/2403.17870)|null|
+|**2024-03-26**|**Universal entropy transport far from equilibrium across the BCS-BEC crossover**|Jeffrey Mohan et.al.|[2403.17838](http://arxiv.org/abs/2403.17838)|null|
+|**2024-03-26**|**The memory of Rayleigh-Taylor turbulence**|S. Thévenin et.al.|[2403.17832](http://arxiv.org/abs/2403.17832)|null|
+|**2024-03-26**|**DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions**|Sammy Christen et.al.|[2403.17827](http://arxiv.org/abs/2403.17827)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803](http://arxiv.org/abs/2403.16803)|null|
 |**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790](http://arxiv.org/abs/2403.16790)|null|
 |**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
@@ -409,6 +419,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936](http://arxiv.org/abs/2403.17936)|null|
+|**2024-03-26**|**MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors**|He Zhang et.al.|[2403.17610](http://arxiv.org/abs/2403.17610)|null|
 |**2024-03-26**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169](http://arxiv.org/abs/2403.16169)|null|
 |**2024-03-26**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/abs/2403.16080)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-23**|**Human Motion Prediction under Unexpected Perturbation**|Jiangbei Yue et.al.|[2403.15891](http://arxiv.org/abs/2403.15891)|null|
@@ -469,6 +481,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870](http://arxiv.org/abs/2403.17870)|null|
+|**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
+|**2024-03-26**|**LaRE^2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection**|Yunpeng Luo et.al.|[2403.17465](http://arxiv.org/abs/2403.17465)|null|
+|**2024-03-25**|**DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment**|Stella Bounareli et.al.|[2403.17217](http://arxiv.org/abs/2403.17217)|null|
+|**2024-03-25**|**FlashFace: Human Image Personalization with High-fidelity Identity Preservation**|Shilong Zhang et.al.|[2403.17008](http://arxiv.org/abs/2403.17008)|null|
+|**2024-03-25**|**SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer**|Rui Zhu et.al.|[2403.17004](http://arxiv.org/abs/2403.17004)|null|
+|**2024-03-25**|**Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation**|Omer Dahary et.al.|[2403.16990](http://arxiv.org/abs/2403.16990)|null|
+|**2024-03-25**|**Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance**|Jingyuan Zhu et.al.|[2403.16954](http://arxiv.org/abs/2403.16954)|null|
 |**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790](http://arxiv.org/abs/2403.16790)|null|
 |**2024-03-25**|**Diff-Def: Diffusion-Generated Deformation Fields for Conditional Atlases**|Sophie Starck et.al.|[2403.16776](http://arxiv.org/abs/2403.16776)|null|
 |**2024-03-25**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640](http://arxiv.org/abs/2403.16640)|**[link](https://github.com/francescodifeola/denotextureloss)**|
@@ -760,6 +780,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
+|**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|null|
+|**2024-03-26**|**ExpressEdit: Video Editing with Natural Language and Sketching**|Bekzat Tilekbay et.al.|[2403.17693](http://arxiv.org/abs/2403.17693)|null|
+|**2024-03-25**|**TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models**|Zhongwei Zhang et.al.|[2403.17005](http://arxiv.org/abs/2403.17005)|null|
 |**2024-03-25**|**A Survey on Long Video Generation: Challenges, Methods, and Prospects**|Chengxuan Li et.al.|[2403.16407](http://arxiv.org/abs/2403.16407)|null|
 |**2024-03-24**|**Opportunities and challenges in the application of large artificial intelligence models in radiology**|Liangrui Pan et.al.|[2403.16112](http://arxiv.org/abs/2403.16112)|null|
 |**2024-03-24**|**EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing**|Xiangpeng Yang et.al.|[2403.16111](http://arxiv.org/abs/2403.16111)|null|
