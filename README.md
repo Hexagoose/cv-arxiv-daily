@@ -27,7 +27,7 @@
 |**2024-03-28**|**In the driver's mind: modeling the dynamics of human overtaking decisions in interactions with oncoming automated vehicles**|Samir H. A. Mohammad et.al.|[2403.19637](http://arxiv.org/abs/2403.19637)|null|
 |**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623](http://arxiv.org/abs/2403.19623)|null|
 |**2024-03-28**|**More on Black Holes Perceiving the Dark Dimension**|Luis A. Anchordoqui et.al.|[2403.19604](http://arxiv.org/abs/2403.19604)|null|
-|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|null|
+|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|**[link](https://github.com/zhicaiwww/diff-mix)**|
 |**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593](http://arxiv.org/abs/2403.19593)|null|
 |**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578](http://arxiv.org/abs/2403.19578)|null|
 |**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818](http://arxiv.org/abs/2403.18818)|null|
@@ -520,7 +520,7 @@
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
 |**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620](http://arxiv.org/abs/2403.19620)|null|
-|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|null|
+|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|**[link](https://github.com/zhicaiwww/diff-mix)**|
 |**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593](http://arxiv.org/abs/2403.19593)|null|
 |**2024-03-28**|**Imperceptible Protection against Style Imitation from Diffusion Models**|Namhyuk Ahn et.al.|[2403.19254](http://arxiv.org/abs/2403.19254)|null|
 |**2024-03-28**|**QNCD: Quantization Noise Correction for Diffusion Models**|Huanpeng Chu et.al.|[2403.19140](http://arxiv.org/abs/2403.19140)|**[link](https://github.com/huanpengchu/qncd)**|
