@@ -50,7 +50,7 @@ layout: default
 |**2024-03-25**|**Stochastic Inertial Dynamics Via Time Scaling and Averaging**|Rodrigo Maulen-Soto et.al.|[2403.16775](http://arxiv.org/abs/2403.16775)|null|
 |**2024-03-25**|**Multilevel Modeling as a Methodology for the Simulation of Human Mobility**|Luca Serena et.al.|[2403.16745](http://arxiv.org/abs/2403.16745)|null|
 |**2024-03-25**|**A Robotic Skill Learning System Built Upon Diffusion Policies and Foundation Models**|Nils Ingelhag et.al.|[2403.16730](http://arxiv.org/abs/2403.16730)|null|
-|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728](http://arxiv.org/abs/2403.16728)|null|
+|**2024-03-25**|**Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss**|Artem Khrapov et.al.|[2403.16728](http://arxiv.org/abs/2403.16728)|**[link](https://github.com/kabachuha/SPHL-for-stable-diffusion)**|
 |**2024-03-25**|**The effect of inter-track coupling on H $_2$O$_2$ productions**|Ramin Abolfath et.al.|[2403.16722](http://arxiv.org/abs/2403.16722)|null|
 |**2024-03-25**|**Phase Transformation in Lithium Niobate-Lithium Tantalate Solid Solutions (LiNb $_{1-x}$Ta$_x$O$_3$ )**|Fatima El Azzouzi et.al.|[2403.16717](http://arxiv.org/abs/2403.16717)|null|
 |**2024-03-25**|**The Directionality of Gravitational and Thermal Diffusive Transport in Geologic Fluid Storage**|Anna Herring et.al.|[2403.16659](http://arxiv.org/abs/2403.16659)|null|
