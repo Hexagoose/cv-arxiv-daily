@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656](http://arxiv.org/abs/2404.03656)|null|
-|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|null|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/abs/2404.03652)|null|
 |**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642](http://arxiv.org/abs/2404.03642)|null|
 |**2024-04-04**|**LCM-Lookahead for Encoder-based Text-to-Image Personalization**|Rinon Gal et.al.|[2404.03620](http://arxiv.org/abs/2404.03620)|null|
@@ -480,7 +480,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Towards more realistic human motion prediction with attention to motion coordination**|Pengxiang Ding et.al.|[2404.03584](http://arxiv.org/abs/2404.03584)|null|
-|**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|null|
+|**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|**[link](https://github.com/OpenMotionLab/MotionChain)**|
 |**2024-04-02**|**Leveraging Digital Perceptual Technologies for Remote Perception and Analysis of Human Biomechanical Processes: A Contactless Approach for Workload and Joint Force Assessment**|Jesudara Omidokun et.al.|[2404.01576](http://arxiv.org/abs/2404.01576)|null|
 |**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
 |**2024-04-02**|**SurMo: Surface-based 4D Motion Modeling for Dynamic Human Rendering**|Tao Hu et.al.|[2404.01225](http://arxiv.org/abs/2404.01225)|null|
@@ -553,7 +553,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|null|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
 |**2024-04-04**|**Robust Concept Erasure Using Task Vectors**|Minh Pham et.al.|[2404.03631](http://arxiv.org/abs/2404.03631)|null|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
