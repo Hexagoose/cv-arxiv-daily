@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models**|Sangwon Jang et.al.|[2404.04243](http://arxiv.org/abs/2404.04243)|null|
+|**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193](http://arxiv.org/abs/2404.04193)|null|
+|**2024-04-05**|**Nonlocally coupled moisture model for convective self-aggregation**|Tomoro Yanase et.al.|[2404.04146](http://arxiv.org/abs/2404.04146)|null|
+|**2024-04-05**|**Rare events, time crystals and symmetry-breaking dynamical phase transitions**|Rubén Hurtado-Gutiérrez et.al.|[2404.04135](http://arxiv.org/abs/2404.04135)|null|
+|**2024-04-05**|**A posteriori error analysis of a space-time hybridizable discontinuous Galerkin method for the advection-diffusion problem**|Yuan Wang et.al.|[2404.04130](http://arxiv.org/abs/2404.04130)|null|
+|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
+|**2024-04-05**|**A first passage model of intravitreal drug delivery and residence time, in relation to ocular geometry, individual variability, and injection location**|Patricia Lamirande et.al.|[2404.04086](http://arxiv.org/abs/2404.04086)|null|
+|**2024-04-05**|**Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation**|Mingyuan Zhou et.al.|[2404.04057](http://arxiv.org/abs/2404.04057)|null|
+|**2024-04-05**|**InstructHumans: Editing Animated 3D Human Textures with Instructions**|Jiayin Zhu et.al.|[2404.04037](http://arxiv.org/abs/2404.04037)|null|
+|**2024-04-05**|**Impacts of non-thermal emission on the images of black hole shadow and extended jets in two-temperature GRMHD simulations**|Mingyuan Zhang et.al.|[2404.04033](http://arxiv.org/abs/2404.04033)|null|
 |**2024-04-04**|**MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation**|Hanzhe Hu et.al.|[2404.03656](http://arxiv.org/abs/2404.03656)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/abs/2404.03652)|null|
@@ -553,6 +563,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**|Vishaal Udandarao et.al.|[2404.04125](http://arxiv.org/abs/2404.04125)|**[link](https://github.com/bethgelab/frequency_determines_performance)**|
+|**2024-04-05**|**3D Facial Expressions through Analysis-by-Neural-Synthesis**|George Retsinas et.al.|[2404.04104](http://arxiv.org/abs/2404.04104)|null|
+|**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
+|**2024-04-05**|**Physics-Inspired Synthesized Underwater Image Dataset**|Reina Kaneko et.al.|[2404.03998](http://arxiv.org/abs/2404.03998)|null|
+|**2024-04-05**|**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models**|Gihyun Kwon et.al.|[2404.03913](http://arxiv.org/abs/2404.03913)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
 |**2024-04-04**|**Robust Concept Erasure Using Task Vectors**|Minh Pham et.al.|[2404.03631](http://arxiv.org/abs/2404.03631)|null|
