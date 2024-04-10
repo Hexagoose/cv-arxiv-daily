@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Convergence analysis of novel discontinuous Galerkin methods for a convection dominated problem**|Satyajith Bommana Boyana et.al.|[2404.06490](http://arxiv.org/abs/2404.06490)|null|
+|**2024-04-09**|**Uncovering Tidal Treasures: Automated Classification of Faint Tidal Features in DECaLS Data**|Alexander J. Gordon et.al.|[2404.06487](http://arxiv.org/abs/2404.06487)|null|
+|**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
+|**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425](http://arxiv.org/abs/2404.06425)|null|
+|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|null|
+|**2024-04-09**|**Quantum State Generation with Structure-Preserving Diffusion Model**|Yuchen Zhu et.al.|[2404.06336](http://arxiv.org/abs/2404.06336)|null|
+|**2024-04-09**|**Compensating slice emittance growth in high brightness photoinjectors using sacrificial charge**|W. H. Li et.al.|[2404.06312](http://arxiv.org/abs/2404.06312)|null|
+|**2024-04-09**|**NoiseNCA: Noisy Seed Improves Spatio-Temporal Continuity of Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2404.06279](http://arxiv.org/abs/2404.06279)|null|
+|**2024-04-09**|**A Large-Scale Simulation Method for Neuromorphic Circuits**|Amir Shahhosseini et.al.|[2404.06255](http://arxiv.org/abs/2404.06255)|null|
 |**2024-04-08**|**The neutrino background from non-jetted active galactic nuclei**|P. Padovani et.al.|[2404.05690](http://arxiv.org/abs/2404.05690)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
 |**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
@@ -577,6 +587,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**High Noise Scheduling is a Must**|Mahmut S. Gokmen et.al.|[2404.06353](http://arxiv.org/abs/2404.06353)|null|
+|**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240](http://arxiv.org/abs/2404.06240)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
+|**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
+|**2024-04-09**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|null|
+|**2024-04-09**|**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion**|Ming Tao et.al.|[2404.05979](http://arxiv.org/abs/2404.05979)|**[link](https://github.com/tobran/storyimager)**|
 |**2024-04-08**|**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing**|Jing Gu et.al.|[2404.05717](http://arxiv.org/abs/2404.05717)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
 |**2024-04-08**|**Automatic Controllable Colorization via Imagination**|Xiaoyan Cong et.al.|[2404.05661](http://arxiv.org/abs/2404.05661)|null|
@@ -944,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Flying With Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493](http://arxiv.org/abs/2404.06493)|null|
 |**2024-04-08**|**Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models**|Saman Motamed et.al.|[2404.05519](http://arxiv.org/abs/2404.05519)|null|
 |**2024-04-08**|**Action-conditioned video data improves predictability**|Meenakshi Sarkar et.al.|[2404.05439](http://arxiv.org/abs/2404.05439)|null|
 |**2024-04-07**|**MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**|Shenghai Yuan et.al.|[2404.05014](http://arxiv.org/abs/2404.05014)|**[link](https://github.com/pku-yuangroup/magictime)**|
