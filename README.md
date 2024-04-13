@@ -567,7 +567,7 @@
 |**2024-03-20**|**LaCE-LHMP: Airflow Modelling-Inspired Long-Term Human Motion Prediction By Enhancing Laminar Characteristics in Human Flow**|Yufei Zhu et.al.|[2403.13640](http://arxiv.org/abs/2403.13640)|**[link](https://github.com/test-bai-cpu/lace-lhmp)**|
 |**2024-03-21**|**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**|Peishan Cong et.al.|[2403.13307](http://arxiv.org/abs/2403.13307)|**[link](https://github.com/4dvlab/laserhuman)**|
 |**2024-03-20**|**Map-Aware Human Pose Prediction for Robot Follow-Ahead**|Qingyuan Jiang et.al.|[2403.13294](http://arxiv.org/abs/2403.13294)|null|
-|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959](http://arxiv.org/abs/2403.12959)|**[link](https://github.com/openxrlab/xrfeitoria)**|
 |**2024-03-18**|**Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Ali Karami et.al.|[2403.12172](http://arxiv.org/abs/2403.12172)|null|
 |**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589](http://arxiv.org/abs/2403.11589)|null|
 |**2024-03-17**|**FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction**|Xiaohan Zhang et.al.|[2403.11237](http://arxiv.org/abs/2403.11237)|null|
