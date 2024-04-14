@@ -568,7 +568,7 @@ layout: default
 |**2024-03-14**|**THÖR-MAGNI: A Large-scale Indoor Motion Capture Recording of Human Movement and Robot Interaction**|Tim Schreiter et.al.|[2403.09285](http://arxiv.org/abs/2403.09285)|**[link](https://github.com/tmralmeida/thor-magni-tools)**|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-12**|**DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation**|Chen Wang et.al.|[2403.07788](http://arxiv.org/abs/2403.07788)|null|
-|**2024-03-19**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|null|
+|**2024-03-19**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|**[link](https://github.com/steve-zeyu-zhang/MotionMamba)**|
 |**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164](http://arxiv.org/abs/2403.06164)|**[link](https://github.com/sinzlab/platypose)**|
 |**2024-03-09**|**MATRIX: Multi-Agent Trajectory Generation with Diverse Contexts**|Zhuo Xu et.al.|[2403.06041](http://arxiv.org/abs/2403.06041)|null|
 |**2024-03-09**|**Enhancing Expressiveness in Dance Generation via Integrating Frequency and Music Style Information**|Qiaochu Huang et.al.|[2403.05834](http://arxiv.org/abs/2403.05834)|**[link](https://github.com/thuhcsi/expressivebailando)**|
