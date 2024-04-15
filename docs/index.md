@@ -539,7 +539,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640](http://arxiv.org/abs/2404.08640)|null|
+|**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640](http://arxiv.org/abs/2404.08640)|**[link](https://github.com/Chris10M/EventEgo3D)**|
 |**2024-04-11**|**Model Predictive Trajectory Planning for Human-Robot Handovers**|Thies Oelerich et.al.|[2404.07505](http://arxiv.org/abs/2404.07505)|null|
 |**2024-04-08**|**Social-MAE: Social Masked Autoencoder for Multi-person Motion Representation Learning**|Mahsa Ehsanpour et.al.|[2404.05578](http://arxiv.org/abs/2404.05578)|null|
 |**2024-04-08**|**Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning**|Jaewoo Jeong et.al.|[2404.05218](http://arxiv.org/abs/2404.05218)|**[link](https://github.com/jaewoo97/t2p)**|
