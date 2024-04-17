@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Searching for cold gas traced by MgII quasar absorbers in massive X-ray-selected galaxy clusters**|A. Y. Fresco et.al.|[2404.10773](http://arxiv.org/abs/2404.10773)|null|
+|**2024-04-16**|**RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting**|Ashkan Mirzaei et.al.|[2404.10765](http://arxiv.org/abs/2404.10765)|null|
+|**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
+|**2024-04-16**|**A High-Order Conservative Cut Finite Element Method for Problems in Time-Dependent Domains**|Sebastian Myrbäck et.al.|[2404.10756](http://arxiv.org/abs/2404.10756)|null|
+|**2024-04-16**|**GazeHTA: End-to-end Gaze Target Detection with Head-Target Association**|Zhi-Yi Lin et.al.|[2404.10718](http://arxiv.org/abs/2404.10718)|null|
+|**2024-04-16**|**Efficient Conditional Diffusion Model with Probability Flow Sampling for Image Super-resolution**|Yutao Yuan et.al.|[2404.10688](http://arxiv.org/abs/2404.10688)|**[link](https://github.com/yuan-yutao/ecdp)**|
+|**2024-04-16**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
+|**2024-04-16**|**StyleCity: Large-Scale 3D Urban Scenes Stylization with Vision-and-Text Reference via Progressive Optimization**|Yingshu Chen et.al.|[2404.10681](http://arxiv.org/abs/2404.10681)|null|
+|**2024-04-16**|**Arsenic diffusion in MOVPE-Grown GaAs/Ge epitaxial structures**|V. Orejuela et.al.|[2404.10669](http://arxiv.org/abs/2404.10669)|null|
+|**2024-04-16**|**Continual Offline Reinforcement Learning via Diffusion-based Dual Generative Replay**|Jinmei Liu et.al.|[2404.10662](http://arxiv.org/abs/2404.10662)|**[link](https://github.com/nju-rl/cugro)**|
 |**2024-04-15**|**Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark**|Emiel Slootman et.al.|[2404.09755](http://arxiv.org/abs/2404.09755)|null|
 |**2024-04-15**|**Electric potential during tokamak disruptions and steady-state current drive**|Allen H Boozer et.al.|[2404.09744](http://arxiv.org/abs/2404.09744)|null|
 |**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
@@ -558,6 +568,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**in2IN: Leveraging individual Information to Generate Human INteractions**|Pablo Ruiz Ponce et.al.|[2404.09988](http://arxiv.org/abs/2404.09988)|null|
 |**2024-04-15**|**Learning Human Motion from Monocular Videos via Cross-Modal Manifold Alignment**|Shuaiying Hou et.al.|[2404.09499](http://arxiv.org/abs/2404.09499)|null|
 |**2024-04-12**|**Synthesis of Through-Wall Micro-Doppler Signatures of Human Motions Using Generative Adversarial Networks**|Kainat Yasmeen Shobha Sundar Ram et.al.|[2404.08739](http://arxiv.org/abs/2404.08739)|null|
 |**2024-04-12**|**EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams**|Christen Millerdurai et.al.|[2404.08640](http://arxiv.org/abs/2404.08640)|**[link](https://github.com/Chris10M/EventEgo3D)**|
@@ -642,6 +653,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
+|**2024-04-16**|**Adversarial Identity Injection for Semantic Face Image Synthesis**|Giuseppe Tarollo et.al.|[2404.10408](http://arxiv.org/abs/2404.10408)|null|
+|**2024-04-16**|**Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**|Payal Varshney et.al.|[2404.10356](http://arxiv.org/abs/2404.10356)|null|
+|**2024-04-16**|**CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout**|Jiafu Wei et.al.|[2404.10352](http://arxiv.org/abs/2404.10352)|null|
+|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
+|**2024-04-16**|**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance**|Jiahao Wang et.al.|[2404.10267](http://arxiv.org/abs/2404.10267)|null|
+|**2024-04-16**|**Diffusion assisted image reconstruction in optoacoustic tomography**|M. G. González et.al.|[2404.10239](http://arxiv.org/abs/2404.10239)|null|
+|**2024-04-15**|**Multi-objective evolutionary GAN for tabular data synthesis**|Nian Ran et.al.|[2404.10176](http://arxiv.org/abs/2404.10176)|null|
+|**2024-04-15**|**ANCHOR: LLM-driven News Subject Conditioning for Text-to-Image Synthesis**|Aashish Anantha Ramakrishnan et.al.|[2404.10141](http://arxiv.org/abs/2404.10141)|null|
+|**2024-04-15**|**HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing**|Mude Hui et.al.|[2404.09990](http://arxiv.org/abs/2404.09990)|null|
 |**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
 |**2024-04-15**|**Magic Clothing: Controllable Garment-Driven Image Synthesis**|Weifeng Chen et.al.|[2404.09512](http://arxiv.org/abs/2404.09512)|**[link](https://github.com/shinechen1024/magicclothing)**|
@@ -1044,12 +1065,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-14**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
+|**2024-04-15**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
+|**2024-04-16**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
 |**2024-04-13**|**THQA: A Perceptual Quality Assessment Database for Talking Heads**|Yingjie Zhou et.al.|[2404.09003](http://arxiv.org/abs/2404.09003)|**[link](https://github.com/zyj-2000/thqa)**|
-|**2024-04-13**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966](http://arxiv.org/abs/2404.08966)|null|
+|**2024-04-16**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966](http://arxiv.org/abs/2404.08966)|null|
 |**2024-04-11**|**S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing**|Guangzhi Wang et.al.|[2404.08111](http://arxiv.org/abs/2404.08111)|null|
 |**2024-04-10**|**A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos**|Suleyman Ozdel et.al.|[2404.07351](http://arxiv.org/abs/2404.07351)|null|
-|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
+|**2024-04-16**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
 |**2024-04-10**|**Flying with Photons: Rendering Novel Views of Propagating Light**|Anagh Malik et.al.|[2404.06493](http://arxiv.org/abs/2404.06493)|null|
 |**2024-04-08**|**Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models**|Saman Motamed et.al.|[2404.05519](http://arxiv.org/abs/2404.05519)|null|
 |**2024-04-08**|**Action-conditioned video data improves predictability**|Meenakshi Sarkar et.al.|[2404.05439](http://arxiv.org/abs/2404.05439)|null|
