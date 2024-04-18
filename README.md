@@ -42,8 +42,8 @@
 |**2024-04-15**|**Entropy on the Path Space and Application to Singular Diffusions and Mean-field Models**|Patrick Cattiaux et.al.|[2404.09552](http://arxiv.org/abs/2404.09552)|null|
 |**2024-04-15**|**Turbulent ice-ocean boundary layers in the well-mixed regime: insights from direct numerical simulations**|Louis-Alexandre Couston et.al.|[2404.09545](http://arxiv.org/abs/2404.09545)|null|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
-|**2024-04-12**|**Functional reducibility of higher-order networks**|Maxime Lucas et.al.|[2404.08547](http://arxiv.org/abs/2404.08547)|null|
-|**2024-04-12**|**Echoes of darkness: Supernova-neutrino-boosted dark matter from all galaxies**|Yen-Hsun Lin et.al.|[2404.08528](http://arxiv.org/abs/2404.08528)|null|
+|**2024-04-12**|**Functional reducibility of higher-order networks**|Maxime Lucas et.al.|[2404.08547](http://arxiv.org/abs/2404.08547)|**[link](https://github.com/maximelucas/hypergraph_reducibility)**|
+|**2024-04-12**|**Echoes of darkness: Supernova-neutrino-boosted dark matter from all galaxies**|Yen-Hsun Lin et.al.|[2404.08528](http://arxiv.org/abs/2404.08528)|**[link](https://github.com/yenhsunlin/dukes)**|
 |**2024-04-12**|**Generalized Hydrodynamics for the Volterra lattice: Ballistic and nonballistic behavior of correlation functions**|Guido Mazzuca et.al.|[2404.08499](http://arxiv.org/abs/2404.08499)|null|
 |**2024-04-12**|**PiRD: Physics-informed Residual Diffusion for Flow Field Reconstruction**|Siming Shan et.al.|[2404.08412](http://arxiv.org/abs/2404.08412)|null|
 |**2024-04-12**|**Estimate of force noise from electrostatic patch potentials in LISA Pathfinder**|Stefano Vitale et.al.|[2404.08340](http://arxiv.org/abs/2404.08340)|null|
@@ -52,7 +52,7 @@
 |**2024-04-12**|**Balanced Mixed-Type Tabular Data Synthesis with Diffusion Models**|Zeyu Yang et.al.|[2404.08254](http://arxiv.org/abs/2404.08254)|null|
 |**2024-04-12**|**An Asymptotically-Correct Implicit-Explicit Time Integration Scheme for Finite Volume Radiation-Hydrodynamics**|Chong-Chong He et.al.|[2404.08247](http://arxiv.org/abs/2404.08247)|**[link](https://github.com/quokka-astro/quokka)**|
 |**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|null|
-|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|null|
+|**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|**[link](https://github.com/liming-ai/ControlNet_Plus_Plus)**|
 |**2024-04-11**|**View Selection for 3D Captioning via Diffusion Ranking**|Tiange Luo et.al.|[2404.07984](http://arxiv.org/abs/2404.07984)|null|
 |**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
 |**2024-04-11**|**Active Carpets in floating viscous films**|Felipe A. Barros et.al.|[2404.07856](http://arxiv.org/abs/2404.07856)|null|
