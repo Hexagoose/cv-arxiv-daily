@@ -948,7 +948,7 @@
 |**2024-02-29**|**A Quantitative Evaluation of Score Distillation Sampling Based Text-to-3D**|Xiaohan Fei et.al.|[2402.18780](http://arxiv.org/abs/2402.18780)|null|
 |**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|**[link](https://github.com/FineDiffusion/FineDiffusion)**|
 |**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
-|**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|null|
+|**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|**[link](https://github.com/guilingxz/vulmci)**|
 |**2024-02-28**|**Block and Detail: Scaffolding Sketch-to-Image Generation**|Vishnu Sarukkai et.al.|[2402.18116](http://arxiv.org/abs/2402.18116)|null|
 |**2024-02-28**|**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**|Yanzuo Lu et.al.|[2402.18078](http://arxiv.org/abs/2402.18078)|**[link](https://github.com/YanzuoLu/CFLD)**|
 |**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
@@ -1003,7 +1003,7 @@
 |**2024-02-16**|**Universal Prompt Optimizer for Safe Text-to-Image Generation**|Zongyu Wu et.al.|[2402.10882](http://arxiv.org/abs/2402.10882)|null|
 |**2024-02-16**|**Training Class-Imbalanced Diffusion Model Via Overlap Optimization**|Divin Yan et.al.|[2402.10821](http://arxiv.org/abs/2402.10821)|**[link](https://github.com/yanliang3612/diffrop)**|
 |**2024-02-16**|**Exploring Precision and Recall to assess the quality and diversity of LLMs**|Le Bronnec Florian et.al.|[2402.10693](http://arxiv.org/abs/2402.10693)|null|
-|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|null|
+|**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|**[link](https://github.com/oysterqaq/umair-fps)**|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
