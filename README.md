@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275](http://arxiv.org/abs/2404.15275)|**[link](https://github.com/id-animator/id-animator)**|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
+|**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
+|**2024-04-23**|**Nucleation mechanism of multiple-order parameter ferroelectric domain wall motion in hafnia**|Songsong Zhou et.al.|[2404.15251](http://arxiv.org/abs/2404.15251)|null|
+|**2024-04-23**|**Local well-posedness for a novel nonlocal model for cell-cell adhesion via receptor binding**|Mabel Lizzy Rajendran et.al.|[2404.15222](http://arxiv.org/abs/2404.15222)|null|
+|**2024-04-23**|**Heat flow, log-concavity, and Lipschitz transport maps**|Giovanni Brigati et.al.|[2404.15205](http://arxiv.org/abs/2404.15205)|null|
+|**2024-04-23**|**Signature of Particle Diffusion on the X-ray Spectra of the blazar Mkn 421**|C. Baheeja et.al.|[2404.15171](http://arxiv.org/abs/2404.15171)|null|
+|**2024-04-23**|**A general multi-wave quasi-resonance theory for lattice energy diffusion**|Wei Lin et.al.|[2404.15147](http://arxiv.org/abs/2404.15147)|null|
+|**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141](http://arxiv.org/abs/2404.15141)|**[link](https://github.com/lmbxmu/cutdiffusion)**|
+|**2024-04-23**|**Taming Diffusion Probabilistic Models for Character Control**|Rui Chen et.al.|[2404.15121](http://arxiv.org/abs/2404.15121)|null|
 |**2024-04-22**|**Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses**|Inhee Lee et.al.|[2404.14410](http://arxiv.org/abs/2404.14410)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**Observational characterisation of large-scale transport and horizontal turbulent diffusivity in the quiet Sun**|F. Rincon et.al.|[2404.14383](http://arxiv.org/abs/2404.14383)|null|
@@ -608,6 +618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**TAAT: Think and Act from Arbitrary Texts in Text2Motion**|Runqi Wang et.al.|[2404.14745](http://arxiv.org/abs/2404.14745)|null|
 |**2024-04-21**|**MLP: Motion Label Prior for Temporal Sentence Localization in Untrimmed 3D Human Motions**|Sheng Yan et.al.|[2404.13657](http://arxiv.org/abs/2404.13657)|**[link](https://github.com/eanson023/mlp)**|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
 |**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886](http://arxiv.org/abs/2404.12886)|null|
@@ -699,6 +710,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
+|**2024-04-23**|**Adaptive Mixed-Scale Feature Fusion Network for Blind AI-Generated Image Quality Assessment**|Tianwei Zhou et.al.|[2404.15163](http://arxiv.org/abs/2404.15163)|null|
+|**2024-04-23**|**Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation**|Xun Wu et.al.|[2404.15100](http://arxiv.org/abs/2404.15100)|null|
+|**2024-04-23**|**SkinGEN: an Explainable Dermatology Diagnosis-to-Generation Framework with Interactive Vision-Language Models**|Bo Lin et.al.|[2404.14755](http://arxiv.org/abs/2404.14755)|null|
+|**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
+|**2024-04-22**|**The Adversarial AI-Art: Understanding, Generation, Detection, and Benchmarking**|Yuying Li et.al.|[2404.14581](http://arxiv.org/abs/2404.14581)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**|Yuying Ge et.al.|[2404.14396](http://arxiv.org/abs/2404.14396)|**[link](https://github.com/ailab-cvc/seed-x)**|
 |**2024-04-22**|**MultiBooth: Towards Generating All Your Concepts in an Image from Text**|Chenyang Zhu et.al.|[2404.14239](http://arxiv.org/abs/2404.14239)|**[link](https://github.com/chenyangzhu1/multibooth)**|
@@ -1142,6 +1159,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275](http://arxiv.org/abs/2404.15275)|**[link](https://github.com/id-animator/id-animator)**|
 |**2024-04-22**|**TAVGBench: Benchmarking Text to Audible-Video Generation**|Yuxin Mao et.al.|[2404.14381](http://arxiv.org/abs/2404.14381)|**[link](https://github.com/opennlplab/tavgbench)**|
 |**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
 |**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
