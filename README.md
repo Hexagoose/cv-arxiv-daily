@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -602,7 +602,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Motion
 
@@ -693,7 +693,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Image Generation
 
@@ -703,7 +703,7 @@
 |**2024-04-22**|**SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**|Yuying Ge et.al.|[2404.14396](http://arxiv.org/abs/2404.14396)|**[link](https://github.com/ailab-cvc/seed-x)**|
 |**2024-04-22**|**MultiBooth: Towards Generating All Your Concepts in an Image from Text**|Chenyang Zhu et.al.|[2404.14239](http://arxiv.org/abs/2404.14239)|**[link](https://github.com/chenyangzhu1/multibooth)**|
 |**2024-04-22**|**RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance**|Chengrui Wang et.al.|[2404.13984](http://arxiv.org/abs/2404.13984)|null|
-|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
+|**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
 |**2024-04-22**|**Towards Better Text-to-Image Generation Alignment via Attention Modulation**|Yihang Wu et.al.|[2404.13899](http://arxiv.org/abs/2404.13899)|null|
 |**2024-04-21**|**Enforcing Conditional Independence for Fair Representation Learning and Causal Image Generation**|Jensen Hwa et.al.|[2404.13798](http://arxiv.org/abs/2404.13798)|null|
 |**2024-04-21**|**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control**|Maria Mihaela Trusca et.al.|[2404.13766](http://arxiv.org/abs/2404.13766)|null|
@@ -1136,14 +1136,14 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-22**|**TAVGBench: Benchmarking Text to Audible-Video Generation**|Yuxin Mao et.al.|[2404.14381](http://arxiv.org/abs/2404.14381)|**[link](https://github.com/opennlplab/tavgbench)**|
-|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
+|**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|
 |**2024-04-21**|**Exploring AIGC Video Quality: A Focus on Visual Harmony, Video-Text Consistency and Domain Distribution Gap**|Bowen Qu et.al.|[2404.13573](http://arxiv.org/abs/2404.13573)|null|
 |**2024-04-21**|**Motion-aware Latent Diffusion Models for Video Frame Interpolation**|Zhilin Huang et.al.|[2404.13534](http://arxiv.org/abs/2404.13534)|null|
 |**2024-04-20**|**Music Consistency Models**|Zhengcong Fei et.al.|[2404.13358](http://arxiv.org/abs/2404.13358)|null|
@@ -1275,7 +1275,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
