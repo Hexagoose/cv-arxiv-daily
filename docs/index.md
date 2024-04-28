@@ -21,7 +21,7 @@ layout: default
 |**2024-04-25**|**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior**|Han Wang et.al.|[2404.16678](http://arxiv.org/abs/2404.16678)|null|
 |**2024-04-25**|**The First Estimation of the Ambipolar Diffusivity Coefficient from Multi-Scale Observations of the Class 0/I Protostar, HOPS-370**|Travis J. Thieme et.al.|[2404.16668](http://arxiv.org/abs/2404.16668)|null|
 |**2024-04-25**|**Inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT method**|A. Emir Gumrukcuoglu et.al.|[2404.16658](http://arxiv.org/abs/2404.16658)|null|
-|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-25**|**Stochastic Dissipative Euler's equations for a free body**|J. A. de la Torre et.al.|[2404.16613](http://arxiv.org/abs/2404.16613)|null|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
 |**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
@@ -722,7 +722,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
-|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
 |**2024-04-25**|**AudioScenic: Audio-Driven Video Scene Editing**|Kaixin Shen et.al.|[2404.16581](http://arxiv.org/abs/2404.16581)|null|
 |**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
