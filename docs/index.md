@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**Relic gravitons and non-stationary processes**|Massimo Giovannini et.al.|[2405.02193](http://arxiv.org/abs/2405.02193)|null|
+|**2024-05-03**|**Tangentially Active Polymers in Cylindrical Channels**|José Martín-Roca et.al.|[2405.02192](http://arxiv.org/abs/2405.02192)|null|
+|**2024-05-03**|**Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**|Haicheng Liao et.al.|[2405.02145](http://arxiv.org/abs/2405.02145)|null|
+|**2024-05-03**|**Global regularity and infinite Prandtl number limit of temperature patches for the 2D Boussinesq system**|Omar Lazar et.al.|[2405.02137](http://arxiv.org/abs/2405.02137)|null|
+|**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117](http://arxiv.org/abs/2405.02117)|null|
+|**2024-05-03**|**On variable annuities with surrender charges**|Tiziano De Angelis et.al.|[2405.02115](http://arxiv.org/abs/2405.02115)|null|
+|**2024-05-03**|**Anomalous transport in the quantum East-West kinetically constrained model**|Pietro Brighi et.al.|[2405.02102](http://arxiv.org/abs/2405.02102)|null|
+|**2024-05-03**|**Radiative and mechanical energies in galaxies I. Contributions of molecular shocks and PDRs in 3C 326 N**|J. A. Villa-Vélez et.al.|[2405.02058](http://arxiv.org/abs/2405.02058)|null|
+|**2024-05-03**|**The CO-dark molecular gas in the cold HI arc**|Gan Luo et.al.|[2405.02055](http://arxiv.org/abs/2405.02055)|null|
 |**2024-05-02**|**Customizing Text-to-Image Models with a Single Image Pair**|Maxwell Jones et.al.|[2405.01536](http://arxiv.org/abs/2405.01536)|null|
 |**2024-05-02**|**The heat equation with time-correlated random potential in d=2: Edwards-Wilkinson fluctuations**|Sotirios Kotitsas et.al.|[2405.01519](http://arxiv.org/abs/2405.01519)|null|
 |**2024-05-02**|**Effective Lifshitz black holes, hydrodynamics, and transport coefficients in fluid/gravity correspondence**|D. C. Moreira et.al.|[2405.01505](http://arxiv.org/abs/2405.01505)|null|
@@ -677,6 +687,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Physics-informed generative neural networks for RF propagation prediction with application to indoor body perception**|Federica Fieramosca et.al.|[2405.02131](http://arxiv.org/abs/2405.02131)|null|
 |**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759](http://arxiv.org/abs/2404.19759)|null|
 |**2024-04-30**|**PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**|Jingbo Wang et.al.|[2404.19722](http://arxiv.org/abs/2404.19722)|null|
 |**2024-04-30**|**Fake it to make it: Using synthetic data to remedy the data shortage in joint multimodal speech-and-gesture synthesis**|Shivam Mehta et.al.|[2404.19622](http://arxiv.org/abs/2404.19622)|null|
@@ -779,6 +790,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155](http://arxiv.org/abs/2405.02155)|null|
+|**2024-05-03**|**AI-generated art perceptions with GenFrame -- an image-generating picture frame**|Peter Kun et.al.|[2405.01901](http://arxiv.org/abs/2405.01901)|null|
+|**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872](http://arxiv.org/abs/2405.01872)|null|
+|**2024-05-02**|**Long Tail Image Generation Through Feature Space Augmentation and Iterated Learning**|Rafael Elberg et.al.|[2405.01705](http://arxiv.org/abs/2405.01705)|**[link](https://github.com/sugarfreemanatee/feature-space-augmentation-and-iterated-learning)**|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-02**|**Improving Subject-Driven Image Synthesis with Subject-Agnostic Guidance**|Kelvin C. K. Chan et.al.|[2405.01356](http://arxiv.org/abs/2405.01356)|null|
 |**2024-05-02**|**Towards Inclusive Face Recognition Through Synthetic Ethnicity Alteration**|Praveen Kumar Chandaliya et.al.|[2405.01273](http://arxiv.org/abs/2405.01273)|null|
