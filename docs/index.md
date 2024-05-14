@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Cloaking for random walks using a discrete potential theory**|Trent DeGiovanni et.al.|[2405.07961](http://arxiv.org/abs/2405.07961)|null|
+|**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
+|**2024-05-13**|**Latest results from Super-Kamiokande**|Andrew D. Santos et.al.|[2405.07900](http://arxiv.org/abs/2405.07900)|null|
+|**2024-05-13**|**Improving Breast Cancer Grade Prediction with Multiparametric MRI Created Using Optimized Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2405.07861](http://arxiv.org/abs/2405.07861)|null|
+|**2024-05-13**|**Radiogenomic biomarkers for immunotherapy in glioblastoma: A systematic review of magnetic resonance imaging studies**|Prajwal Ghimire et.al.|[2405.07858](http://arxiv.org/abs/2405.07858)|null|
+|**2024-05-13**|**Using Multiparametric MRI with Optimized Synthetic Correlated Diffusion Imaging to Enhance Breast Cancer Pathologic Complete Response Prediction**|Chi-en Amy Tai et.al.|[2405.07854](http://arxiv.org/abs/2405.07854)|null|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
+|**2024-05-13**|**LGDE: Local Graph-based Dictionary Expansion**|Dominik J. Schindler et.al.|[2405.07764](http://arxiv.org/abs/2405.07764)|null|
+|**2024-05-13**|**FastSAG: Towards Fast Non-Autoregressive Singing Accompaniment Generation**|Jianyi Chen et.al.|[2405.07682](http://arxiv.org/abs/2405.07682)|null|
 |**2024-05-10**|**OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**|Jinwei Lin et.al.|[2405.06547](http://arxiv.org/abs/2405.06547)|**[link](https://github.com/lin-jinwei/OneTo3D)**|
 |**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
 |**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
@@ -737,6 +747,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Generating Human Motion in 3D Scenes from Text Descriptions**|Zhi Cen et.al.|[2405.07784](http://arxiv.org/abs/2405.07784)|null|
+|**2024-05-13**|**Establishing a Unified Evaluation Framework for Human Motion Generation: A Comparative Analysis of Metrics**|Ali Ismail-Fawaz et.al.|[2405.07680](http://arxiv.org/abs/2405.07680)|null|
+|**2024-05-13**|**Motion Keyframe Interpolation for Any Human Skeleton via Temporally Consistent Point Cloud Sampling and Reconstruction**|Clinton Mo et.al.|[2405.07444](http://arxiv.org/abs/2405.07444)|null|
+|**2024-05-10**|**Shape Conditioned Human Motion Generation with Diffusion Model**|Kebing Xue et.al.|[2405.06778](http://arxiv.org/abs/2405.06778)|null|
 |**2024-05-09**|**A Mixture of Experts Approach to 3D Human Motion Prediction**|Edmund Shieh et.al.|[2405.06088](http://arxiv.org/abs/2405.06088)|**[link](https://github.com/edshieh/motionprediction)**|
 |**2024-05-09**|**StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**|Yiheng Huang et.al.|[2405.05691](http://arxiv.org/abs/2405.05691)|null|
 |**2024-05-08**|**Audio Matters Too! Enhancing Markerless Motion Capture with Audio Signals for String Performance Capture**|Yitong Jin et.al.|[2405.04963](http://arxiv.org/abs/2405.04963)|null|
@@ -850,6 +864,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
+|**2024-05-12**|**Understanding and Evaluating Human Preferences for AI Generated Images with Instruction Tuning**|Jiarui Wang et.al.|[2405.07346](http://arxiv.org/abs/2405.07346)|null|
+|**2024-05-12**|**Stable Signature is Unstable: Removing Image Watermark from Diffusion Models**|Yuepeng Hu et.al.|[2405.07145](http://arxiv.org/abs/2405.07145)|null|
+|**2024-05-12**|**MAxPrototyper: A Multi-Agent Generation System for Interactive User Interface Prototyping**|Mingyue Yuan et.al.|[2405.07131](http://arxiv.org/abs/2405.07131)|null|
+|**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
+|**2024-05-11**|**Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation**|Shengyuan Liu et.al.|[2405.06948](http://arxiv.org/abs/2405.06948)|null|
+|**2024-05-10**|**Deep MMD Gradient Flow without adversarial training**|Alexandre Galashov et.al.|[2405.06780](http://arxiv.org/abs/2405.06780)|null|
 |**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
 |**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-09**|**Photonic quantum generative adversarial networks for classical data**|Tigran Sedrakyan et.al.|[2405.06023](http://arxiv.org/abs/2405.06023)|null|
