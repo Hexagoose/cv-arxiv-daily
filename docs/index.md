@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -758,7 +758,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**Generating Human Motion in 3D Scenes from Text Descriptions**|Zhi Cen et.al.|[2405.07784](http://arxiv.org/abs/2405.07784)|null|
-|**2024-05-13**|**Establishing a Unified Evaluation Framework for Human Motion Generation: A Comparative Analysis of Metrics**|Ali Ismail-Fawaz et.al.|[2405.07680](http://arxiv.org/abs/2405.07680)|null|
+|**2024-05-13**|**Establishing a Unified Evaluation Framework for Human Motion Generation: A Comparative Analysis of Metrics**|Ali Ismail-Fawaz et.al.|[2405.07680](http://arxiv.org/abs/2405.07680)|**[link](https://github.com/MSD-IRIMAS/Evaluating-HMG)**|
 |**2024-05-13**|**Motion Keyframe Interpolation for Any Human Skeleton via Temporally Consistent Point Cloud Sampling and Reconstruction**|Clinton Mo et.al.|[2405.07444](http://arxiv.org/abs/2405.07444)|null|
 |**2024-05-10**|**Shape Conditioned Human Motion Generation with Diffusion Model**|Kebing Xue et.al.|[2405.06778](http://arxiv.org/abs/2405.06778)|null|
 |**2024-05-09**|**A Mixture of Experts Approach to 3D Human Motion Prediction**|Edmund Shieh et.al.|[2405.06088](http://arxiv.org/abs/2405.06088)|**[link](https://github.com/edshieh/motionprediction)**|
@@ -875,12 +875,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
-|**2024-05-14**|**Similarity Metrics for MR Image-To-Image Translation**|Melanie Dohmen et.al.|[2405.08431](http://arxiv.org/abs/2405.08431)|null|
+|**2024-05-15**|**Similarity Metrics for MR Image-To-Image Translation**|Melanie Dohmen et.al.|[2405.08431](http://arxiv.org/abs/2405.08431)|null|
 |**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
 |**2024-05-13**|**RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based on Recurrent Affine Transformations**|Chengde Lin et.al.|[2405.08114](http://arxiv.org/abs/2405.08114)|**[link](https://github.com/oxygenlu/ratlip)**|
 |**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
 |**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
-|**2024-05-12**|**Understanding and Evaluating Human Preferences for AI Generated Images with Instruction Tuning**|Jiarui Wang et.al.|[2405.07346](http://arxiv.org/abs/2405.07346)|null|
+|**2024-05-12**|**Understanding and Evaluating Human Preferences for AI Generated Images with Instruction Tuning**|Jiarui Wang et.al.|[2405.07346](http://arxiv.org/abs/2405.07346)|**[link](https://github.com/IntMeGroup/MINT-IQA)**|
 |**2024-05-12**|**Stable Signature is Unstable: Removing Image Watermark from Diffusion Models**|Yuepeng Hu et.al.|[2405.07145](http://arxiv.org/abs/2405.07145)|null|
 |**2024-05-12**|**MAxPrototyper: A Multi-Agent Generation System for Interactive User Interface Prototyping**|Mingyue Yuan et.al.|[2405.07131](http://arxiv.org/abs/2405.07131)|null|
 |**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
