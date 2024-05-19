@@ -1170,7 +1170,7 @@
 |**2024-03-25**|**Skews in the Phenomenon Space Hinder Generalization in Text-to-Image Generation**|Yingshan Chang et.al.|[2403.16394](http://arxiv.org/abs/2403.16394)|null|
 |**2024-03-25**|**FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models**|Lin Zhao et.al.|[2403.16379](http://arxiv.org/abs/2403.16379)|null|
 |**2024-03-23**|**Feature Manipulation for DDPM based Change Detection**|Zhenglin Li et.al.|[2403.15943](http://arxiv.org/abs/2403.15943)|null|
-|**2024-03-23**|**Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content**|Zhicheng Du et.al.|[2403.15876](http://arxiv.org/abs/2403.15876)|null|
+|**2024-03-23**|**Cognitive resilience: Unraveling the proficiency of image-captioning models to interpret masked visual content**|Zhicheng Du et.al.|[2403.15876](http://arxiv.org/abs/2403.15876)|**[link](https://github.com/dodoxxb/cognitive-resilience)**|
 |**2024-03-22**|**DragAPart: Learning a Part-Level Motion Prior for Articulated Objects**|Ruining Li et.al.|[2403.15382](http://arxiv.org/abs/2403.15382)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|**[link](https://github.com/beichenzbc/long-clip)**|
 |**2024-03-22**|**Controlled Training Data Generation with Diffusion Models**|Teresa Yeo et.al.|[2403.15309](http://arxiv.org/abs/2403.15309)|null|
