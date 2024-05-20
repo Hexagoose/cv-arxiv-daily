@@ -679,7 +679,7 @@ layout: default
 |**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642](http://arxiv.org/abs/2402.08642)|null|
 |**2024-02-13**|**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing**|Yunji Jung et.al.|[2402.08601](http://arxiv.org/abs/2402.08601)|null|
 |**2024-02-13**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563](http://arxiv.org/abs/2402.08563)|null|
-|**2024-02-13**|**Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases**|Ziyi Zhang et.al.|[2402.08552](http://arxiv.org/abs/2402.08552)|null|
+|**2024-02-13**|**Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases**|Ziyi Zhang et.al.|[2402.08552](http://arxiv.org/abs/2402.08552)|**[link](https://github.com/ZiyiZhang27/tdpo)**|
 |**2024-02-13**|**Branching Interval Partition Diffusions**|Matthew Buckland et.al.|[2402.08548](http://arxiv.org/abs/2402.08548)|null|
 |**2024-02-13**|**Hyperballistic transport in dense ionized matter under external AC electric fields**|Daniele Gamba et.al.|[2402.08519](http://arxiv.org/abs/2402.08519)|null|
 |**2024-02-12**|**Label-Efficient Model Selection for Text Generation**|Shir Ashury-Tahan et.al.|[2402.07891](http://arxiv.org/abs/2402.07891)|null|
@@ -1495,7 +1495,7 @@ layout: default
 |**2024-04-15**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
 |**2024-04-16**|**LoopAnimate: Loopable Salient Object Animation**|Fanyi Wang et.al.|[2404.09172](http://arxiv.org/abs/2404.09172)|null|
 |**2024-04-13**|**THQA: A Perceptual Quality Assessment Database for Talking Heads**|Yingjie Zhou et.al.|[2404.09003](http://arxiv.org/abs/2404.09003)|**[link](https://github.com/zyj-2000/thqa)**|
-|**2024-04-16**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966](http://arxiv.org/abs/2404.08966)|null|
+|**2024-04-16**|**LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field**|Jiyang Li et.al.|[2404.08966](http://arxiv.org/abs/2404.08966)|**[link](https://github.com/Pokerlishao/LoopGaussian)**|
 |**2024-04-11**|**S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing**|Guangzhi Wang et.al.|[2404.08111](http://arxiv.org/abs/2404.08111)|null|
 |**2024-04-10**|**A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos**|Suleyman Ozdel et.al.|[2404.07351](http://arxiv.org/abs/2404.07351)|null|
 |**2024-04-16**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
