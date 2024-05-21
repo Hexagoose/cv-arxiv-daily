@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Images that Sound: Composing Images and Sounds on a Single Canvas**|Ziyang Chen et.al.|[2405.12221](http://arxiv.org/abs/2405.12221)|null|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
+|**2024-05-20**|**Cosmic Ray Diffusion in the Turbulent Interstellar Medium: Effects of Mirror Diffusion and Pitch Angle Scattering**|Lucas Barreto-Mota et.al.|[2405.12146](http://arxiv.org/abs/2405.12146)|null|
+|**2024-05-20**|**Two-dimensional signal-dependent parabolic-elliptic Keller-Segel system and its means field derivation**|Lukas Bol et.al.|[2405.12134](http://arxiv.org/abs/2405.12134)|null|
+|**2024-05-20**|**An effective advection induced by oscillating microstructure in a diffusion equation**|David Wiedemann et.al.|[2405.12108](http://arxiv.org/abs/2405.12108)|null|
+|**2024-05-20**|**Sobolev regularity theory for stochastic reaction-diffusion-advection equations with spatially homogeneous colored noises and variable-order nonlocal operators**|Jae-Hwan Choi et.al.|[2405.11969](http://arxiv.org/abs/2405.11969)|null|
+|**2024-05-20**|**Optimal balanced-norm error estimate of the LDG method for reaction-diffusion problems II: the two-dimensional case with layer-upwind flux**|Yao Cheng et.al.|[2405.11939](http://arxiv.org/abs/2405.11939)|null|
+|**2024-05-20**|**Nonequilbrium physics of generative diffusion models**|Zhendong Yu et.al.|[2405.11932](http://arxiv.org/abs/2405.11932)|null|
+|**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928](http://arxiv.org/abs/2405.11928)|null|
+|**2024-05-20**|**Diff-BGM: A Diffusion Model for Video Background Music Generation**|Sizhe Li et.al.|[2405.11913](http://arxiv.org/abs/2405.11913)|null|
 |**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944](http://arxiv.org/abs/2405.10944)|null|
 |**2024-05-17**|**Reconstruction of Manipulated Garment with Guided Deformation Prior**|Ren Li et.al.|[2405.10934](http://arxiv.org/abs/2405.10934)|null|
 |**2024-05-17**|**Limitations of the rate-distribution formalism in describing luminescence quenching in the presence of diffusion**|Jakub Jędrak et.al.|[2405.10903](http://arxiv.org/abs/2405.10903)|null|
@@ -787,6 +797,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Flexible Motion In-betweening with Diffusion Models**|Setareh Cohan et.al.|[2405.11126](http://arxiv.org/abs/2405.11126)|null|
 |**2024-05-17**|**Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis**|Zeyi Zhang et.al.|[2405.09814](http://arxiv.org/abs/2405.09814)|null|
 |**2024-05-16**|**Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning**|Wansong Liu et.al.|[2405.09779](http://arxiv.org/abs/2405.09779)|null|
 |**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522](http://arxiv.org/abs/2405.09522)|null|
@@ -907,6 +918,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
+|**2024-05-20**|**Diffusion Models for Generating Ballistic Spacecraft Trajectories**|Tyler Presser et.al.|[2405.11738](http://arxiv.org/abs/2405.11738)|null|
+|**2024-05-19**|**URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images**|Zoey Chen et.al.|[2405.11656](http://arxiv.org/abs/2405.11656)|null|
+|**2024-05-18**|**UPAM: Unified Prompt Attack in Text-to-Image Generation Models Against Both Textual Filters and Visual Checkers**|Duo Peng et.al.|[2405.11336](http://arxiv.org/abs/2405.11336)|null|
+|**2024-05-18**|**On the Trajectory Regularity of ODE-based Diffusion Sampling**|Defang Chen et.al.|[2405.11326](http://arxiv.org/abs/2405.11326)|null|
+|**2024-05-18**|**TriLoRA: Integrating SVD for Advanced Style Personalization in Text-to-Image Generation**|Chengcheng Feng et.al.|[2405.11236](http://arxiv.org/abs/2405.11236)|null|
+|**2024-05-18**|**ReasonPix2Pix: Instruction Reasoning Dataset for Advanced Image Editing**|Ying Jin et.al.|[2405.11190](http://arxiv.org/abs/2405.11190)|null|
 |**2024-05-17**|**Improving face generation quality and prompt following with synthetic captions**|Michail Tarasiou et.al.|[2405.10864](http://arxiv.org/abs/2405.10864)|null|
 |**2024-05-17**|**Multi-scale Semantic Prior Features Guided Deep Neural Network for Urban Street-view Image**|Jianshun Zeng et.al.|[2405.10504](http://arxiv.org/abs/2405.10504)|null|
 |**2024-05-17**|**Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers**|Rya Sanovar et.al.|[2405.10480](http://arxiv.org/abs/2405.10480)|null|
@@ -1455,6 +1473,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
+|**2024-05-20**|**ViViD: Video Virtual Try-on using Diffusion Models**|Zixun Fang et.al.|[2405.11794](http://arxiv.org/abs/2405.11794)|null|
+|**2024-05-19**|**FIFO-Diffusion: Generating Infinite Videos from Text without Training**|Jihwan Kim et.al.|[2405.11473](http://arxiv.org/abs/2405.11473)|null|
 |**2024-05-17**|**From Sora What We Can See: A Survey of Text-to-Video Generation**|Rui Sun et.al.|[2405.10674](http://arxiv.org/abs/2405.10674)|**[link](https://github.com/soraw-ai/awesome-text-to-video-generation)**|
 |**2024-05-16**|**MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis**|Joseph Cho et.al.|[2405.09806](http://arxiv.org/abs/2405.09806)|null|
 |**2024-05-15**|**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation**|Xuanchen Wang et.al.|[2405.09266](http://arxiv.org/abs/2405.09266)|null|
