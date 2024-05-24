@@ -1526,7 +1526,7 @@ layout: default
 |**2024-05-21**|**DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control**|Hong Chen et.al.|[2405.12796](http://arxiv.org/abs/2405.12796)|null|
 |**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
 |**2024-05-20**|**ViViD: Video Virtual Try-on using Diffusion Models**|Zixun Fang et.al.|[2405.11794](http://arxiv.org/abs/2405.11794)|null|
-|**2024-05-19**|**FIFO-Diffusion: Generating Infinite Videos from Text without Training**|Jihwan Kim et.al.|[2405.11473](http://arxiv.org/abs/2405.11473)|null|
+|**2024-05-19**|**FIFO-Diffusion: Generating Infinite Videos from Text without Training**|Jihwan Kim et.al.|[2405.11473](http://arxiv.org/abs/2405.11473)|**[link](https://github.com/jjihwan/FIFO-Diffusion_public)**|
 |**2024-05-17**|**From Sora What We Can See: A Survey of Text-to-Video Generation**|Rui Sun et.al.|[2405.10674](http://arxiv.org/abs/2405.10674)|**[link](https://github.com/soraw-ai/awesome-text-to-video-generation)**|
 |**2024-05-16**|**MediSyn: Text-Guided Diffusion Models for Broad Medical 2D and 3D Image Synthesis**|Joseph Cho et.al.|[2405.09806](http://arxiv.org/abs/2405.09806)|null|
 |**2024-05-15**|**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation**|Xuanchen Wang et.al.|[2405.09266](http://arxiv.org/abs/2405.09266)|null|
