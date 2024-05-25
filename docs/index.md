@@ -29,7 +29,7 @@ layout: default
 |**2024-05-21**|**Differential Walk on Spheres**|Bailey Miller et.al.|[2405.12964](http://arxiv.org/abs/2405.12964)|null|
 |**2024-05-21**|**Learning the Infinitesimal Generator of Stochastic Diffusion Processes**|Vladimir R. Kostic et.al.|[2405.12940](http://arxiv.org/abs/2405.12940)|null|
 |**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918](http://arxiv.org/abs/2405.12918)|null|
-|**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|null|
+|**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|**[link](https://github.com/llm-conditioned-diffusion/llm-conditioned-diffusion.github.io)**|
 |**2024-05-21**|**Deep HST/UVIS imaging of the candidate dark galaxy CDG-1**|Pieter van Dokkum et.al.|[2405.12907](http://arxiv.org/abs/2405.12907)|null|
 |**2024-05-21**|**Diffusion of brightened dark excitons in a high-angle incommensurate Moiré homobilayer**|Arnab Barman Ray et.al.|[2405.12901](http://arxiv.org/abs/2405.12901)|null|
 |**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
@@ -43,7 +43,7 @@ layout: default
 |**2024-05-20**|**Optimal balanced-norm error estimate of the LDG method for reaction-diffusion problems II: the two-dimensional case with layer-upwind flux**|Yao Cheng et.al.|[2405.11939](http://arxiv.org/abs/2405.11939)|null|
 |**2024-05-20**|**Nonequilbrium physics of generative diffusion models**|Zhendong Yu et.al.|[2405.11932](http://arxiv.org/abs/2405.11932)|null|
 |**2024-05-20**|**"Set It Up!": Functional Object Arrangement with Compositional Generative Models**|Yiqing Xu et.al.|[2405.11928](http://arxiv.org/abs/2405.11928)|null|
-|**2024-05-20**|**Diff-BGM: A Diffusion Model for Video Background Music Generation**|Sizhe Li et.al.|[2405.11913](http://arxiv.org/abs/2405.11913)|null|
+|**2024-05-20**|**Diff-BGM: A Diffusion Model for Video Background Music Generation**|Sizhe Li et.al.|[2405.11913](http://arxiv.org/abs/2405.11913)|**[link](https://github.com/sizhelee/diff-bgm)**|
 |**2024-05-17**|**Probabilistic transfer learning methodology to expedite high fidelity simulation of reactive flows**|Bruno S. Soriano et.al.|[2405.10944](http://arxiv.org/abs/2405.10944)|null|
 |**2024-05-17**|**Reconstruction of Manipulated Garment with Guided Deformation Prior**|Ren Li et.al.|[2405.10934](http://arxiv.org/abs/2405.10934)|null|
 |**2024-05-17**|**Limitations of the rate-distribution formalism in describing luminescence quenching in the presence of diffusion**|Jakub Jędrak et.al.|[2405.10903](http://arxiv.org/abs/2405.10903)|null|
@@ -953,7 +953,7 @@ layout: default
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
 |**2024-05-23**|**Learning Multi-dimensional Human Preference for Text-to-Image Generation**|Sixian Zhang et.al.|[2405.14705](http://arxiv.org/abs/2405.14705)|null|
 |**2024-05-21**|**Personalized Residuals for Concept-Driven Text-to-Image Generation**|Cusuh Ham et.al.|[2405.12978](http://arxiv.org/abs/2405.12978)|null|
-|**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|null|
+|**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|**[link](https://github.com/llm-conditioned-diffusion/llm-conditioned-diffusion.github.io)**|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-21**|**EmoEdit: Evoking Emotions through Image Manipulation**|Jingyuan Yang et.al.|[2405.12661](http://arxiv.org/abs/2405.12661)|null|
 |**2024-05-21**|**CustomText: Customized Textual Image Generation using Diffusion Models**|Shubham Paliwal et.al.|[2405.12531](http://arxiv.org/abs/2405.12531)|null|
