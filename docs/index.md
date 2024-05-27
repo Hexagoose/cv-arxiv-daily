@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Self-consistent evaluation of proximity and inverse proximity effects with pair-breaking in diffusive SN junctions**|Arpit Raj et.al.|[2405.15770](http://arxiv.org/abs/2405.15770)|null|
+|**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769](http://arxiv.org/abs/2405.15769)|null|
+|**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758](http://arxiv.org/abs/2405.15758)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757](http://arxiv.org/abs/2405.15757)|null|
+|**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
+|**2024-05-24**|**Murray-von Neumann dimension for strictly semifinite weights**|Aldo Garcia Guinto et.al.|[2405.15725](http://arxiv.org/abs/2405.15725)|null|
+|**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719](http://arxiv.org/abs/2405.15719)|null|
+|**2024-05-24**|**Simulation-based inference of radio millisecond pulsars in globular clusters**|Joanna Berteaud et.al.|[2405.15691](http://arxiv.org/abs/2405.15691)|null|
+|**2024-05-24**|**Jet Quenching of the Heavy Quarks in the Quark-Gluon Plasma and the Nonadditive Statistics**|Trambak Bhattacharyya et.al.|[2405.15679](http://arxiv.org/abs/2405.15679)|null|
+|**2024-05-24**|**Taming Score-Based Diffusion Priors for Infinite-Dimensional Nonlinear Inverse Problems**|Lorenzo Baldassari et.al.|[2405.15676](http://arxiv.org/abs/2405.15676)|null|
 |**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|
 |**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
@@ -817,6 +827,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763](http://arxiv.org/abs/2405.15763)|null|
+|**2024-05-24**|**Learning Generalizable Human Motion Generator with Reinforcement Learning**|Yunyao Mao et.al.|[2405.15541](http://arxiv.org/abs/2405.15541)|null|
+|**2024-05-24**|**Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip Transformer**|Zichen Geng et.al.|[2405.15439](http://arxiv.org/abs/2405.15439)|null|
+|**2024-05-24**|**A Systematic Review on Custom Data Gloves**|Valerio Belcamino et.al.|[2405.15417](http://arxiv.org/abs/2405.15417)|null|
+|**2024-05-24**|**On the Identification of Temporally Causal Representation with Instantaneous Dependence**|Zijian Li et.al.|[2405.15325](http://arxiv.org/abs/2405.15325)|null|
+|**2024-05-24**|**Off-the-shelf ChatGPT is a Good Few-shot Human Motion Predictor**|Haoxuan Qu et.al.|[2405.15267](http://arxiv.org/abs/2405.15267)|null|
 |**2024-05-23**|**Event-based dataset for the detection and classification of manufacturing assembly tasks**|Laura Duarte et.al.|[2405.14626](http://arxiv.org/abs/2405.14626)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Towards Using Fast Embedded Model Predictive Control for Human-Aware Predictive Robot Navigation**|Till Hielscher et.al.|[2405.12616](http://arxiv.org/abs/2405.12616)|null|
@@ -942,6 +958,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769](http://arxiv.org/abs/2405.15769)|null|
+|**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506](http://arxiv.org/abs/2405.15506)|null|
+|**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|null|
+|**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
+|**2024-05-24**|**Challenges and Opportunities in 3D Content Generation**|Ke Zhao et.al.|[2405.15335](http://arxiv.org/abs/2405.15335)|null|
+|**2024-05-24**|**Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model**|Mingyang Yi et.al.|[2405.15330](http://arxiv.org/abs/2405.15330)|null|
+|**2024-05-24**|**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance**|Guibao Shen et.al.|[2405.15321](http://arxiv.org/abs/2405.15321)|null|
+|**2024-05-24**|**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion**|Aoxue Li et.al.|[2405.15313](http://arxiv.org/abs/2405.15313)|null|
+|**2024-05-24**|**Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient**|Yongliang Wu et.al.|[2405.15304](http://arxiv.org/abs/2405.15304)|null|
+|**2024-05-24**|**StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models**|Chengming Xu et.al.|[2405.15287](http://arxiv.org/abs/2405.15287)|null|
 |**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
 |**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
@@ -1514,9 +1540,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|null|
+|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
 |**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664](http://arxiv.org/abs/2405.14664)|null|
-|**2024-05-23**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Poses**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
+|**2024-05-24**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
 |**2024-05-22**|**ReVideo: Remake a Video with Motion and Content Control**|Chong Mou et.al.|[2405.13865](http://arxiv.org/abs/2405.13865)|null|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
