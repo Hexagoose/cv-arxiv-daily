@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.27
+## Updated on 2024.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -17,7 +17,7 @@ layout: default
 |**2024-05-24**|**Self-consistent evaluation of proximity and inverse proximity effects with pair-breaking in diffusive SN junctions**|Arpit Raj et.al.|[2405.15770](http://arxiv.org/abs/2405.15770)|null|
 |**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769](http://arxiv.org/abs/2405.15769)|null|
 |**2024-05-24**|**InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**|Yuchi Wang et.al.|[2405.15758](http://arxiv.org/abs/2405.15758)|**[link](https://github.com/wangyuchi369/InstructAvatar)**|
-|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757](http://arxiv.org/abs/2405.15757)|null|
+|**2024-05-24**|**Looking Backward: Streaming Video-to-Video Translation with Feature Banks**|Feng Liang et.al.|[2405.15757](http://arxiv.org/abs/2405.15757)|**[link](https://github.com/Jeff-LiangF/streamv2v)**|
 |**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
 |**2024-05-24**|**Murray-von Neumann dimension for strictly semifinite weights**|Aldo Garcia Guinto et.al.|[2405.15725](http://arxiv.org/abs/2405.15725)|null|
 |**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719](http://arxiv.org/abs/2405.15719)|null|
@@ -1543,7 +1543,7 @@ layout: default
 |**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|null|
 |**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
-|**2024-05-23**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664](http://arxiv.org/abs/2405.14664)|null|
+|**2024-05-24**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664](http://arxiv.org/abs/2405.14664)|null|
 |**2024-05-24**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[2405.14475](http://arxiv.org/abs/2405.14475)|null|
 |**2024-05-22**|**ReVideo: Remake a Video with Motion and Content Control**|Chong Mou et.al.|[2405.13865](http://arxiv.org/abs/2405.13865)|null|
