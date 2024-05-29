@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -839,13 +839,13 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-27**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
+|**2024-05-28**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
 |**2024-05-27**|**A Cross-Dataset Study for Text-based 3D Human Motion Retrieval**|Léore Bensabath et.al.|[2405.16909](http://arxiv.org/abs/2405.16909)|null|
 |**2024-05-25**|**SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors**|Jiawei Fang et.al.|[2405.16152](http://arxiv.org/abs/2405.16152)|null|
 |**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763](http://arxiv.org/abs/2405.15763)|null|
@@ -975,7 +975,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## Image Generation
 
@@ -1569,7 +1569,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 ## Video Generation
 
@@ -1578,13 +1578,13 @@
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
 |**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405](http://arxiv.org/abs/2405.17405)|null|
 |**2024-05-27**|**Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability**|Shenyuan Gao et.al.|[2405.17398](http://arxiv.org/abs/2405.17398)|**[link](https://github.com/opendrivelab/vista)**|
-|**2024-05-27**|**Controllable Longer Image Animation with Diffusion Models**|Qiang Wang et.al.|[2405.17306](http://arxiv.org/abs/2405.17306)|null|
+|**2024-05-28**|**Controllable Longer Image Animation with Diffusion Models**|Qiang Wang et.al.|[2405.17306](http://arxiv.org/abs/2405.17306)|null|
 |**2024-05-27**|**Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation**|Zhoujie Fu et.al.|[2405.16849](http://arxiv.org/abs/2405.16849)|null|
 |**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823](http://arxiv.org/abs/2405.16823)|null|
 |**2024-05-27**|**Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels**|Yikai Wang et.al.|[2405.16822](http://arxiv.org/abs/2405.16822)|null|
 |**2024-05-26**|**Towards Multi-Task Multi-Modal Models: A Video Generative Perspective**|Lijun Yu et.al.|[2405.16728](http://arxiv.org/abs/2405.16728)|null|
 |**2024-05-26**|**I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models**|Wenqi Ouyang et.al.|[2405.16537](http://arxiv.org/abs/2405.16537)|null|
-|**2024-05-26**|**Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation**|Jinlin Liu et.al.|[2405.16393](http://arxiv.org/abs/2405.16393)|null|
+|**2024-05-28**|**Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation**|Jinlin Liu et.al.|[2405.16393](http://arxiv.org/abs/2405.16393)|null|
 |**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|null|
 |**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
@@ -1759,7 +1759,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
