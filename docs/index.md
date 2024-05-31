@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
+|**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337](http://arxiv.org/abs/2405.20337)|**[link](https://github.com/wzzheng/occsora)**|
+|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334](http://arxiv.org/abs/2405.20334)|null|
+|**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|null|
+|**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324](http://arxiv.org/abs/2405.20324)|null|
+|**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320](http://arxiv.org/abs/2405.20320)|**[link](https://github.com/sangyun884/rfpp)**|
+|**2024-05-30**|**DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2405.20289](http://arxiv.org/abs/2405.20289)|null|
+|**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282](http://arxiv.org/abs/2405.20282)|**[link](https://github.com/wang-chaoyang/semflow)**|
+|**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279](http://arxiv.org/abs/2405.20279)|**[link](https://github.com/ailab-cvc/cv-vae)**|
+|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247](http://arxiv.org/abs/2405.20247)|null|
 |**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335](http://arxiv.org/abs/2405.19335)|null|
 |**2024-05-29**|**Hilbert Space Diffusion in Systems with Approximate Symmetries**|Rahel L. Baumgartner et.al.|[2405.19260](http://arxiv.org/abs/2405.19260)|null|
 |**2024-05-29**|**Weak Generative Sampler to Efficiently Sample Invariant Distribution of Stochastic Differential Equation**|Zhiqiang Cai et.al.|[2405.19256](http://arxiv.org/abs/2405.19256)|null|
@@ -857,8 +867,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340](http://arxiv.org/abs/2405.20340)|null|
+|**2024-05-30**|**RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**|Jiaben Chen et.al.|[2405.20336](http://arxiv.org/abs/2405.20336)|null|
+|**2024-05-30**|**SMPLX-Lite: A Realistic and Drivable Avatar Benchmark with Rich Geometry and Texture Annotations**|Yujiao Jiang et.al.|[2405.19609](http://arxiv.org/abs/2405.19609)|null|
 |**2024-05-30**|**Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction**|Xuehao Gao et.al.|[2405.18700](http://arxiv.org/abs/2405.18700)|null|
-|**2024-05-28**|**Benchmarking Skeleton-based Motion Encoder Models for Clinical Applications: Estimating Parkinson's Disease Severity in Walking Sequences**|Vida Adeli et.al.|[2405.17817](http://arxiv.org/abs/2405.17817)|**[link](https://github.com/taatiteam/motionencoders_parkinsonism_benchmark)**|
+|**2024-05-30**|**Benchmarking Skeleton-based Motion Encoder Models for Clinical Applications: Estimating Parkinson's Disease Severity in Walking Sequences**|Vida Adeli et.al.|[2405.17817](http://arxiv.org/abs/2405.17817)|**[link](https://github.com/taatiteam/motionencoders_parkinsonism_benchmark)**|
 |**2024-05-28**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
 |**2024-05-27**|**A Cross-Dataset Study for Text-based 3D Human Motion Retrieval**|Léore Bensabath et.al.|[2405.16909](http://arxiv.org/abs/2405.16909)|null|
 |**2024-05-25**|**SuDA: Support-based Domain Adaptation for Sim2Real Motion Capture with Flexible Sensors**|Jiawei Fang et.al.|[2405.16152](http://arxiv.org/abs/2405.16152)|null|
@@ -993,6 +1006,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282](http://arxiv.org/abs/2405.20282)|**[link](https://github.com/wang-chaoyang/semflow)**|
+|**2024-05-30**|**ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**|Massimo Bini et.al.|[2405.20271](http://arxiv.org/abs/2405.20271)|**[link](https://github.com/mwbini/ether)**|
+|**2024-05-30**|**Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback**|Sanghyeon Na et.al.|[2405.20216](http://arxiv.org/abs/2405.20216)|null|
+|**2024-05-30**|**RIGID: A Training-free and Model-Agnostic Framework for Robust AI-Generated Image Detection**|Zhiyuan He et.al.|[2405.20112](http://arxiv.org/abs/2405.20112)|null|
+|**2024-05-30**|**Mitigating annotation shift in cancer classification using single image generative models**|Marta Buetas Arcas et.al.|[2405.19754](http://arxiv.org/abs/2405.19754)|**[link](https://github.com/martabuetas/enhancingbreastcancerdiagnosis)**|
+|**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
+|**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657](http://arxiv.org/abs/2405.19657)|null|
+|**2024-05-30**|**Creating Language-driven Spatial Variations of Icon Images**|Xianghao Xu et.al.|[2405.19636](http://arxiv.org/abs/2405.19636)|null|
+|**2024-05-29**|**Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models**|Venkat Venkatasubramanian et.al.|[2405.19561](http://arxiv.org/abs/2405.19561)|null|
+|**2024-05-29**|**MemControl: Mitigating Memorization in Medical Diffusion Models via Automated Parameter Selection**|Raman Dutt et.al.|[2405.19458](http://arxiv.org/abs/2405.19458)|null|
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
 |**2024-05-29**|**Going beyond compositional generalization, DDPMs can produce zero-shot interpolation**|Justin Deschenaux et.al.|[2405.19201](http://arxiv.org/abs/2405.19201)|**[link](https://github.com/jdeschena/ddpm-zero-shot-interpolation)**|
 |**2024-05-29**|**The ethical situation of DALL-E 2**|Eduard Hogea et.al.|[2405.19176](http://arxiv.org/abs/2405.19176)|null|
@@ -1601,6 +1624,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|null|
+|**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320](http://arxiv.org/abs/2405.20320)|**[link](https://github.com/sangyun884/rfpp)**|
+|**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279](http://arxiv.org/abs/2405.20279)|**[link](https://github.com/ailab-cvc/cv-vae)**|
+|**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
+|**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
+|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|null|
+|**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
 |**2024-05-29**|**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture**|Jiaqi Xu et.al.|[2405.18991](http://arxiv.org/abs/2405.18991)|**[link](https://github.com/aigc-apps/easyanimate)**|
 |**2024-05-29**|**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**|Jiachen Li et.al.|[2405.18750](http://arxiv.org/abs/2405.18750)|null|
 |**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407](http://arxiv.org/abs/2405.18407)|null|
