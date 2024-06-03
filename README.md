@@ -50,7 +50,7 @@
 |**2024-05-30**|**$E^{3}$ Gen: Efficient, Expressive and Editable Avatars Generation**|Weitian Zhang et.al.|[2405.19203](http://arxiv.org/abs/2405.19203)|null|
 |**2024-05-29**|**Going beyond compositional generalization, DDPMs can produce zero-shot interpolation**|Justin Deschenaux et.al.|[2405.19201](http://arxiv.org/abs/2405.19201)|**[link](https://github.com/jdeschena/ddpm-zero-shot-interpolation)**|
 |**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189](http://arxiv.org/abs/2405.19189)|null|
-|**2024-05-28**|**On the Origin of Llamas: Model Tree Heritage Recovery**|Eliahu Horwitz et.al.|[2405.18432](http://arxiv.org/abs/2405.18432)|null|
+|**2024-05-28**|**On the Origin of Llamas: Model Tree Heritage Recovery**|Eliahu Horwitz et.al.|[2405.18432](http://arxiv.org/abs/2405.18432)|**[link](https://github.com/eliahuhorwitz/MoTHer)**|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
 |**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407](http://arxiv.org/abs/2405.18407)|null|
 |**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|**[link](https://github.com/jaehong31/raccoon)**|
@@ -1685,7 +1685,7 @@
 |**2024-05-26**|**I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models**|Wenqi Ouyang et.al.|[2405.16537](http://arxiv.org/abs/2405.16537)|null|
 |**2024-05-28**|**Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation**|Jinlin Liu et.al.|[2405.16393](http://arxiv.org/abs/2405.16393)|null|
 |**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|**[link](https://github.com/Ali-Stanford/MisleadingGalleryOfFluidMotionByAI)**|
-|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|null|
+|**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|**[link](https://github.com/thuml/iVideoGPT)**|
 |**2024-05-23**|**Video Diffusion Models are Training-free Motion Interpreter and Controller**|Zeqi Xiao et.al.|[2405.14864](http://arxiv.org/abs/2405.14864)|null|
 |**2024-05-24**|**Fisher Flow Matching for Generative Modeling over Discrete Data**|Oscar Davis et.al.|[2405.14664](http://arxiv.org/abs/2405.14664)|null|
 |**2024-05-24**|**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control**|Yong Zhong et.al.|[2405.14582](http://arxiv.org/abs/2405.14582)|null|
