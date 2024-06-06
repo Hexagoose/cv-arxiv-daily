@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439](http://arxiv.org/abs/2406.03439)|null|
+|**2024-06-05**|**Non-stationary Spatio-Temporal Modeling Using the Stochastic Advection-Diffusion Equation**|Martin Outzen Berild et.al.|[2406.03400](http://arxiv.org/abs/2406.03400)|null|
+|**2024-06-05**|**Reparameterization invariance in approximate Bayesian inference**|Hrittik Roy et.al.|[2406.03334](http://arxiv.org/abs/2406.03334)|null|
+|**2024-06-05**|**UDQL: Bridging The Gap between MSE Loss and The Optimal Value Function in Offline Reinforcement Learning**|Yu Zhang et.al.|[2406.03324](http://arxiv.org/abs/2406.03324)|null|
+|**2024-06-05**|**Text-to-Image Rectified Flow as Plug-and-Play Priors**|Xiaofeng Yang et.al.|[2406.03293](http://arxiv.org/abs/2406.03293)|**[link](https://github.com/yangxiaofeng/rectified_flow_prior)**|
+|**2024-06-05**|**Relative Entropy for the Numerical Diffusive Limit of the Linear Jin-Xin System**|Marianne Bessemoulin-Chatard et.al.|[2406.03268](http://arxiv.org/abs/2406.03268)|null|
+|**2024-06-05**|**Generative Diffusion Models for Fast Simulations of Particle Collisions at CERN**|Mikołaj Kita et.al.|[2406.03233](http://arxiv.org/abs/2406.03233)|null|
+|**2024-06-05**|**Holographic drag force with translational symmetry breaking**|Sara Tahery et.al.|[2406.03220](http://arxiv.org/abs/2406.03220)|null|
+|**2024-06-05**|**Searching Priors Makes Text-to-Video Synthesis Better**|Haoran Cheng et.al.|[2406.03215](http://arxiv.org/abs/2406.03215)|null|
+|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184](http://arxiv.org/abs/2406.03184)|null|
 |**2024-06-04**|**Dreamguider: Improved Training free Diffusion-based Conditional Generation**|Nithin Gopalakrishnan Nair et.al.|[2406.02549](http://arxiv.org/abs/2406.02549)|null|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
@@ -1029,6 +1039,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Tackling GenAI Copyright Issues: Originality Estimation and Genericization**|Hiroaki Chiba-Okabe et.al.|[2406.03341](http://arxiv.org/abs/2406.03341)|null|
+|**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184](http://arxiv.org/abs/2406.03184)|null|
+|**2024-06-05**|**Language-guided Detection and Mitigation of Unknown Dataset Bias**|Zaiying Zhao et.al.|[2406.02889](http://arxiv.org/abs/2406.02889)|null|
+|**2024-06-05**|**Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter**|Peng Xing et.al.|[2406.02881](http://arxiv.org/abs/2406.02881)|null|
+|**2024-06-04**|**Latent Style-based Quantum GAN for high-quality Image Generation**|Su Yeon Chang et.al.|[2406.02668](http://arxiv.org/abs/2406.02668)|null|
 |**2024-06-04**|**DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering**|Zhongpai Gao et.al.|[2406.02518](http://arxiv.org/abs/2406.02518)|null|
 |**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
@@ -1667,6 +1682,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Searching Priors Makes Text-to-Video Synthesis Better**|Haoran Cheng et.al.|[2406.03215](http://arxiv.org/abs/2406.03215)|null|
+|**2024-06-05**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
+|**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|null|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511](http://arxiv.org/abs/2406.02511)|null|
