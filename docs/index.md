@@ -1020,7 +1020,7 @@ layout: default
 |**2024-01-30**|**Progress in artificial intelligence applications based on the combination of self-driven sensors and deep learning**|Weixiang Wan et.al.|[2402.09442](http://arxiv.org/abs/2402.09442)|null|
 |**2024-02-13**|**Approximately Piecewise E(3) Equivariant Point Networks**|Matan Atzmon et.al.|[2402.08529](http://arxiv.org/abs/2402.08529)|null|
 |**2024-02-11**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|**[link](https://github.com/nate-gillman/self-correcting-self-consuming)**|
-|**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356](http://arxiv.org/abs/2402.04356)|null|
+|**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356](http://arxiv.org/abs/2402.04356)|**[link](https://github.com/czzhang179/badm)**|
 |**2024-02-06**|**Novel IMU-based Adaptive Estimator of the Center of Rotation of Joints for Movement Analysis**|Sara García-de-Villa et.al.|[2402.04240](http://arxiv.org/abs/2402.04240)|null|
 |**2024-02-05**|**Replication of Impedance Identification Experiments on a Reinforcement-Learning-Controlled Digital Twin of Human Elbows**|Hao Yu et.al.|[2402.02904](http://arxiv.org/abs/2402.02904)|null|
 |**2024-02-01**|**Transferring human emotions to robot motions using Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00663](http://arxiv.org/abs/2402.00663)|null|
@@ -1374,7 +1374,7 @@ layout: default
 |**2024-03-28**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
 |**2024-03-28**|**Purposeful remixing with generative AI: Constructing designer voice in multimodal composing**|Xiao Tan et.al.|[2403.19095](http://arxiv.org/abs/2403.19095)|null|
 |**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818](http://arxiv.org/abs/2403.18818)|null|
-|**2024-03-27**|**Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching**|Jannis Chemseddine et.al.|[2403.18705](http://arxiv.org/abs/2403.18705)|null|
+|**2024-03-27**|**Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching**|Jannis Chemseddine et.al.|[2403.18705](http://arxiv.org/abs/2403.18705)|**[link](https://github.com/jchemseddine/conditional_wasserstein_distances)**|
 |**2024-03-27**|**InstructBrush: Learning Attention-based Instruction Optimization for Image Editing**|Ruoyu Zhao et.al.|[2403.18660](http://arxiv.org/abs/2403.18660)|null|
 |**2024-03-28**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
 |**2024-03-27**|**Attention Calibration for Disentangled Text-to-Image Personalization**|Yanbing Zhang et.al.|[2403.18551](http://arxiv.org/abs/2403.18551)|**[link](https://github.com/monalissaa/disendiff)**|
@@ -1445,7 +1445,7 @@ layout: default
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
 |**2024-03-18**|**QEAN: Quaternion-Enhanced Attention Network for Visual Dance Generation**|Zhizhen Zhou et.al.|[2403.11626](http://arxiv.org/abs/2403.11626)|null|
 |**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614](http://arxiv.org/abs/2403.11614)|**[link](https://github.com/Sonettoo/CRS-Diff)**|
-|**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|null|
+|**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|**[link](https://github.com/alibaba/effived)**|
 |**2024-03-18**|**Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors**|Ruicheng Wang et.al.|[2403.11503](http://arxiv.org/abs/2403.11503)|null|
 |**2024-03-18**|**DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation**|Jeongsol Kim et.al.|[2403.11415](http://arxiv.org/abs/2403.11415)|null|
 |**2024-03-17**|**StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining**|Tushar Kataria et.al.|[2403.11340](http://arxiv.org/abs/2403.11340)|null|
@@ -1827,7 +1827,7 @@ layout: default
 |**2024-03-18**|**DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing**|Hyeonho Jeong et.al.|[2403.12002](http://arxiv.org/abs/2403.12002)|null|
 |**2024-03-19**|**Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment**|Tengchuan Kou et.al.|[2403.11956](http://arxiv.org/abs/2403.11956)|**[link](https://github.com/qmme/t2vqa)**|
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
-|**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|null|
+|**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|**[link](https://github.com/alibaba/effived)**|
 |**2024-03-17**|**Endora: Video Generation Models as Endoscopy Simulators**|Chenxin Li et.al.|[2403.11050](http://arxiv.org/abs/2403.11050)|null|
 |**2024-03-15**|**DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**|Xuanlei Zhao et.al.|[2403.10266](http://arxiv.org/abs/2403.10266)|**[link](https://github.com/nus-hpc-ai-lab/opendit)**|
 |**2024-03-15**|**Animate Your Motion: Turning Still Images into Dynamic Videos**|Mingxiao Li et.al.|[2403.10179](http://arxiv.org/abs/2403.10179)|null|
