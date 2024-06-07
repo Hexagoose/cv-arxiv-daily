@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1042,13 +1042,13 @@ layout: default
 |**2024-06-05**|**Tackling GenAI Copyright Issues: Originality Estimation and Genericization**|Hiroaki Chiba-Okabe et.al.|[2406.03341](http://arxiv.org/abs/2406.03341)|null|
 |**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184](http://arxiv.org/abs/2406.03184)|null|
 |**2024-06-05**|**Language-guided Detection and Mitigation of Unknown Dataset Bias**|Zaiying Zhao et.al.|[2406.02889](http://arxiv.org/abs/2406.02889)|null|
-|**2024-06-05**|**Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter**|Peng Xing et.al.|[2406.02881](http://arxiv.org/abs/2406.02881)|null|
+|**2024-06-06**|**Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter**|Peng Xing et.al.|[2406.02881](http://arxiv.org/abs/2406.02881)|null|
 |**2024-06-04**|**Latent Style-based Quantum GAN for high-quality Image Generation**|Su Yeon Chang et.al.|[2406.02668](http://arxiv.org/abs/2406.02668)|null|
 |**2024-06-04**|**DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering**|Zhongpai Gao et.al.|[2406.02518](http://arxiv.org/abs/2406.02518)|null|
 |**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
 |**2024-06-04**|**Generative Active Learning for Long-tailed Instance Segmentation**|Muzhi Zhu et.al.|[2406.02435](http://arxiv.org/abs/2406.02435)|**[link](https://github.com/aim-uofa/DiverGen)**|
-|**2024-06-04**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347](http://arxiv.org/abs/2406.02347)|**[link](https://github.com/gojasper/flash-diffusion)**|
+|**2024-06-05**|**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation**|Clement Chadebec et.al.|[2406.02347](http://arxiv.org/abs/2406.02347)|**[link](https://github.com/gojasper/flash-diffusion)**|
 |**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
 |**2024-06-04**|**Analyzing the Feature Extractor Networks for Face Image Synthesis**|Erdi Sarıtaş et.al.|[2406.02153](http://arxiv.org/abs/2406.02153)|**[link](https://github.com/thended32/analyzingfeatureextractors)**|
 |**2024-06-04**|**The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise**|Yuanhao Ban et.al.|[2406.01970](http://arxiv.org/abs/2406.01970)|null|
@@ -1685,7 +1685,7 @@ layout: default
 |**2024-06-05**|**Searching Priors Makes Text-to-Video Synthesis Better**|Haoran Cheng et.al.|[2406.03215](http://arxiv.org/abs/2406.03215)|null|
 |**2024-06-05**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
 |**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|null|
-|**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
+|**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511](http://arxiv.org/abs/2406.02511)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
