@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1077,7 +1077,7 @@ layout: default
 |**2024-06-10**|**ProcessPainter: Learn Painting Process from Sequence Data**|Yiren Song et.al.|[2406.06062](http://arxiv.org/abs/2406.06062)|null|
 |**2024-06-09**|**OmniControlNet: Dual-stage Integration for Conditional Image Generation**|Yilin Wang et.al.|[2406.05871](http://arxiv.org/abs/2406.05871)|null|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
-|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
+|**2024-06-11**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
 |**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641](http://arxiv.org/abs/2406.05641)|null|
 |**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602](http://arxiv.org/abs/2406.05602)|null|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
