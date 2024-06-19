@@ -1936,7 +1936,7 @@
 |**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
 |**2024-05-29**|**EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture**|Jiaqi Xu et.al.|[2405.18991](http://arxiv.org/abs/2405.18991)|**[link](https://github.com/aigc-apps/easyanimate)**|
-|**2024-05-29**|**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**|Jiachen Li et.al.|[2405.18750](http://arxiv.org/abs/2405.18750)|null|
+|**2024-05-29**|**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback**|Jiachen Li et.al.|[2405.18750](http://arxiv.org/abs/2405.18750)|**[link](https://github.com/Ji4chenLi/t2v-turbo)**|
 |**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407](http://arxiv.org/abs/2405.18407)|null|
 |**2024-05-28**|**RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives**|Jaehong Yoon et.al.|[2405.18406](http://arxiv.org/abs/2405.18406)|**[link](https://github.com/jaehong31/raccoon)**|
 |**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326](http://arxiv.org/abs/2405.18326)|null|
@@ -1991,7 +1991,7 @@
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
 |**2024-04-25**|**Synthesizing Audio from Silent Video using Sequence to Sequence Modeling**|Hugo Garrido-Lestache Belinchon et.al.|[2404.17608](http://arxiv.org/abs/2404.17608)|**[link](https://github.com/Adam-Haile/vita-research-group)**|
 |**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824](http://arxiv.org/abs/2404.16824)|null|
-|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
+|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|**[link](https://github.com/merlresearch/TI2V-Zero)**|
 |**2024-04-26**|**Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model**|Gehui Chen et.al.|[2404.16305](http://arxiv.org/abs/2404.16305)|null|
 |**2024-04-24**|**Beyond Deepfake Images: Detecting AI-Generated Videos**|Danial Samadi Vahdati et.al.|[2404.15955](http://arxiv.org/abs/2404.15955)|null|
 |**2024-05-01**|**MotionMaster: Training-free Camera Motion Transfer For Video Generation**|Teng Hu et.al.|[2404.15789](http://arxiv.org/abs/2404.15789)|null|
