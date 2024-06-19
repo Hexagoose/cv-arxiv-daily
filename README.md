@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-06-17**|**Site-percolation transition of run-and-tumble particles**|Soumya K. Saha et.al.|[2406.11726](http://arxiv.org/abs/2406.11726)|null|
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713](http://arxiv.org/abs/2406.11713)|**[link](https://github.com/thanhluantrinh/lddgan)**|
 |**2024-06-17**|**Tackling the Curse of Dimensionality in Fractional and Tempered Fractional PDEs with Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2406.11708](http://arxiv.org/abs/2406.11708)|null|
-|**2024-06-17**|**Diffusion Generative Modelling for Divide-and-Conquer MCMC**|C. Trojan et.al.|[2406.11664](http://arxiv.org/abs/2406.11664)|null|
+|**2024-06-17**|**Diffusion Generative Modelling for Divide-and-Conquer MCMC**|C. Trojan et.al.|[2406.11664](http://arxiv.org/abs/2406.11664)|**[link](https://github.com/ctrojan/DiffusionDnC)**|
 |**2024-06-17**|**AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection**|Lingjie Kong et.al.|[2406.11643](http://arxiv.org/abs/2406.11643)|null|
 |**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227](http://arxiv.org/abs/2406.10227)|null|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225](http://arxiv.org/abs/2406.10225)|null|
@@ -979,7 +979,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Motion
 
@@ -1132,7 +1132,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Image Generation
 
@@ -1147,7 +1147,7 @@
 |**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
 |**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100](http://arxiv.org/abs/2406.11100)|null|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
-|**2024-06-16**|**STAR: Scale-wise Text-to-image generation via Auto-Regressive representations**|Xiaoxiao Ma et.al.|[2406.10797](http://arxiv.org/abs/2406.10797)|null|
+|**2024-06-16**|**STAR: Scale-wise Text-to-image generation via Auto-Regressive representations**|Xiaoxiao Ma et.al.|[2406.10797](http://arxiv.org/abs/2406.10797)|**[link](https://github.com/krennic999/STAR)**|
 |**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210](http://arxiv.org/abs/2406.10210)|null|
 |**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197](http://arxiv.org/abs/2406.10197)|null|
 |**2024-06-14**|**High-efficiency generation of vectorial holograms with metasurfaces**|Tong Liu et.al.|[2406.10072](http://arxiv.org/abs/2406.10072)|null|
@@ -1854,7 +1854,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Video Generation
 
@@ -1863,7 +1863,7 @@
 |**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
 |**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|null|
 |**2024-06-16**|**ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models**|Kaifeng Gao et.al.|[2406.10981](http://arxiv.org/abs/2406.10981)|null|
-|**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326](http://arxiv.org/abs/2406.10326)|null|
+|**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326](http://arxiv.org/abs/2406.10326)|**[link](https://github.com/rohit901/VANE-Bench)**|
 |**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227](http://arxiv.org/abs/2406.10227)|null|
 |**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
 |**2024-06-13**|**Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos**|Qingyuan Liu et.al.|[2406.09601](http://arxiv.org/abs/2406.09601)|null|
@@ -2108,7 +2108,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
