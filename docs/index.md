@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
+|**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**Formulation of Chimera Gradient Flows for Chemotaxis Systems with Indirect Signal Production and Degenerate Diffusion**|Yoshifumi Mimura et.al.|[2406.14536](http://arxiv.org/abs/2406.14536)|null|
+|**2024-06-20**|**ForSE+: Simulating non-Gaussian CMB foregrounds at 3 arcminutes in a stochastic way based on a generative adversarial network**|Jian Yao et.al.|[2406.14519](http://arxiv.org/abs/2406.14519)|**[link](https://github.com/yaojian95/ForSEplus)**|
+|**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
+|**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
+|**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
 |**2024-06-18**|**A Characterization of Semi-Involutory MDS Matrices**|Tapas Chatterjee et.al.|[2406.12842](http://arxiv.org/abs/2406.12842)|null|
 |**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
 |**2024-06-18**|**Influence Maximization via Graph Neural Bandits**|Yuting Feng et.al.|[2406.12835](http://arxiv.org/abs/2406.12835)|null|
@@ -987,6 +997,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Inverse optimal control problem in the non autonomous linear-quadratic case**|Frédéric Jean et.al.|[2406.14270](http://arxiv.org/abs/2406.14270)|null|
 |**2024-06-17**|**Holistic-Motion2D: Scalable Whole-body Human Motion Generation in 2D Space**|Yuan Wang et.al.|[2406.11253](http://arxiv.org/abs/2406.11253)|null|
 |**2024-06-15**|**FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models**|Zhikai Zhang et.al.|[2406.10740](http://arxiv.org/abs/2406.10740)|null|
 |**2024-06-15**|**HumanPlus: Humanoid Shadowing and Imitation from Humans**|Zipeng Fu et.al.|[2406.10454](http://arxiv.org/abs/2406.10454)|null|
@@ -1138,6 +1149,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
+|**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
+|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|null|
+|**2024-06-19**|**Development of a Dual-Input Neural Model for Detecting AI-Generated Imagery**|Jonathan Gallagher et.al.|[2406.13688](http://arxiv.org/abs/2406.13688)|null|
+|**2024-06-19**|**Improving Visual Commonsense in Language Models via Multiple Image Generation**|Guy Yariv et.al.|[2406.13621](http://arxiv.org/abs/2406.13621)|**[link](https://github.com/guyyariv/vlmig)**|
+|**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|null|
+|**2024-06-19**|**What's Next? Exploring Utilization, Challenges, and Future Directions of AI-Generated Image Tools in Graphic Design**|Yuying Tang et.al.|[2406.13436](http://arxiv.org/abs/2406.13436)|null|
 |**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831](http://arxiv.org/abs/2406.12831)|null|
 |**2024-06-19**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
 |**2024-06-18**|**Cyclic 2.5D Perceptual Loss for Cross-Modal 3D Image Synthesis: T1 MRI to Tau-PET**|Symac Kim et.al.|[2406.12632](http://arxiv.org/abs/2406.12632)|null|
@@ -1867,6 +1888,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
+|**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
+|**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
+|**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
+|**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|null|
+|**2024-06-20**|**HeartBeat: Towards Controllable Echocardiography Video Synthesis with Multimodal Conditions-Guided Diffusion Models**|Xinrui Zhou et.al.|[2406.14098](http://arxiv.org/abs/2406.14098)|null|
+|**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870](http://arxiv.org/abs/2406.13870)|null|
+|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|null|
+|**2024-06-19**|**ARDuP: Active Region Video Diffusion for Universal Policies**|Shuaiyi Huang et.al.|[2406.13301](http://arxiv.org/abs/2406.13301)|null|
 |**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831](http://arxiv.org/abs/2406.12831)|null|
 |**2024-06-18**|**Generative Artificial Intelligence-Guided User Studies: An Application for Air Taxi Services**|Shengdi Xiao et.al.|[2406.12296](http://arxiv.org/abs/2406.12296)|null|
 |**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
