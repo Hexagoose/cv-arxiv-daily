@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
-|**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
+|**2024-06-21**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
 |**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
 |**2024-06-20**|**Formulation of Chimera Gradient Flows for Chemotaxis Systems with Indirect Signal Production and Degenerate Diffusion**|Yoshifumi Mimura et.al.|[2406.14536](http://arxiv.org/abs/2406.14536)|null|
@@ -999,7 +999,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-20**|**Inverse optimal control problem in the non autonomous linear-quadratic case**|Frédéric Jean et.al.|[2406.14270](http://arxiv.org/abs/2406.14270)|null|
 |**2024-06-17**|**Holistic-Motion2D: Scalable Whole-body Human Motion Generation in 2D Space**|Yuan Wang et.al.|[2406.11253](http://arxiv.org/abs/2406.11253)|null|
-|**2024-06-15**|**FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models**|Zhikai Zhang et.al.|[2406.10740](http://arxiv.org/abs/2406.10740)|null|
+|**2024-06-21**|**FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models**|Zhikai Zhang et.al.|[2406.10740](http://arxiv.org/abs/2406.10740)|null|
 |**2024-06-15**|**HumanPlus: Humanoid Shadowing and Imitation from Humans**|Zipeng Fu et.al.|[2406.10454](http://arxiv.org/abs/2406.10454)|null|
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
 |**2024-06-13**|**OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning**|Tairan He et.al.|[2406.08858](http://arxiv.org/abs/2406.08858)|null|
