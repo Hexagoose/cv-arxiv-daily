@@ -67,13 +67,13 @@ layout: default
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|null|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
-|**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414](http://arxiv.org/abs/2406.09414)|null|
+|**2024-06-13**|**Depth Anything V2**|Lihe Yang et.al.|[2406.09414](http://arxiv.org/abs/2406.09414)|**[link](https://github.com/DepthAnything/Depth-Anything-V2)**|
 |**2024-06-13**|**Interpreting the Weight Space of Customized Diffusion Models**|Amil Dravid et.al.|[2406.09413](http://arxiv.org/abs/2406.09413)|**[link](https://github.com/snap-research/weights2weights)**|
 |**2024-06-13**|**ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing**|Jun-Kun Chen et.al.|[2406.09404](http://arxiv.org/abs/2406.09404)|null|
 |**2024-06-13**|**Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion**|Linzhan Mou et.al.|[2406.09402](http://arxiv.org/abs/2406.09402)|null|
 |**2024-06-13**|**OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation**|Junke Wang et.al.|[2406.09399](http://arxiv.org/abs/2406.09399)|**[link](https://github.com/foundationvision/omnitokenizer)**|
 |**2024-06-13**|**WonderWorld: Interactive 3D Scene Generation from a Single Image**|Hong-Xing Yu et.al.|[2406.09394](http://arxiv.org/abs/2406.09394)|null|
-|**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389](http://arxiv.org/abs/2406.09389)|null|
+|**2024-06-13**|**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior**|Baiang Li et.al.|[2406.09389](http://arxiv.org/abs/2406.09389)|**[link](https://github.com/ztMotaLee/Sagiri)**|
 |**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
 |**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
@@ -1181,7 +1181,7 @@ layout: default
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
 |**2024-06-17**|**ARTIST: Improving the Generation of Text-rich Images by Disentanglement**|Jianyi Zhang et.al.|[2406.12044](http://arxiv.org/abs/2406.12044)|null|
 |**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|**[link](https://github.com/rezashkv/diffusion_pruning)**|
-|**2024-06-17**|**Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI**|Robert Hönig et.al.|[2406.12027](http://arxiv.org/abs/2406.12027)|null|
+|**2024-06-17**|**Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI**|Robert Hönig et.al.|[2406.12027](http://arxiv.org/abs/2406.12027)|**[link](https://github.com/ethz-spylab/robust-style-mimicry)**|
 |**2024-06-17**|**Decomposed evaluations of geographic disparities in text-to-image models**|Abhishek Sureddy et.al.|[2406.11988](http://arxiv.org/abs/2406.11988)|null|
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
 |**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837](http://arxiv.org/abs/2406.11837)|**[link](https://github.com/zh460045050/vqgan-lc)**|
