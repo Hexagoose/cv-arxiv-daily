@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Network-Based Optimal Control of Pollution Growth**|Fausto Gozzi et.al.|[2406.15338](http://arxiv.org/abs/2406.15338)|null|
+|**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
+|**2024-06-21**|**Global existence of solutions to a nonlocal equation with degenerate anisotropic diffusion**|Maria Eckardt et.al.|[2406.15318](http://arxiv.org/abs/2406.15318)|null|
+|**2024-06-21**|**Interacting phase fields yielding phase separation on surfaces**|Benjamin Lledos et.al.|[2406.15300](http://arxiv.org/abs/2406.15300)|null|
+|**2024-06-21**|**Symmetry-controlled SrRuO3/SrTiO3/SrRuO3 magnetic tunnel junctions:Spin polarization and its relevance to tunneling magnetoresistance**|Kartik Samanta et.al.|[2406.15290](http://arxiv.org/abs/2406.15290)|null|
+|**2024-06-21**|**The random walk of intermittently self-propelled particles**|Agniva Datta et.al.|[2406.15277](http://arxiv.org/abs/2406.15277)|null|
+|**2024-06-21**|**You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**|Hongyu Chen et.al.|[2406.15269](http://arxiv.org/abs/2406.15269)|null|
+|**2024-06-21**|**Can cosmic rays explain the high ionisation rates in the Galactic Centre?**|Sruthiranjani Ravikularaman et.al.|[2406.15260](http://arxiv.org/abs/2406.15260)|null|
+|**2024-06-21**|**Drag reduction in surfactant-contaminated superhydrophobic channels at high Péclet numbers**|Samuel D. Tomlinson et.al.|[2406.15251](http://arxiv.org/abs/2406.15251)|null|
+|**2024-06-21**|**Unconstrained dynamic gel swelling generates transient surface deformations**|Alyssa VanZanten et.al.|[2406.15224](http://arxiv.org/abs/2406.15224)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-21**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
 |**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
@@ -1149,6 +1159,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**|Ali Naseh et.al.|[2406.15213](http://arxiv.org/abs/2406.15213)|null|
+|**2024-06-21**|**Disability Representations: Finding Biases in Automatic Image Generation**|Yannis Tevissen et.al.|[2406.14993](http://arxiv.org/abs/2406.14993)|null|
+|**2024-06-21**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
+|**2024-06-20**|**Evaluating Numerical Reasoning in Text-to-Image Models**|Ivana Kajić et.al.|[2406.14774](http://arxiv.org/abs/2406.14774)|null|
+|**2024-06-20**|**Holistic Evaluation for Interleaved Text-and-Image Generation**|Minqian Liu et.al.|[2406.14643](http://arxiv.org/abs/2406.14643)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
@@ -1888,6 +1903,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Image Conductor: Precision Control for Interactive Video Synthesis**|Yaowei Li et.al.|[2406.15339](http://arxiv.org/abs/2406.15339)|null|
+|**2024-06-21**|**MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252](http://arxiv.org/abs/2406.15252)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
 |**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
