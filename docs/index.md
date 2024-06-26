@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|null|
+|**2024-06-25**|**Fairness in Social Influence Maximization via Optimal Transport**|Shubham Chowdhary et.al.|[2406.17736](http://arxiv.org/abs/2406.17736)|null|
+|**2024-06-25**|**Extreme Diffusion Measures Statistical Fluctuations of the Environment**|Jacob Hass et.al.|[2406.17733](http://arxiv.org/abs/2406.17733)|null|
+|**2024-06-25**|**On Explicit Solutions for Coupled Reaction-Diffusion and Burgers-Type Equations with Variable Coefficients Through a Riccati System**|José M. Escorcia et.al.|[2406.17690](http://arxiv.org/abs/2406.17690)|null|
+|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|null|
+|**2024-06-25**|**Asymptotic Properties of Random Homology Induced by Diffusion Processes**|Artem Galkin et.al.|[2406.17683](http://arxiv.org/abs/2406.17683)|null|
+|**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
+|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
+|**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
+|**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608](http://arxiv.org/abs/2406.17608)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864](http://arxiv.org/abs/2406.16864)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
@@ -1171,6 +1181,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Detection of Synthetic Face Images: Accuracy, Robustness, Generalization**|Nela Petrzelkova et.al.|[2406.17547](http://arxiv.org/abs/2406.17547)|null|
+|**2024-06-25**|**TSynD: Targeted Synthetic Data Generation for Enhanced Medical Image Classification**|Joshua Niemeijer et.al.|[2406.17473](http://arxiv.org/abs/2406.17473)|null|
+|**2024-06-25**|**SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing**|Ruihuang Li et.al.|[2406.17396](http://arxiv.org/abs/2406.17396)|null|
+|**2024-06-25**|**Semantic Deep Hiding for Robust Unlearnable Examples**|Ruohan Meng et.al.|[2406.17349](http://arxiv.org/abs/2406.17349)|null|
+|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|null|
+|**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/abs/2406.17342)|null|
+|**2024-06-25**|**LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing**|Aoyang Liu et.al.|[2406.17236](http://arxiv.org/abs/2406.17236)|null|
+|**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100](http://arxiv.org/abs/2406.17100)|null|
 |**2024-06-24**|**DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation**|Yuang Peng et.al.|[2406.16855](http://arxiv.org/abs/2406.16855)|**[link](https://github.com/yuangpeng/dreambench_plus)**|
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807](http://arxiv.org/abs/2406.16807)|null|
 |**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683](http://arxiv.org/abs/2406.16683)|null|
@@ -1925,6 +1943,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Text-Animator: Controllable Visual Text Video Generation**|Lin Liu et.al.|[2406.17777](http://arxiv.org/abs/2406.17777)|null|
+|**2024-06-25**|**MotionBooth: Motion-Aware Customized Text-to-Video Generation**|Jianzong Wu et.al.|[2406.17758](http://arxiv.org/abs/2406.17758)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
 |**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
 |**2024-06-24**|**Video-Infinity: Distributed Long Video Generation**|Zhenxiong Tan et.al.|[2406.16260](http://arxiv.org/abs/2406.16260)|null|
