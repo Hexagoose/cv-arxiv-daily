@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|null|
 |**2024-06-25**|**Asymptotic Properties of Random Homology Induced by Diffusion Processes**|Artem Galkin et.al.|[2406.17683](http://arxiv.org/abs/2406.17683)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
-|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
+|**2024-06-26**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608](http://arxiv.org/abs/2406.17608)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864](http://arxiv.org/abs/2406.16864)|null|
@@ -1029,7 +1029,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Motion
 
@@ -1185,7 +1185,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Image Generation
 
@@ -1949,7 +1949,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 ## Video Generation
 
@@ -2224,7 +2224,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

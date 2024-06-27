@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -21,7 +21,7 @@ layout: default
 |**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688](http://arxiv.org/abs/2406.17688)|null|
 |**2024-06-25**|**Asymptotic Properties of Random Homology Induced by Diffusion Processes**|Artem Galkin et.al.|[2406.17683](http://arxiv.org/abs/2406.17683)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
-|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
+|**2024-06-26**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
 |**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636](http://arxiv.org/abs/2406.17636)|null|
 |**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608](http://arxiv.org/abs/2406.17608)|**[link](https://github.com/maxiao0234/ttga)**|
 |**2024-06-24**|**StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal**|Chongjie Ye et.al.|[2406.16864](http://arxiv.org/abs/2406.16864)|null|
