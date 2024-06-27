@@ -2212,7 +2212,7 @@ layout: default
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/abs/2402.03162)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040](http://arxiv.org/abs/2402.03040)|**[link](https://github.com/invictus717/interactivevideo)**|
 |**2024-02-04**|**Video Editing for Video Retrieval**|Bin Zhu et.al.|[2402.02335](http://arxiv.org/abs/2402.02335)|null|
-|**2024-02-06**|**DeCoF: Generated Video Detection via Frame Consistency**|Long Ma et.al.|[2402.02085](http://arxiv.org/abs/2402.02085)|null|
+|**2024-02-06**|**DeCoF: Generated Video Detection via Frame Consistency**|Long Ma et.al.|[2402.02085](http://arxiv.org/abs/2402.02085)|**[link](https://github.com/wuwuwuyue/decof)**|
 |**2024-02-02**|**NeuroCine: Decoding Vivid Video Sequences from Human Brain Activties**|Jingyuan Sun et.al.|[2402.01590](http://arxiv.org/abs/2402.01590)|null|
 |**2024-02-02**|**Boximator: Generating Rich and Controllable Motions for Video Synthesis**|Jiawei Wang et.al.|[2402.01566](http://arxiv.org/abs/2402.01566)|null|
 |**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
