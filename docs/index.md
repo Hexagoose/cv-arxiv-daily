@@ -186,7 +186,7 @@ layout: default
 |**2024-06-05**|**Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion**|Hao Wen et.al.|[2406.03184](http://arxiv.org/abs/2406.03184)|**[link](https://github.com/Costwen/Ouroboros3D)**|
 |**2024-06-04**|**Dreamguider: Improved Training free Diffusion-based Conditional Generation**|Nithin Gopalakrishnan Nair et.al.|[2406.02549](http://arxiv.org/abs/2406.02549)|null|
 |**2024-06-05**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
-|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
+|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|**[link](https://github.com/a-suozhang/vidit-q)**|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507](http://arxiv.org/abs/2406.02507)|null|
 |**2024-06-04**|**Tensor Network Space-Time Spectral Collocation Method for Solving the Nonlinear Convection Diffusion Equation**|Dibyendu Adak et.al.|[2406.02505](http://arxiv.org/abs/2406.02505)|null|
@@ -2039,7 +2039,7 @@ layout: default
 |**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044](http://arxiv.org/abs/2406.06044)|null|
 |**2024-06-09**|**Ctrl-V: Higher Fidelity Video Generation with Bounding-Box Controlled Object Motion**|Ge Ya Luo et.al.|[2406.05630](http://arxiv.org/abs/2406.05630)|**[link](https://github.com/oooolga/Ctrl-V)**|
 |**2024-06-08**|**Training-Free Robust Interactive Video Object Segmentation**|Xiaoli Wei et.al.|[2406.05485](http://arxiv.org/abs/2406.05485)|null|
-|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
+|**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|**[link](https://github.com/bujiazi/motionclone)**|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**Zero-Shot Video Editing through Adaptive Sliding Score Distillation**|Lianghan Zhu et.al.|[2406.04888](http://arxiv.org/abs/2406.04888)|null|
 |**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
@@ -2053,7 +2053,7 @@ layout: default
 |**2024-06-05**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
 |**2024-06-05**|**Controllable Talking Face Generation by Implicit Facial Keypoints Editing**|Dong Zhao et.al.|[2406.02880](http://arxiv.org/abs/2406.02880)|null|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
-|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
+|**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|**[link](https://github.com/a-suozhang/vidit-q)**|
 |**2024-06-04**|**V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation**|Cong Wang et.al.|[2406.02511](http://arxiv.org/abs/2406.02511)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-06-04**|**I4VGen: Image as Stepping Stone for Text-to-Video Generation**|Xiefan Guo et.al.|[2406.02230](http://arxiv.org/abs/2406.02230)|null|
