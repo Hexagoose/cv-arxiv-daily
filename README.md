@@ -304,7 +304,7 @@
 |**2024-05-17**|**Reconstruction of Manipulated Garment with Guided Deformation Prior**|Ren Li et.al.|[2405.10934](http://arxiv.org/abs/2405.10934)|null|
 |**2024-05-17**|**Limitations of the rate-distribution formalism in describing luminescence quenching in the presence of diffusion**|Jakub Jędrak et.al.|[2405.10903](http://arxiv.org/abs/2405.10903)|null|
 |**2024-05-17**|**Improving face generation quality and prompt following with synthetic captions**|Michail Tarasiou et.al.|[2405.10864](http://arxiv.org/abs/2405.10864)|null|
-|**2024-05-17**|**Diffusion Geometry**|Iolo Jones et.al.|[2405.10858](http://arxiv.org/abs/2405.10858)|null|
+|**2024-05-17**|**Diffusion Geometry**|Iolo Jones et.al.|[2405.10858](http://arxiv.org/abs/2405.10858)|**[link](https://github.com/Iolo-Jones/DiffusionGeometry)**|
 |**2024-05-17**|**Some remarks on a mathematical model for water flow in porous media with competition between transport and diffusion**|Judita Runcziková et.al.|[2405.10751](http://arxiv.org/abs/2405.10751)|null|
 |**2024-05-17**|**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems**|Hanyu Chen et.al.|[2405.10748](http://arxiv.org/abs/2405.10748)|**[link](https://github.com/hanyu-chen373/deepdataconsistency)**|
 |**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723](http://arxiv.org/abs/2405.10723)|null|
