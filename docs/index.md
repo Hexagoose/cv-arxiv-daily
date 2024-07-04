@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|null|
+|**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297](http://arxiv.org/abs/2407.03297)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168](http://arxiv.org/abs/2407.03168)|**[link](https://github.com/KwaiVGI/LivePortrait)**|
+|**2024-07-03**|**Closing Pandora's Box -- The deepest X-ray observations of Abell 2744 and a multi-wavelength merger picture**|Urmila Chadayammuri et.al.|[2407.03142](http://arxiv.org/abs/2407.03142)|null|
+|**2024-07-03**|**$L_p$ -norm Distortion-Efficient Adversarial Attack**|Chao Zhou et.al.|[2407.03115](http://arxiv.org/abs/2407.03115)|null|
+|**2024-07-03**|**Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis**|Tong Zhou et.al.|[2407.03089](http://arxiv.org/abs/2407.03089)|null|
+|**2024-07-03**|**Electromagnetic Property Sensing Based on Diffusion Model in ISAC System**|Yuhua Jiang et.al.|[2407.03075](http://arxiv.org/abs/2407.03075)|null|
+|**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050](http://arxiv.org/abs/2407.03050)|null|
+|**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043](http://arxiv.org/abs/2407.03043)|null|
+|**2024-07-03**|**NLP Sampling: Combining MCMC and NLP Methods for Diverse Constrained Sampling**|Marc Toussaint et.al.|[2407.03035](http://arxiv.org/abs/2407.03035)|null|
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
 |**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482](http://arxiv.org/abs/2407.02482)|null|
 |**2024-07-02**|**Mirages and Large TeV Halo-Pulsar Offsets from Cosmic Ray Propagation**|Yiwei Bao et.al.|[2407.02478](http://arxiv.org/abs/2407.02478)|null|
@@ -1067,6 +1077,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**The path towards contact-based physical human-robot interaction**|Mohammad Farajtabar et.al.|[2407.02664](http://arxiv.org/abs/2407.02664)|null|
+|**2024-07-02**|**HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes**|Zhiming Hu et.al.|[2407.02633](http://arxiv.org/abs/2407.02633)|null|
 |**2024-07-02**|**Aligning Human Motion Generation with Human Perceptions**|Haoru Wang et.al.|[2407.02272](http://arxiv.org/abs/2407.02272)|null|
 |**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104](http://arxiv.org/abs/2407.02104)|null|
 |**2024-07-01**|**Task-oriented Over-the-air Computation for Edge-device Co-inference with Balanced Classification Accuracy**|Xiang Jiao et.al.|[2407.00955](http://arxiv.org/abs/2407.00955)|null|
@@ -1230,6 +1242,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|null|
+|**2024-07-03**|**Towards High Resolution Real-Time Optical Flow Particle Image Velocimetry**|Juan Pimienta et.al.|[2407.03057](http://arxiv.org/abs/2407.03057)|null|
+|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|null|
+|**2024-07-03**|**Representation learning with CGAN for casual inference**|Zhaotian Weng et.al.|[2407.02825](http://arxiv.org/abs/2407.02825)|null|
+|**2024-07-03**|**Mobile Edge Generation-Enabled Digital Twin: Architecture Design and Research Opportunities**|Xiaoxia Xu et.al.|[2407.02804](http://arxiv.org/abs/2407.02804)|null|
 |**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|null|
 |**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
@@ -2016,6 +2034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Robot Shape and Location Retention in Video Generation Using Diffusion Models**|Peng Wang et.al.|[2407.02873](http://arxiv.org/abs/2407.02873)|null|
 |**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371](http://arxiv.org/abs/2407.02371)|null|
 |**2024-07-02**|**GVDIFF: Grounded Text-to-Video Generation with Diffusion Models**|Huanzhang Dou et.al.|[2407.01921](http://arxiv.org/abs/2407.01921)|null|
 |**2024-07-01**|**Evaluation of Text-to-Video Generation Models: A Dynamics Perspective**|Mingxiang Liao et.al.|[2407.01094](http://arxiv.org/abs/2407.01094)|null|
