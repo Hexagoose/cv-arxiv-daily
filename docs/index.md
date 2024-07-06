@@ -1079,7 +1079,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-02**|**The path towards contact-based physical human-robot interaction**|Mohammad Farajtabar et.al.|[2407.02664](http://arxiv.org/abs/2407.02664)|null|
 |**2024-07-02**|**HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes**|Zhiming Hu et.al.|[2407.02633](http://arxiv.org/abs/2407.02633)|null|
-|**2024-07-02**|**Aligning Human Motion Generation with Human Perceptions**|Haoru Wang et.al.|[2407.02272](http://arxiv.org/abs/2407.02272)|null|
+|**2024-07-02**|**Aligning Human Motion Generation with Human Perceptions**|Haoru Wang et.al.|[2407.02272](http://arxiv.org/abs/2407.02272)|**[link](https://github.com/ou524u/AlignHP)**|
 |**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104](http://arxiv.org/abs/2407.02104)|null|
 |**2024-07-01**|**Task-oriented Over-the-air Computation for Edge-device Co-inference with Balanced Classification Accuracy**|Xiang Jiao et.al.|[2407.00955](http://arxiv.org/abs/2407.00955)|null|
 |**2024-06-30**|**OfCaM: Global Human Mesh Recovery via Optimization-free Camera Motion Scale Calibration**|Fengyuan Yang et.al.|[2407.00574](http://arxiv.org/abs/2407.00574)|null|
@@ -1248,7 +1248,7 @@ layout: default
 |**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|null|
 |**2024-07-03**|**Representation learning with CGAN for casual inference**|Zhaotian Weng et.al.|[2407.02825](http://arxiv.org/abs/2407.02825)|null|
 |**2024-07-03**|**Mobile Edge Generation-Enabled Digital Twin: Architecture Design and Research Opportunities**|Xiaoxia Xu et.al.|[2407.02804](http://arxiv.org/abs/2407.02804)|null|
-|**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|null|
+|**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|**[link](https://github.com/limuloo/migc)**|
 |**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
 |**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790](http://arxiv.org/abs/2407.01790)|null|
