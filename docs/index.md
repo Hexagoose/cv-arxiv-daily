@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
+|**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
+|**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860](http://arxiv.org/abs/2407.07860)|null|
+|**2024-07-10**|**Generic Numerical Analysis of Stochastic Reaction Diffusion Model with applications in excitable media**|Yahya Alnashri et.al.|[2407.07834](http://arxiv.org/abs/2407.07834)|null|
+|**2024-07-10**|**Dynamical signatures of discontinuous phase transitions: How phase coexistence determines exponential versus power-law scaling**|Krzysztof Ptaszynski et.al.|[2407.07832](http://arxiv.org/abs/2407.07832)|null|
+|**2024-07-10**|**Universal and non-universal signatures in the scaling functions of critical variables**|Gianluca Teza et.al.|[2407.07782](http://arxiv.org/abs/2407.07782)|null|
+|**2024-07-10**|**Correlation of srf performance to oxygen diffusion length of medium temperature heat treated cavities**|C. Bate et.al.|[2407.07779](http://arxiv.org/abs/2407.07779)|null|
+|**2024-07-10**|**Challenges in modeling the dark matter halo of NGC 1052-DF2: Cored versus cuspy halo models**|K. Aditya et.al.|[2407.07770](http://arxiv.org/abs/2407.07770)|null|
+|**2024-07-10**|**Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations**|Pradeep Bajracharya et.al.|[2407.07674](http://arxiv.org/abs/2407.07674)|null|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
 |**2024-07-09**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938](http://arxiv.org/abs/2407.06938)|null|
@@ -1273,6 +1283,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
+|**2024-07-10**|**StoryDiffusion: How to Support UX Storyboarding With Generative-AI**|Zhaohui Liang et.al.|[2407.07672](http://arxiv.org/abs/2407.07672)|null|
+|**2024-07-10**|**Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning**|Chuanpu Li et.al.|[2407.07660](http://arxiv.org/abs/2407.07660)|null|
+|**2024-07-10**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614](http://arxiv.org/abs/2407.07614)|**[link](https://github.com/fusiming3/mars)**|
+|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|null|
+|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295](http://arxiv.org/abs/2407.07295)|null|
+|**2024-07-09**|**Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion**|Yu Cao et.al.|[2407.07249](http://arxiv.org/abs/2407.07249)|null|
+|**2024-07-09**|**Accelerating Mobile Edge Generation (MEG) by Constrained Learning**|Xiaoxia Xu et.al.|[2407.07245](http://arxiv.org/abs/2407.07245)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Spanish TrOCR: Leveraging Transfer Learning for Language Adaptation**|Filipe Lauar et.al.|[2407.06950](http://arxiv.org/abs/2407.06950)|null|
 |**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
@@ -2087,6 +2105,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
+|**2024-07-10**|**Video-to-Audio Generation with Hidden Alignment**|Manjie Xu et.al.|[2407.07464](http://arxiv.org/abs/2407.07464)|null|
 |**2024-07-09**|**Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617](http://arxiv.org/abs/2407.06617)|null|
 |**2024-07-08**|**MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions**|Xuan Ju et.al.|[2407.06358](http://arxiv.org/abs/2407.06358)|null|
 |**2024-07-08**|**Dynamics of quantum turbulence in axially rotating thermal counterflow**|Ritesh Dwivedi et.al.|[2407.06311](http://arxiv.org/abs/2407.06311)|null|
