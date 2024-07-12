@@ -723,7 +723,7 @@ layout: default
 |**2024-03-28**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
 |**2024-03-27**|**HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions**|Hao Xu et.al.|[2403.18575](http://arxiv.org/abs/2403.18575)|**[link](https://github.com/hxwork/handbooster_pytorch)**|
 |**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936](http://arxiv.org/abs/2403.17936)|null|
-|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|**[link](https://github.com/autonomousvision/sledge)**|
 |**2024-03-26**|**The instability mechanism of compact multiplanet systems**|Caleb Lammers et.al.|[2403.17928](http://arxiv.org/abs/2403.17928)|null|
 |**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924](http://arxiv.org/abs/2403.17924)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
 |**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
