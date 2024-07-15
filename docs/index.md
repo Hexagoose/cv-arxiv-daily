@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**A Primitive Model for Predicting Membrane Currents in Excitable Cells Based Only on Ion Diffusion Coefficients**|Vivaan Patel et.al.|[2407.09474](http://arxiv.org/abs/2407.09474)|null|
+|**2024-07-12**|**Weak Chaos, Anomalous Diffusion, and Weak Ergodicity Breaking in Systems with Delay**|Tony Albers et.al.|[2407.09449](http://arxiv.org/abs/2407.09449)|null|
+|**2024-07-12**|**Intensive broadband reverberation mapping of Fairall 9 with 1.8 years of daily Swift monitoring**|R. Edelson et.al.|[2407.09445](http://arxiv.org/abs/2407.09445)|null|
+|**2024-07-12**|**Efficient energy-stable parametric finite element methods for surface diffusion flow and applications in solid-state dewetting**|Meng Li et.al.|[2407.09418](http://arxiv.org/abs/2407.09418)|null|
+|**2024-07-12**|**A Numerical Study of WENO Approximations to Sharp Propagating Fronts for Reaction-Diffusion Systems**|Jiaxi Gu et.al.|[2407.09393](http://arxiv.org/abs/2407.09393)|null|
+|**2024-07-12**|**Grain boundaries control lithiation of solid solution substrates in lithium metal batteries**|Leonardo Shoji Aota et.al.|[2407.09374](http://arxiv.org/abs/2407.09374)|null|
+|**2024-07-12**|**Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees**|Alexia Jolicoeur-Martineau et.al.|[2407.09357](http://arxiv.org/abs/2407.09357)|null|
+|**2024-07-12**|**Thermodynamics of Giant Molecular Clouds: The Effects of Dust Grain Size**|Nadine H. Soliman et.al.|[2407.09343](http://arxiv.org/abs/2407.09343)|null|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
+|**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294](http://arxiv.org/abs/2407.09294)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675](http://arxiv.org/abs/2407.08675)|null|
@@ -1294,6 +1304,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
+|**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Surgical Text-to-Image Generation**|Chinedu Innocent Nwoye et.al.|[2407.09230](http://arxiv.org/abs/2407.09230)|null|
+|**2024-07-12**|**DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training**|Chen Xin et.al.|[2407.09174](http://arxiv.org/abs/2407.09174)|**[link](https://github.com/chen-xin-94/dart)**|
+|**2024-07-12**|**Machine Apophenia: The Kaleidoscopic Generation of Architectural Images**|Alexey Tikhonov et.al.|[2407.09172](http://arxiv.org/abs/2407.09172)|null|
+|**2024-07-12**|**LAPT: Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models**|Yabin Zhang et.al.|[2407.08966](http://arxiv.org/abs/2407.08966)|**[link](https://github.com/ybzh/lapt)**|
 |**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683](http://arxiv.org/abs/2407.08683)|**[link](https://github.com/tencentarc/seed-story)**|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675](http://arxiv.org/abs/2407.08675)|null|
 |**2024-07-12**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
@@ -2122,6 +2139,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Inference Optimization of Foundation Models on AI Accelerators**|Youngsuk Park et.al.|[2407.09111](http://arxiv.org/abs/2407.09111)|null|
+|**2024-07-12**|**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**|Jeongho Kim et.al.|[2407.09012](http://arxiv.org/abs/2407.09012)|null|
+|**2024-07-12**|**Bora: Biomedical Generalist Video Generation Model**|Weixiang Sun et.al.|[2407.08944](http://arxiv.org/abs/2407.08944)|null|
 |**2024-07-11**|**Still-Moving: Customized Video Generation without Customized Video Data**|Hila Chefer et.al.|[2407.08674](http://arxiv.org/abs/2407.08674)|null|
 |**2024-07-11**|**A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights**|Wentao Lei et.al.|[2407.08428](http://arxiv.org/abs/2407.08428)|**[link](https://github.com/wentaol86/awesome-human-body-video-generation)**|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
