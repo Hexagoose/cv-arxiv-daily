@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1296,7 +1296,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**SEED-Story: Multimodal Long Story Generation with Large Language Model**|Shuai Yang et.al.|[2407.08683](http://arxiv.org/abs/2407.08683)|**[link](https://github.com/tencentarc/seed-story)**|
 |**2024-07-11**|**CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs**|Leah Chong et.al.|[2407.08675](http://arxiv.org/abs/2407.08675)|null|
-|**2024-07-11**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
+|**2024-07-12**|**Neural Poisson Solver: A Universal and Continuous Framework for Natural Signal Blending**|Delong Wu et.al.|[2407.08457](http://arxiv.org/abs/2407.08457)|null|
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
 |**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221](http://arxiv.org/abs/2407.08221)|null|
 |**2024-07-11**|**Enriching Information and Preserving Semantic Consistency in Expanding Curvilinear Object Segmentation Datasets**|Qin Lei et.al.|[2407.08209](http://arxiv.org/abs/2407.08209)|**[link](https://github.com/tanlei0/costg)**|
@@ -2127,7 +2127,7 @@ layout: default
 |**2024-07-11**|**E2VIDiff: Perceptual Events-to-Video Reconstruction using Diffusion Priors**|Jinxiu Liang et.al.|[2407.08231](http://arxiv.org/abs/2407.08231)|null|
 |**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
 |**2024-07-10**|**Video-to-Audio Generation with Hidden Alignment**|Manjie Xu et.al.|[2407.07464](http://arxiv.org/abs/2407.07464)|null|
-|**2024-07-09**|**Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617](http://arxiv.org/abs/2407.06617)|null|
+|**2024-07-12**|**Mobius: A High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617](http://arxiv.org/abs/2407.06617)|null|
 |**2024-07-08**|**MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions**|Xuan Ju et.al.|[2407.06358](http://arxiv.org/abs/2407.06358)|null|
 |**2024-07-08**|**Dynamics of quantum turbulence in axially rotating thermal counterflow**|Ritesh Dwivedi et.al.|[2407.06311](http://arxiv.org/abs/2407.06311)|null|
 |**2024-07-08**|**VIMI: Grounding Video Generation through Multi-modal Instruction**|Yuwei Fang et.al.|[2407.06304](http://arxiv.org/abs/2407.06304)|null|
