@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
+|**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
+|**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2407.11954](http://arxiv.org/abs/2407.11954)|null|
+|**2024-07-16**|**Spatiotemporal dynamics of ionic reorganization near biological membrane interfaces**|Hyeongjoo Row et.al.|[2407.11947](http://arxiv.org/abs/2407.11947)|null|
+|**2024-07-16**|**Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**|Leo Klarner et.al.|[2407.11942](http://arxiv.org/abs/2407.11942)|**[link](https://github.com/leojklarner/context-guided-diffusion)**|
+|**2024-07-16**|**Revisiting primordial magnetic fields through 21-cm physics: Bounds and forecasts**|Arko Bhaumik et.al.|[2407.11923](http://arxiv.org/abs/2407.11923)|null|
+|**2024-07-16**|**Energy dependence of the knee in the cosmic ray spectrum across the Milky Way**|C. Prevotat et.al.|[2407.11911](http://arxiv.org/abs/2407.11911)|null|
+|**2024-07-16**|**Impact of coherent mode coupling on noise performance in elliptical aperture VCSELs for datacom**|Cristina Rimoldi et.al.|[2407.11899](http://arxiv.org/abs/2407.11899)|null|
+|**2024-07-16**|**Single Layer Single Gradient Unlearning**|Zikui Cai et.al.|[2407.11867](http://arxiv.org/abs/2407.11867)|null|
+|**2024-07-16**|**Navigating Munk's Abyssal Recipes: Reconciling the Paradoxes and Suggesting an Upwelling Mechanism for Bottom Water in a Flat-Bottom Ocean**|Lei Han et.al.|[2407.11864](http://arxiv.org/abs/2407.11864)|null|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
 |**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937](http://arxiv.org/abs/2407.10937)|**[link](https://github.com/yhZhai/idol)**|
@@ -1147,11 +1157,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Imitation of human motion achieves natural head movements for humanoid robots in an active-speaker detection task**|Bosong Ding et.al.|[2407.11915](http://arxiv.org/abs/2407.11915)|**[link](https://github.com/dingdingding60/humanoids2024hri)**|
+|**2024-07-16**|**Length-Aware Motion Synthesis via Latent Diffusion**|Alessio Sampieri et.al.|[2407.11532](http://arxiv.org/abs/2407.11532)|null|
+|**2024-07-16**|**Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**|Guowei Xu et.al.|[2407.11494](http://arxiv.org/abs/2407.11494)|**[link](https://github.com/guoweixu368/sld-hmp)**|
 |**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625](http://arxiv.org/abs/2407.10625)|null|
 |**2024-07-15**|**Learning Social Cost Functions for Human-Aware Path Planning**|Andrea Eirale et.al.|[2407.10547](http://arxiv.org/abs/2407.10547)|**[link](https://github.com/pic4ser/socialcostfunction)**|
 |**2024-07-15**|**Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation**|Peng Jin et.al.|[2407.10528](http://arxiv.org/abs/2407.10528)|null|
 |**2024-07-15**|**SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation**|Jordan Juravsky et.al.|[2407.10481](http://arxiv.org/abs/2407.10481)|null|
-|**2024-07-14**|**InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation**|Zeyu Zhang et.al.|[2407.10061](http://arxiv.org/abs/2407.10061)|null|
+|**2024-07-14**|**InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation**|Zeyu Zhang et.al.|[2407.10061](http://arxiv.org/abs/2407.10061)|**[link](https://github.com/steve-zeyu-zhang/InfiniMotion)**|
 |**2024-07-13**|**LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment**|Yiming Ren et.al.|[2407.09833](http://arxiv.org/abs/2407.09833)|null|
 |**2024-07-11**|**A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights**|Wentao Lei et.al.|[2407.08428](http://arxiv.org/abs/2407.08428)|**[link](https://github.com/wentaol86/awesome-human-body-video-generation)**|
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
@@ -1320,6 +1333,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
+|**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664](http://arxiv.org/abs/2407.11664)|null|
+|**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633](http://arxiv.org/abs/2407.11633)|**[link](https://github.com/feizc/dit-moe)**|
+|**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594](http://arxiv.org/abs/2407.11594)|null|
+|**2024-07-16**|**TGIF: Text-Guided Inpainting Forgery Dataset**|Hannes Mareen et.al.|[2407.11566](http://arxiv.org/abs/2407.11566)|**[link](https://github.com/idlabmedia/tgif-dataset)**|
+|**2024-07-16**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502](http://arxiv.org/abs/2407.11502)|null|
+|**2024-07-16**|**AIGC for Industrial Time Series: From Deep Generative Models to Large Generative Models**|Lei Ren et.al.|[2407.11480](http://arxiv.org/abs/2407.11480)|null|
+|**2024-07-16**|**Cover-separable Fixed Neural Network Steganography via Deep Generative Models**|Guobiao Li et.al.|[2407.11405](http://arxiv.org/abs/2407.11405)|**[link](https://github.com/albblgb/cs-fnns)**|
+|**2024-07-16**|**Flatfish Disease Detection Based on Part Segmentation Approach and Disease Image Generation**|Seo-Bin Hwang et.al.|[2407.11348](http://arxiv.org/abs/2407.11348)|null|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288](http://arxiv.org/abs/2407.11288)|null|
 |**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923](http://arxiv.org/abs/2407.10923)|null|
 |**2024-07-16**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|
 |**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
@@ -2165,6 +2188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-16**|**Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis**|Vasco Ramos et.al.|[2407.11814](http://arxiv.org/abs/2407.11814)|null|
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
 |**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937](http://arxiv.org/abs/2407.10937)|**[link](https://github.com/yhZhai/idol)**|
 |**2024-07-15**|**A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication**|Jingyi Deng et.al.|[2407.10575](http://arxiv.org/abs/2407.10575)|null|
