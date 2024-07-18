@@ -1839,7 +1839,7 @@ layout: default
 |**2024-04-09**|**High Noise Scheduling is a Must**|Mahmut S. Gokmen et.al.|[2404.06353](http://arxiv.org/abs/2404.06353)|null|
 |**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240](http://arxiv.org/abs/2404.06240)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|**[link](https://github.com/nicecv/diffharmony)**|
-|**2024-04-09**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|null|
+|**2024-04-09**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|**[link](https://github.com/edshkim98/localdiffusion-hallucination)**|
 |**2024-04-09**|**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion**|Ming Tao et.al.|[2404.05979](http://arxiv.org/abs/2404.05979)|**[link](https://github.com/tobran/storyimager)**|
 |**2024-04-08**|**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing**|Jing Gu et.al.|[2404.05717](http://arxiv.org/abs/2404.05717)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|**[link](https://github.com/bytedance/MoMA)**|
@@ -1870,7 +1870,7 @@ layout: default
 |**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
 |**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790](http://arxiv.org/abs/2404.02790)|null|
 |**2024-04-03**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2404.02733](http://arxiv.org/abs/2404.02733)|**[link](https://github.com/instantstyle/instantstyle)**|
-|**2024-04-03**|**Model-agnostic Origin Attribution of Generated Images with Few-shot Examples**|Fengyuan Liu et.al.|[2404.02697](http://arxiv.org/abs/2404.02697)|null|
+|**2024-04-03**|**Model-agnostic Origin Attribution of Generated Images with Few-shot Examples**|Fengyuan Liu et.al.|[2404.02697](http://arxiv.org/abs/2404.02697)|**[link](https://github.com/uwFengyuan/OCC-CLIP)**|
 |**2024-04-03**|**Severity Controlled Text-to-Image Generative Model Bias Manipulation**|Jordan Vice et.al.|[2404.02530](http://arxiv.org/abs/2404.02530)|null|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
