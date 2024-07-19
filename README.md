@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2024-07-17**|**Vanishing viscosity limit for hyperbolic system of Temple class in 1-d with nonlinear viscosity**|Boris Haspot et.al.|[2407.12766](http://arxiv.org/abs/2407.12766)|null|
 |**2024-07-17**|**GroundUp: Rapid Sketch-Based 3D City Massing**|Gizem Esra Unlu et.al.|[2407.12739](http://arxiv.org/abs/2407.12739)|null|
 |**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
-|**2024-07-17**|**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow**|Yuanzhi Zhu et.al.|[2407.12718](http://arxiv.org/abs/2407.12718)|null|
+|**2024-07-18**|**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow**|Yuanzhi Zhu et.al.|[2407.12718](http://arxiv.org/abs/2407.12718)|**[link](https://github.com/yuanzhi-zhu/SlimFlow)**|
 |**2024-07-17**|**Stein's method and general clocks: diffusion approximation of the $G/G/1$ workload**|Anton Braverman et.al.|[2407.12716](http://arxiv.org/abs/2407.12716)|null|
 |**2024-07-17**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
@@ -1169,14 +1169,14 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-16**|**Imitation of human motion achieves natural head movements for humanoid robots in an active-speaker detection task**|Bosong Ding et.al.|[2407.11915](http://arxiv.org/abs/2407.11915)|**[link](https://github.com/dingdingding60/humanoids2024hri)**|
-|**2024-07-16**|**Length-Aware Motion Synthesis via Latent Diffusion**|Alessio Sampieri et.al.|[2407.11532](http://arxiv.org/abs/2407.11532)|null|
+|**2024-07-16**|**Length-Aware Motion Synthesis via Latent Diffusion**|Alessio Sampieri et.al.|[2407.11532](http://arxiv.org/abs/2407.11532)|**[link](https://github.com/alessiosam/ladiff)**|
 |**2024-07-16**|**Learning Semantic Latent Directions for Accurate and Controllable Human Motion Prediction**|Guowei Xu et.al.|[2407.11494](http://arxiv.org/abs/2407.11494)|**[link](https://github.com/guoweixu368/sld-hmp)**|
 |**2024-07-15**|**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models**|Zijian He et.al.|[2407.10625](http://arxiv.org/abs/2407.10625)|null|
 |**2024-07-15**|**Learning Social Cost Functions for Human-Aware Path Planning**|Andrea Eirale et.al.|[2407.10547](http://arxiv.org/abs/2407.10547)|**[link](https://github.com/pic4ser/socialcostfunction)**|
@@ -1347,7 +1347,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Image Generation
 
@@ -1360,7 +1360,7 @@
 |**2024-07-17**|**The Fabrication of Reality and Fantasy: Scene Generation with LLM-Assisted Prompt Interpretation**|Yi Yao et.al.|[2407.12579](http://arxiv.org/abs/2407.12579)|null|
 |**2024-07-17**|**I2AM: Interpreting Image-to-Image Latent Diffusion Models via Attribution Maps**|Junseo Park et.al.|[2407.12331](http://arxiv.org/abs/2407.12331)|null|
 |**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261](http://arxiv.org/abs/2407.12261)|null|
-|**2024-07-16**|**Towards Dataset-scale and Feature-oriented Evaluation of Text Summarization in Large Language Model Prompts**|Sam Yu-Te Lee et.al.|[2407.12192](http://arxiv.org/abs/2407.12192)|null|
+|**2024-07-18**|**Towards Dataset-scale and Feature-oriented Evaluation of Text Summarization in Large Language Model Prompts**|Sam Yu-Te Lee et.al.|[2407.12192](http://arxiv.org/abs/2407.12192)|null|
 |**2024-07-16**|**Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis**|Haeil Lee et.al.|[2407.12173](http://arxiv.org/abs/2407.12173)|null|
 |**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164](http://arxiv.org/abs/2407.12164)|null|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
@@ -2214,14 +2214,14 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
-|**2024-07-17**|**Rethinking the Architecture Design for Efficient Generic Event Boundary Detection**|Ziwei Zheng et.al.|[2407.12622](http://arxiv.org/abs/2407.12622)|null|
+|**2024-07-17**|**Rethinking the Architecture Design for Efficient Generic Event Boundary Detection**|Ziwei Zheng et.al.|[2407.12622](http://arxiv.org/abs/2407.12622)|**[link](https://github.com/ziwei-zheng/efficientgebd)**|
 |**2024-07-17**|**Towards Understanding Unsafe Video Generation**|Yan Pang et.al.|[2407.12581](http://arxiv.org/abs/2407.12581)|**[link](https://github.com/py85252876/uvd)**|
 |**2024-07-16**|**Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis**|Vasco Ramos et.al.|[2407.11814](http://arxiv.org/abs/2407.11814)|null|
 |**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
@@ -2523,7 +2523,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
