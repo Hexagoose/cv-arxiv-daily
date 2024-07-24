@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1199,7 +1199,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 ## Motion
 
@@ -1380,7 +1380,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 ## Image Generation
 
@@ -1392,7 +1392,7 @@
 |**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488](http://arxiv.org/abs/2407.15488)|**[link](https://github.com/zeyuwang-zju/diffx)**|
 |**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446](http://arxiv.org/abs/2407.15446)|null|
 |**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270](http://arxiv.org/abs/2407.15270)|null|
-|**2024-07-21**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240](http://arxiv.org/abs/2407.15240)|null|
+|**2024-07-23**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240](http://arxiv.org/abs/2407.15240)|null|
 |**2024-07-21**|**Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling**|Junn Yong Loo et.al.|[2407.15238](http://arxiv.org/abs/2407.15238)|null|
 |**2024-07-21**|**Assessing Sample Quality via the Latent Space of Generative Models**|Jingyi Xu et.al.|[2407.15171](http://arxiv.org/abs/2407.15171)|null|
 |**2024-07-21**|**The VEP Booster: A Closed-Loop AI System for Visual EEG Biomarker Auto-generation**|Junwen Luo et.al.|[2407.15167](http://arxiv.org/abs/2407.15167)|null|
@@ -2269,7 +2269,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 ## Video Generation
 
@@ -2585,7 +2585,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
