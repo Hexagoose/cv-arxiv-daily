@@ -2537,7 +2537,7 @@ layout: default
 |**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408](http://arxiv.org/abs/2403.13408)|null|
 |**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
 |**2024-03-19**|**AnimateDiff-Lightning: Cross-Model Diffusion Distillation**|Shanchuan Lin et.al.|[2403.12706](http://arxiv.org/abs/2403.12706)|null|
-|**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035](http://arxiv.org/abs/2403.12035)|null|
+|**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035](http://arxiv.org/abs/2403.12035)|**[link](https://github.com/zibojia/COCOCO)**|
 |**2024-03-18**|**Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2403.12015](http://arxiv.org/abs/2403.12015)|null|
 |**2024-03-18**|**VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model**|Qi Zuo et.al.|[2403.12010](http://arxiv.org/abs/2403.12010)|null|
 |**2024-03-18**|**DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing**|Hyeonho Jeong et.al.|[2403.12002](http://arxiv.org/abs/2403.12002)|null|
