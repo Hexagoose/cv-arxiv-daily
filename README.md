@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
 |**2024-07-23**|**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**|Canyu Zhao et.al.|[2407.16655](http://arxiv.org/abs/2407.16655)|null|
 |**2024-07-23**|**The role of meridional flow in the generation of solar/stellar magnetic fields and cycles**|Vindya Vashishth et.al.|[2407.16620](http://arxiv.org/abs/2407.16620)|null|
-|**2024-07-23**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564](http://arxiv.org/abs/2407.16564)|**[link](https://github.com/fundwotsai2001/ap-adapter)**|
+|**2024-07-24**|**Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning**|Fang-Duo Tsai et.al.|[2407.16564](http://arxiv.org/abs/2407.16564)|**[link](https://github.com/fundwotsai2001/ap-adapter)**|
 |**2024-07-23**|**Free boundary limits of coupled bulk-surface models for receptor-ligand interactions on evolving domains**|Amal Alphonse et.al.|[2407.16522](http://arxiv.org/abs/2407.16522)|null|
 |**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
 |**2024-07-23**|**qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**|Shishuai Wang et.al.|[2407.16477](http://arxiv.org/abs/2407.16477)|null|
@@ -1209,7 +1209,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Motion
 
@@ -1392,7 +1392,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Image Generation
 
@@ -2285,7 +2285,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 ## Video Generation
 
@@ -2604,7 +2604,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
