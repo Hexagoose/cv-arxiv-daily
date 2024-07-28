@@ -600,7 +600,7 @@ layout: default
 |**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886](http://arxiv.org/abs/2404.18886)|**[link](https://github.com/yyysjz1997/awesome-timeseries-spatiotemporal-diffusion-model)**|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
 |**2024-04-29**|**Construction of local reduced spaces for Friedrichs' systems via randomized training**|Christian Engwer et.al.|[2404.18839](http://arxiv.org/abs/2404.18839)|null|
-|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|**[link](https://github.com/huai-chang/DiffEIC)**|
 |**2024-04-29**|**Spectral measures and iterative bounds for effective diffusivity of steady and space-time periodic flows**|N. B. Murphy et.al.|[2404.18754](http://arxiv.org/abs/2404.18754)|null|
 |**2024-04-29**|**Diffuse scattering from dynamically compressed single-crystal zirconium following the pressure-induced $α\toω$ phase transition**|P. G. Heighway et.al.|[2404.18740](http://arxiv.org/abs/2404.18740)|null|
 |**2024-04-29**|**Diffusion coefficient matrix for multiple conserved charges: a Kubo approach**|Sourav Dey et.al.|[2404.18718](http://arxiv.org/abs/2404.18718)|null|
