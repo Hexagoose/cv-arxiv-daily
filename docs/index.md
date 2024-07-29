@@ -50,7 +50,7 @@ layout: default
 |**2024-07-22**|**A Hamilton-Jacobi approach to road-field reaction-diffusion models**|Christopher Henderson et.al.|[2407.15760](http://arxiv.org/abs/2407.15760)|null|
 |**2024-07-22**|**Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond**|Silvio Galesso et.al.|[2407.15739](http://arxiv.org/abs/2407.15739)|**[link](https://github.com/lmb-freiburg/diffusion-for-ood)**|
 |**2024-07-22**|**Inverse problems for coupled nonlocal nonlinear systems arising in mathematical biology**|Ming-Hui Ding et.al.|[2407.15713](http://arxiv.org/abs/2407.15713)|null|
-|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|null|
+|**2024-07-22**|**Estimating Probability Densities with Transformer and Denoising Diffusion**|Henry W. Leung et.al.|[2407.15703](http://arxiv.org/abs/2407.15703)|**[link](https://github.com/henrysky/stars_foundation_diffusion)**|
 |**2024-07-22**|**Voltage mapping in subcellular nanodomains using electro-diffusion modeling**|Frédéric Paquin-Lefebvre et.al.|[2407.15697](http://arxiv.org/abs/2407.15697)|null|
 |**2024-07-22**|**Particle Based Inference for Continuous-Discrete State Space Models**|Christopher Stanton et.al.|[2407.15666](http://arxiv.org/abs/2407.15666)|null|
 |**2024-07-22**|**DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving**|Jiahang Tu et.al.|[2407.15661](http://arxiv.org/abs/2407.15661)|**[link](https://github.com/ttuhamg/driveditfit)**|
@@ -2534,7 +2534,7 @@ layout: default
 |**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978](http://arxiv.org/abs/2403.18978)|null|
 |**2024-03-26**|**Tutorial on Diffusion Models for Imaging and Vision**|Stanley H. Chan et.al.|[2403.18103](http://arxiv.org/abs/2403.18103)|null|
 |**2024-03-26**|**TC4D: Trajectory-Conditioned Text-to-4D Generation**|Sherwin Bahmani et.al.|[2403.17920](http://arxiv.org/abs/2403.17920)|null|
-|**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|null|
+|**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|**[link](https://github.com/ruveydayilmaz0/bvdm)**|
 |**2024-03-26**|**ExpressEdit: Video Editing with Natural Language and Sketching**|Bekzat Tilekbay et.al.|[2403.17693](http://arxiv.org/abs/2403.17693)|null|
 |**2024-03-25**|**TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models**|Zhongwei Zhang et.al.|[2403.17005](http://arxiv.org/abs/2403.17005)|null|
 |**2024-03-25**|**A Survey on Long Video Generation: Challenges, Methods, and Prospects**|Chengxuan Li et.al.|[2403.16407](http://arxiv.org/abs/2403.16407)|null|
