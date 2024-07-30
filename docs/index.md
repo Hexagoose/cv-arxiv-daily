@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1237,7 +1237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
+|**2024-07-28**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
 |**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803](http://arxiv.org/abs/2407.16803)|null|
 |**2024-07-23**|**Occlusion-Aware 3D Motion Interpretation for Abnormal Behavior Detection**|Su Li et.al.|[2407.16788](http://arxiv.org/abs/2407.16788)|null|
 |**2024-07-23**|**Real-Time Interactions Between Human Controllers and Remote Devices in Metaverse**|Kan Chen et.al.|[2407.16591](http://arxiv.org/abs/2407.16591)|null|
