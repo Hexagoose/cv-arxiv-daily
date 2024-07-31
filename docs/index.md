@@ -1562,7 +1562,7 @@ layout: default
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
 |**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|**[link](https://github.com/gcorso/disco-diffdock)**|
 |**2024-07-03**|**Towards High Resolution Real-Time Optical Flow Particle Image Velocimetry**|Juan Pimienta et.al.|[2407.03057](http://arxiv.org/abs/2407.03057)|null|
-|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|null|
+|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|**[link](https://github.com/xmed-lab/geca)**|
 |**2024-07-03**|**Representation learning with CGAN for casual inference**|Zhaotian Weng et.al.|[2407.02825](http://arxiv.org/abs/2407.02825)|null|
 |**2024-07-03**|**Mobile Edge Generation-Enabled Digital Twin: Architecture Design and Research Opportunities**|Xiaoxia Xu et.al.|[2407.02804](http://arxiv.org/abs/2407.02804)|null|
 |**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|**[link](https://github.com/limuloo/migc)**|
