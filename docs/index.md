@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Matting by Generation**|Zhixiang Wang et.al.|[2407.21017](http://arxiv.org/abs/2407.21017)|null|
+|**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016](http://arxiv.org/abs/2407.21016)|**[link](https://github.com/ylingfeng/add-sd)**|
+|**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982](http://arxiv.org/abs/2407.20982)|null|
+|**2024-07-30**|**Explicit solution to an optimal two-player switching game in infinite horizon**|Brahim El Asri et.al.|[2407.20913](http://arxiv.org/abs/2407.20913)|null|
+|**2024-07-30**|**Simultaneous Multi-Slice Diffusion Imaging using Navigator-free Multishot Spiral Acquisition**|Yuancheng Jiang et.al.|[2407.20904](http://arxiv.org/abs/2407.20904)|null|
+|**2024-07-30**|**Optimizing Charge Transport Simulation for Deep Learning Enhanced Spatial Resolution of the MÖNCH Detector**|X. Xie et.al.|[2407.20841](http://arxiv.org/abs/2407.20841)|null|
+|**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
+|**2024-07-30**|**A second-order Mean Field Games model with controlled diffusion**|Vincenzo Ignazio et.al.|[2407.20826](http://arxiv.org/abs/2407.20826)|null|
+|**2024-07-30**|**A discussion on the critical electric Rayleigh number for AC electrokinetic flow of binary fluids in a divergent microchannel**|Jinan Pang et.al.|[2407.20803](http://arxiv.org/abs/2407.20803)|null|
+|**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-30**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218](http://arxiv.org/abs/2407.20218)|null|
 |**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186](http://arxiv.org/abs/2407.20186)|null|
@@ -1433,6 +1443,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
+|**2024-07-29**|**Retinex-Diffusion: On Controlling Illumination Conditions in Diffusion Models via Retinex Theory**|Xiaoyan Xing et.al.|[2407.20785](http://arxiv.org/abs/2407.20785)|null|
+|**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
+|**2024-07-30**|**DocXPand-25k: a large and diverse benchmark dataset for identity documents analysis**|Julien Lerouge et.al.|[2407.20662](http://arxiv.org/abs/2407.20662)|**[link](https://github.com/quicksign/docxpand)**|
+|**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635](http://arxiv.org/abs/2407.20635)|null|
+|**2024-07-30**|**Enhancing Quantitative Image Synthesis through Pretraining and Resolution Scaling for Bone Mineral Density Estimation from a Plain X-ray Image**|Yi Gu et.al.|[2407.20495](http://arxiv.org/abs/2407.20495)|null|
+|**2024-07-29**|**Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities**|Lorenzo Baraldi et.al.|[2407.20337](http://arxiv.org/abs/2407.20337)|**[link](https://github.com/aimagelab/code)**|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
 |**2024-07-29**|**Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"**|Daniel Gallo Fernández et.al.|[2407.19996](http://arxiv.org/abs/2407.19996)|null|
@@ -2351,6 +2368,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592](http://arxiv.org/abs/2407.20592)|null|
 |**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
 |**2024-07-29**|**Synthetic Thermal and RGB Videos for Automatic Pain Assessment utilizing a Vision-MLP Architecture**|Stefanos Gkikas et.al.|[2407.19811](http://arxiv.org/abs/2407.19811)|null|
 |**2024-07-28**|**FIND: Fine-tuning Initial Noise Distribution with Policy Optimization for Diffusion Models**|Changgu Chen et.al.|[2407.19453](http://arxiv.org/abs/2407.19453)|null|
