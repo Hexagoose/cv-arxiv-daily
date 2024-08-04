@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[2408.00766](http://arxiv.org/abs/2408.00766)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
+|**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735](http://arxiv.org/abs/2408.00735)|null|
+|**2024-08-01**|**ISDE with logarithmic interaction and characteristic polynomials**|Theodoros Assiotis et.al.|[2408.00717](http://arxiv.org/abs/2408.00717)|null|
+|**2024-08-01**|**MotionFix: Text-Driven 3D Human Motion Editing**|Nikos Athanasiou et.al.|[2408.00712](http://arxiv.org/abs/2408.00712)|null|
+|**2024-08-01**|**Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification**|Soban Nasir Lone et.al.|[2408.00681](http://arxiv.org/abs/2408.00681)|null|
+|**2024-08-01**|**Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**|Michael Baur et.al.|[2408.00634](http://arxiv.org/abs/2408.00634)|null|
+|**2024-08-01**|**Generalised BBGKY hierarchy for near-integrable dynamics**|Leonardo Biagetti et.al.|[2408.00593](http://arxiv.org/abs/2408.00593)|null|
+|**2024-08-01**|**Conditional Independence in Stationary Diffusions**|Tobias Boege et.al.|[2408.00583](http://arxiv.org/abs/2408.00583)|null|
+|**2024-08-01**|**Dimension reduction for large-scale stochastic systems with non-zero initial states and controlled diffusion**|Martin Redmann et.al.|[2408.00581](http://arxiv.org/abs/2408.00581)|null|
 |**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
 |**2024-07-31**|**Dephasing-assisted transport in a tight-binding chain with a linear potential**|Samuel L. Jacob et.al.|[2407.21715](http://arxiv.org/abs/2407.21715)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
@@ -1267,6 +1277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**MotionFix: Text-Driven 3D Human Motion Editing**|Nikos Athanasiou et.al.|[2408.00712](http://arxiv.org/abs/2408.00712)|null|
+|**2024-08-01**|**Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion**|Honglei Miao et.al.|[2408.00352](http://arxiv.org/abs/2408.00352)|null|
 |**2024-07-30**|**Adding Multi-modal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
 |**2024-07-28**|**Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph**|Zhengcen Li et.al.|[2407.19497](http://arxiv.org/abs/2407.19497)|null|
 |**2024-07-27**|**Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach**|Penghui Wen et.al.|[2407.19244](http://arxiv.org/abs/2407.19244)|**[link](https://github.com/ph-w2000/sdm)**|
@@ -1454,6 +1466,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
+|**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735](http://arxiv.org/abs/2408.00735)|null|
+|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
+|**2024-08-01**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
+|**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
+|**2024-08-01**|**Towards Reliable Advertising Image Generation Using Human Feedback**|Zhenbang Du et.al.|[2408.00418](http://arxiv.org/abs/2408.00418)|null|
+|**2024-08-01**|**DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving**|Xuemeng Yang et.al.|[2408.00415](http://arxiv.org/abs/2408.00415)|null|
+|**2024-08-01**|**On the Limitations and Prospects of Machine Unlearning for Generative AI**|Shiji Zhou et.al.|[2408.00376](http://arxiv.org/abs/2408.00376)|null|
+|**2024-08-01**|**Few-shot Defect Image Generation based on Consistency Modeling**|Qingfeng Shi et.al.|[2408.00372](http://arxiv.org/abs/2408.00372)|null|
+|**2024-08-01**|**A Simple Background Augmentation Method for Object Detection with Diffusion Model**|Yuhang Li et.al.|[2408.00350](http://arxiv.org/abs/2408.00350)|null|
 |**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
 |**2024-07-31**|**Hyper-parameter tuning for text guided image editing**|Shiwen Zhang et.al.|[2407.21703](http://arxiv.org/abs/2407.21703)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
@@ -2386,6 +2408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
