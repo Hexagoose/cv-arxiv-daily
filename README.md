@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**Ionic-electronic transistors small signal AC admittance: Theory and experiment**|Juan Bisquert et.al.|[2408.02648](http://arxiv.org/abs/2408.02648)|null|
+|**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630](http://arxiv.org/abs/2408.02630)|null|
+|**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
+|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
+|**2024-08-05**|**Superradiant emission stimulated by vortex-antivortex pair production in layered superconductors**|Ahmad Sheikhzada et.al.|[2408.02610](http://arxiv.org/abs/2408.02610)|null|
+|**2024-08-05**|**Rossby wave instability in weakly ionized protoplanetary disks. II. radial B-fields**|Can Cui et.al.|[2408.02556](http://arxiv.org/abs/2408.02556)|null|
+|**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408](http://arxiv.org/abs/2408.02408)|null|
+|**2024-08-05**|**Networks of Pendula with Diffusive Interactions**|Riccardo Bonetto et.al.|[2408.02352](http://arxiv.org/abs/2408.02352)|null|
+|**2024-08-05**|**Nonlocal particle approximation for linear and fast diffusion equations**|José Antonio Carrillo et.al.|[2408.02345](http://arxiv.org/abs/2408.02345)|null|
 |**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/abs/2408.01415)|null|
 |**2024-08-02**|**Harmonized connectome resampling for variance in voxel sizes**|Elyssa M. McMaster et.al.|[2408.01351](http://arxiv.org/abs/2408.01351)|null|
 |**2024-08-02**|**TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**|Dong Huo et.al.|[2408.01291](http://arxiv.org/abs/2408.01291)|null|
@@ -1295,6 +1305,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
+|**2024-08-04**|**Past Movements-Guided Motion Representation Learning for Human Motion Prediction**|Junyu Shi et.al.|[2408.02091](http://arxiv.org/abs/2408.02091)|null|
 |**2024-08-01**|**MotionFix: Text-Driven 3D Human Motion Editing**|Nikos Athanasiou et.al.|[2408.00712](http://arxiv.org/abs/2408.00712)|null|
 |**2024-08-01**|**Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion**|Honglei Miao et.al.|[2408.00352](http://arxiv.org/abs/2408.00352)|null|
 |**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
@@ -1486,6 +1498,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**ProCreate, Dont Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226](http://arxiv.org/abs/2408.02226)|null|
+|**2024-08-05**|**Dense Feature Interaction Network for Image Inpainting Localization**|Ye Yao et.al.|[2408.02191](http://arxiv.org/abs/2408.02191)|null|
+|**2024-08-04**|**PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance**|Aoming Liu et.al.|[2408.02157](http://arxiv.org/abs/2408.02157)|null|
+|**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078](http://arxiv.org/abs/2408.02078)|null|
+|**2024-08-04**|**Step Saver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation**|Jean Yu et.al.|[2408.02054](http://arxiv.org/abs/2408.02054)|null|
+|**2024-08-04**|**Robustness of Watermarking on Text-to-Image Diffusion Models**|Xiaodong Wu et.al.|[2408.02035](http://arxiv.org/abs/2408.02035)|null|
+|**2024-08-03**|**SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm**|Junyan Ye et.al.|[2408.01812](http://arxiv.org/abs/2408.01812)|null|
+|**2024-08-03**|**A Novel Evaluation Framework for Image2Text Generation**|Jia-Hong Huang et.al.|[2408.01723](http://arxiv.org/abs/2408.01723)|null|
+|**2024-08-03**|**Controllable Unlearning for Image-to-Image Generative Models via $\varepsilon$ -Constrained Optimization**|Xiaohua Feng et.al.|[2408.01689](http://arxiv.org/abs/2408.01689)|null|
 |**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181](http://arxiv.org/abs/2408.01181)|null|
 |**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026](http://arxiv.org/abs/2408.01026)|null|
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014](http://arxiv.org/abs/2408.01014)|null|
@@ -2435,6 +2457,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 |**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
 |**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
