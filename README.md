@@ -30,7 +30,7 @@
 |**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209](http://arxiv.org/abs/2408.03209)|null|
 |**2024-08-06**|**Phase field simulations of thermal annealing for all-small molecule organic solar cells**|Yasin Ameslon et.al.|[2408.03190](http://arxiv.org/abs/2408.03190)|null|
 |**2024-08-06**|**Propagation phenomena for a reaction-diffusion-advection model in a heterogeneous environment**|Xing Liang et.al.|[2408.03187](http://arxiv.org/abs/2408.03187)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-05**|**Ionic-electronic transistors small signal AC admittance: Theory and experiment**|Juan Bisquert et.al.|[2408.02648](http://arxiv.org/abs/2408.02648)|null|
 |**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630](http://arxiv.org/abs/2408.02630)|null|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
@@ -84,7 +84,7 @@
 |**2024-07-30**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218](http://arxiv.org/abs/2407.20218)|null|
 |**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186](http://arxiv.org/abs/2407.20186)|null|
 |**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172](http://arxiv.org/abs/2407.20172)|**[link](https://github.com/bugs-creator/latentartifusion)**|
-|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|null|
+|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|**[link](https://github.com/baaivision/diva)**|
 |**2024-07-29**|**A unified framework for $N$ -phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities**|M. ten Eikelder et.al.|[2407.20145](http://arxiv.org/abs/2407.20145)|null|
 |**2024-07-29**|**DDAP: Dual-Domain Anti-Personalization against Text-to-Image Diffusion Models**|Jing Yang et.al.|[2407.20141](http://arxiv.org/abs/2407.20141)|null|
 |**2024-07-29**|**Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**|Liyuan Mao et.al.|[2407.20109](http://arxiv.org/abs/2407.20109)|null|
@@ -1513,10 +1513,10 @@
 |**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178](http://arxiv.org/abs/2408.03178)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156](http://arxiv.org/abs/2408.03156)|null|
 |**2024-08-06**|**Multitask and Multimodal Neural Tuning for Large Models**|Hao Sun et.al.|[2408.03001](http://arxiv.org/abs/2408.03001)|null|
-|**2024-08-06**|**DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model**|Yiming Zhong et.al.|[2408.02993](http://arxiv.org/abs/2408.02993)|null|
+|**2024-08-06**|**DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model**|Yiming Zhong et.al.|[2408.02993](http://arxiv.org/abs/2408.02993)|**[link](https://github.com/1yimingzhong/dreamlcm)**|
 |**2024-08-05**|**Pre-trained Encoder Inference: Revealing Upstream Encoders In Downstream Machine Learning Services**|Shaopeng Fu et.al.|[2408.02814](http://arxiv.org/abs/2408.02814)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
-|**2024-08-06**|**ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226](http://arxiv.org/abs/2408.02226)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
+|**2024-08-06**|**ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226](http://arxiv.org/abs/2408.02226)|**[link](https://github.com/agentic-learning-ai-lab/procreate-diffusion-public)**|
 |**2024-08-05**|**Dense Feature Interaction Network for Image Inpainting Localization**|Ye Yao et.al.|[2408.02191](http://arxiv.org/abs/2408.02191)|null|
 |**2024-08-04**|**PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance**|Aoming Liu et.al.|[2408.02157](http://arxiv.org/abs/2408.02157)|null|
 |**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078](http://arxiv.org/abs/2408.02078)|null|
@@ -1525,7 +1525,7 @@
 |**2024-08-03**|**SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm**|Junyan Ye et.al.|[2408.01812](http://arxiv.org/abs/2408.01812)|null|
 |**2024-08-03**|**A Novel Evaluation Framework for Image2Text Generation**|Jia-Hong Huang et.al.|[2408.01723](http://arxiv.org/abs/2408.01723)|null|
 |**2024-08-03**|**Controllable Unlearning for Image-to-Image Generative Models via $\varepsilon$ -Constrained Optimization**|Xiaohua Feng et.al.|[2408.01689](http://arxiv.org/abs/2408.01689)|null|
-|**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181](http://arxiv.org/abs/2408.01181)|null|
+|**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181](http://arxiv.org/abs/2408.01181)|**[link](https://github.com/daixiangzi/var-clip)**|
 |**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026](http://arxiv.org/abs/2408.01026)|null|
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014](http://arxiv.org/abs/2408.01014)|null|
 |**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998](http://arxiv.org/abs/2408.00998)|null|
