@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
+|**2024-08-09**|**Galactic Gas Models Strongly Affect the Determination of the Diffusive Halo Height**|Pedro De La Torre Luque et.al.|[2408.05179](http://arxiv.org/abs/2408.05179)|null|
+|**2024-08-09**|**Hidden curved spaces in Bosonic Kitaev model**|Chenwei Lv et.al.|[2408.05132](http://arxiv.org/abs/2408.05132)|null|
+|**2024-08-09**|**Multi-dimensional Parameter Space Exploration for Streamline-specific Tractography**|Ruben Vink et.al.|[2408.05056](http://arxiv.org/abs/2408.05056)|null|
+|**2024-08-09**|**Numerical simulation and analysis of mixing enhancement due to chaotic advection using an adaptive approach for approximating the dilution index**|Carla Feistner et.al.|[2408.05055](http://arxiv.org/abs/2408.05055)|null|
+|**2024-08-09**|**Optical observations of the Galactic SNR HB9 and H II region G159.2+3.3**|Jiang-Tao Li et.al.|[2408.05016](http://arxiv.org/abs/2408.05016)|null|
+|**2024-08-09**|**Nanoroughness induced anti-reflection and haze effects in opaque systems**|V. Gareyan et.al.|[2408.05014](http://arxiv.org/abs/2408.05014)|null|
+|**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
+|**2024-08-09**|**Instability of the engineered dark state in two-band fermions under number-conserving dissipative dynamics**|A. A. Lyublinskaya et.al.|[2408.04987](http://arxiv.org/abs/2408.04987)|null|
+|**2024-08-09**|**Solar poloidal magnetic field generation rate from observations and mean-field dynamos**|V. V. Pipin et.al.|[2408.04934](http://arxiv.org/abs/2408.04934)|null|
 |**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631](http://arxiv.org/abs/2408.04631)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
 |**2024-08-08**|**An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI**|Chance Hoskinson et.al.|[2408.04611](http://arxiv.org/abs/2408.04611)|null|
@@ -1529,6 +1539,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Instruction Tuning-free Visual Token Complement for Multimodal LLMs**|Dongsheng Wang et.al.|[2408.05019](http://arxiv.org/abs/2408.05019)|null|
+|**2024-08-09**|**DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting**|Jihoon Lee et.al.|[2408.04962](http://arxiv.org/abs/2408.04962)|null|
+|**2024-08-08**|**Deep Learning-based Unsupervised Domain Adaptation via a Unified Model for Prostate Lesion Detection Using Multisite Bi-parametric MRI Datasets**|Hao Li et.al.|[2408.04777](http://arxiv.org/abs/2408.04777)|null|
+|**2024-08-08**|**Zero-Shot Uncertainty Quantification using Diffusion Probabilistic Models**|Dule Shu et.al.|[2408.04718](http://arxiv.org/abs/2408.04718)|null|
 |**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**|Ahmad Arrabi et.al.|[2408.04224](http://arxiv.org/abs/2408.04224)|**[link](https://gitlab.com/vail-uvm/gpg2a)**|
 |**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102](http://arxiv.org/abs/2408.04102)|null|
