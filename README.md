@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Imagen 3**|Imagen-Team-Google et.al.|[2408.07009](http://arxiv.org/abs/2408.07009)|null|
+|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
+|**2024-08-13**|**Spherical-oblate shape coexistence in $^{94}$ Zr from a model-independent analysis**|N. Marchini et.al.|[2408.06940](http://arxiv.org/abs/2408.06940)|null|
+|**2024-08-13**|**Global well-posedness of the 3D primitive equations with horizontal viscosity and vertical diffusivity II: close to $H^1$ initial data**|Chongsheng Cao et.al.|[2408.06932](http://arxiv.org/abs/2408.06932)|null|
+|**2024-08-13**|**Diffusion Model for Slate Recommendation**|Federico Tomasi et.al.|[2408.06883](http://arxiv.org/abs/2408.06883)|null|
+|**2024-08-13**|**Dwellers in the Deep: Biological Consequences of Dark Oxygen**|Manasvi Lingam et.al.|[2408.06841](http://arxiv.org/abs/2408.06841)|null|
+|**2024-08-13**|**Geotree of Geodetector: An Anatomy of Knowledge Diffusion of a Novel Statistic**|Yuting Liang et.al.|[2408.06839](http://arxiv.org/abs/2408.06839)|null|
+|**2024-08-13**|**Extreme events in locally coupled bursting neurons**|Ardhanareeswaran R Sree et.al.|[2408.06805](http://arxiv.org/abs/2408.06805)|null|
+|**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
 |**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
 |**2024-08-12**|**Singular limit and convergence rate via projection method in a model for plant-growth dynamics with autotoxicity**|Jeff Morgan et.al.|[2408.06177](http://arxiv.org/abs/2408.06177)|null|
@@ -1355,6 +1365,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**ViMo: Generating Motions from Casual Videos**|Liangdong Qiu et.al.|[2408.06614](http://arxiv.org/abs/2408.06614)|null|
 |**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955](http://arxiv.org/abs/2408.05955)|**[link](https://github.com/sejong-rcv/pvlr)**|
 |**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855](http://arxiv.org/abs/2408.02855)|null|
 |**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
@@ -1550,6 +1561,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Definition of multispectral camera system parameters to model the asteroid 2001 SN263**|Gabriela de Carvalho Assis Goulart et.al.|[2408.06886](http://arxiv.org/abs/2408.06886)|null|
+|**2024-08-13**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
+|**2024-08-13**|**Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective**|Ouxiang Li et.al.|[2408.06741](http://arxiv.org/abs/2408.06741)|**[link](https://github.com/ouxiang-li/safe)**|
+|**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
+|**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
+|**2024-08-13**|**EditScribe: Non-Visual Image Editing with Natural Language Verification Loops**|Ruei-Che Chang et.al.|[2408.06632](http://arxiv.org/abs/2408.06632)|null|
+|**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502](http://arxiv.org/abs/2408.06502)|null|
+|**2024-08-12**|**Wavelet based inpainting detection**|Barglazan Adrian-Alin et.al.|[2408.06429](http://arxiv.org/abs/2408.06429)|null|
 |**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|null|
 |**2024-08-10**|**ZePo: Zero-Shot Portrait Stylization with Faster Sampling**|Jin Liu et.al.|[2408.05492](http://arxiv.org/abs/2408.05492)|null|
 |**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
