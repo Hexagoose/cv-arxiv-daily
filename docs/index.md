@@ -2123,7 +2123,7 @@ layout: default
 |**2024-04-18**|**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**|Chao Zhou et.al.|[2404.11962](http://arxiv.org/abs/2404.11962)|null|
 |**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
 |**2024-04-18**|**EdgeFusion: On-Device Text-to-Image Generation**|Thibault Castells et.al.|[2404.11925](http://arxiv.org/abs/2404.11925)|null|
-|**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895](http://arxiv.org/abs/2404.11895)|null|
+|**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895](http://arxiv.org/abs/2404.11895)|**[link](https://github.com/thermal-dynamics/freediff)**|
 |**2024-04-18**|**Multi-view X-ray Image Synthesis with Multiple Domain Disentanglement from CT Scans**|Lixing Tan et.al.|[2404.11889](http://arxiv.org/abs/2404.11889)|null|
 |**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
 |**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
