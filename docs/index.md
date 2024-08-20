@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198](http://arxiv.org/abs/2408.10198)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
+|**2024-08-19**|**Evaluation of the eddy diffusivity in a pollutant dispersion model in the planetary boundary layer**|A. Goulart et.al.|[2408.10168](http://arxiv.org/abs/2408.10168)|null|
+|**2024-08-19**|**Stacking Polymorphism of PtSe $_{2}$ : Its Implication to Layer-dependent Metal-insulator Transitions**|Jeonghwan Ahn et.al.|[2408.10156](http://arxiv.org/abs/2408.10156)|null|
+|**2024-08-19**|**Solution landscape of reaction-diffusion systems reveals a nonlinear mechanism and spatial robustness of pattern formation**|Shuonan Wu et.al.|[2408.10095](http://arxiv.org/abs/2408.10095)|null|
+|**2024-08-19**|**Ocean Circulation on Tide-locked Lava Worlds, Part II: Scalings**|Yanhong Lai et.al.|[2408.09985](http://arxiv.org/abs/2408.09985)|null|
+|**2024-08-19**|**Multi-layer diffusion model of photovoltaic installations**|Tomasz Weron et.al.|[2408.09904](http://arxiv.org/abs/2408.09904)|null|
+|**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
+|**2024-08-19**|**Transport coefficients of the heavy quark in the domain of the non-perturbative and non-eikonal gluon radiation**|Surasree Mazumder et.al.|[2408.09824](http://arxiv.org/abs/2408.09824)|null|
+|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
 |**2024-08-16**|**Homogenization of Poisson-Nernst-Planck equations for multiple species in a porous medium**|Apratim Bhattacharya et.al.|[2408.08831](http://arxiv.org/abs/2408.08831)|null|
 |**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
 |**2024-08-16**|**Accurate wave velocity measurement from diffuse wave fields**|Melody Png et.al.|[2408.08756](http://arxiv.org/abs/2408.08756)|null|
@@ -1387,6 +1397,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Modelling the Distribution of Human Motion for Sign Language Assessment**|Oliver Cory et.al.|[2408.10073](http://arxiv.org/abs/2408.10073)|null|
+|**2024-08-18**|**OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**|Chen Long-fei et.al.|[2408.09409](http://arxiv.org/abs/2408.09409)|null|
+|**2024-08-18**|**Combo: Co-speech holistic 3D human motion generation and efficient customizable adaptation in harmony**|Chao Xu et.al.|[2408.09397](http://arxiv.org/abs/2408.09397)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-30**|**Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots**|Pranay Dugar et.al.|[2408.07295](http://arxiv.org/abs/2408.07295)|null|
 |**2024-08-13**|**ViMo: Generating Motions from Casual Videos**|Liangdong Qiu et.al.|[2408.06614](http://arxiv.org/abs/2408.06614)|null|
@@ -1583,6 +1596,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**ARMADA: Attribute-Based Multimodal Data Augmentation**|Xiaomeng Jin et.al.|[2408.10086](http://arxiv.org/abs/2408.10086)|null|
+|**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
+|**2024-08-19**|**TraDiffusion: Trajectory-Based Training-Free Image Generation**|Mingrui Wu et.al.|[2408.09739](http://arxiv.org/abs/2408.09739)|**[link](https://github.com/och-mac/tradiffusion)**|
+|**2024-08-19**|**Diff2CT: Diffusion Learning to Reconstruct Spine CT from Biplanar X-Rays**|Zhi Qiao et.al.|[2408.09731](http://arxiv.org/abs/2408.09731)|null|
+|**2024-08-18**|**AnomalyFactory: Regard Anomaly Generation as Unsupervised Anomaly Localization**|Ying Zhao et.al.|[2408.09533](http://arxiv.org/abs/2408.09533)|null|
+|**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432](http://arxiv.org/abs/2408.09432)|null|
 |**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
 |**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751](http://arxiv.org/abs/2408.08751)|null|
 |**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
@@ -2592,6 +2611,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](http://arxiv.org/abs/2408.10119)|null|
+|**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
+|**2024-08-18**|**SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama**|Jing Tang et.al.|[2408.09333](http://arxiv.org/abs/2408.09333)|**[link](https://github.com/vaew/skyscript-100m)**|
 |**2024-08-16**|**Language-Driven Interactive Shadow Detection**|Hongqiu Wang et.al.|[2408.08543](http://arxiv.org/abs/2408.08543)|**[link](https://github.com/whq-xxh/rvsd)**|
 |**2024-08-15**|**JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**|Xiaochuang Han et.al.|[2408.08459](http://arxiv.org/abs/2408.08459)|null|
 |**2024-08-16**|**FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance**|Jiasong Feng et.al.|[2408.08189](http://arxiv.org/abs/2408.08189)|null|
