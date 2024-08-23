@@ -26,7 +26,7 @@ layout: default
 |**2024-08-22**|**4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment**|Kaihui Cheng et.al.|[2408.12419](http://arxiv.org/abs/2408.12419)|null|
 |**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810](http://arxiv.org/abs/2408.11810)|null|
 |**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785](http://arxiv.org/abs/2408.11785)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
-|**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767](http://arxiv.org/abs/2408.11767)|null|
+|**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767](http://arxiv.org/abs/2408.11767)|**[link](https://github.com/sisinflab/graph-missing-modalities)**|
 |**2024-08-21**|**Modeling multiband SEDs and light curves of BL Lacertae using a time-dependent shock-in-jet model**|Rukaiya Khatoon et.al.|[2408.11763](http://arxiv.org/abs/2408.11763)|null|
 |**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744](http://arxiv.org/abs/2408.11744)|null|
 |**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721](http://arxiv.org/abs/2408.11721)|null|
@@ -53,7 +53,7 @@ layout: default
 |**2024-08-19**|**Multi-layer diffusion model of photovoltaic installations**|Tomasz Weron et.al.|[2408.09904](http://arxiv.org/abs/2408.09904)|null|
 |**2024-08-19**|**Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**|Yuran Xiang et.al.|[2408.09896](http://arxiv.org/abs/2408.09896)|**[link](https://github.com/ran1812/utgdiff)**|
 |**2024-08-19**|**Transport coefficients of the heavy quark in the domain of the non-perturbative and non-eikonal gluon radiation**|Surasree Mazumder et.al.|[2408.09824](http://arxiv.org/abs/2408.09824)|null|
-|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|null|
+|**2024-08-19**|**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models**|Danush Kumar Venkatesh et.al.|[2408.09822](http://arxiv.org/abs/2408.09822)|**[link](https://gitlab.com/nct_tso_public/gan2diffusion)**|
 |**2024-08-16**|**Homogenization of Poisson-Nernst-Planck equations for multiple species in a porous medium**|Apratim Bhattacharya et.al.|[2408.08831](http://arxiv.org/abs/2408.08831)|null|
 |**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
 |**2024-08-16**|**Accurate wave velocity measurement from diffuse wave fields**|Melody Png et.al.|[2408.08756](http://arxiv.org/abs/2408.08756)|null|
@@ -71,7 +71,7 @@ layout: default
 |**2024-08-15**|**Probing hydrodynamic crossovers with dissipation-assisted operator evolution**|N. S. Srivatsa et.al.|[2408.08249](http://arxiv.org/abs/2408.08249)|null|
 |**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184](http://arxiv.org/abs/2408.08184)|null|
 |**2024-08-15**|**Study of non-diffusive thermal behaviors in nanoscale transistors under different heating strategies**|Chuang Zhang et.al.|[2408.08120](http://arxiv.org/abs/2408.08120)|null|
-|**2024-08-15**|**Exploring Uncertainty Visualization for Degenerate Tensors in 3D Symmetric Second-Order Tensor Field Ensembles**|Tadea Schmitz et.al.|[2408.08099](http://arxiv.org/abs/2408.08099)|null|
+|**2024-08-15**|**Exploring Uncertainty Visualization for Degenerate Tensors in 3D Symmetric Second-Order Tensor Field Ensembles**|Tadea Schmitz et.al.|[2408.08099](http://arxiv.org/abs/2408.08099)|**[link](https://github.com/timo-oster/tensor-lines)**|
 |**2024-08-15**|**Transport and mixing in control volumes through the lens of probability**|John Craske et.al.|[2408.08028](http://arxiv.org/abs/2408.08028)|null|
 |**2024-08-15**|**Gravitational Lensing Reveals Cool Gas within 10-20 kpc around a Quiescent Galaxy**|Tania M. Barone et.al.|[2408.07984](http://arxiv.org/abs/2408.07984)|null|
 |**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636](http://arxiv.org/abs/2408.07636)|null|
