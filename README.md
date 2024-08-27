@@ -1460,7 +1460,7 @@
 |**2024-08-04**|**Past Movements-Guided Motion Representation Learning for Human Motion Prediction**|Junyu Shi et.al.|[2408.02091](http://arxiv.org/abs/2408.02091)|null|
 |**2024-08-01**|**MotionFix: Text-Driven 3D Human Motion Editing**|Nikos Athanasiou et.al.|[2408.00712](http://arxiv.org/abs/2408.00712)|null|
 |**2024-08-01**|**Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion**|Honglei Miao et.al.|[2408.00352](http://arxiv.org/abs/2408.00352)|null|
-|**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
+|**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|**[link](https://github.com/cure-lab/MotionCraft)**|
 |**2024-07-28**|**Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph**|Zhengcen Li et.al.|[2407.19497](http://arxiv.org/abs/2407.19497)|**[link](https://github.com/mgiant/mp-gcn)**|
 |**2024-07-27**|**Radio Frequency Signal based Human Silhouette Segmentation: A Sequential Diffusion Approach**|Penghui Wen et.al.|[2407.19244](http://arxiv.org/abs/2407.19244)|**[link](https://github.com/ph-w2000/sdm)**|
 |**2024-07-28**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
@@ -2724,7 +2724,7 @@
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
 |**2024-07-31**|**Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model**|Zhichao Zhang et.al.|[2407.21408](http://arxiv.org/abs/2407.21408)|null|
-|**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
+|**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|**[link](https://github.com/cure-lab/MotionCraft)**|
 |**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592](http://arxiv.org/abs/2407.20592)|null|
 |**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
 |**2024-07-29**|**Synthetic Thermal and RGB Videos for Automatic Pain Assessment utilizing a Vision-MLP Architecture**|Stefanos Gkikas et.al.|[2407.19811](http://arxiv.org/abs/2407.19811)|null|
