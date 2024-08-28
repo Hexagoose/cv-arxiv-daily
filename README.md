@@ -35,7 +35,7 @@
 |**2024-08-27**|**DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**|Jinhyeok Yang et.al.|[2408.14423](http://arxiv.org/abs/2408.14423)|null|
 |**2024-08-26**|**Consistent diffusion matrix estimation from population time series**|Aden Forrow et.al.|[2408.14408](http://arxiv.org/abs/2408.14408)|null|
 |**2024-08-26**|**Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics**|Zefang Liu et.al.|[2408.14404](http://arxiv.org/abs/2408.14404)|**[link](https://github.com/zefang-liu/neuralplasmaode)**|
-|**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|null|
+|**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|**[link](https://github.com/bytedance/GR-MG)**|
 |**2024-08-26**|**From irregular to regular eutectic growth in the Al-Al3Ni system: in situ observations during directional solidification**|Paul Chao et.al.|[2408.14346](http://arxiv.org/abs/2408.14346)|null|
 |**2024-08-26**|**On the origin of the $10^7$ K hot emitting gas in the Circumgalactic medium of the Milky Way**|Mukesh Singh Bisht et.al.|[2408.14344](http://arxiv.org/abs/2408.14344)|null|
 |**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
