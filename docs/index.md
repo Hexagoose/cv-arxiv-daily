@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
+|**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991](http://arxiv.org/abs/2408.15991)|**[link](https://github.com/syzhang0805/disback)**|
+|**2024-08-28**|**Direct measurement of surface interactions experienced by sticky microcapsules made from environmentally benign materials**|Hairou Yu et.al.|[2408.15945](http://arxiv.org/abs/2408.15945)|null|
+|**2024-08-28**|**DiffAge3D: Diffusion-based 3D-aware Face Aging**|Junaid Wahid et.al.|[2408.15922](http://arxiv.org/abs/2408.15922)|null|
+|**2024-08-28**|**Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones**|Carlos Plou et.al.|[2408.15899](http://arxiv.org/abs/2408.15899)|null|
+|**2024-08-28**|**Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation**|Reid Graves et.al.|[2408.15898](http://arxiv.org/abs/2408.15898)|null|
+|**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890](http://arxiv.org/abs/2408.15890)|null|
+|**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
+|**2024-08-28**|**Global well-posedness and large time behavior of solutions to the compressible Oldroyd-B model without stress diffusion**|Yajuan Zhao et.al.|[2408.15812](http://arxiv.org/abs/2408.15812)|null|
+|**2024-08-28**|**Defending Text-to-image Diffusion Models: Surprising Efficacy of Textual Perturbations Against Backdoor Attacks**|Oscar Chew et.al.|[2408.15721](http://arxiv.org/abs/2408.15721)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239](http://arxiv.org/abs/2408.15239)|null|
 |**2024-08-27**|**Histo-Diffusion: A Diffusion Super-Resolution Method for Digital Pathology with Comprehensive Quality Assessment**|Xuan Xu et.al.|[2408.15218](http://arxiv.org/abs/2408.15218)|null|
@@ -1660,6 +1670,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914](http://arxiv.org/abs/2408.15914)|null|
+|**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890](http://arxiv.org/abs/2408.15890)|null|
+|**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660](http://arxiv.org/abs/2408.15660)|**[link](https://github.com/aimagelab/mad)**|
+|**2024-08-28**|**Hand1000: Generating Realistic Hands from Text with Only 1,000 Images**|Haozhuo Zhang et.al.|[2408.15461](http://arxiv.org/abs/2408.15461)|null|
+|**2024-08-28**|**Avoiding Generative Model Writer's Block With Embedding Nudging**|Ali Zand et.al.|[2408.15450](http://arxiv.org/abs/2408.15450)|null|
 |**2024-08-27**|**Alfie: Democratising RGBA Image Generation With No $$$**|Fabio Quattrini et.al.|[2408.14826](http://arxiv.org/abs/2408.14826)|**[link](https://github.com/aimagelab/alfie)**|
 |**2024-08-27**|**Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation**|Abdelrahman Eldesokey et.al.|[2408.14819](http://arxiv.org/abs/2408.14819)|null|
 |**2024-08-27**|**CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Street View Synthesis**|Weijia Li et.al.|[2408.14765](http://arxiv.org/abs/2408.14765)|null|
@@ -2720,6 +2735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance**|Weiyi Zhang et.al.|[2408.15217](http://arxiv.org/abs/2408.15217)|null|
 |**2024-08-26**|**SurGen: Text-Guided Diffusion Model for Surgical Video Generation**|Joseph Cho et.al.|[2408.14028](http://arxiv.org/abs/2408.14028)|null|
