@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.31
+## Updated on 2024.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1690,7 +1690,7 @@ layout: default
 |**2024-08-29**|**What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer**|Chaeyeon Chung et.al.|[2408.16450](http://arxiv.org/abs/2408.16450)|null|
 |**2024-08-29**|**ResVG: Enhancing Relation and Semantic Understanding in Multiple Instances for Visual Grounding**|Minghang Zheng et.al.|[2408.16314](http://arxiv.org/abs/2408.16314)|**[link](https://github.com/minghangz/resvg)**|
 |**2024-08-29**|**Improving Diffusion-based Data Augmentation with Inversion Spherical Interpolation**|Yanghao Wang et.al.|[2408.16266](http://arxiv.org/abs/2408.16266)|null|
-|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|null|
+|**2024-08-29**|**Enhancing Conditional Image Generation with Explainable Latent Space Manipulation**|Kshitij Pathania et.al.|[2408.16232](http://arxiv.org/abs/2408.16232)|**[link](https://github.com/kshitij79/CS-7476-Improvements-in-Diffusion-Model)**|
 |**2024-08-28**|**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization**|Feize Wu et.al.|[2408.15914](http://arxiv.org/abs/2408.15914)|null|
 |**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890](http://arxiv.org/abs/2408.15890)|null|
 |**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660](http://arxiv.org/abs/2408.15660)|**[link](https://github.com/aimagelab/mad)**|
