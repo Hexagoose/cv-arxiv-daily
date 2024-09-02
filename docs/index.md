@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
+|**2024-08-30**|**High-order finite element methods for three-dimensional multicomponent convection-diffusion**|Aaron Baier-Reinio et.al.|[2408.17390](http://arxiv.org/abs/2408.17390)|null|
+|**2024-08-30**|**An enhanced version of the Gaia map of the brightness of the natural sky**|Eduard Masana et.al.|[2408.17371](http://arxiv.org/abs/2408.17371)|null|
+|**2024-08-30**|**Dimensional confinement and superdiffusive rotational motion of uniaxial colloids in the presence of cylindrical obstacles**|Vikki Anand Varma et.al.|[2408.17345](http://arxiv.org/abs/2408.17345)|null|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
+|**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
+|**2024-08-30**|**Likelihood estimation for stochastic differential equations with mixed effects**|Fernando Baltazar-Larios et.al.|[2408.17257](http://arxiv.org/abs/2408.17257)|null|
+|**2024-08-30**|**A kinetic chemotaxis model and its diffusion limit in slab geometry**|Herbert Egger et.al.|[2408.17243](http://arxiv.org/abs/2408.17243)|null|
+|**2024-08-30**|**Shock-driven amorphization and melt in Fe $_2$O$_3$**|Céline Crépisson et.al.|[2408.17204](http://arxiv.org/abs/2408.17204)|null|
+|**2024-08-30**|**Excitation and spatial study of a prestellar cluster towards G+0.693-0.027 in the Galactic centre**|L. Colzi et.al.|[2408.17141](http://arxiv.org/abs/2408.17141)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
@@ -1477,6 +1487,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
+|**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
 |**2024-08-29**|**Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures**|Xingjian Han et.al.|[2408.16659](http://arxiv.org/abs/2408.16659)|null|
 |**2024-08-29**|**COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation**|Jiefeng Li et.al.|[2408.16426](http://arxiv.org/abs/2408.16426)|null|
 |**2024-08-27**|**PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization**|Ghazal Alinezhad Noghre et.al.|[2408.15185](http://arxiv.org/abs/2408.15185)|null|
@@ -1682,6 +1694,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
+|**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
+|**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
+|**2024-08-30**|**AdaptVision: Dynamic Input Scaling in MLLMs for Versatile Scene Understanding**|Yonghui Wang et.al.|[2408.16986](http://arxiv.org/abs/2408.16986)|**[link](https://github.com/harrytea/adaptvision)**|
+|**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965](http://arxiv.org/abs/2408.16965)|**[link](https://github.com/dewenzeng/clsp)**|
+|**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
+|**2024-08-29**|**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models**|Koushik Srivatsan et.al.|[2408.16807](http://arxiv.org/abs/2408.16807)|**[link](https://github.com/koushiksrivats/robust-concept-erasing)**|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2408.16700](http://arxiv.org/abs/2408.16700)|**[link](https://github.com/moreno98/gradbias)**|
 |**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
@@ -2756,6 +2776,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
+|**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647](http://arxiv.org/abs/2408.16647)|null|
 |**2024-08-29**|**Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation**|Xiaoyu Jin et.al.|[2408.16506](http://arxiv.org/abs/2408.16506)|null|
