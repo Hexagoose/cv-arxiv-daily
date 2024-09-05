@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**Gravitational radiation from binary systems in Unimodular gravity**|Indranil Chakraborty et.al.|[2409.02909](http://arxiv.org/abs/2409.02909)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**Toward 2D Dynamo Models Calibrated by Global 3D Relativistic Accretion Disk Simulations**|Matthew D. Duez et.al.|[2409.02899](http://arxiv.org/abs/2409.02899)|null|
+|**2024-09-04**|**The Impact of Balancing Real and Synthetic Data on Accuracy and Fairness in Face Recognition**|Andrea Atzori et.al.|[2409.02867](http://arxiv.org/abs/2409.02867)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/abs/2409.02845)|null|
+|**2024-09-04**|**Segregation in binary mixture with differential contraction among active rings**|Emanuel F. Teixeira et.al.|[2409.02814](http://arxiv.org/abs/2409.02814)|null|
+|**2024-09-04**|**Microstructural features and hydrogen diffusion in bcc FeCr alloys: a comparison between the Kelvin probe- and nanohardness based- methods**|Jing Rao et.al.|[2409.02787](http://arxiv.org/abs/2409.02787)|null|
+|**2024-09-04**|**Oxygen Isotope Exchange Between Dust Aggregates and Ambient Nebular Gas**|Sota Arakawa et.al.|[2409.02736](http://arxiv.org/abs/2409.02736)|null|
 |**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
 |**2024-08-30**|**High-order finite element methods for three-dimensional multicomponent convection-diffusion**|Aaron Baier-Reinio et.al.|[2408.17390](http://arxiv.org/abs/2408.17390)|null|
 |**2024-08-30**|**An enhanced version of the Gaia map of the brightness of the natural sky**|Eduard Masana et.al.|[2408.17371](http://arxiv.org/abs/2408.17371)|null|
@@ -1495,6 +1505,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
+|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
+|**2024-09-01**|**SITUATE: Indoor Human Trajectory Prediction through Geometric Features and Self-Supervised Vision Representation**|Luigi Capogrosso et.al.|[2409.00774](http://arxiv.org/abs/2409.00774)|**[link](https://github.com/intelligolabs/situate)**|
+|**2024-09-01**|**MoManifold: Learning to Measure 3D Human Motion via Decoupled Joint Acceleration Manifolds**|Ziqiang Dang et.al.|[2409.00736](http://arxiv.org/abs/2409.00736)|null|
+|**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343](http://arxiv.org/abs/2409.00343)|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
 |**2024-08-29**|**Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures**|Xingjian Han et.al.|[2408.16659](http://arxiv.org/abs/2408.16659)|null|
@@ -1704,6 +1720,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653](http://arxiv.org/abs/2409.02653)|null|
+|**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543](http://arxiv.org/abs/2409.02543)|**[link](https://github.com/alipay/style-tokenizer)**|
+|**2024-09-04**|**A Learnable Color Correction Matrix for RAW Reconstruction**|Anqi Liu et.al.|[2409.02497](http://arxiv.org/abs/2409.02497)|null|
+|**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429](http://arxiv.org/abs/2409.02429)|null|
+|**2024-09-04**|**Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering**|Peng Wang et.al.|[2409.02426](http://arxiv.org/abs/2409.02426)|null|
+|**2024-09-04**|**Exploring Low-Dimensional Subspaces in Diffusion Models for Controllable Image Editing**|Siyi Chen et.al.|[2409.02374](http://arxiv.org/abs/2409.02374)|null|
+|**2024-09-03**|**QID $^2$ : An Image-Conditioned Diffusion Model for Q-space Up-sampling of DWI Data**|Zijian Chen et.al.|[2409.02309](http://arxiv.org/abs/2409.02309)|null|
+|**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
+|**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
 |**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
 |**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
@@ -2788,6 +2814,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657](http://arxiv.org/abs/2409.02657)|null|
+|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-03**|**Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning**|Xiaowei Hu et.al.|[2409.02108](http://arxiv.org/abs/2409.02108)|**[link](https://github.com/xw-hu/unveiling-deep-shadows)**|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
+|**2024-09-03**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
+|**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/abs/2409.01595)|null|
+|**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
+|**2024-09-02**|**Sync from the Sea: Retrieving Alignable Videos from Large-Scale Datasets**|Ishan Rajendrakumar Dave et.al.|[2409.01445](http://arxiv.org/abs/2409.01445)|null|
+|**2024-09-02**|**OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model**|Liuhan Chen et.al.|[2409.01199](http://arxiv.org/abs/2409.01199)|null|
+|**2024-08-31**|**Compositional 3D-aware Video Generation with LLM Director**|Hanxin Zhu et.al.|[2409.00558](http://arxiv.org/abs/2409.00558)|null|
 |**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
 |**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
