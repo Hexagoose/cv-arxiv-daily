@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1499,18 +1499,18 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
-|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
 |**2024-09-01**|**SITUATE: Indoor Human Trajectory Prediction through Geometric Features and Self-Supervised Vision Representation**|Luigi Capogrosso et.al.|[2409.00774](http://arxiv.org/abs/2409.00774)|**[link](https://github.com/intelligolabs/situate)**|
 |**2024-09-01**|**MoManifold: Learning to Measure 3D Human Motion via Decoupled Joint Acceleration Manifolds**|Ziqiang Dang et.al.|[2409.00736](http://arxiv.org/abs/2409.00736)|null|
-|**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343](http://arxiv.org/abs/2409.00343)|null|
+|**2024-09-05**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343](http://arxiv.org/abs/2409.00343)|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
 |**2024-08-29**|**Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures**|Xingjian Han et.al.|[2408.16659](http://arxiv.org/abs/2408.16659)|null|
@@ -1714,7 +1714,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 ## Image Generation
 
@@ -2808,17 +2808,17 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657](http://arxiv.org/abs/2409.02657)|null|
-|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-03**|**Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning**|Xiaowei Hu et.al.|[2409.02108](http://arxiv.org/abs/2409.02108)|**[link](https://github.com/xw-hu/unveiling-deep-shadows)**|
 |**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
-|**2024-09-03**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
+|**2024-09-05**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
 |**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/abs/2409.01595)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
 |**2024-09-02**|**Sync from the Sea: Retrieving Alignable Videos from Large-Scale Datasets**|Ishan Rajendrakumar Dave et.al.|[2409.01445](http://arxiv.org/abs/2409.01445)|null|
@@ -3187,7 +3187,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240906>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

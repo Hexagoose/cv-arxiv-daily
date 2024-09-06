@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1498,11 +1498,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
-|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
 |**2024-09-01**|**SITUATE: Indoor Human Trajectory Prediction through Geometric Features and Self-Supervised Vision Representation**|Luigi Capogrosso et.al.|[2409.00774](http://arxiv.org/abs/2409.00774)|**[link](https://github.com/intelligolabs/situate)**|
 |**2024-09-01**|**MoManifold: Learning to Measure 3D Human Motion via Decoupled Joint Acceleration Manifolds**|Ziqiang Dang et.al.|[2409.00736](http://arxiv.org/abs/2409.00736)|null|
-|**2024-08-31**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343](http://arxiv.org/abs/2409.00343)|null|
+|**2024-09-05**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343](http://arxiv.org/abs/2409.00343)|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168](http://arxiv.org/abs/2408.17168)|null|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
 |**2024-08-29**|**Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures**|Xingjian Han et.al.|[2408.16659](http://arxiv.org/abs/2408.16659)|null|
@@ -2803,10 +2803,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation**|Jun Ling et.al.|[2409.02657](http://arxiv.org/abs/2409.02657)|null|
-|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
 |**2024-09-03**|**Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning**|Xiaowei Hu et.al.|[2409.02108](http://arxiv.org/abs/2409.02108)|**[link](https://github.com/xw-hu/unveiling-deep-shadows)**|
 |**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](http://arxiv.org/abs/2409.02095)|null|
-|**2024-09-03**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
+|**2024-09-05**|**CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention**|Gaojie Lin et.al.|[2409.01876](http://arxiv.org/abs/2409.01876)|null|
 |**2024-09-03**|**DiVE: DiT-based Video Generation with Enhanced Control**|Junpeng Jiang et.al.|[2409.01595](http://arxiv.org/abs/2409.01595)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
 |**2024-09-02**|**Sync from the Sea: Retrieving Alignable Videos from Large-Scale Datasets**|Ishan Rajendrakumar Dave et.al.|[2409.01445](http://arxiv.org/abs/2409.01445)|null|
