@@ -35,7 +35,7 @@
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
 |**2024-09-04**|**Toward 2D Dynamo Models Calibrated by Global 3D Relativistic Accretion Disk Simulations**|Matthew D. Duez et.al.|[2409.02899](http://arxiv.org/abs/2409.02899)|null|
 |**2024-09-04**|**The Impact of Balancing Real and Synthetic Data on Accuracy and Fairness in Face Recognition**|Andrea Atzori et.al.|[2409.02867](http://arxiv.org/abs/2409.02867)|null|
-|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|**[link](https://github.com/Human-VDM/Human-VDM)**|
 |**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/abs/2409.02845)|null|
 |**2024-09-04**|**Segregation in binary mixture with differential contraction among active rings**|Emanuel F. Teixeira et.al.|[2409.02814](http://arxiv.org/abs/2409.02814)|null|
 |**2024-09-04**|**Microstructural features and hydrogen diffusion in bcc FeCr alloys: a comparison between the Kelvin probe- and nanohardness based- methods**|Jing Rao et.al.|[2409.02787](http://arxiv.org/abs/2409.02787)|null|
