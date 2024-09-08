@@ -1918,9 +1918,9 @@ layout: default
 |**2024-07-25**|**Guided Latent Slot Diffusion for Object-Centric Learning**|Krishnakant Singh et.al.|[2407.17929](http://arxiv.org/abs/2407.17929)|null|
 |**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911](http://arxiv.org/abs/2407.17911)|null|
 |**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882](http://arxiv.org/abs/2407.17882)|null|
-|**2024-07-25**|**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**|Gwanhyeong Koo et.al.|[2407.17850](http://arxiv.org/abs/2407.17850)|null|
+|**2024-07-25**|**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**|Gwanhyeong Koo et.al.|[2407.17850](http://arxiv.org/abs/2407.17850)|**[link](https://github.com/kookie12/FlexiEdit)**|
 |**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang et.al.|[2407.17847](http://arxiv.org/abs/2407.17847)|**[link](https://github.com/mobiushy/move-act)**|
-|**2024-07-25**|**DragText: Rethinking Text Embedding in Point-based Image Editing**|Gayoon Choi et.al.|[2407.17843](http://arxiv.org/abs/2407.17843)|null|
+|**2024-07-25**|**DragText: Rethinking Text Embedding in Point-based Image Editing**|Gayoon Choi et.al.|[2407.17843](http://arxiv.org/abs/2407.17843)|**[link](https://github.com/MICV-yonsei/DragText)**|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|**[link](https://github.com/PAULGOYES/CDDIP)**|
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
 |**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
