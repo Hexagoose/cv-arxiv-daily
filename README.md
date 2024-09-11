@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
+|**2024-09-10**|**A surprising regularizing effect of the nonlinear semigroup associated to the semilinear heat equation and applications to reaction diffusion systems**|Said Kouachi et.al.|[2409.06606](http://arxiv.org/abs/2409.06606)|null|
+|**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451](http://arxiv.org/abs/2409.06451)|null|
+|**2024-09-10**|**Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles**|Jakub Rydzewski et.al.|[2409.06428](http://arxiv.org/abs/2409.06428)|null|
+|**2024-09-10**|**The Potential of Geminate Pairs in Lead Halide Perovskite revealed via Time-resolved Photoluminescence**|Hannes Hempel et.al.|[2409.06382](http://arxiv.org/abs/2409.06382)|null|
+|**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371](http://arxiv.org/abs/2409.06371)|null|
+|**2024-09-10**|**Hydrodynamic model for laser swelling**|Nikita Bityurin et.al.|[2409.06370](http://arxiv.org/abs/2409.06370)|null|
+|**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364](http://arxiv.org/abs/2409.06364)|null|
+|**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
+|**2024-09-10**|**Market Reaction to News Flows in Supply Chain Networks**|Hiroyasu Inoue et.al.|[2409.06255](http://arxiv.org/abs/2409.06255)|null|
 |**2024-09-09**|**Quantum maximum entropy closure for small flavor coherence**|Julien Froustey et.al.|[2409.05807](http://arxiv.org/abs/2409.05807)|null|
 |**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798](http://arxiv.org/abs/2409.05798)|null|
 |**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
@@ -1535,6 +1545,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**World-Grounded Human Motion Recovery via Gravity-View Coordinates**|Zehong Shen et.al.|[2409.06662](http://arxiv.org/abs/2409.06662)|null|
 |**2024-09-09**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
 |**2024-09-05**|**HUMOS: Human Motion Model Conditioned on Body Shape**|Shashank Tripathi et.al.|[2409.03944](http://arxiv.org/abs/2409.03944)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
@@ -1752,6 +1763,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
+|**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
+|**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535](http://arxiv.org/abs/2409.06535)|null|
+|**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
+|**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183](http://arxiv.org/abs/2409.06183)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
+|**2024-09-09**|**MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback**|Chen Chen et.al.|[2409.06082](http://arxiv.org/abs/2409.06082)|null|
+|**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074](http://arxiv.org/abs/2409.06074)|null|
+|**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414](http://arxiv.org/abs/2409.05414)|null|
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399](http://arxiv.org/abs/2409.05399)|null|
 |**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|null|
@@ -2865,6 +2884,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
+|**2024-09-10**|**G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer**|Jinzhi Zhang et.al.|[2409.06322](http://arxiv.org/abs/2409.06322)|null|
+|**2024-09-10**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189](http://arxiv.org/abs/2409.06189)|null|
+|**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074](http://arxiv.org/abs/2409.06074)|null|
 |**2024-09-10**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463](http://arxiv.org/abs/2409.05463)|null|
 |**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|null|
 |**2024-09-06**|**Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task**|Jing Wang et.al.|[2409.04005](http://arxiv.org/abs/2409.04005)|**[link](https://github.com/360cvgroup/qihoo-t2x)**|
