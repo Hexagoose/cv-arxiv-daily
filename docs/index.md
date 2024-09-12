@@ -1969,7 +1969,7 @@ layout: default
 |**2024-07-25**|**RegionDrag: Fast Region-Based Image Editing with Diffusion Models**|Jingyi Lu et.al.|[2407.18247](http://arxiv.org/abs/2407.18247)|null|
 |**2024-07-25**|**AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**|Junho Park et.al.|[2407.18034](http://arxiv.org/abs/2407.18034)|**[link](https://github.com/redorangeyellowy/AttentionHand)**|
 |**2024-07-25**|**Guided Latent Slot Diffusion for Object-Centric Learning**|Krishnakant Singh et.al.|[2407.17929](http://arxiv.org/abs/2407.17929)|null|
-|**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911](http://arxiv.org/abs/2407.17911)|null|
+|**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911](http://arxiv.org/abs/2407.17911)|**[link](https://github.com/j1anglin/ReCorD)**|
 |**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882](http://arxiv.org/abs/2407.17882)|null|
 |**2024-07-25**|**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**|Gwanhyeong Koo et.al.|[2407.17850](http://arxiv.org/abs/2407.17850)|**[link](https://github.com/kookie12/FlexiEdit)**|
 |**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang et.al.|[2407.17847](http://arxiv.org/abs/2407.17847)|**[link](https://github.com/mobiushy/move-act)**|
