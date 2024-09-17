@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
+|**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
+|**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
+|**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
+|**2024-09-16**|**Fairness, not Emotion, Drives Socioeconomic Decision Making**|Rudra Mukhopadhyay et.al.|[2409.10322](http://arxiv.org/abs/2409.10322)|null|
+|**2024-09-16**|**Controllability and Inverse Problems for Parabolic Systems with Dynamic Boundary Conditions**|S. E. Chorfi et.al.|[2409.10302](http://arxiv.org/abs/2409.10302)|null|
+|**2024-09-16**|**On Synthetic Texture Datasets: Challenges, Creation, and Curation**|Blaine Hoak et.al.|[2409.10297](http://arxiv.org/abs/2409.10297)|null|
+|**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-16**|**DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**|Fa-Ting Hong et.al.|[2409.10281](http://arxiv.org/abs/2409.10281)|null|
 |**2024-09-13**|**Oxygen Abundance Throughout the Dwarf Starburst IC 10**|Maren Cosens et.al.|[2409.09020](http://arxiv.org/abs/2409.09020)|null|
 |**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
 |**2024-09-13**|**Diffusion crossover from/to $q$-statistics to/from Boltzmann-Gibbs statistics in the classical inertial $α$ -XY ferromagnet**|Antonio Rodríguez et.al.|[2409.08992](http://arxiv.org/abs/2409.08992)|null|
@@ -1567,6 +1577,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Know your limits! Optimize the robot's behavior through self-awareness**|Esteve Valls Mascaro et.al.|[2409.10308](http://arxiv.org/abs/2409.10308)|null|
+|**2024-09-13**|**Transformer with Controlled Attention for Synchronous Motion Captioning**|Karim Radouane et.al.|[2409.09177](http://arxiv.org/abs/2409.09177)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**GateAttentionPose: Enhancing Pose Estimation with Agent Attention and Improved Gated Convolutions**|Liang Feng et.al.|[2409.07798](http://arxiv.org/abs/2409.07798)|null|
 |**2024-09-12**|**GatedUniPose: A Novel Approach for Pose Estimation Combining UniRepLKNet and Gated Convolution**|Liang Feng et.al.|[2409.07752](http://arxiv.org/abs/2409.07752)|null|
@@ -1787,6 +1799,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
+|**2024-09-16**|**Robust image representations with counterfactual contrastive learning**|Mélanie Roschewitz et.al.|[2409.10365](http://arxiv.org/abs/2409.10365)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
+|**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339](http://arxiv.org/abs/2409.10339)|null|
+|**2024-09-16**|**On Synthetic Texture Datasets: Challenges, Creation, and Curation**|Blaine Hoak et.al.|[2409.10297](http://arxiv.org/abs/2409.10297)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
+|**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
+|**2024-09-16**|**2S-ODIS: Two-Stage Omni-Directional Image Synthesis by Geometric Distortion Correction**|Atsuya Nakata et.al.|[2409.09969](http://arxiv.org/abs/2409.09969)|**[link](https://github.com/islab-sophia/2s-odis)**|
+|**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896](http://arxiv.org/abs/2409.09896)|null|
+|**2024-09-15**|**Generalizing Alignment Paradigm of Text-to-Image Generation with Preferences through $f$ -divergence Minimization**|Haoyuan Sun et.al.|[2409.09774](http://arxiv.org/abs/2409.09774)|null|
+|**2024-09-15**|**MFCLIP: Multi-modal Fine-grained CLIP for Generalizable Diffusion Face Forgery Detection**|Yaning Zhang et.al.|[2409.09724](http://arxiv.org/abs/2409.09724)|null|
 |**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
 |**2024-09-13**|**GroundingBooth: Grounding Text-to-Image Customization**|Zhexiao Xiong et.al.|[2409.08520](http://arxiv.org/abs/2409.08520)|null|
 |**2024-09-13**|**Enhancing Privacy in ControlNet and Stable Diffusion via Split Learning**|Dixi Yao et.al.|[2409.08503](http://arxiv.org/abs/2409.08503)|null|
@@ -2921,6 +2943,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**|Weiliang Tang et.al.|[2409.10032](http://arxiv.org/abs/2409.10032)|null|
+|**2024-09-15**|**EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models**|Yupeng Chen et.al.|[2409.09668](http://arxiv.org/abs/2409.09668)|null|
 |**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
 |**2024-09-11**|**DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**|Steven Hogue et.al.|[2409.07649](http://arxiv.org/abs/2409.07649)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
