@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1572,7 +1572,7 @@ layout: default
 |**2024-09-12**|**GatedUniPose: A Novel Approach for Pose Estimation Combining UniRepLKNet and Gated Convolution**|Liang Feng et.al.|[2409.07752](http://arxiv.org/abs/2409.07752)|null|
 |**2024-09-10**|**Human Motion Synthesis_ A Diffusion Approach for Motion Stitching and In-Betweening**|Michael Adewole et.al.|[2409.06791](http://arxiv.org/abs/2409.06791)|null|
 |**2024-09-10**|**World-Grounded Human Motion Recovery via Gravity-View Coordinates**|Zehong Shen et.al.|[2409.06662](http://arxiv.org/abs/2409.06662)|null|
-|**2024-09-09**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
+|**2024-09-14**|**HiSC4D: Human-centered interaction and 4D Scene Capture in Large-scale Space Using Wearable IMUs and LiDAR**|Yudi Dai et.al.|[2409.04398](http://arxiv.org/abs/2409.04398)|null|
 |**2024-09-05**|**HUMOS: Human Motion Model Conditioned on Body Shape**|Shashank Tripathi et.al.|[2409.03944](http://arxiv.org/abs/2409.03944)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
 |**2024-09-05**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
