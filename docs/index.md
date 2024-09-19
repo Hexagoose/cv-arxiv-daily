@@ -318,7 +318,7 @@ layout: default
 |**2024-08-05**|**Ionic-electronic transistors small signal AC admittance: Theory and experiment**|Juan Bisquert et.al.|[2408.02648](http://arxiv.org/abs/2408.02648)|null|
 |**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630](http://arxiv.org/abs/2408.02630)|null|
 |**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
-|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
+|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|**[link](https://github.com/yunxiangfu2001/lamamba-diff)**|
 |**2024-08-05**|**Superradiant emission stimulated by vortex-antivortex pair production in layered superconductors**|Ahmad Sheikhzada et.al.|[2408.02610](http://arxiv.org/abs/2408.02610)|null|
 |**2024-08-05**|**Rossby wave instability in weakly ionized protoplanetary disks. II. radial B-fields**|Can Cui et.al.|[2408.02556](http://arxiv.org/abs/2408.02556)|null|
 |**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408](http://arxiv.org/abs/2408.02408)|null|
