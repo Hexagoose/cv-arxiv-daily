@@ -28,7 +28,7 @@ layout: default
 |**2024-09-17**|**A lattice Boltzmann method for Biot's consolidation model of linear poroelasticity**|Stephan B. Lunowa et.al.|[2409.11382](http://arxiv.org/abs/2409.11382)|null|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
-|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|null|
+|**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**fMRI-3D: A Comprehensive Dataset for Enhancing fMRI-based 3D Reconstruction**|Jianxiong Gao et.al.|[2409.11315](http://arxiv.org/abs/2409.11315)|null|
 |**2024-09-17**|**DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models**|Avirup Das et.al.|[2409.11292](http://arxiv.org/abs/2409.11292)|null|
