@@ -43,7 +43,7 @@
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing**|Qi Qian et.al.|[2409.10476](http://arxiv.org/abs/2409.10476)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
-|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|null|
+|**2024-09-16**|**Mamba-ST: State Space Model for Efficient Style Transfer**|Filippo Botti et.al.|[2409.10385](http://arxiv.org/abs/2409.10385)|**[link](https://github.com/filippobotti/mambast)**|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-16**|**Fairness, not Emotion, Drives Socioeconomic Decision Making**|Rudra Mukhopadhyay et.al.|[2409.10322](http://arxiv.org/abs/2409.10322)|null|
 |**2024-09-16**|**Controllability and Inverse Problems for Parabolic Systems with Dynamic Boundary Conditions**|S. E. Chorfi et.al.|[2409.10302](http://arxiv.org/abs/2409.10302)|null|
@@ -155,7 +155,7 @@
 |**2024-08-28**|**Direct measurement of surface interactions experienced by sticky microcapsules made from environmentally benign materials**|Hairou Yu et.al.|[2408.15945](http://arxiv.org/abs/2408.15945)|null|
 |**2024-08-28**|**DiffAge3D: Diffusion-based 3D-aware Face Aging**|Junaid Wahid et.al.|[2408.15922](http://arxiv.org/abs/2408.15922)|null|
 |**2024-08-28**|**Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones**|Carlos Plou et.al.|[2408.15899](http://arxiv.org/abs/2408.15899)|null|
-|**2024-08-28**|**Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation**|Reid Graves et.al.|[2408.15898](http://arxiv.org/abs/2408.15898)|null|
+|**2024-08-28**|**Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation**|Reid Graves et.al.|[2408.15898](http://arxiv.org/abs/2408.15898)|**[link](https://github.com/gravesreid/airfoil_diffusion_generator)**|
 |**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890](http://arxiv.org/abs/2408.15890)|null|
 |**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
 |**2024-08-28**|**Global well-posedness and large time behavior of solutions to the compressible Oldroyd-B model without stress diffusion**|Yajuan Zhao et.al.|[2408.15812](http://arxiv.org/abs/2408.15812)|null|
@@ -1109,7 +1109,7 @@
 |**2024-04-10**|**On the conjugate interface conditions and Galilean invariance**|Yang Hu et.al.|[2404.07025](http://arxiv.org/abs/2404.07025)|null|
 |**2024-04-10**|**Non-Degenerate One-Time Pad and the integrity of perfectly secret messages**|Alex Shafarenko et.al.|[2404.07022](http://arxiv.org/abs/2404.07022)|null|
 |**2024-04-09**|**Convergence analysis of novel discontinuous Galerkin methods for a convection dominated problem**|Satyajith Bommana Boyana et.al.|[2404.06490](http://arxiv.org/abs/2404.06490)|null|
-|**2024-04-09**|**Uncovering Tidal Treasures: Automated Classification of Faint Tidal Features in DECaLS Data**|Alexander J. Gordon et.al.|[2404.06487](http://arxiv.org/abs/2404.06487)|null|
+|**2024-04-09**|**Uncovering Tidal Treasures: Automated Classification of Faint Tidal Features in DECaLS Data**|Alexander J. Gordon et.al.|[2404.06487](http://arxiv.org/abs/2404.06487)|**[link](https://github.com/aj-gordon/decals-cnn)**|
 |**2024-04-09**|**GeoDirDock: Guiding Docking Along Geodesic Paths**|Raúl Miñán et.al.|[2404.06481](http://arxiv.org/abs/2404.06481)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
 |**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425](http://arxiv.org/abs/2404.06425)|null|
@@ -1851,7 +1851,7 @@
 |**2024-09-16**|**Robust image representations with counterfactual contrastive learning**|Mélanie Roschewitz et.al.|[2409.10365](http://arxiv.org/abs/2409.10365)|**[link](https://github.com/biomedia-mira/counterfactual-contrastive)**|
 |**2024-09-16**|**VAE-QWGAN: Improving Quantum GANs for High Resolution Image Generation**|Aaron Mark Thomas et.al.|[2409.10339](http://arxiv.org/abs/2409.10339)|null|
 |**2024-09-16**|**On Synthetic Texture Datasets: Challenges, Creation, and Curation**|Blaine Hoak et.al.|[2409.10297](http://arxiv.org/abs/2409.10297)|null|
-|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|Weijing Tao et.al.|[2409.10090](http://arxiv.org/abs/2409.10090)|**[link](https://github.com/weijing-tao/MotionCom)**|
 |**2024-09-16**|**Cross-modality image synthesis from TOF-MRA to CTA using diffusion-based models**|Alexander Koch et.al.|[2409.10089](http://arxiv.org/abs/2409.10089)|null|
 |**2024-09-16**|**2S-ODIS: Two-Stage Omni-Directional Image Synthesis by Geometric Distortion Correction**|Atsuya Nakata et.al.|[2409.09969](http://arxiv.org/abs/2409.09969)|**[link](https://github.com/islab-sophia/2s-odis)**|
 |**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896](http://arxiv.org/abs/2409.09896)|null|
@@ -1871,7 +1871,7 @@
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
 |**2024-09-11**|**Controllable retinal image synthesis using conditional StyleGAN and latent space manipulation for improved diagnosis and grading of diabetic retinopathy**|Somayeh Pakdelmoez et.al.|[2409.07422](http://arxiv.org/abs/2409.07422)|null|
 |**2024-09-11**|**CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals**|Weixiang Gao et.al.|[2409.07271](http://arxiv.org/abs/2409.07271)|**[link](https://github.com/gaovix/ccfexp)**|
-|**2024-09-11**|**Bio-Eng-LMM AI Assist chatbot: A Comprehensive Tool for Research and Education**|Ali Forootani et.al.|[2409.07110](http://arxiv.org/abs/2409.07110)|null|
+|**2024-09-11**|**Bio-Eng-LMM AI Assist chatbot: A Comprehensive Tool for Research and Education**|Ali Forootani et.al.|[2409.07110](http://arxiv.org/abs/2409.07110)|**[link](https://github.com/Ali-Forootani/multi_llm)**|
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535](http://arxiv.org/abs/2409.06535)|null|
@@ -2756,7 +2756,7 @@
 |**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614](http://arxiv.org/abs/2403.11614)|**[link](https://github.com/Sonettoo/CRS-Diff)**|
 |**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|**[link](https://github.com/alibaba/effived)**|
 |**2024-03-18**|**Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors**|Ruicheng Wang et.al.|[2403.11503](http://arxiv.org/abs/2403.11503)|null|
-|**2024-03-18**|**DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation**|Jeongsol Kim et.al.|[2403.11415](http://arxiv.org/abs/2403.11415)|null|
+|**2024-03-18**|**DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation**|Jeongsol Kim et.al.|[2403.11415](http://arxiv.org/abs/2403.11415)|**[link](https://github.com/dreamsampler/dream-sampler)**|
 |**2024-03-17**|**StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining**|Tushar Kataria et.al.|[2403.11340](http://arxiv.org/abs/2403.11340)|null|
 |**2024-03-17**|**Fast Personalized Text-to-Image Syntheses With Attention Injection**|Yuxuan Zhang et.al.|[2403.11284](http://arxiv.org/abs/2403.11284)|null|
 |**2024-03-17**|**Understanding Diffusion Models by Feynman's Path Integral**|Yuji Hirono et.al.|[2403.11262](http://arxiv.org/abs/2403.11262)|null|
