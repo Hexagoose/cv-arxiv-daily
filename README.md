@@ -1840,7 +1840,7 @@
 |**2024-09-18**|**Finding the Subjective Truth: Collecting 2 Million Votes for Comprehensive Gen-AI Model Evaluation**|Dimitrios Christodoulou et.al.|[2409.11904](http://arxiv.org/abs/2409.11904)|null|
 |**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831](http://arxiv.org/abs/2409.11831)|null|
 |**2024-09-18**|**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models**|Yan Zheng et.al.|[2409.11734](http://arxiv.org/abs/2409.11734)|null|
-|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
+|**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|**[link](https://github.com/liangshuowen/posediffusion)**|
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/abs/2409.11541)|null|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
