@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
+|**2024-09-25**|**Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**|Xinfeng Wei et.al.|[2409.17104](http://arxiv.org/abs/2409.17104)|null|
+|**2024-09-25**|**Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**|Pascal A. Noti et.al.|[2409.17101](http://arxiv.org/abs/2409.17101)|null|
+|**2024-09-25**|**Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification**|Xinrui Zhou et.al.|[2409.17091](http://arxiv.org/abs/2409.17091)|null|
+|**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
+|**2024-09-25**|**ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis**|Fangshuo Zhou et.al.|[2409.17049](http://arxiv.org/abs/2409.17049)|**[link](https://github.com/fangshuoz/controlcity)**|
+|**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045](http://arxiv.org/abs/2409.17045)|null|
+|**2024-09-25**|**Cloud technologies, firm growth and industry concentration: Evidence from France**|Bernardo Caldarola et.al.|[2409.17035](http://arxiv.org/abs/2409.17035)|null|
+|**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
+|**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control**|Zichen Jeff Cui et.al.|[2409.12192](http://arxiv.org/abs/2409.12192)|null|
 |**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
@@ -1597,6 +1607,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
+|**2024-09-24**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
+|**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564](http://arxiv.org/abs/2409.15564)|null|
+|**2024-09-23**|**Built Different: Tactile Perception to Overcome Cross-Embodiment Capability Differences in Collaborative Manipulation**|William van den Bogert et.al.|[2409.14896](http://arxiv.org/abs/2409.14896)|null|
+|**2024-09-21**|**ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events**|Kanghao Chen et.al.|[2409.14103](http://arxiv.org/abs/2409.14103)|null|
+|**2024-09-21**|**PoseAugment: Generative Human Pose Data Augmentation with Physical Plausibility for IMU-based Motion Capture**|Zhuojun Li et.al.|[2409.14101](http://arxiv.org/abs/2409.14101)|**[link](https://github.com/cavespiderlzj/poseaugment-eccv2024)**|
+|**2024-09-20**|**HMD $^2$ : Environment-aware Motion Generation from Single Egocentric Head-Mounted Device**|Vladimir Guzov et.al.|[2409.13426](http://arxiv.org/abs/2409.13426)|null|
+|**2024-09-19**|**Bayesian-Optimized One-Step Diffusion Model with Knowledge Distillation for Real-Time 3D Human Motion Prediction**|Sibo Tian et.al.|[2409.12456](http://arxiv.org/abs/2409.12456)|null|
 |**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
 |**2024-09-18**|**Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models**|Lorenzo Mandelli et.al.|[2409.11920](http://arxiv.org/abs/2409.11920)|null|
@@ -1823,6 +1841,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045](http://arxiv.org/abs/2409.17045)|null|
+|**2024-09-25**|**Towards General Text-guided Image Synthesis for Customized Multimodal Brain MRI Generation**|Yulin Wang et.al.|[2409.16818](http://arxiv.org/abs/2409.16818)|**[link](https://github.com/Wangyulin-user/TUMSyn)**|
+|**2024-09-25**|**Pose-Guided Fine-Grained Sign Language Video Generation**|Tongkai Shi et.al.|[2409.16709](http://arxiv.org/abs/2409.16709)|null|
+|**2024-09-25**|**Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation**|Youngwan Jin et.al.|[2409.16706](http://arxiv.org/abs/2409.16706)|null|
+|**2024-09-25**|**Morphological-consistent Diffusion Network for Ultrasound Coronal Image Enhancement**|Yihao Zhou et.al.|[2409.16661](http://arxiv.org/abs/2409.16661)|null|
+|**2024-09-25**|**ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis**|Matthew A. Reyna et.al.|[2409.16612](http://arxiv.org/abs/2409.16612)|null|
+|**2024-09-25**|**Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models**|Deepak Sridhar et.al.|[2409.16535](http://arxiv.org/abs/2409.16535)|**[link](https://github.com/deepaksridhar/promptsliders)**|
+|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280](http://arxiv.org/abs/2409.16280)|null|
+|**2024-09-24**|**Label-Augmented Dataset Distillation**|Seoungyoon Kang et.al.|[2409.16239](http://arxiv.org/abs/2409.16239)|null|
+|**2024-09-24**|**MaskBit: Embedding-free Image Generation via Bit Tokens**|Mark Weber et.al.|[2409.16211](http://arxiv.org/abs/2409.16211)|null|
 |**2024-09-18**|**Brain-Streams: fMRI-to-Image Reconstruction with Multi-modal Guidance**|Jaehoon Joo et.al.|[2409.12099](http://arxiv.org/abs/2409.12099)|null|
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**|Jiaxiong Liu et.al.|[2409.11953](http://arxiv.org/abs/2409.11953)|null|
@@ -2981,6 +3009,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Pose-Guided Fine-Grained Sign Language Video Generation**|Tongkai Shi et.al.|[2409.16709](http://arxiv.org/abs/2409.16709)|null|
+|**2024-09-24**|**Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**|Homanga Bharadhwaj et.al.|[2409.16283](http://arxiv.org/abs/2409.16283)|null|
+|**2024-09-24**|**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**|Yifang Men et.al.|[2409.16160](http://arxiv.org/abs/2409.16160)|null|
+|**2024-09-23**|**LoVA: Long-form Video-to-Audio Generation**|Xin Cheng et.al.|[2409.15157](http://arxiv.org/abs/2409.15157)|null|
+|**2024-09-23**|**Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond**|Hong Chen et.al.|[2409.14993](http://arxiv.org/abs/2409.14993)|null|
+|**2024-09-23**|**Advancing Video Quality Assessment for AIGC**|Xinli Yue et.al.|[2409.14888](http://arxiv.org/abs/2409.14888)|null|
+|**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709](http://arxiv.org/abs/2409.14709)|null|
+|**2024-09-22**|**Dormant: Defending against Pose-driven Human Image Animation**|Jiachen Zhou et.al.|[2409.14424](http://arxiv.org/abs/2409.14424)|null|
+|**2024-09-21**|**JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation**|Hadrien Reynaud et.al.|[2409.14149](http://arxiv.org/abs/2409.14149)|null|
+|**2024-09-20**|**Portrait Video Editing Empowered by Multimodal Generative Priors**|Xuan Gao et.al.|[2409.13591](http://arxiv.org/abs/2409.13591)|null|
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
 |**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-16**|**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**|Weiliang Tang et.al.|[2409.10032](http://arxiv.org/abs/2409.10032)|null|
