@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
+|**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
+|**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
+|**2024-09-30**|**Persistent homology classifies parameter dependence of patterns in Turing systems**|Reemon Spector et.al.|[2409.20491](http://arxiv.org/abs/2409.20491)|null|
+|**2024-09-30**|**POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator**|Eugenio Lomurno et.al.|[2409.20447](http://arxiv.org/abs/2409.20447)|null|
+|**2024-09-30**|**Multiwavelength Galactic Center gamma-ray observations explained by a unified cosmic-ray dynamics model**|Andrés Scherer et.al.|[2409.20436](http://arxiv.org/abs/2409.20436)|null|
+|**2024-09-30**|**Lateral diffusion in 2-micron InGaAs/GaAsSb superlattice planar diodes using atomic layer deposition of ZnO**|Manisha Muduli et.al.|[2409.20406](http://arxiv.org/abs/2409.20406)|null|
+|**2024-09-30**|**Conductance properties of an $α$-$T_3$ Corbino disk**|Mijanur Islam et.al.|[2409.20395](http://arxiv.org/abs/2409.20395)|null|
+|**2024-09-30**|**Topology affects diffusion dynamics of ring polymers in dilute solutions**|Prabeen Kumar Pattnayak et.al.|[2409.20386](http://arxiv.org/abs/2409.20386)|null|
+|**2024-09-30**|**Symbol-based multilevel block $τ$ preconditioners for multilevel block Toeplitz systems: GLT-based analysis and applications**|Sean Y. Hon et.al.|[2409.20363](http://arxiv.org/abs/2409.20363)|null|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959](http://arxiv.org/abs/2409.18959)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932](http://arxiv.org/abs/2409.18932)|null|
@@ -1635,9 +1645,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|null|
+|**2024-09-29**|**Text-driven Human Motion Generation with Motion Masked Diffusion Model**|Xingyu Chen et.al.|[2409.19686](http://arxiv.org/abs/2409.19686)|null|
+|**2024-09-29**|**BadHMP: Backdoor Attack against Human Motion Prediction**|Chaohui Xu et.al.|[2409.19638](http://arxiv.org/abs/2409.19638)|null|
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
 |**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
-|**2024-09-24**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
+|**2024-09-30**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
 |**2024-09-27**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564](http://arxiv.org/abs/2409.15564)|null|
 |**2024-09-23**|**Built Different: Tactile Perception to Overcome Cross-Embodiment Capability Differences in Collaborative Manipulation**|William van den Bogert et.al.|[2409.14896](http://arxiv.org/abs/2409.14896)|null|
 |**2024-09-21**|**ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events**|Kanghao Chen et.al.|[2409.14103](http://arxiv.org/abs/2409.14103)|null|
@@ -1872,6 +1885,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
+|**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
+|**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
+|**2024-09-30**|**MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation**|Wenchao Chen et.al.|[2409.19937](http://arxiv.org/abs/2409.19937)|null|
+|**2024-09-29**|**OrganiQ: Mitigating Classical Resource Bottlenecks of Quantum Generative Adversarial Networks on NISQ-Era Machines**|Daniel Silver et.al.|[2409.19823](http://arxiv.org/abs/2409.19823)|null|
+|**2024-09-29**|**Simple and Fast Distillation of Diffusion Models**|Zhenyu Zhou et.al.|[2409.19681](http://arxiv.org/abs/2409.19681)|**[link](https://github.com/zju-pi/diff-sampler)**|
+|**2024-09-29**|**Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection**|Yuhang Ma et.al.|[2409.19624](http://arxiv.org/abs/2409.19624)|null|
+|**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
+|**2024-09-28**|**Introducing SDICE: An Index for Assessing Diversity of Synthetic Medical Datasets**|Mohammed Talha Alam et.al.|[2409.19436](http://arxiv.org/abs/2409.19436)|null|
+|**2024-09-28**|**Conditional Image Synthesis with Diffusion Models: A Survey**|Zheyuan Zhan et.al.|[2409.19365](http://arxiv.org/abs/2409.19365)|null|
 |**2024-09-27**|**Detecting Dataset Abuse in Fine-Tuning Stable Diffusion Models for Text-to-Image Synthesis**|Songrui Wang et.al.|[2409.18897](http://arxiv.org/abs/2409.18897)|null|
 |**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/abs/2409.18314)|null|
 |**2024-09-26**|**Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection**|Lalith Bharadwaj Baru et.al.|[2409.18301](http://arxiv.org/abs/2409.18301)|**[link](https://github.com/lalithbharadwajbaru/wavelet-clip)**|
@@ -3057,6 +3080,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
+|**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
+|**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|null|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804](http://arxiv.org/abs/2409.18804)|null|
 |**2024-09-26**|**Self-Supervised Learning of Deviation in Latent Representation for Co-speech Gesture Video Generation**|Huan Yang et.al.|[2409.17674](http://arxiv.org/abs/2409.17674)|null|
