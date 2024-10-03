@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**A Catalog of Pulsar X-ray Filaments**|Jack T. Dinsmore et.al.|[2410.01807](http://arxiv.org/abs/2410.01807)|null|
+|**2024-10-02**|**FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images**|Cheng Zhang et.al.|[2410.01801](http://arxiv.org/abs/2410.01801)|null|
+|**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
+|**2024-10-02**|**Dynamical-generative downscaling of climate model ensembles**|Ignacio Lopez-Gomez et.al.|[2410.01776](http://arxiv.org/abs/2410.01776)|null|
+|**2024-10-02**|**Integrable Matrix Probabilistic Diffusions and the Matrix Stochastic Heat Equation**|Alexandre Krajenbrink et.al.|[2410.01764](http://arxiv.org/abs/2410.01764)|null|
+|**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756](http://arxiv.org/abs/2410.01756)|**[link](https://github.com/lxa9867/imagefolder)**|
+|**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738](http://arxiv.org/abs/2410.01738)|**[link](https://github.com/carlofkl/vitaglyph)**|
+|**2024-10-02**|**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration**|Yushi Huang et.al.|[2410.01723](http://arxiv.org/abs/2410.01723)|null|
+|**2024-10-02**|**COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation**|Mingzhen Sun et.al.|[2410.01718](http://arxiv.org/abs/2410.01718)|null|
+|**2024-10-02**|**COSMIC: Compress Satellite Images Efficiently via Diffusion Compensation**|Ziyuan Zhang et.al.|[2410.01698](http://arxiv.org/abs/2410.01698)|**[link](https://github.com/joanna-0421/cosmic)**|
 |**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
 |**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
@@ -1885,6 +1895,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
+|**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756](http://arxiv.org/abs/2410.01756)|**[link](https://github.com/lxa9867/imagefolder)**|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|null|
+|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638](http://arxiv.org/abs/2410.01638)|**[link](https://github.com/senmaoy/RAT-Diffusion)**|
+|**2024-10-02**|**KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models**|Pouyan Navard et.al.|[2410.01595](http://arxiv.org/abs/2410.01595)|**[link](https://github.com/aminK8/KnobGen)**|
+|**2024-10-02**|**Edge-preserving noise for diffusion models**|Jente Vandersanden et.al.|[2410.01540](http://arxiv.org/abs/2410.01540)|null|
+|**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
+|**2024-10-02**|**Aggregation of Multi Diffusion Models for Enhancing Learned Representations**|Conghan Yue et.al.|[2410.01262](http://arxiv.org/abs/2410.01262)|**[link](https://github.com/hammour-steak/amdm)**|
+|**2024-10-02**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
 |**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
 |**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
 |**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
@@ -3080,6 +3100,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation**|Mingzhen Sun et.al.|[2410.01718](http://arxiv.org/abs/2410.01718)|null|
+|**2024-10-02**|**MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation**|Mingzhen Sun et.al.|[2410.01594](http://arxiv.org/abs/2410.01594)|**[link](https://github.com/iva-mzsun/mm-ldm)**|
+|**2024-10-01**|**Scaling Offline Model-Based RL via Jointly-Optimized World-Action Model Pretraining**|Jie Cheng et.al.|[2410.00564](http://arxiv.org/abs/2410.00564)|**[link](https://github.com/cjreinforce/jowa)**|
+|**2024-09-30**|**ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning**|Jian Shi et.al.|[2410.00262](http://arxiv.org/abs/2410.00262)|null|
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
 |**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
 |**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|null|
