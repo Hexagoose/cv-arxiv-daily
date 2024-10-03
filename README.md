@@ -2127,7 +2127,7 @@
 |**2024-08-08**|**Zero-Shot Uncertainty Quantification using Diffusion Probabilistic Models**|Dule Shu et.al.|[2408.04718](http://arxiv.org/abs/2408.04718)|null|
 |**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance**|Ahmad Arrabi et.al.|[2408.04224](http://arxiv.org/abs/2408.04224)|**[link](https://gitlab.com/vail-uvm/gpg2a)**|
-|**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102](http://arxiv.org/abs/2408.04102)|null|
+|**2024-08-07**|**ArtVLM: Attribute Recognition Through Vision-Based Prefix Language Modeling**|William Y. Zhu et.al.|[2408.04102](http://arxiv.org/abs/2408.04102)|**[link](https://github.com/google-research/google-research)**|
 |**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin et.al.|[2408.03789](http://arxiv.org/abs/2408.03789)|null|
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
 |**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695](http://arxiv.org/abs/2408.03695)|null|
