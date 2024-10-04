@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -1894,7 +1894,7 @@ layout: default
 |**2024-10-02**|**Edge-preserving noise for diffusion models**|Jente Vandersanden et.al.|[2410.01540](http://arxiv.org/abs/2410.01540)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
 |**2024-10-02**|**Aggregation of Multi Diffusion Models for Enhancing Learned Representations**|Conghan Yue et.al.|[2410.01262](http://arxiv.org/abs/2410.01262)|**[link](https://github.com/hammour-steak/amdm)**|
-|**2024-10-02**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
+|**2024-10-03**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
 |**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
 |**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
 |**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
