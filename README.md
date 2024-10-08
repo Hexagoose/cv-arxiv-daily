@@ -1945,7 +1945,7 @@
 |**2024-10-05**|**Accelerating Diffusion Models with One-to-Many Knowledge Distillation**|Linfeng Zhang et.al.|[2410.04191](http://arxiv.org/abs/2410.04191)|null|
 |**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](http://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
 |**2024-10-04**|**Dynamic Diffusion Transformer**|Wangbo Zhao et.al.|[2410.03456](http://arxiv.org/abs/2410.03456)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-diffusion-transformer)**|
-|**2024-10-04**|**Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication**|Miriam Anschütz et.al.|[2410.03430](http://arxiv.org/abs/2410.03430)|null|
+|**2024-10-04**|**Images Speak Volumes: User-Centric Assessment of Image Generation for Accessible Communication**|Miriam Anschütz et.al.|[2410.03430](http://arxiv.org/abs/2410.03430)|**[link](https://github.com/MiriUll/Image-Generation-for-Accessible-Communication)**|
 |**2024-10-04**|**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding**|Doohyuk Jang et.al.|[2410.03355](http://arxiv.org/abs/2410.03355)|null|
 |**2024-10-04**|**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization**|Zichen Miao et.al.|[2410.03190](http://arxiv.org/abs/2410.03190)|null|
 |**2024-10-04**|**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach**|Yaofang Liu et.al.|[2410.03160](http://arxiv.org/abs/2410.03160)|**[link](https://github.com/yaofang-liu/fvdm)**|
@@ -1982,7 +1982,7 @@
 |**2024-09-28**|**Introducing SDICE: An Index for Assessing Diversity of Synthetic Medical Datasets**|Mohammed Talha Alam et.al.|[2409.19436](http://arxiv.org/abs/2409.19436)|null|
 |**2024-09-28**|**Conditional Image Synthesis with Diffusion Models: A Survey**|Zheyuan Zhan et.al.|[2409.19365](http://arxiv.org/abs/2409.19365)|null|
 |**2024-09-27**|**Detecting Dataset Abuse in Fine-Tuning Stable Diffusion Models for Text-to-Image Synthesis**|Songrui Wang et.al.|[2409.18897](http://arxiv.org/abs/2409.18897)|null|
-|**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/abs/2409.18314)|null|
+|**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/abs/2409.18314)|**[link](https://github.com/r-three/realistic_evaluation_of_model_merging_for_compositional_generalization)**|
 |**2024-09-26**|**Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection**|Lalith Bharadwaj Baru et.al.|[2409.18301](http://arxiv.org/abs/2409.18301)|**[link](https://github.com/lalithbharadwajbaru/wavelet-clip)**|
 |**2024-09-26**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282](http://arxiv.org/abs/2409.18282)|null|
 |**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214](http://arxiv.org/abs/2409.18214)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
@@ -2057,7 +2057,7 @@
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399](http://arxiv.org/abs/2409.05399)|null|
 |**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|**[link](https://github.com/pku-ml/terd)**|
 |**2024-09-08**|**Can OOD Object Detectors Learn from Foundation Models?**|Jiahui Liu et.al.|[2409.05162](http://arxiv.org/abs/2409.05162)|**[link](https://github.com/cvmi-lab/syncood)**|
-|**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|null|
+|**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|**[link](https://github.com/cplusx/rich_context_l2i)**|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
 |**2024-09-07**|**Training-Free Style Consistent Image Synthesis with Condition and Mask Guidance in E-Commerce**|Guandong Li et.al.|[2409.04750](http://arxiv.org/abs/2409.04750)|null|
 |**2024-09-07**|**Multi-Conditioned Denoising Diffusion Probabilistic Model (mDDPM) for Medical Image Synthesis**|Arjun Krishna et.al.|[2409.04670](http://arxiv.org/abs/2409.04670)|null|
@@ -3212,7 +3212,7 @@
 |**2024-09-11**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189](http://arxiv.org/abs/2409.06189)|null|
 |**2024-09-09**|**SVS-GAN: Leveraging GANs for Semantic Video Synthesis**|Khaled M. Seyam et.al.|[2409.06074](http://arxiv.org/abs/2409.06074)|null|
 |**2024-09-12**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463](http://arxiv.org/abs/2409.05463)|null|
-|**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|null|
+|**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|**[link](https://github.com/cplusx/rich_context_l2i)**|
 |**2024-09-06**|**Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task**|Jing Wang et.al.|[2409.04005](http://arxiv.org/abs/2409.04005)|**[link](https://github.com/360cvgroup/qihoo-t2x)**|
 |**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003](http://arxiv.org/abs/2409.04003)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
 |**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514](http://arxiv.org/abs/2409.03514)|null|
