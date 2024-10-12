@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.11
+## Updated on 2024.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1699,7 +1699,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Motion
 
@@ -1954,7 +1954,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Image Generation
 
@@ -3207,7 +3207,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 ## Video Generation
 
@@ -3222,7 +3222,7 @@
 |**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
 |**2024-10-08**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
 |**2024-10-08**|**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**|Chi-Lam Cheang et.al.|[2410.06158](http://arxiv.org/abs/2410.06158)|null|
-|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/abs/2410.05954)|null|
+|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/abs/2410.05954)|**[link](https://github.com/jy0205/Pyramid-Flow)**|
 |**2024-10-08**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799](http://arxiv.org/abs/2410.05799)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
 |**2024-10-08**|**T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design**|Jiachen Li et.al.|[2410.05677](http://arxiv.org/abs/2410.05677)|null|
 |**2024-10-08**|**ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler**|Serin Yang et.al.|[2410.05651](http://arxiv.org/abs/2410.05651)|null|
@@ -3651,7 +3651,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20241011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

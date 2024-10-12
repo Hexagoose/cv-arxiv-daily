@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.11
+## Updated on 2024.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3210,7 +3210,7 @@ layout: default
 |**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
 |**2024-10-08**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
 |**2024-10-08**|**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**|Chi-Lam Cheang et.al.|[2410.06158](http://arxiv.org/abs/2410.06158)|null|
-|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/abs/2410.05954)|null|
+|**2024-10-08**|**Pyramidal Flow Matching for Efficient Video Generative Modeling**|Yang Jin et.al.|[2410.05954](http://arxiv.org/abs/2410.05954)|**[link](https://github.com/jy0205/Pyramid-Flow)**|
 |**2024-10-08**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799](http://arxiv.org/abs/2410.05799)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
 |**2024-10-08**|**T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design**|Jiachen Li et.al.|[2410.05677](http://arxiv.org/abs/2410.05677)|null|
 |**2024-10-08**|**ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler**|Serin Yang et.al.|[2410.05651](http://arxiv.org/abs/2410.05651)|null|
