@@ -2486,7 +2486,7 @@
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
 |**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272](http://arxiv.org/abs/2406.16272)|**[link](https://github.com/lsplx/patcher)**|
 |**2024-06-22**|**Soft Masked Mamba Diffusion Model for CT to MRI Conversion**|Zhenbin Wang et.al.|[2406.15910](http://arxiv.org/abs/2406.15910)|**[link](https://github.com/wongzbb/diffma-diffusion-mamba)**|
-|**2024-06-21**|**Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**|Ali Naseh et.al.|[2406.15213](http://arxiv.org/abs/2406.15213)|null|
+|**2024-06-21**|**Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**|Ali Naseh et.al.|[2406.15213](http://arxiv.org/abs/2406.15213)|**[link](https://github.com/jrohsc/backdororing_bias)**|
 |**2024-06-21**|**Disability Representations: Finding Biases in Automatic Image Generation**|Yannis Tevissen et.al.|[2406.14993](http://arxiv.org/abs/2406.14993)|null|
 |**2024-06-21**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
 |**2024-06-20**|**Evaluating Numerical Reasoning in Text-to-Image Models**|Ivana Kajić et.al.|[2406.14774](http://arxiv.org/abs/2406.14774)|**[link](https://github.com/google-deepmind/geckonum_benchmark_t2i)**|
