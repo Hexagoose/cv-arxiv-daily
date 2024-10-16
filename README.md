@@ -30,7 +30,7 @@
 |**2024-10-15**|**Solving The Dynamic Volatility Fitting Problem: A Deep Reinforcement Learning Approach**|Emmanuel Gnabeyeu et.al.|[2410.11789](http://arxiv.org/abs/2410.11789)|null|
 |**2024-10-15**|**Measure estimation on a manifold explored by a diffusion process**|Vincent Divol et.al.|[2410.11777](http://arxiv.org/abs/2410.11777)|null|
 |**2024-10-15**|**Probabilistic Principles for Biophysics and Neuroscience: Entropy Production, Bayesian Mechanics & the Free-Energy Principle**|Lancelot Da Costa et.al.|[2410.11735](http://arxiv.org/abs/2410.11735)|null|
-|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|**[link](https://github.com/ZqlwMatt/Tex4D)**|
 |**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
 |**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
 |**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
