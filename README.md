@@ -492,7 +492,7 @@
 |**2024-08-01**|**Dimension reduction for large-scale stochastic systems with non-zero initial states and controlled diffusion**|Martin Redmann et.al.|[2408.00581](http://arxiv.org/abs/2408.00581)|null|
 |**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|**[link](https://github.com/yuxinwenrick/diffusion_memorization)**|
 |**2024-07-31**|**Dephasing-assisted transport in a tight-binding chain with a linear potential**|Samuel L. Jacob et.al.|[2407.21715](http://arxiv.org/abs/2407.21715)|null|
-|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|**[link](https://github.com/alibaba/Tora)**|
 |**2024-07-31**|**Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification**|Xingchen Shi et.al.|[2407.21683](http://arxiv.org/abs/2407.21683)|null|
 |**2024-07-31**|**Charged-impurity free printing-based diffusion doping in molybdenum disulfide field-effect transistors**|Inho Jeong et.al.|[2407.21678](http://arxiv.org/abs/2407.21678)|null|
 |**2024-07-31**|**Stable Perovskite Solar Cells via exfoliated graphite as an ion diffusion-blocking layer**|Abdullah S. Alharbi et.al.|[2407.21662](http://arxiv.org/abs/2407.21662)|null|
@@ -2019,7 +2019,7 @@
 |**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824](http://arxiv.org/abs/2410.11824)|null|
 |**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815](http://arxiv.org/abs/2410.11815)|null|
 |**2024-10-16**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
-|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|null|
+|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|**[link](https://github.com/emb-ai/rclicks)**|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
 |**2024-10-15**|**A Simple Approach to Unifying Diffusion-based Conditional Generation**|Xirui Li et.al.|[2410.11439](http://arxiv.org/abs/2410.11439)|null|
@@ -2036,7 +2036,7 @@
 |**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
 |**2024-10-14**|**Anatomical feature-prioritized loss for enhanced MR to CT translation**|Arthur Longuefosse et.al.|[2410.10328](http://arxiv.org/abs/2410.10328)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
-|**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|null|
+|**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|**[link](https://github.com/nosna/miragenews)**|
 |**2024-10-11**|**One-shot Generative Domain Adaptation in 3D GANs**|Ziqiang Li et.al.|[2410.08824](http://arxiv.org/abs/2410.08824)|**[link](https://github.com/iceli1007/3d-adapter)**|
 |**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620](http://arxiv.org/abs/2410.08620)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
 |**2024-10-11**|**Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting**|Purushothaman Natarajan et.al.|[2410.08612](http://arxiv.org/abs/2410.08612)|null|
@@ -3421,7 +3421,7 @@
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|**[link](https://github.com/gungui98/echo-free)**|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
 |**2024-08-01**|**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**|Manuel Kansy et.al.|[2408.00458](http://arxiv.org/abs/2408.00458)|null|
-|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|**[link](https://github.com/alibaba/Tora)**|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
 |**2024-07-31**|**Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model**|Zhichao Zhang et.al.|[2407.21408](http://arxiv.org/abs/2407.21408)|null|
