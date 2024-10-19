@@ -30,7 +30,7 @@
 |**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782](http://arxiv.org/abs/2410.13782)|null|
 |**2024-10-17**|**Conductance in graphene through double laser barriers and magnetic field**|Rachid El Aitouni et.al.|[2410.13771](http://arxiv.org/abs/2410.13771)|null|
 |**2024-10-17**|**Probing the Latent Hierarchical Structure of Data via Diffusion Models**|Antonio Sclocchi et.al.|[2410.13770](http://arxiv.org/abs/2410.13770)|null|
-|**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777](http://arxiv.org/abs/2410.12777)|null|
+|**2024-10-16**|**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**|Hongcheng Gao et.al.|[2410.12777](http://arxiv.org/abs/2410.12777)|**[link](https://github.com/sail-sg/Meta-Unlearning)**|
 |**2024-10-16**|**Should exponential integrators be used for advection-dominated problems?**|Lukas Einkemmer et.al.|[2410.12765](http://arxiv.org/abs/2410.12765)|null|
 |**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
 |**2024-10-16**|**Impact of Ion Mobility on Electron Density and Temperature in Hypersonic Flows**|Felipe Martin Rodriguez Fuentes et.al.|[2410.12760](http://arxiv.org/abs/2410.12760)|null|
@@ -1529,7 +1529,7 @@
 |**2024-02-29**|**Modeling the Progenitor Stars of Observed IIP Supernovae**|Kai-An You et.al.|[2402.19260](http://arxiv.org/abs/2402.19260)|**[link](https://github.com/astrocatalogs/OACAPI)**|
 |**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196](http://arxiv.org/abs/2402.19196)|null|
 |**2024-02-28**|**Logarithmic Sobolev Inequalities for Bounded Domains and Applications to Drift-Diffusion Equations**|Elie Abdo et.al.|[2402.18572](http://arxiv.org/abs/2402.18572)|null|
-|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
+|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|**[link](https://github.com/bytedance/dplm)**|
 |**2024-02-28**|**Photon statistics of resonantly driven spectrally diffusive quantum emitters**|Aymeric Delteil et.al.|[2402.18542](http://arxiv.org/abs/2402.18542)|null|
 |**2024-02-28**|**Optimality conditions for sparse optimal control of viscous Cahn-Hilliard systems with logarithmic potential**|Pierluigi Colli et.al.|[2402.18506](http://arxiv.org/abs/2402.18506)|null|
 |**2024-02-28**|**Dynamical Regimes of Diffusion Models**|Giulio Biroli et.al.|[2402.18491](http://arxiv.org/abs/2402.18491)|null|
@@ -2034,7 +2034,7 @@
 |**2024-10-16**|**Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**|Kathrin Khadra et.al.|[2410.12542](http://arxiv.org/abs/2410.12542)|null|
 |**2024-10-16**|**Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**|Yongxin Zhu et.al.|[2410.12490](http://arxiv.org/abs/2410.12490)|**[link](https://github.com/DAMO-NLP-SG/DiGIT)**|
 |**2024-10-16**|**Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**|Pranjali Pathre et.al.|[2410.12432](http://arxiv.org/abs/2410.12432)|null|
-|**2024-10-16**|**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization**|Cheng Yu et.al.|[2410.12312](http://arxiv.org/abs/2410.12312)|null|
+|**2024-10-16**|**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization**|Cheng Yu et.al.|[2410.12312](http://arxiv.org/abs/2410.12312)|**[link](https://github.com/modelscope/facechain)**|
 |**2024-10-16**|**Facing Identity: The Formation and Performance of Identity via Face-Based Artificial Intelligence Technologies**|Wells Lucas Santo et.al.|[2410.12148](http://arxiv.org/abs/2410.12148)|null|
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
 |**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824](http://arxiv.org/abs/2410.11824)|null|
@@ -2529,7 +2529,7 @@
 |**2024-07-03**|**Towards High Resolution Real-Time Optical Flow Particle Image Velocimetry**|Juan Pimienta et.al.|[2407.03057](http://arxiv.org/abs/2407.03057)|null|
 |**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018](http://arxiv.org/abs/2407.03018)|**[link](https://github.com/xmed-lab/geca)**|
 |**2024-07-03**|**Representation learning with CGAN for casual inference**|Zhaotian Weng et.al.|[2407.02825](http://arxiv.org/abs/2407.02825)|null|
-|**2024-07-03**|**Mobile Edge Generation-Enabled Digital Twin: Architecture Design and Research Opportunities**|Xiaoxia Xu et.al.|[2407.02804](http://arxiv.org/abs/2407.02804)|null|
+|**2024-07-03**|**Mobile Edge Generation-Enabled Digital Twin: Architecture Design and Research Opportunities**|Xiaoxia Xu et.al.|[2407.02804](http://arxiv.org/abs/2407.02804)|**[link](https://github.com/xiaoxiaxusummer/meg_dt)**|
 |**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|**[link](https://github.com/limuloo/migc)**|
 |**2024-07-04**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
 |**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
@@ -3235,7 +3235,7 @@
 |**2024-02-16**|**The Male CEO and the Female Assistant: Probing Gender Biases in Text-To-Image Models Through Paired Stereotype Test**|Yixin Wan et.al.|[2402.11089](http://arxiv.org/abs/2402.11089)|null|
 |**2024-02-16**|**Universal Prompt Optimizer for Safe Text-to-Image Generation**|Zongyu Wu et.al.|[2402.10882](http://arxiv.org/abs/2402.10882)|**[link](https://github.com/wzongyu/posi)**|
 |**2024-02-16**|**Training Class-Imbalanced Diffusion Model Via Overlap Optimization**|Divin Yan et.al.|[2402.10821](http://arxiv.org/abs/2402.10821)|**[link](https://github.com/yanliang3612/diffrop)**|
-|**2024-02-16**|**Exploring Precision and Recall to assess the quality and diversity of LLMs**|Le Bronnec Florian et.al.|[2402.10693](http://arxiv.org/abs/2402.10693)|null|
+|**2024-02-16**|**Exploring Precision and Recall to assess the quality and diversity of LLMs**|Le Bronnec Florian et.al.|[2402.10693](http://arxiv.org/abs/2402.10693)|**[link](https://github.com/alexverine/pr-4-llm)**|
 |**2024-02-16**|**UMAIR-FPS: User-aware Multi-modal Animation Illustration Recommendation Fusion with Painting Style**|Yan Kang et.al.|[2402.10381](http://arxiv.org/abs/2402.10381)|**[link](https://github.com/oysterqaq/umair-fps)**|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
