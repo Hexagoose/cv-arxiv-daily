@@ -726,7 +726,7 @@
 |**2024-06-27**|**Subtractive Training for Music Stem Insertion using Latent Diffusion Models**|Ivan Villa-Renteria et.al.|[2406.19328](http://arxiv.org/abs/2406.19328)|null|
 |**2024-06-27**|**Vector Resonant Relaxation and Statistical Closure Theory. I. Direct Interaction Approximation**|Sofia Flores et.al.|[2406.19306](http://arxiv.org/abs/2406.19306)|null|
 |**2024-06-27**|**Compositional Image Decomposition with Diffusion Models**|Jocelin Su et.al.|[2406.19298](http://arxiv.org/abs/2406.19298)|null|
-|**2024-06-27**|**Advection Augmented Convolutional Neural Networks**|Niloufar Zakariaei et.al.|[2406.19253](http://arxiv.org/abs/2406.19253)|null|
+|**2024-06-27**|**Advection Augmented Convolutional Neural Networks**|Niloufar Zakariaei et.al.|[2406.19253](http://arxiv.org/abs/2406.19253)|**[link](https://github.com/Siddharth-Rout/deepADRnet)**|
 |**2024-06-27**|**Diffuse interstellar bands in the near-infrared: Expanding the reddening range**|R. Castellanos et.al.|[2406.19229](http://arxiv.org/abs/2406.19229)|null|
 |**2024-06-27**|**Numerical Analysis of the Complete Active-Space Extended Koopmans's Theorem**|Reza Hemmati et.al.|[2406.19211](http://arxiv.org/abs/2406.19211)|null|
 |**2024-06-27**|**The case for Centaurus A as the main source of ultrahigh-energy cosmic rays**|Silvia Mollerach et.al.|[2406.19199](http://arxiv.org/abs/2406.19199)|null|
@@ -2060,7 +2060,7 @@
 |**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|**[link](https://github.com/nosna/miragenews)**|
 |**2024-10-11**|**One-shot Generative Domain Adaptation in 3D GANs**|Ziqiang Li et.al.|[2410.08824](http://arxiv.org/abs/2410.08824)|**[link](https://github.com/iceli1007/3d-adapter)**|
 |**2024-10-11**|**Natural Language Induced Adversarial Images**|Xiaopei Zhu et.al.|[2410.08620](http://arxiv.org/abs/2410.08620)|**[link](https://github.com/zxp555/natural-language-induced-adversarial-images)**|
-|**2024-10-11**|**Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting**|Purushothaman Natarajan et.al.|[2410.08612](http://arxiv.org/abs/2410.08612)|null|
+|**2024-10-11**|**Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting**|Purushothaman Natarajan et.al.|[2410.08612](http://arxiv.org/abs/2410.08612)|**[link](https://github.com/Purushothaman-natarajan/Synth-SONAR)**|
 |**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551](http://arxiv.org/abs/2410.08551)|**[link](https://github.com/fzi-forschungszentrum-informatik/fadm)**|
 |**2024-10-11**|**Score Neural Operator: A Generative Model for Learning and Generalizing Across Multiple Probability Distributions**|Xinyu Liao et.al.|[2410.08549](http://arxiv.org/abs/2410.08549)|null|
 |**2024-10-11**|**Diffusion Models Need Visual Priors for Image Generation**|Xiaoyu Yue et.al.|[2410.08531](http://arxiv.org/abs/2410.08531)|null|
