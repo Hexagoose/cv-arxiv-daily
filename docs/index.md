@@ -1747,7 +1747,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790](http://arxiv.org/abs/2410.13790)|null|
+|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790](http://arxiv.org/abs/2410.13790)|**[link](https://github.com/liangxuy/motionbank)**|
 |**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
 |**2024-10-16**|**Fast Online Learning of CLiFF-maps in Changing Environments**|Yufei Zhu et.al.|[2410.12237](http://arxiv.org/abs/2410.12237)|null|
 |**2024-10-15**|**Learned Neural Physics Simulation for Articulated 3D Human Pose Reconstruction**|Mykhaylo Andriluka et.al.|[2410.12023](http://arxiv.org/abs/2410.12023)|null|
@@ -3309,7 +3309,7 @@ layout: default
 |**2024-10-17**|**VidPanos: Generative Panoramic Videos from Casual Panning Videos**|Jingwei Ma et.al.|[2410.13832](http://arxiv.org/abs/2410.13832)|null|
 |**2024-10-17**|**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**|Yujie Wei et.al.|[2410.13830](http://arxiv.org/abs/2410.13830)|null|
 |**2024-10-17**|**DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation**|Hanbo Cheng et.al.|[2410.13726](http://arxiv.org/abs/2410.13726)|**[link](https://github.com/hanbo-cheng/dawn-pytorch)**|
-|**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|null|
+|**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|**[link](https://github.com/facebookresearch/moviegenbench)**|
 |**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
 |**2024-10-17**|**Fundus to Fluorescein Angiography Video Generation as a Retinal Generative Foundation Model**|Weiyi Zhang et.al.|[2410.13242](http://arxiv.org/abs/2410.13242)|null|
 |**2024-10-17**|**AsymKV: Enabling 1-Bit Quantization of KV Cache with Layer-Wise Asymmetric Quantization Configurations**|Qian Tao et.al.|[2410.13212](http://arxiv.org/abs/2410.13212)|null|
