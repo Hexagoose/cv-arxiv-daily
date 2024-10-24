@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
+|**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
+|**2024-10-23**|**Training Free Guided Flow Matching with Optimal Control**|Luran Wang et.al.|[2410.18070](http://arxiv.org/abs/2410.18070)|null|
+|**2024-10-23**|**EON: A practical energy-preserving rough diffuse BRDF**|Jamie Portsmouth et.al.|[2410.18026](http://arxiv.org/abs/2410.18026)|null|
+|**2024-10-23**|**Random space-time sampling and reconstruction of sparse bandlimited graph diffusion field**|Longxiu Huang et.al.|[2410.18005](http://arxiv.org/abs/2410.18005)|null|
+|**2024-10-23**|**Optical Generative Models**|Shiqi Chen et.al.|[2410.17970](http://arxiv.org/abs/2410.17970)|null|
+|**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
+|**2024-10-23**|**Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation**|Wenfang Yao et.al.|[2410.17918](http://arxiv.org/abs/2410.17918)|null|
+|**2024-10-23**|**Scaling Diffusion Language Models via Adaptation from Autoregressive Models**|Shansan Gong et.al.|[2410.17891](http://arxiv.org/abs/2410.17891)|**[link](https://github.com/hkunlp/diffullama)**|
+|**2024-10-23**|**Non-intrusive Speech Quality Assessment with Diffusion Models Trained on Clean Speech**|Danilo de Oliveira et.al.|[2410.17834](http://arxiv.org/abs/2410.17834)|null|
 |**2024-10-22**|**Ergodic Risk Sensitive Control of Markovian Multiclass Many-Server Queues with Abandonment**|Sumith Reddy Anugu et.al.|[2410.17205](http://arxiv.org/abs/2410.17205)|null|
 |**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|**[link](https://github.com/flagshippioneering/pi-rldif)**|
 |**2024-10-22**|**On Lyapunov Conditions for the Well-Posedness of McKean-Vlasov Stochastic Differential Delay Equations**|Dan Noelck et.al.|[2410.17120](http://arxiv.org/abs/2410.17120)|null|
@@ -1777,6 +1787,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|null|
+|**2024-10-23**|**ImDy: Human Inverse Dynamics from Imitated Observations**|Xinpeng Liu et.al.|[2410.17610](http://arxiv.org/abs/2410.17610)|null|
 |**2024-10-22**|**MotionGlot: A Multi-Embodied Motion Generation Model**|Sudarshan Harithas et.al.|[2410.16623](http://arxiv.org/abs/2410.16623)|null|
 |**2024-10-21**|**ARTS: Semi-Analytical Regressor using Disentangled Skeletal Representations for Human Mesh Recovery from Videos**|Tao Tang et.al.|[2410.15582](http://arxiv.org/abs/2410.15582)|**[link](https://github.com/tangtao-pku/arts)**|
 |**2024-10-18**|**LEAD: Latent Realignment for Human Motion Diffusion**|Nefeli Andreou et.al.|[2410.14508](http://arxiv.org/abs/2410.14508)|null|
@@ -2041,6 +2053,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**FreeVS: Generative View Synthesis on Free Driving Trajectory**|Qitai Wang et.al.|[2410.18079](http://arxiv.org/abs/2410.18079)|null|
+|**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
+|**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
+|**2024-10-23**|**Medical Imaging Complexity and its Effects on GAN Performance**|William Cagas et.al.|[2410.17959](http://arxiv.org/abs/2410.17959)|null|
+|**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855](http://arxiv.org/abs/2410.17855)|null|
+|**2024-10-23**|**Longitudinal Causal Image Synthesis**|Yujia Li et.al.|[2410.17691](http://arxiv.org/abs/2410.17691)|null|
+|**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|
+|**2024-10-22**|**Offline Evaluation of Set-Based Text-to-Image Generation**|Negar Arabzadeh et.al.|[2410.17331](http://arxiv.org/abs/2410.17331)|null|
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
 |**2024-10-22**|**IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**|Junyeong Maeng et.al.|[2410.16945](http://arxiv.org/abs/2410.16945)|**[link](https://github.com/ku-milab/idenbat)**|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
@@ -3366,6 +3386,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[2410.18072](http://arxiv.org/abs/2410.18072)|null|
+|**2024-10-23**|**VISAGE: Video Synthesis using Action Graphs for Surgery**|Yousef Yeganeh et.al.|[2410.17751](http://arxiv.org/abs/2410.17751)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266](http://arxiv.org/abs/2410.16266)|null|
 |**2024-10-20**|**EVA: An Embodied World Model for Future Video Anticipation**|Xiaowei Chi et.al.|[2410.15461](http://arxiv.org/abs/2410.15461)|null|
 |**2024-10-20**|**Allegro: Open the Black Box of Commercial-Level Video Generation Model**|Yuan Zhou et.al.|[2410.15458](http://arxiv.org/abs/2410.15458)|**[link](https://github.com/rhymes-ai/allegro)**|
