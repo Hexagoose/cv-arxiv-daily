@@ -2155,7 +2155,7 @@
 |**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
 |**2024-10-14**|**Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling**|Wenze Liu et.al.|[2410.10511](http://arxiv.org/abs/2410.10511)|**[link](https://github.com/poppuppy/sar)**|
 |**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
-|**2024-10-14**|**Anatomical feature-prioritized loss for enhanced MR to CT translation**|Arthur Longuefosse et.al.|[2410.10328](http://arxiv.org/abs/2410.10328)|null|
+|**2024-10-14**|**Anatomical feature-prioritized loss for enhanced MR to CT translation**|Arthur Longuefosse et.al.|[2410.10328](http://arxiv.org/abs/2410.10328)|**[link](https://github.com/phyrise/nnUNet_translation)**|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|**[link](https://github.com/nosna/miragenews)**|
 |**2024-10-11**|**One-shot Generative Domain Adaptation in 3D GANs**|Ziqiang Li et.al.|[2410.08824](http://arxiv.org/abs/2410.08824)|**[link](https://github.com/iceli1007/3d-adapter)**|
