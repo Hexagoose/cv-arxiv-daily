@@ -2276,7 +2276,7 @@
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
 |**2024-09-26**|**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction**|Runze He et.al.|[2409.18071](http://arxiv.org/abs/2409.18071)|null|
-|**2024-09-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|null|
+|**2024-09-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|**[link](https://github.com/hengrui-gu/t2iknowledgeediting)**|
 |**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|**[link](https://github.com/hqhqaq/mip-adapter)**|
 |**2024-09-26**|**Text Image Generation for Low-Resource Languages with Dual Translation Learning**|Chihiro Noguchi et.al.|[2409.17747](http://arxiv.org/abs/2409.17747)|null|
 |**2024-09-26**|**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status**|Jinghao Zhang et.al.|[2409.17740](http://arxiv.org/abs/2409.17740)|null|
@@ -2883,7 +2883,7 @@
 |**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
 |**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
-|**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
+|**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|**[link](https://github.com/zhaisf/clid)**|
 |**2024-05-23**|**RetAssist: Facilitating Vocabulary Learners with Generative Images in Story Retelling Practices**|Qiaoyi Chen et.al.|[2405.14794](http://arxiv.org/abs/2405.14794)|null|
 |**2024-05-23**|**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing**|Ling Yang et.al.|[2405.14785](http://arxiv.org/abs/2405.14785)|**[link](https://github.com/yangling0818/editworld)**|
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
@@ -3273,7 +3273,7 @@
 |**2024-03-08**|**Denoising Autoregressive Representation Learning**|Yazhe Li et.al.|[2403.05196](http://arxiv.org/abs/2403.05196)|null|
 |**2024-03-08**|**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment**|Xiwei Hu et.al.|[2403.05135](http://arxiv.org/abs/2403.05135)|null|
 |**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
-|**2024-03-08**|**Evaluating Text-to-Image Generative Models: An Empirical Study on Human Image Synthesis**|Muxi Chen et.al.|[2403.05125](http://arxiv.org/abs/2403.05125)|null|
+|**2024-03-08**|**Evaluating Text-to-Image Generative Models: An Empirical Study on Human Image Synthesis**|Muxi Chen et.al.|[2403.05125](http://arxiv.org/abs/2403.05125)|**[link](https://github.com/cure-lab/evaluateaigc)**|
 |**2024-03-08**|**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion**|Wendi Zheng et.al.|[2403.05121](http://arxiv.org/abs/2403.05121)|null|
 |**2024-03-07**|**Photonic probabilistic machine learning using quantum vacuum noise**|Seou Choi et.al.|[2403.04731](http://arxiv.org/abs/2403.04731)|null|
 |**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|**[link](https://github.com/PixArt-alpha/PixArt-sigma)**|
