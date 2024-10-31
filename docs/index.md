@@ -2810,7 +2810,7 @@ layout: default
 |**2024-06-10**|**ProcessPainter: Learn Painting Process from Sequence Data**|Yiren Song et.al.|[2406.06062](http://arxiv.org/abs/2406.06062)|null|
 |**2024-06-09**|**OmniControlNet: Dual-stage Integration for Conditional Image Generation**|Yilin Wang et.al.|[2406.05871](http://arxiv.org/abs/2406.05871)|null|
 |**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
-|**2024-06-11**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
+|**2024-06-11**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|**[link](https://github.com/oppo-mente-lab/tlcm)**|
 |**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641](http://arxiv.org/abs/2406.05641)|null|
 |**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602](http://arxiv.org/abs/2406.05602)|null|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
@@ -2869,7 +2869,7 @@ layout: default
 |**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657](http://arxiv.org/abs/2405.19657)|null|
 |**2024-05-30**|**Creating Language-driven Spatial Variations of Icon Images**|Xianghao Xu et.al.|[2405.19636](http://arxiv.org/abs/2405.19636)|null|
 |**2024-05-29**|**Quo Vadis ChatGPT? From Large Language Models to Large Knowledge Models**|Venkat Venkatasubramanian et.al.|[2405.19561](http://arxiv.org/abs/2405.19561)|null|
-|**2024-05-29**|**MemControl: Mitigating Memorization in Medical Diffusion Models via Automated Parameter Selection**|Raman Dutt et.al.|[2405.19458](http://arxiv.org/abs/2405.19458)|null|
+|**2024-05-29**|**MemControl: Mitigating Memorization in Medical Diffusion Models via Automated Parameter Selection**|Raman Dutt et.al.|[2405.19458](http://arxiv.org/abs/2405.19458)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
 |**2024-05-29**|**Going beyond compositional generalization, DDPMs can produce zero-shot interpolation**|Justin Deschenaux et.al.|[2405.19201](http://arxiv.org/abs/2405.19201)|**[link](https://github.com/jdeschena/ddpm-zero-shot-interpolation)**|
 |**2024-05-29**|**The ethical situation of DALL-E 2**|Eduard Hogea et.al.|[2405.19176](http://arxiv.org/abs/2405.19176)|null|
