@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
+|**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285](http://arxiv.org/abs/2410.23285)|null|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274](http://arxiv.org/abs/2410.23274)|null|
+|**2024-10-30**|**Chapman-Enskog theory for nearly integrable quantum gases**|Maciej Łebek et.al.|[2410.23209](http://arxiv.org/abs/2410.23209)|null|
+|**2024-10-30**|**Diffusive shock acceleration of dust grains at supernova remnants**|P. Cristofari et.al.|[2410.23190](http://arxiv.org/abs/2410.23190)|null|
+|**2024-10-30**|**CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**|Mingkun Zhang et.al.|[2410.23091](http://arxiv.org/abs/2410.23091)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**Regularity and stability for the Gibbs conditioning principle on path space via McKean-Vlasov control**|Louis-Pierre Chaintron et.al.|[2410.23016](http://arxiv.org/abs/2410.23016)|null|
 |**2024-10-29**|**Driving forces in cell migration and pattern formation in a soft tissue**|Amabile Tatone et.al.|[2410.22273](http://arxiv.org/abs/2410.22273)|null|
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
 |**2024-10-29**|**Confinement of relativistic particles in the vicinity of accelerators: a key for understanding the anomalies in secondary cosmic rays**|Rui-zhi Yang et.al.|[2410.22199](http://arxiv.org/abs/2410.22199)|null|
@@ -2096,6 +2106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274](http://arxiv.org/abs/2410.23274)|null|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/abs/2410.22971)|null|
+|**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/abs/2410.22927)|**[link](https://github.com/ywu840/indivaid)**|
+|**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
+|**2024-10-30**|**Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models**|Arash Marioriyad et.al.|[2410.22775](http://arxiv.org/abs/2410.22775)|null|
+|**2024-10-30**|**st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction**|Ran Hong et.al.|[2410.22732](http://arxiv.org/abs/2410.22732)|null|
+|**2024-10-30**|**Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots**|Vincent Guan et.al.|[2410.22729](http://arxiv.org/abs/2410.22729)|null|
+|**2024-10-30**|**FlowDCN: Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution**|Shuai Wang et.al.|[2410.22655](http://arxiv.org/abs/2410.22655)|null|
+|**2024-10-29**|**FairSkin: Fair Diffusion for Skin Disease Image Generation**|Ruichen Zhang et.al.|[2410.22551](http://arxiv.org/abs/2410.22551)|null|
 |**2024-10-29**|**Volumetric Conditioning Module to Control Pretrained Diffusion Models for 3D Medical Images**|Suhyun Ahn et.al.|[2410.21826](http://arxiv.org/abs/2410.21826)|**[link](https://github.com/Ahn-Ssu/VCM)**|
 |**2024-10-29**|**HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion**|Yu Zeng et.al.|[2410.21789](http://arxiv.org/abs/2410.21789)|null|
 |**2024-10-29**|**Exploring Local Memorization in Diffusion Models via Bright Ending Attention**|Chen Chen et.al.|[2410.21665](http://arxiv.org/abs/2410.21665)|null|
@@ -3458,6 +3478,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/abs/2410.22979)|null|
+|**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/abs/2410.22901)|**[link](https://github.com/HelloVision/HelloMeme)**|
 |**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669](http://arxiv.org/abs/2410.21669)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
 |**2024-10-28**|**MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis**|Di Qiu et.al.|[2410.20974](http://arxiv.org/abs/2410.20974)|null|
