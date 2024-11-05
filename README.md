@@ -2542,7 +2542,7 @@
 |**2024-08-14**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
 |**2024-08-13**|**Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective**|Ouxiang Li et.al.|[2408.06741](http://arxiv.org/abs/2408.06741)|**[link](https://github.com/ouxiang-li/safe)**|
 |**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
-|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
+|**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|**[link](https://github.com/qiyu3816/DiffSG)**|
 |**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
 |**2024-08-13**|**EditScribe: Non-Visual Image Editing with Natural Language Verification Loops**|Ruei-Che Chang et.al.|[2408.06632](http://arxiv.org/abs/2408.06632)|null|
 |**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502](http://arxiv.org/abs/2408.06502)|null|
@@ -3260,7 +3260,7 @@
 |**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828](http://arxiv.org/abs/2403.14828)|**[link](https://github.com/aimagelab/ti-mgd)**|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|**[link](https://github.com/design-edit/DesignEdit)**|
-|**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
+|**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|**[link](https://github.com/tiger-ai-lab/anyv2v)**|
 |**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
 |**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
 |**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
@@ -3933,7 +3933,7 @@
 |**2024-03-21**|**StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text**|Roberto Henschel et.al.|[2403.14773](http://arxiv.org/abs/2403.14773)|**[link](https://github.com/picsart-ai-research/streamingt2v)**|
 |**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611](http://arxiv.org/abs/2403.14611)|null|
-|**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
+|**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|**[link](https://github.com/tiger-ai-lab/anyv2v)**|
 |**2024-03-21**|**Enabling Visual Composition and Animation in Unsupervised Video Generation**|Aram Davtyan et.al.|[2403.14368](http://arxiv.org/abs/2403.14368)|null|
 |**2024-03-21**|**StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN**|Jongwoo Choi et.al.|[2403.14186](http://arxiv.org/abs/2403.14186)|**[link](https://github.com/jeolpyeoni/StyleCineGAN)**|
 |**2024-03-21**|**Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition**|Sihyun Yu et.al.|[2403.14148](http://arxiv.org/abs/2403.14148)|null|
