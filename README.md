@@ -1356,7 +1356,7 @@
 |**2024-04-12**|**Estimate of force noise from electrostatic patch potentials in LISA Pathfinder**|Stefano Vitale et.al.|[2404.08340](http://arxiv.org/abs/2404.08340)|null|
 |**2024-04-12**|**Struggle with Adversarial Defense? Try Diffusion**|Yujie Li et.al.|[2404.08273](http://arxiv.org/abs/2404.08273)|**[link](https://github.com/zzhjsaiosjd/tmdc_sd_2)**|
 |**2024-04-12**|**An XRISM observation proposal: Gas velocity in the merging cluster Abell 2256**|Takayuki Tamura et.al.|[2404.08267](http://arxiv.org/abs/2404.08267)|null|
-|**2024-04-12**|**Balanced Mixed-Type Tabular Data Synthesis with Diffusion Models**|Zeyu Yang et.al.|[2404.08254](http://arxiv.org/abs/2404.08254)|null|
+|**2024-04-12**|**Balanced Mixed-Type Tabular Data Synthesis with Diffusion Models**|Zeyu Yang et.al.|[2404.08254](http://arxiv.org/abs/2404.08254)|**[link](https://github.com/comp-well-org/fair-tab-diffusion)**|
 |**2024-04-12**|**An Asymptotically-Correct Implicit-Explicit Time Integration Scheme for Finite Volume Radiation-Hydrodynamics**|Chong-Chong He et.al.|[2404.08247](http://arxiv.org/abs/2404.08247)|**[link](https://github.com/quokka-astro/quokka)**|
 |**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|**[link](https://github.com/picsart-ai-research/openbias)**|
 |**2024-04-11**|**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback**|Ming Li et.al.|[2404.07987](http://arxiv.org/abs/2404.07987)|**[link](https://github.com/liming-ai/ControlNet_Plus_Plus)**|
