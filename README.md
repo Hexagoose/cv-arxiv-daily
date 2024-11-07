@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125](http://arxiv.org/abs/2411.04125)|null|
+|**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
+|**2024-11-06**|**Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**|Lei Cheng et.al.|[2411.04095](http://arxiv.org/abs/2411.04095)|null|
+|**2024-11-06**|**A Multi-level Monte Carlo simulation for invariant distribution of Markovian switching Lévy-driven SDEs with super-linearly growth coefficients**|Hoang-Viet Nguyen et.al.|[2411.04081](http://arxiv.org/abs/2411.04081)|null|
+|**2024-11-06**|**The Lorentz Gas in a Mean-Field Potential: Weak Coupling and Diffusive Regime**|Dominik Nowak et.al.|[2411.04076](http://arxiv.org/abs/2411.04076)|null|
+|**2024-11-06**|**On a diffuse interface model for diblock copolymers interacting with an electric field**|Helmut Abels et.al.|[2411.04074](http://arxiv.org/abs/2411.04074)|null|
+|**2024-11-06**|**Imaging heat transport in suspended diamond nanostructures with integrated spin defect thermometers**|Valentin Goblot et.al.|[2411.04065](http://arxiv.org/abs/2411.04065)|null|
+|**2024-11-06**|**Space-Time Spectral Element Tensor Network Approach for Time Dependent Convection Diffusion Reaction Equation with Variable Coefficients**|Dibyendu Adak et.al.|[2411.04026](http://arxiv.org/abs/2411.04026)|null|
+|**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004](http://arxiv.org/abs/2411.04004)|null|
+|**2024-11-06**|**ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy**|Chenrui Tie et.al.|[2411.03990](http://arxiv.org/abs/2411.03990)|null|
 |**2024-11-05**|**Production and propagation of secondary antideuteron in the Galaxy**|Luis Fernando Galicia Cruztitla et.al.|[2411.03298](http://arxiv.org/abs/2411.03298)|null|
 |**2024-11-05**|**DiT4Edit: Diffusion Transformer for Image Editing**|Kunyu Feng et.al.|[2411.03286](http://arxiv.org/abs/2411.03286)|null|
 |**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
@@ -1875,6 +1885,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Object-Centric Dexterous Manipulation from Human Motion Data**|Yuanpei Chen et.al.|[2411.04005](http://arxiv.org/abs/2411.04005)|null|
 |**2024-11-04**|**Multi-Transmotion: Pre-trained Model for Human Motion Prediction**|Yang Gao et.al.|[2411.02673](http://arxiv.org/abs/2411.02673)|**[link](https://github.com/vita-epfl/multi-transmotion)**|
 |**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|**[link](https://github.com/izakariyya/idg-dp)**|
 |**2024-11-04**|**MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence**|Fuming You et.al.|[2411.01805](http://arxiv.org/abs/2411.01805)|null|
@@ -2152,6 +2163,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**ParaGAN: A Scalable Distributed Training Framework for Generative Adversarial Networks**|Ziji Shi et.al.|[2411.03999](http://arxiv.org/abs/2411.03999)|null|
+|**2024-11-06**|**ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models**|Ashutosh Srivastava et.al.|[2411.03982](http://arxiv.org/abs/2411.03982)|null|
+|**2024-11-06**|**Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation**|Chihaya Matsuhira et.al.|[2411.03595](http://arxiv.org/abs/2411.03595)|null|
+|**2024-11-05**|**Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation**|Zhiling Yue et.al.|[2411.03551](http://arxiv.org/abs/2411.03551)|null|
+|**2024-11-05**|**CrowdGenUI: Enhancing LLM-Based UI Widget Generation with a Crowdsourced Preference Library**|Yimeng Liu et.al.|[2411.03477](http://arxiv.org/abs/2411.03477)|null|
 |**2024-11-05**|**DiT4Edit: Diffusion Transformer for Image Editing**|Kunyu Feng et.al.|[2411.03286](http://arxiv.org/abs/2411.03286)|null|
 |**2024-11-05**|**On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models**|Tariq Berrada Ifriqi et.al.|[2411.03177](http://arxiv.org/abs/2411.03177)|null|
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098](http://arxiv.org/abs/2411.03098)|null|
