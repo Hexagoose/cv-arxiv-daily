@@ -3887,7 +3887,7 @@ layout: default
 |**2024-06-08**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|**[link](https://github.com/bujiazi/motionclone)**|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**Zero-Shot Video Editing through Adaptive Sliding Score Distillation**|Lianghan Zhu et.al.|[2406.04888](http://arxiv.org/abs/2406.04888)|null|
-|**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
+|**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|**[link](https://github.com/tanvir-utexas/adave)**|
 |**2024-06-07**|**Online Continual Learning of Video Diffusion Models From a Single Video Stream**|Jason Yoo et.al.|[2406.04814](http://arxiv.org/abs/2406.04814)|null|
 |**2024-06-06**|**GenAI Arena: An Open Evaluation Platform for Generative Models**|Dongfu Jiang et.al.|[2406.04485](http://arxiv.org/abs/2406.04485)|null|
 |**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
