@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
+|**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
+|**2024-11-12**|**Commissioning of the 2.6 m tall two-phase xenon time projection chamber of Xenoscope**|M. Adrover et.al.|[2411.08022](http://arxiv.org/abs/2411.08022)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Quantitative Phase-Field Modeling of Rapid Alloy Solidification**|Kaihua Ji et.al.|[2411.07953](http://arxiv.org/abs/2411.07953)|null|
+|**2024-11-12**|**Microscopic fluctuations in the spreading fronts of circular wetting liquid droplets**|J. M. Marcos et.al.|[2411.07923](http://arxiv.org/abs/2411.07923)|null|
+|**2024-11-12**|**When Randomness Beats Redundancy: Insights into the Diffusion of Complex Contagions**|Allison Wan et.al.|[2411.07907](http://arxiv.org/abs/2411.07907)|null|
+|**2024-11-12**|**Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules**|Binxu Wang et.al.|[2411.07873](http://arxiv.org/abs/2411.07873)|null|
+|**2024-11-12**|**API Phonons: Python Interfaces for Phonon Transport Modeling**|Xin Qian et.al.|[2411.07774](http://arxiv.org/abs/2411.07774)|null|
+|**2024-11-12**|**Novel View Synthesis with Pixel-Space Diffusion Models**|Noam Elata et.al.|[2411.07765](http://arxiv.org/abs/2411.07765)|null|
 |**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
 |**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
@@ -2188,7 +2198,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
+|**2024-11-12**|**Emotion Classification of Children Expressions**|Sanchayan Vivekananthan et.al.|[2411.07708](http://arxiv.org/abs/2411.07708)|null|
+|**2024-11-12**|**Evaluating the Generation of Spatial Relations in Text and Image Generative Models**|Shang Hong Sim et.al.|[2411.07664](http://arxiv.org/abs/2411.07664)|null|
+|**2024-11-12**|**Leveraging Previous Steps: A Training-free Fast Solver for Flow Diffusion**|Kaiyu Song et.al.|[2411.07627](http://arxiv.org/abs/2411.07627)|null|
+|**2024-11-12**|**GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering**|Zhihao Liang et.al.|[2411.07478](http://arxiv.org/abs/2411.07478)|null|
+|**2024-11-12**|**Tracing the Roots: Leveraging Temporal Dynamics in Diffusion Trajectories for Origin Attribution**|Andreas Floros et.al.|[2411.07449](http://arxiv.org/abs/2411.07449)|null|
+|**2024-11-11**|**Instance Performance Difference: A Metric to Measure the Sim-To-Real Gap in Camera Simulation**|Bo-Hsun Chen et.al.|[2411.07375](http://arxiv.org/abs/2411.07375)|null|
+|**2024-11-11**|**Exploring Variational Autoencoders for Medical Image Generation: A Comprehensive Study**|Khadija Rais et.al.|[2411.07348](http://arxiv.org/abs/2411.07348)|null|
+|**2024-11-12**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
 |**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
 |**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
 |**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199](http://arxiv.org/abs/2411.07199)|null|
@@ -3610,6 +3627,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Artificial Intelligence for Biomedical Video Generation**|Linyuan Li et.al.|[2411.07619](http://arxiv.org/abs/2411.07619)|null|
+|**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541](http://arxiv.org/abs/2411.07541)|**[link](https://github.com/gqk/hicom)**|
 |**2024-11-10**|**I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength**|Wanquan Feng et.al.|[2411.06525](http://arxiv.org/abs/2411.06525)|null|
 |**2024-11-08**|**Autoregressive Models in Vision: A Survey**|Jing Xiong et.al.|[2411.05902](http://arxiv.org/abs/2411.05902)|**[link](https://github.com/chaofantao/autoregressive-models-in-vision-survey)**|
 |**2024-11-08**|**WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making**|Zhilong Zhang et.al.|[2411.05619](http://arxiv.org/abs/2411.05619)|null|
