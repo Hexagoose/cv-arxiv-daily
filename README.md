@@ -33,7 +33,7 @@
 |**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
 |**2024-11-12**|**Commissioning of the 2.6 m tall two-phase xenon time projection chamber of Xenoscope**|M. Adrover et.al.|[2411.08022](http://arxiv.org/abs/2411.08022)|null|
-|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|null|
+|**2024-11-12**|**Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings**|Aditya Sanghi et.al.|[2411.08017](http://arxiv.org/abs/2411.08017)|**[link](https://github.com/autodeskailab/wala)**|
 |**2024-11-12**|**Quantitative Phase-Field Modeling of Rapid Alloy Solidification**|Kaihua Ji et.al.|[2411.07953](http://arxiv.org/abs/2411.07953)|null|
 |**2024-11-12**|**Microscopic fluctuations in the spreading fronts of circular wetting liquid droplets**|J. M. Marcos et.al.|[2411.07923](http://arxiv.org/abs/2411.07923)|null|
 |**2024-11-12**|**When Randomness Beats Redundancy: Insights into the Diffusion of Complex Contagions**|Allison Wan et.al.|[2411.07907](http://arxiv.org/abs/2411.07907)|null|
@@ -444,7 +444,7 @@
 |**2024-09-05**|**DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation**|Wenliang Zhao et.al.|[2409.03755](http://arxiv.org/abs/2409.03755)|**[link](https://github.com/wl-zhao/dc-solver)**|
 |**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745](http://arxiv.org/abs/2409.03745)|null|
 |**2024-09-05**|**Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation**|Slava Elizarov et.al.|[2409.03718](http://arxiv.org/abs/2409.03718)|null|
-|**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|null|
+|**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|**[link](https://github.com/wangbenzhi/realishuman)**|
 |**2024-09-05**|**DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**|Hsing-Hang Chou et.al.|[2409.03636](http://arxiv.org/abs/2409.03636)|null|
 |**2024-09-05**|**Critical transition between intensive and extensive active droplets**|Jonathan Bauermann et.al.|[2409.03629](http://arxiv.org/abs/2409.03629)|null|
 |**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600](http://arxiv.org/abs/2409.03600)|**[link](https://github.com/bovifocr/tcdiff)**|
@@ -3158,7 +3158,7 @@
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|**[link](https://github.com/seojin-kim/hi-mol)**|
 |**2024-05-05**|**ImageInWords: Unlocking Hyper-Detailed Image Descriptions**|Roopal Garg et.al.|[2405.02793](http://arxiv.org/abs/2405.02793)|**[link](https://github.com/google/imageinwords)**|
 |**2024-05-04**|**U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**|Yuchuan Tian et.al.|[2405.02730](http://arxiv.org/abs/2405.02730)|**[link](https://github.com/yuchuantian/u-dit)**|
-|**2024-05-03**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504](http://arxiv.org/abs/2405.02504)|null|
+|**2024-05-03**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504](http://arxiv.org/abs/2405.02504)|**[link](https://github.com/minhuiyu0418/FICD)**|
 |**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155](http://arxiv.org/abs/2405.02155)|null|
 |**2024-05-03**|**AI-generated art perceptions with GenFrame -- an image-generating picture frame**|Peter Kun et.al.|[2405.01901](http://arxiv.org/abs/2405.01901)|null|
 |**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872](http://arxiv.org/abs/2405.01872)|null|
