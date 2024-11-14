@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
+|**2024-11-13**|**On the number of crossings and bouncings of a diffusion at a sticky threshold**|Alexis Anagnostakis et.al.|[2411.08846](http://arxiv.org/abs/2411.08846)|null|
+|**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
+|**2024-11-13**|**Fluctuations of driven probes reveal nonequilibrium transitions in complex fluids**|Danilo Forastiere et.al.|[2411.08817](http://arxiv.org/abs/2411.08817)|null|
+|**2024-11-13**|**A combined diffusion/rate equation model to describe charge generation in phase-separated donor-acceptor blends**|Phillip Teschner et.al.|[2411.08812](http://arxiv.org/abs/2411.08812)|null|
+|**2024-11-13**|**A novel imaging setup for hybrid radiotherapy tailored PET/MR in patients with head and neck cancer**|R. M. Winter et.al.|[2411.08783](http://arxiv.org/abs/2411.08783)|null|
+|**2024-11-13**|**Particle acceleration and multi-messenger radiation from Ultra-Luminous X-ray Sources -- A new class of Galactic PeVatrons**|Enrico Peretti et.al.|[2411.08762](http://arxiv.org/abs/2411.08762)|null|
+|**2024-11-13**|**Berry-Esseen bounds for large-time asymptotics of one-dimensional diffusion processes via Malliavin-Stein method**|Seiichiro Kusuoka et.al.|[2411.08725](http://arxiv.org/abs/2411.08725)|null|
+|**2024-11-13**|**Starburst heating and synthetic ion column densities in multiphase galactic outflows**|D. Villarruel et.al.|[2411.08704](http://arxiv.org/abs/2411.08704)|null|
+|**2024-11-13**|**MikuDance: Animating Character Art with Mixed Motion Dynamics**|Jiaxu Zhang et.al.|[2411.08656](http://arxiv.org/abs/2411.08656)|null|
 |**2024-11-12**|**Scaling Properties of Diffusion Models for Perceptual Tasks**|Rahul Ravishankar et.al.|[2411.08034](http://arxiv.org/abs/2411.08034)|null|
 |**2024-11-12**|**GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation**|Yushi Lan et.al.|[2411.08033](http://arxiv.org/abs/2411.08033)|null|
 |**2024-11-12**|**Commissioning of the 2.6 m tall two-phase xenon time projection chamber of Xenoscope**|M. Adrover et.al.|[2411.08022](http://arxiv.org/abs/2411.08022)|null|
@@ -1925,6 +1935,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**DiVR: incorporating context from diverse VR scenes for human trajectory prediction**|Franz Franco Gallo et.al.|[2411.08409](http://arxiv.org/abs/2411.08409)|null|
 |**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|null|
 |**2024-11-10**|**Learning Uniformly Distributed Embedding Clusters of Stylistic Skills for Physically Simulated Characters**|Nian Liu et.al.|[2411.06459](http://arxiv.org/abs/2411.06459)|null|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
@@ -2208,6 +2219,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
+|**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
+|**2024-11-13**|**I Can Embrace and Avoid Vagueness Myself: Supporting the Design Process by Balancing Vagueness through Text-to-Image Generative AI**|Myungjin Kim et.al.|[2411.08588](http://arxiv.org/abs/2411.08588)|null|
+|**2024-11-13**|**Physics Informed Distillation for Diffusion Models**|Joshua Tian Jin Tee et.al.|[2411.08378](http://arxiv.org/abs/2411.08378)|**[link](https://github.com/pantheon5100/pid_diffusion)**|
+|**2024-11-12**|**Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing**|Zitao Shuai et.al.|[2411.08196](http://arxiv.org/abs/2411.08196)|null|
+|**2024-11-12**|**TIPO: Text to Image with Text Presampling for Prompt Optimization**|Shih-Ying Yeh et.al.|[2411.08127](http://arxiv.org/abs/2411.08127)|null|
 |**2024-11-12**|**Emotion Classification of Children Expressions**|Sanchayan Vivekananthan et.al.|[2411.07708](http://arxiv.org/abs/2411.07708)|null|
 |**2024-11-12**|**Evaluating the Generation of Spatial Relations in Text and Image Generative Models**|Shang Hong Sim et.al.|[2411.07664](http://arxiv.org/abs/2411.07664)|null|
 |**2024-11-12**|**Leveraging Previous Steps: A Training-free Fast Solver for Flow Diffusion**|Kaiyu Song et.al.|[2411.07627](http://arxiv.org/abs/2411.07627)|null|
@@ -3639,6 +3656,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
+|**2024-11-13**|**EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation**|Xiaofeng Wang et.al.|[2411.08380](http://arxiv.org/abs/2411.08380)|null|
+|**2024-11-13**|**Motion Control for Enhanced Complex Action Video Generation**|Qiang Zhou et.al.|[2411.08328](http://arxiv.org/abs/2411.08328)|null|
 |**2024-11-12**|**Artificial Intelligence for Biomedical Video Generation**|Linyuan Li et.al.|[2411.07619](http://arxiv.org/abs/2411.07619)|null|
 |**2024-11-12**|**HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting**|Qiankun Gao et.al.|[2411.07541](http://arxiv.org/abs/2411.07541)|**[link](https://github.com/gqk/hicom)**|
 |**2024-11-10**|**I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength**|Wanquan Feng et.al.|[2411.06525](http://arxiv.org/abs/2411.06525)|null|
