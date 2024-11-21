@@ -2405,7 +2405,7 @@ layout: default
 |**2024-10-20**|**MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications**|Yongrui Yu et.al.|[2410.15432](http://arxiv.org/abs/2410.15432)|null|
 |**2024-10-19**|**SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning**|Zhewei Dai et.al.|[2410.14987](http://arxiv.org/abs/2410.14987)|**[link](https://github.com/HUST-SLOW/SeaS)**|
 |**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|**[link](https://github.com/LeopoldZhang1610/Attack_as_Defense)**|
-|**2024-10-19**|**Straightness of Rectified Flow: A Theoretical Insight into Wasserstein Convergence**|Vansh Bansal et.al.|[2410.14949](http://arxiv.org/abs/2410.14949)|null|
+|**2024-10-19**|**Straightness of Rectified Flow: A Theoretical Insight into Wasserstein Convergence**|Vansh Bansal et.al.|[2410.14949](http://arxiv.org/abs/2410.14949)|**[link](https://github.com/bansal-vansh/rectified-flow)**|
 |**2024-10-19**|**Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step**|Mingyuan Zhou et.al.|[2410.14919](http://arxiv.org/abs/2410.14919)|**[link](https://github.com/mingyuanzhou/sid)**|
 |**2024-10-18**|**SYNOSIS: Image synthesis pipeline for machine vision in metal surface inspection**|Juraj Fulir et.al.|[2410.14844](http://arxiv.org/abs/2410.14844)|null|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672](http://arxiv.org/abs/2410.14672)|**[link](https://github.com/haoosz/BiGR)**|
@@ -3584,7 +3584,7 @@ layout: default
 |**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|**[link](https://github.com/guilingxz/vulmci)**|
 |**2024-02-28**|**Block and Detail: Scaffolding Sketch-to-Image Generation**|Vishnu Sarukkai et.al.|[2402.18116](http://arxiv.org/abs/2402.18116)|null|
 |**2024-02-28**|**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis**|Yanzuo Lu et.al.|[2402.18078](http://arxiv.org/abs/2402.18078)|**[link](https://github.com/YanzuoLu/CFLD)**|
-|**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|null|
+|**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068](http://arxiv.org/abs/2402.18068)|**[link](https://github.com/BBBiiinnn/SynArtifact)**|
 |**2024-02-27**|**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing**|Chufeng Xiao et.al.|[2402.17624](http://arxiv.org/abs/2402.17624)|null|
 |**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
 |**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
