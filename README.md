@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
+|**2024-11-20**|**A Survey of H I and O VI Absorption Lines in the Outskirts of $z\lesssim0.3$ Galaxy Clusters**|Priscilla Holguin Luna et.al.|[2411.13551](http://arxiv.org/abs/2411.13551)|null|
+|**2024-11-20**|**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution**|Shoaib Meraj Sami et.al.|[2411.13548](http://arxiv.org/abs/2411.13548)|null|
+|**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536](http://arxiv.org/abs/2411.13536)|null|
+|**2024-11-20**|**Dense Suspensions in Rotary Shear**|Naveen Kumar Agrawal et.al.|[2411.13463](http://arxiv.org/abs/2411.13463)|null|
+|**2024-11-20**|**Sampling and Integration of Logconcave Functions by Algorithmic Diffusion**|Yunbum Kook et.al.|[2411.13462](http://arxiv.org/abs/2411.13462)|null|
+|**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422](http://arxiv.org/abs/2411.13422)|null|
+|**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
+|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
+|**2024-11-20**|**New Insights on the High Reconnection Rate and the Diminishment of Ion Outflow**|Cheng-Yu Fan et.al.|[2411.13352](http://arxiv.org/abs/2411.13352)|null|
 |**2024-11-19**|**Quantum-assisted hλ-adaptive finite element method**|R. H. Drebotiy et.al.|[2411.12687](http://arxiv.org/abs/2411.12687)|null|
 |**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663](http://arxiv.org/abs/2411.12663)|**[link](https://github.com/davidpicard/homm)**|
 |**2024-11-19**|**Implementation and performance of a fiber-coupled CMOS camera in an ultrafast reflective high-energy electron diffraction experiment**|Jonas D. Fortmann et.al.|[2411.12660](http://arxiv.org/abs/2411.12660)|null|
@@ -1975,6 +1985,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
+|**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831](http://arxiv.org/abs/2411.12831)|null|
 |**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
 |**2024-11-15**|**Motion Diffusion-Guided 3D Global HMR from a Dynamic Camera**|Jaewoo Heo et.al.|[2411.10582](http://arxiv.org/abs/2411.10582)|null|
 |**2024-11-13**|**DiVR: incorporating context from diverse VR scenes for human trajectory prediction**|Franz Franco Gallo et.al.|[2411.08409](http://arxiv.org/abs/2411.08409)|null|
@@ -2261,6 +2273,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503](http://arxiv.org/abs/2411.13503)|**[link](https://github.com/vchitect/vbench)**|
+|**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422](http://arxiv.org/abs/2411.13422)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models**|Naen Xu et.al.|[2411.13144](http://arxiv.org/abs/2411.13144)|null|
+|**2024-11-20**|**Open-World Amodal Appearance Completion**|Jiayang Ao et.al.|[2411.13019](http://arxiv.org/abs/2411.13019)|null|
+|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-19**|**HyperGAN-CLIP: A Unified Framework for Domain Adaptation, Image Synthesis and Manipulation**|Abdul Basit Anees et.al.|[2411.12832](http://arxiv.org/abs/2411.12832)|null|
+|**2024-11-19**|**Stylecodes: Encoding Stylistic Information For Image Generation**|Ciara Rowles et.al.|[2411.12811](http://arxiv.org/abs/2411.12811)|**[link](https://github.com/ciarastrawberry/stylecodes)**|
 |**2024-11-19**|**Frequency-Aware Guidance for Blind Image Restoration via Diffusion Models**|Jun Xiao et.al.|[2411.12450](http://arxiv.org/abs/2411.12450)|null|
 |**2024-11-19**|**CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**|Yifan Xie et.al.|[2411.12198](http://arxiv.org/abs/2411.12198)|null|
 |**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188](http://arxiv.org/abs/2411.12188)|null|
@@ -3728,6 +3748,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
+|**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503](http://arxiv.org/abs/2411.13503)|**[link](https://github.com/vchitect/vbench)**|
+|**2024-11-19**|**Towards motion from video diffusion models**|Paul Janson et.al.|[2411.12831](http://arxiv.org/abs/2411.12831)|null|
+|**2024-11-19**|**Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting**|Haoyu Zhao et.al.|[2411.12789](http://arxiv.org/abs/2411.12789)|null|
 |**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663](http://arxiv.org/abs/2411.12663)|**[link](https://github.com/davidpicard/homm)**|
 |**2024-11-18**|**Medical Video Generation for Disease Progression Simulation**|Xu Cao et.al.|[2411.11943](http://arxiv.org/abs/2411.11943)|null|
 |**2024-11-18**|**SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input**|Zhen Lv et.al.|[2411.11934](http://arxiv.org/abs/2411.11934)|null|
