@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1969,7 +1969,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Motion
 
@@ -2255,7 +2255,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Image Generation
 
@@ -2265,10 +2265,10 @@
 |**2024-11-19**|**CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**|Yifan Xie et.al.|[2411.12198](http://arxiv.org/abs/2411.12198)|null|
 |**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188](http://arxiv.org/abs/2411.12188)|null|
 |**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181](http://arxiv.org/abs/2411.12181)|null|
-|**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|null|
+|**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|**[link](https://github.com/Brian-Moser/zido)**|
 |**2024-11-18**|**Continuous Speculative Decoding for Autoregressive Image Generation**|Zili Wang et.al.|[2411.11925](http://arxiv.org/abs/2411.11925)|**[link](https://github.com/markxcloud/cspd)**|
 |**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
-|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|**[link](https://github.com/ruveydayilmaz0/cascaded_diffusion)**|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**A Modular Open Source Framework for Genomic Variant Calling**|Ankita Vaishnobi Bisoi et.al.|[2411.11513](http://arxiv.org/abs/2411.11513)|null|
 |**2024-11-18**|**MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion**|Dongseok Shim et.al.|[2411.11475](http://arxiv.org/abs/2411.11475)|null|
 |**2024-11-18**|**BeautyBank: Encoding Facial Makeup in Latent Space**|Qianwen Lu et.al.|[2411.11231](http://arxiv.org/abs/2411.11231)|null|
@@ -3722,7 +3722,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 ## Video Generation
 
@@ -4246,7 +4246,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

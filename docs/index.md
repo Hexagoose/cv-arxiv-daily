@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2255,10 +2255,10 @@ layout: default
 |**2024-11-19**|**CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis**|Yifan Xie et.al.|[2411.12198](http://arxiv.org/abs/2411.12198)|null|
 |**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188](http://arxiv.org/abs/2411.12188)|null|
 |**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181](http://arxiv.org/abs/2411.12181)|null|
-|**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|null|
+|**2024-11-18**|**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution**|Brian B. Moser et.al.|[2411.12072](http://arxiv.org/abs/2411.12072)|**[link](https://github.com/Brian-Moser/zido)**|
 |**2024-11-18**|**Continuous Speculative Decoding for Autoregressive Image Generation**|Zili Wang et.al.|[2411.11925](http://arxiv.org/abs/2411.11925)|**[link](https://github.com/markxcloud/cspd)**|
 |**2024-11-18**|**Conceptwm: A Diffusion Model Watermark for Concept Protection**|Liangqi Lei et.al.|[2411.11688](http://arxiv.org/abs/2411.11688)|null|
-|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|**[link](https://github.com/ruveydayilmaz0/cascaded_diffusion)**|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**A Modular Open Source Framework for Genomic Variant Calling**|Ankita Vaishnobi Bisoi et.al.|[2411.11513](http://arxiv.org/abs/2411.11513)|null|
 |**2024-11-18**|**MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion**|Dongseok Shim et.al.|[2411.11475](http://arxiv.org/abs/2411.11475)|null|
 |**2024-11-18**|**BeautyBank: Encoding Facial Makeup in Latent Space**|Qianwen Lu et.al.|[2411.11231](http://arxiv.org/abs/2411.11231)|null|
