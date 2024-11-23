@@ -178,7 +178,7 @@
 |**2024-10-30**|**Chapman-Enskog theory for nearly integrable quantum gases**|Maciej Łebek et.al.|[2410.23209](http://arxiv.org/abs/2410.23209)|null|
 |**2024-10-30**|**Diffusive shock acceleration of dust grains at supernova remnants**|P. Cristofari et.al.|[2410.23190](http://arxiv.org/abs/2410.23190)|null|
 |**2024-10-30**|**CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**|Mingkun Zhang et.al.|[2410.23091](http://arxiv.org/abs/2410.23091)|**[link](https://github.com/cas-aisafetybasicresearchgroup/causaldiff)**|
-|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|**[link](https://github.com/apple/ml-act)**|
 |**2024-10-30**|**Regularity and stability for the Gibbs conditioning principle on path space via McKean-Vlasov control**|Louis-Pierre Chaintron et.al.|[2410.23016](http://arxiv.org/abs/2410.23016)|null|
 |**2024-10-29**|**Driving forces in cell migration and pattern formation in a soft tissue**|Amabile Tatone et.al.|[2410.22273](http://arxiv.org/abs/2410.22273)|null|
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
