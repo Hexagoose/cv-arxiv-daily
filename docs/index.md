@@ -383,7 +383,7 @@ layout: default
 |**2024-09-27**|**Explainable Artifacts for Synthetic Western Blot Source Attribution**|João Phillipe Cardenuto et.al.|[2409.18881](http://arxiv.org/abs/2409.18881)|**[link](https://github.com/phillipecardenuto/ai-wblots-detector)**|
 |**2024-09-27**|**CemiFace: Center-based Semi-hard Synthetic Face Generation for Face Recognition**|Zhonglin Sun et.al.|[2409.18876](http://arxiv.org/abs/2409.18876)|**[link](https://github.com/szlbiubiubiu/CemiFace)**|
 |**2024-09-27**|**Emu3: Next-Token Prediction is All You Need**|Xinlong Wang et.al.|[2409.18869](http://arxiv.org/abs/2409.18869)|null|
-|**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|null|
+|**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|**[link](https://github.com/khhungg/MECG-E)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
