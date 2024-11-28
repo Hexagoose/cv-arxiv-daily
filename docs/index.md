@@ -1000,7 +1000,7 @@ layout: default
 |**2024-06-26**|**DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance**|Younghyun Kim et.al.|[2406.18459](http://arxiv.org/abs/2406.18459)|**[link](https://github.com/yhyun225/DiffuseHigh)**|
 |**2024-06-26**|**How to Achieve High Spatial Resolution in Organic Optobioelectronic Devices?**|Luca Fabbri et.al.|[2406.18447](http://arxiv.org/abs/2406.18447)|null|
 |**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417](http://arxiv.org/abs/2406.18417)|**[link](https://github.com/cerea-daml/ldm_nextsim)**|
-|**2024-06-26**|**From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis**|Janet Wang et.al.|[2406.18375](http://arxiv.org/abs/2406.18375)|null|
+|**2024-06-26**|**From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis**|Janet Wang et.al.|[2406.18375](http://arxiv.org/abs/2406.18375)|**[link](https://github.com/janet-sw/skin-diff)**|
 |**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-06-26**|**Convergence to equilibrium for a degenerate three species reaction-diffusion system**|Saumyajit Das et.al.|[2406.18339](http://arxiv.org/abs/2406.18339)|null|
 |**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
