@@ -2354,7 +2354,7 @@
 |**2024-11-26**|**InsightEdit: Towards Better Instruction Following for Image Editing**|Yingjing Xu et.al.|[2411.17323](http://arxiv.org/abs/2411.17323)|null|
 |**2024-11-26**|**Reward Incremental Learning in Text-to-Image Generation**|Maorong Wang et.al.|[2411.17310](http://arxiv.org/abs/2411.17310)|null|
 |**2024-11-26**|**From Graph Diffusion to Graph Classification**|Jia Jun Cheng Xian et.al.|[2411.17236](http://arxiv.org/abs/2411.17236)|null|
-|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
+|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-26**|**DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting**|Yicheng Yang et.al.|[2411.17223](http://arxiv.org/abs/2411.17223)|**[link](https://github.com/mycfhs/dreammix)**|
 |**2024-11-25**|**Factorized Visual Tokenization and Generation**|Zechen Bai et.al.|[2411.16681](http://arxiv.org/abs/2411.16681)|null|
 |**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
