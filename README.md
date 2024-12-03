@@ -37,7 +37,7 @@
 |**2024-11-27**|**Frequency redistribution and step-size distribution of light scattered by atomic vapor: applications to Lévy flight random walk**|Isaac C. Nunes et.al.|[2411.18570](http://arxiv.org/abs/2411.18570)|null|
 |**2024-11-27**|**DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**|Zhixuan Liang et.al.|[2411.18562](http://arxiv.org/abs/2411.18562)|null|
 |**2024-11-27**|**FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**|Haosen Yang et.al.|[2411.18552](http://arxiv.org/abs/2411.18552)|null|
-|**2024-11-27**|**The Rise and Fall of Ideas' Popularity**|Piero Mazzarisi et.al.|[2411.18541](http://arxiv.org/abs/2411.18541)|null|
+|**2024-11-27**|**The Rise and Fall of Ideas' Popularity**|Piero Mazzarisi et.al.|[2411.18541](http://arxiv.org/abs/2411.18541)|**[link](https://github.com/alessiomuscillo/modeling_waves)**|
 |**2024-11-27**|**Chemical pressure tuning of competing orders in $\textrm{Ba}_{1-x}\textrm{Ca}_{x}\textrm{Ni}_{2}\textrm{As}_{2}$**|F. Henssler et.al.|[2411.18536](http://arxiv.org/abs/2411.18536)|null|
 |**2024-11-27**|**Spin liquid properties of the kagome material Cu $_3$(HOTP)$_2$**|F. L. Pratt et.al.|[2411.18518](http://arxiv.org/abs/2411.18518)|null|
 |**2024-11-26**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
@@ -1338,7 +1338,7 @@
 |**2024-05-09**|**Composable Part-Based Manipulation**|Weiyu Liu et.al.|[2405.05876](http://arxiv.org/abs/2405.05876)|null|
 |**2024-05-09**|**Parameter identification for an uncertain reaction-diffusion equation via setpoint regulation**|Gildas Besançon et.al.|[2405.05866](http://arxiv.org/abs/2405.05866)|null|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
-|**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
+|**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|**[link](https://github.com/Maryeon/InvMM)**|
 |**2024-05-09**|**MSDiff: Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction**|Pinhuang Tan et.al.|[2405.05814](http://arxiv.org/abs/2405.05814)|null|
 |**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|**[link](https://github.com/nmudur/diffusion-hmc)**|
 |**2024-05-08**|**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**|Hongjie Wang et.al.|[2405.05252](http://arxiv.org/abs/2405.05252)|null|
@@ -2246,7 +2246,7 @@
 |**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803](http://arxiv.org/abs/2405.03803)|null|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
 |**2024-05-05**|**Multimodal Sense-Informed Prediction of 3D Human Motions**|Zhenyu Lou et.al.|[2405.02911](http://arxiv.org/abs/2405.02911)|null|
-|**2024-05-05**|**Efficient Text-driven Motion Generation via Latent Consistency Training**|Mengxian Hu et.al.|[2405.02791](http://arxiv.org/abs/2405.02791)|null|
+|**2024-05-05**|**Efficient Text-driven Motion Generation via Latent Consistency Training**|Mengxian Hu et.al.|[2405.02791](http://arxiv.org/abs/2405.02791)|**[link](https://github.com/Humengxian/Efficient-Text-driven-Motion-Generation-via-Latent-Consistency-Training)**|
 |**2024-05-03**|**Physics-informed generative neural networks for RF propagation prediction with application to indoor body perception**|Federica Fieramosca et.al.|[2405.02131](http://arxiv.org/abs/2405.02131)|null|
 |**2024-04-30**|**MotionLCM: Real-time Controllable Motion Generation via Latent Consistency Model**|Wenxun Dai et.al.|[2404.19759](http://arxiv.org/abs/2404.19759)|**[link](https://github.com/Dai-Wenxun/MotionLCM)**|
 |**2024-04-30**|**PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**|Jingbo Wang et.al.|[2404.19722](http://arxiv.org/abs/2404.19722)|null|
@@ -2500,7 +2500,7 @@
 |**2024-11-05**|**Digi2Real: Bridging the Realism Gap in Synthetic Data Face Recognition via Foundation Models**|Anjith George et.al.|[2411.02188](http://arxiv.org/abs/2411.02188)|null|
 |**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819](http://arxiv.org/abs/2411.01819)|null|
 |**2024-11-03**|**DreamPolish: Domain Score Distillation With Progressive Geometry Generation**|Yean Cheng et.al.|[2411.01602](http://arxiv.org/abs/2411.01602)|null|
-|**2024-11-03**|**Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach**|Qihe Pan et.al.|[2411.01545](http://arxiv.org/abs/2411.01545)|null|
+|**2024-11-03**|**Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach**|Qihe Pan et.al.|[2411.01545](http://arxiv.org/abs/2411.01545)|**[link](https://github.com/panqihe-zjut/SOEBench)**|
 |**2024-11-03**|**DPCL-Diff: The Temporal Knowledge Graph Reasoning based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning**|Yukun Cao et.al.|[2411.01477](http://arxiv.org/abs/2411.01477)|null|
 |**2024-11-02**|**Guided Synthesis of Labeled Brain MRI Data Using Latent Diffusion Models for Segmentation of Enlarged Ventricles**|Tim Ruschke et.al.|[2411.01351](http://arxiv.org/abs/2411.01351)|null|
 |**2024-11-01**|**Evaluation Metric for Quality Control and Generative Models in Histopathology Images**|Pranav Jeevan et.al.|[2411.01034](http://arxiv.org/abs/2411.01034)|null|
@@ -3362,7 +3362,7 @@
 |**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-09**|**Photonic quantum generative adversarial networks for classical data**|Tigran Sedrakyan et.al.|[2405.06023](http://arxiv.org/abs/2405.06023)|**[link](https://github.com/quandela/photonic-qgan)**|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|**[link](https://github.com/zonglinl/consecutivebrownianbridge)**|
-|**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
+|**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|**[link](https://github.com/Maryeon/InvMM)**|
 |**2024-05-10**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806](http://arxiv.org/abs/2405.05806)|**[link](https://github.com/csyxwei/masterweaver)**|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|**[link](https://github.com/hit-philiphan/remote_sensing_image_editing)**|
