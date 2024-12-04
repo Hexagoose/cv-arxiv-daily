@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
+|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
+|**2024-12-03**|**Scaling limit of first passage percolation geodesics on planar maps**|Emmanuel Kammerer et.al.|[2412.02666](http://arxiv.org/abs/2412.02666)|null|
+|**2024-12-03**|**Asymptically full measure sets of almost-periodic solutions for the NLS equation**|Luca Biasco et.al.|[2412.02648](http://arxiv.org/abs/2412.02648)|null|
+|**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
+|**2024-12-03**|**Convergence of a heterogeneous Allen-Cahn equation to weighted mean curvature flow**|Likhit Ganedi et.al.|[2412.02567](http://arxiv.org/abs/2412.02567)|null|
+|**2024-12-03**|**Bayesian data analysis for sky-averaged 21-cm experiments with contamination from linearly polarised foreground**|Emma Shen et.al.|[2412.02552](http://arxiv.org/abs/2412.02552)|null|
+|**2024-12-03**|**Unveiling Concept Attribution in Diffusion Models**|Quang H. Nguyen et.al.|[2412.02542](http://arxiv.org/abs/2412.02542)|null|
 |**2024-11-29**|**Open source Differentiable ODE Solving Infrastructure**|Rakshit Kr. Singh et.al.|[2411.19882](http://arxiv.org/abs/2411.19882)|null|
 |**2024-11-29**|**Gravity's role in taming the Tayler instability in red giant cores**|Domenico G. Meduri et.al.|[2411.19849](http://arxiv.org/abs/2411.19849)|null|
 |**2024-11-29**|**Classical transport in a maximally chaotic chain**|William Alderson et.al.|[2411.19828](http://arxiv.org/abs/2411.19828)|null|
@@ -2045,6 +2055,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Diffusion Implicit Policy for Unpaired Scene-aware Motion Synthesis**|Jingyu Gong et.al.|[2412.02261](http://arxiv.org/abs/2412.02261)|null|
+|**2024-12-02**|**Continuous-Time Human Motion Field from Events**|Ziyun Wang et.al.|[2412.01747](http://arxiv.org/abs/2412.01747)|null|
+|**2024-12-02**|**Dual-Branch Graph Transformer Network for 3D Human Mesh Reconstruction from Video**|Tao Tang et.al.|[2412.01179](http://arxiv.org/abs/2412.01179)|**[link](https://github.com/tangtao-pku/dgtr)**|
+|**2024-11-30**|**Human Action CLIPS: Detecting AI-generated Human Motion**|Matyas Bohacek et.al.|[2412.00526](http://arxiv.org/abs/2412.00526)|null|
+|**2024-12-03**|**OpenHumanVid: A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation**|Hui Li et.al.|[2412.00115](http://arxiv.org/abs/2412.00115)|null|
+|**2024-11-28**|**BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis**|Seong-Eun Hong et.al.|[2412.00112](http://arxiv.org/abs/2412.00112)|null|
 |**2024-11-29**|**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**|Yiming Wu et.al.|[2411.19786](http://arxiv.org/abs/2411.19786)|null|
 |**2024-12-02**|**DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding**|Jungbin Cho et.al.|[2411.19527](http://arxiv.org/abs/2411.19527)|null|
 |**2024-11-29**|**Fleximo: Towards Flexible Text-to-Human Motion Video Generation**|Yuhang Zhang et.al.|[2411.19459](http://arxiv.org/abs/2411.19459)|null|
@@ -2352,6 +2368,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
+|**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692](http://arxiv.org/abs/2412.02692)|null|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
+|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-03**|**MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis**|Tianyu Wang et.al.|[2412.02635](http://arxiv.org/abs/2412.02635)|null|
+|**2024-12-03**|**WEM-GAN: Wavelet transform based facial expression manipulation**|Dongya Sun et.al.|[2412.02530](http://arxiv.org/abs/2412.02530)|null|
+|**2024-12-03**|**ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?**|Leixin Zhang et.al.|[2412.02368](http://arxiv.org/abs/2412.02368)|null|
+|**2024-12-03**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
+|**2024-12-03**|**Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models**|Jungwon Park et.al.|[2412.02237](http://arxiv.org/abs/2412.02237)|null|
+|**2024-12-03**|**GIST: Towards Photorealistic Style Transfer via Multiscale Geometric Representations**|Renan A. Rojas-Gomez et.al.|[2412.02214](http://arxiv.org/abs/2412.02214)|null|
 |**2024-11-29**|**JetFormer: An Autoregressive Generative Model of Raw Images and Text**|Michael Tschannen et.al.|[2411.19722](http://arxiv.org/abs/2411.19722)|null|
 |**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654](http://arxiv.org/abs/2411.19654)|null|
 |**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652](http://arxiv.org/abs/2411.19652)|**[link](https://github.com/mowenyii/uniform-attention-maps)**|
@@ -3886,6 +3912,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
+|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation**|Mingzhe Zheng et.al.|[2412.02259](http://arxiv.org/abs/2412.02259)|null|
+|**2024-12-03**|**OmniCreator: Self-Supervised Unified Generation with Universal Editing**|Haodong Chen et.al.|[2412.02114](http://arxiv.org/abs/2412.02114)|null|
+|**2024-12-02**|**World-consistent Video Diffusion with Explicit 3D Modeling**|Qihang Zhang et.al.|[2412.01821](http://arxiv.org/abs/2412.01821)|null|
+|**2024-12-02**|**Driving Scene Synthesis on Free-form Trajectories with Generative Prior**|Zeyu Yang et.al.|[2412.01717](http://arxiv.org/abs/2412.01717)|null|
+|**2024-12-02**|**InfinityDrive: Breaking Time Limits in Driving World Models**|Xi Guo et.al.|[2412.01522](http://arxiv.org/abs/2412.01522)|null|
+|**2024-12-02**|**CPA: Camera-pose-awareness Diffusion Transformer for Video Generation**|Yuelei Wang et.al.|[2412.01429](http://arxiv.org/abs/2412.01429)|null|
+|**2024-12-02**|**MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models**|Xiaomin Li et.al.|[2412.01343](http://arxiv.org/abs/2412.01343)|null|
 |**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
 |**2024-11-29**|**Fleximo: Towards Flexible Text-to-Human Motion Video Generation**|Yuhang Zhang et.al.|[2411.19459](http://arxiv.org/abs/2411.19459)|null|
 |**2024-11-28**|**Trajectory Attention for Fine-grained Video Motion Control**|Zeqi Xiao et.al.|[2411.19324](http://arxiv.org/abs/2411.19324)|null|
