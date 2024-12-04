@@ -2364,7 +2364,7 @@
 |**2024-11-28**|**SOWing Information: Cultivating Contextual Coherence with MLLMs in Image Generation**|Yuhan Pei et.al.|[2411.19182](http://arxiv.org/abs/2411.19182)|null|
 |**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616](http://arxiv.org/abs/2411.18616)|null|
 |**2024-11-27**|**FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**|Haosen Yang et.al.|[2411.18552](http://arxiv.org/abs/2411.18552)|null|
-|**2024-11-27**|**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**|Riza Velioglu et.al.|[2411.18350](http://arxiv.org/abs/2411.18350)|null|
+|**2024-11-27**|**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**|Riza Velioglu et.al.|[2411.18350](http://arxiv.org/abs/2411.18350)|**[link](https://github.com/rizavelioglu/tryoffdiff)**|
 |**2024-11-27**|**Prediction with Action: Visual Policy Learning via Joint Denoising Process**|Yanjiang Guo et.al.|[2411.18179](http://arxiv.org/abs/2411.18179)|null|
 |**2024-11-27**|**Type-R: Automatically Retouching Typos for Text-to-Image Generation**|Wataru Shimoda et.al.|[2411.18159](http://arxiv.org/abs/2411.18159)|null|
 |**2024-11-27**|**PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion**|Gwanghyun Kim et.al.|[2411.18068](http://arxiv.org/abs/2411.18068)|null|
