@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -18,7 +18,7 @@ layout: default
 |**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278](http://arxiv.org/abs/2412.05278)|null|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275](http://arxiv.org/abs/2412.05275)|null|
 |**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263](http://arxiv.org/abs/2412.05263)|null|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**A kinetically constrained model exhibiting non-linear diffusion and jamming**|Abhishek Raj et.al.|[2412.05231](http://arxiv.org/abs/2412.05231)|null|
 |**2024-12-06**|**Diffusion cascade in a model of interacting random walkers**|Abhishek Raj et.al.|[2412.05222](http://arxiv.org/abs/2412.05222)|null|
 |**2024-12-06**|**Go-or-Grow Models in Biology: a Monster on a Leash**|R. Thiessen et.al.|[2412.05191](http://arxiv.org/abs/2412.05191)|null|
