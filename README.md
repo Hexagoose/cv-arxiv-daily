@@ -2132,7 +2132,7 @@
 |**2024-11-19**|**Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness**|Catie Cuan et.al.|[2411.12361](http://arxiv.org/abs/2411.12361)|null|
 |**2024-11-15**|**Motion Diffusion-Guided 3D Global HMR from a Dynamic Camera**|Jaewoo Heo et.al.|[2411.10582](http://arxiv.org/abs/2411.10582)|null|
 |**2024-11-13**|**DiVR: incorporating context from diverse VR scenes for human trajectory prediction**|Franz Franco Gallo et.al.|[2411.08409](http://arxiv.org/abs/2411.08409)|null|
-|**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|null|
+|**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|**[link](https://github.com/steve-zeyu-zhang/KMM)**|
 |**2024-11-10**|**Learning Uniformly Distributed Embedding Clusters of Stylistic Skills for Physically Simulated Characters**|Nian Liu et.al.|[2411.06459](http://arxiv.org/abs/2411.06459)|null|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
 |**2024-11-07**|**ProGraph: Temporally-alignable Probability Guided Graph Topological Modeling for 3D Human Reconstruction**|Hongsheng Wang et.al.|[2411.04399](http://arxiv.org/abs/2411.04399)|null|
