@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**|Haonan Qiu et.al.|[2412.09626](http://arxiv.org/abs/2412.09626)|null|
+|**2024-12-12**|**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors**|Yue Feng et.al.|[2412.09625](http://arxiv.org/abs/2412.09625)|null|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
+|**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622](http://arxiv.org/abs/2412.09622)|null|
+|**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619](http://arxiv.org/abs/2412.09619)|null|
+|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
+|**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**Probing a diffuse flux of axion-like particles from galactic supernovae with neutrino water Cherenkov detectors**|David Alonso-González et.al.|[2412.09595](http://arxiv.org/abs/2412.09595)|null|
+|**2024-12-12**|**Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**|Zexin He et.al.|[2412.09593](http://arxiv.org/abs/2412.09593)|null|
 |**2024-12-11**|**ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation**|Daniel Winter et.al.|[2412.08645](http://arxiv.org/abs/2412.08645)|null|
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|**[link](https://github.com/huawei-lin/DMin)**|
@@ -2427,6 +2437,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622](http://arxiv.org/abs/2412.09622)|null|
+|**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
+|**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
+|**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611](http://arxiv.org/abs/2412.09611)|null|
+|**2024-12-12**|**Spectral Image Tokenizer**|Carlos Esteves et.al.|[2412.09607](http://arxiv.org/abs/2412.09607)|null|
+|**2024-12-12**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
+|**2024-12-12**|**RAD: Region-Aware Diffusion Models for Image Inpainting**|Sora Kim et.al.|[2412.09191](http://arxiv.org/abs/2412.09191)|null|
+|**2024-12-12**|**LVMark: Robust Watermark for latent video diffusion models**|MinHyuk Jang et.al.|[2412.09122](http://arxiv.org/abs/2412.09122)|null|
+|**2024-12-12**|**ViUniT: Visual Unit Tests for More Robust Visual Programming**|Artemis Panagopoulou et.al.|[2412.08859](http://arxiv.org/abs/2412.08859)|null|
+|**2024-12-11**|**$\texttt{UFig v1}$ : The ultra-fast image generator**|Silvan Fischbacher et.al.|[2412.08716](http://arxiv.org/abs/2412.08716)|null|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639](http://arxiv.org/abs/2412.08639)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
 |**2024-12-11**|**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**|Zejian Li et.al.|[2412.08580](http://arxiv.org/abs/2412.08580)|**[link](https://github.com/mengcye/LAION-SG)**|
@@ -4027,6 +4047,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
+|**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600](http://arxiv.org/abs/2412.09600)|**[link](https://github.com/huang-yh/owl)**|
+|**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
+|**2024-12-12**|**Video Creation by Demonstration**|Yihong Sun et.al.|[2412.09551](http://arxiv.org/abs/2412.09551)|null|
+|**2024-12-12**|**Video Seal: Open and Efficient Video Watermarking**|Pierre Fernandez et.al.|[2412.09492](http://arxiv.org/abs/2412.09492)|**[link](https://github.com/facebookresearch/videoseal)**|
+|**2024-12-12**|**UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer**|Delong Liu et.al.|[2412.09389](http://arxiv.org/abs/2412.09389)|**[link](https://github.com/delong-liu-bupt/ufo)**|
+|**2024-12-12**|**T-SVG: Text-Driven Stereoscopic Video Generation**|Qiao Jin et.al.|[2412.09323](http://arxiv.org/abs/2412.09323)|null|
+|**2024-12-12**|**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption**|Tiehan Fan et.al.|[2412.09283](http://arxiv.org/abs/2412.09283)|null|
+|**2024-12-12**|**Text-Video Multi-Grained Integration for Video Moment Montage**|Zhihui Yin et.al.|[2412.09276](http://arxiv.org/abs/2412.09276)|null|
 |**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
 |**2024-12-11**|**FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks**|Chongkai Gao et.al.|[2412.08261](http://arxiv.org/abs/2412.08261)|null|
 |**2024-12-11**|**VSD2M: A Large-scale Vision-language Sticker Dataset for Multi-frame Animated Sticker Generation**|Zhiqiang Yuan et.al.|[2412.08259](http://arxiv.org/abs/2412.08259)|null|
