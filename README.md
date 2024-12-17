@@ -229,7 +229,7 @@
 |**2024-11-14**|**Numerical prediction of the steady-state distribution under stochastic resetting from measurements**|Ron Vatash et.al.|[2411.09563](http://arxiv.org/abs/2411.09563)|null|
 |**2024-11-14**|**FlowNav: Learning Efficient Navigation Policies via Conditional Flow Matching**|Samiran Gode et.al.|[2411.09524](http://arxiv.org/abs/2411.09524)|null|
 |**2024-11-14**|**Enhanced HLLEM and HLL-CPS schemes for all Mach number flows based using anti-diffusion coefficients**|A. Gogoi et.al.|[2411.09509](http://arxiv.org/abs/2411.09509)|null|
-|**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|null|
+|**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|**[link](https://github.com/xie-lab-ml/golden-noise-for-diffusion-models)**|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**On the number of crossings and bouncings of a diffusion at a sticky threshold**|Alexis Anagnostakis et.al.|[2411.08846](http://arxiv.org/abs/2411.08846)|null|
 |**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
