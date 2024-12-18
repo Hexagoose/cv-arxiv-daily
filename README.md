@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models**|Gaoyang Zhang et.al.|[2412.13195](http://arxiv.org/abs/2412.13195)|**[link](https://github.com/blurgyy/compass)**|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
+|**2024-12-17**|**A finite volume scheme for the local sensing chemotaxis model**|Maxime Herda et.al.|[2412.13143](http://arxiv.org/abs/2412.13143)|null|
+|**2024-12-17**|**Symmetries and exact solutions of a reaction-diffusion system arising in population dynamics**|Philip Broadbridge et.al.|[2412.13097](http://arxiv.org/abs/2412.13097)|null|
+|**2024-12-17**|**Explorando el impacto de los gradientes químicos en los procesos de mezcla del interior estelar**|M. M. Ocampo et.al.|[2412.13087](http://arxiv.org/abs/2412.13087)|null|
+|**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
+|**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
+|**2024-12-17**|**HCG 57: Evidence for shock-heated intergalactic gas from X-rays and optical emission line spectroscopy**|Ewan O'Sullivan et.al.|[2412.13055](http://arxiv.org/abs/2412.13055)|null|
+|**2024-12-17**|**Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks**|Kun Huang et.al.|[2412.13054](http://arxiv.org/abs/2412.13054)|null|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
@@ -2145,6 +2155,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
+|**2024-12-17**|**Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation**|Huaijin Pi et.al.|[2412.13111](http://arxiv.org/abs/2412.13111)|null|
+|**2024-12-15**|**Challenges and Opportunities Associated with Technology Driven Biomechanical Simulations**|Zartasha Mustansar et.al.|[2412.12209](http://arxiv.org/abs/2412.12209)|null|
 |**2024-12-16**|**Multi-Scale Incremental Modeling for Enhanced Human Motion Prediction in Human-Robot Collaboration**|Juncheng Zou et.al.|[2412.11632](http://arxiv.org/abs/2412.11632)|null|
 |**2024-12-16**|**Visual IRL for Human-Like Robotic Manipulation**|Ehsan Asali et.al.|[2412.11360](http://arxiv.org/abs/2412.11360)|null|
 |**2024-12-15**|**Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation**|Ling-An Zeng et.al.|[2412.11193](http://arxiv.org/abs/2412.11193)|null|
@@ -2473,6 +2486,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**F-Bench: Rethinking Human Preference Evaluation Metrics for Benchmarking Face Generation, Customization, and Restoration**|Lu Liu et.al.|[2412.13155](http://arxiv.org/abs/2412.13155)|null|
+|**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
+|**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
+|**2024-12-17**|**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression**|Ruijie Chen et.al.|[2412.12982](http://arxiv.org/abs/2412.12982)|null|
+|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
+|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2024-12-17**|**Rethinking Diffusion-Based Image Generators for Fundus Fluorescein Angiography Synthesis on Limited Data**|Chengzhou Yu et.al.|[2412.12778](http://arxiv.org/abs/2412.12778)|null|
+|**2024-12-17**|**Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation**|Shoukun Sun et.al.|[2412.12771](http://arxiv.org/abs/2412.12771)|null|
+|**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
 |**2024-12-16**|**IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation**|Yiren Song et.al.|[2412.11638](http://arxiv.org/abs/2412.11638)|null|
@@ -4102,6 +4125,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190](http://arxiv.org/abs/2412.13190)|null|
+|**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
+|**2024-12-17**|**VidTok: A Versatile and Open-Source Video Tokenizer**|Anni Tang et.al.|[2412.13061](http://arxiv.org/abs/2412.13061)|**[link](https://github.com/microsoft/vidtok)**|
+|**2024-12-17**|**MIVE: New Design and Benchmark for Multi-Instance Video Editing**|Samuel Teodoro et.al.|[2412.12877](http://arxiv.org/abs/2412.12877)|null|
+|**2024-12-16**|**Can video generation replace cinematographers? Research on the cinematic language of generated video**|Xiaozhe Li et.al.|[2412.12223](http://arxiv.org/abs/2412.12223)|null|
 |**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
 |**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/abs/2412.11755)|null|
 |**2024-12-16**|**Re-Attentional Controllable Video Diffusion Editing**|Yuanzhi Wang et.al.|[2412.11710](http://arxiv.org/abs/2412.11710)|**[link](https://github.com/mdswyz/reatco)**|
