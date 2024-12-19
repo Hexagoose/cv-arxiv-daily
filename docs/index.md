@@ -4156,7 +4156,7 @@ layout: default
 |**2024-12-14**|**Video Diffusion Transformers are In-Context Learners**|Zhengcong Fei et.al.|[2412.10783](http://arxiv.org/abs/2412.10783)|**[link](https://github.com/feizc/video-in-context)**|
 |**2024-12-13**|**SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device**|Yushu Wu et.al.|[2412.10494](http://arxiv.org/abs/2412.10494)|null|
 |**2024-12-13**|**TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation**|Xingrui Wang et.al.|[2412.10275](http://arxiv.org/abs/2412.10275)|null|
-|**2024-12-13**|**Exploring the Frontiers of Animation Video Generation in the Sora Era: Method, Dataset and Benchmark**|Yudong Jiang et.al.|[2412.10255](http://arxiv.org/abs/2412.10255)|null|
+|**2024-12-13**|**Exploring the Frontiers of Animation Video Generation in the Sora Era: Method, Dataset and Benchmark**|Yudong Jiang et.al.|[2412.10255](http://arxiv.org/abs/2412.10255)|**[link](https://github.com/bilibili/index-anisora)**|
 |**2024-12-13**|**LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity**|Hongjie Wang et.al.|[2412.09856](http://arxiv.org/abs/2412.09856)|null|
 |**2024-12-13**|**MSC: Multi-Scale Spatio-Temporal Causal Attention for Autoregressive Video Diffusion**|Xunnong Xu et.al.|[2412.09828](http://arxiv.org/abs/2412.09828)|null|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
