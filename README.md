@@ -2547,7 +2547,7 @@
 |**2024-12-16**|**LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model**|Xi Wang et.al.|[2412.11519](http://arxiv.org/abs/2412.11519)|null|
 |**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463](http://arxiv.org/abs/2412.11463)|**[link](https://github.com/danny0628/fedcar)**|
 |**2024-12-16**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models**|Namhyuk Ahn et.al.|[2412.11423](http://arxiv.org/abs/2412.11423)|null|
-|**2024-12-16**|**Relation-Guided Adversarial Learning for Data-free Knowledge Transfer**|Yingping Liang et.al.|[2412.11380](http://arxiv.org/abs/2412.11380)|null|
+|**2024-12-16**|**Relation-Guided Adversarial Learning for Data-free Knowledge Transfer**|Yingping Liang et.al.|[2412.11380](http://arxiv.org/abs/2412.11380)|**[link](https://github.com/sharpiless/rgal)**|
 |**2024-12-15**|**Sonicmesh: Enhancing 3D Human Mesh Reconstruction in Vision-Impaired Environments With Acoustic Signals**|Xiaoxuan Liang et.al.|[2412.11325](http://arxiv.org/abs/2412.11325)|null|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
