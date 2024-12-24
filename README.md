@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
+|**2024-12-23**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808](http://arxiv.org/abs/2412.17808)|null|
+|**2024-12-23**|**Encoding off-shell effects in top pair production in Direct Diffusion networks**|Mathias Kuschick et.al.|[2412.17783](http://arxiv.org/abs/2412.17783)|null|
+|**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
+|**2024-12-23**|**Thermal Quench Dynamics of Visons in Gapless Kitaev Spin Liquid**|Yang Yang et.al.|[2412.17774](http://arxiv.org/abs/2412.17774)|null|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-23**|**Comprehensive Optimization of Interferometric Diffusing Wave Spectroscopy (iDWS)**|Mingjun Zhao et.al.|[2412.17724](http://arxiv.org/abs/2412.17724)|null|
+|**2024-12-23**|**The Cosmological Population of Gamma-Ray Bursts from the Disks of Active Galactic Nuclei**|Hoyoung D. Kang et.al.|[2412.17714](http://arxiv.org/abs/2412.17714)|null|
+|**2024-12-23**|**Euclid: Early Release Observations of diffuse stellar structures and globular clusters as probes of the mass assembly of galaxies in the Dorado group**|M. Urbano et.al.|[2412.17672](http://arxiv.org/abs/2412.17672)|null|
+|**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671](http://arxiv.org/abs/2412.17671)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
 |**2024-12-20**|**Determination of the Magnetic Structure of Spin Glass Compound $\text{Zn}_{0.5}\text{Mn}_{0.5}\text{Te}$ Using Real-Space Methods**|Sabrina R. Hatt et.al.|[2412.16130](http://arxiv.org/abs/2412.16130)|null|
 |**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
@@ -2185,9 +2195,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions**|Youliang Zhang et.al.|[2412.17377](http://arxiv.org/abs/2412.17377)|null|
+|**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210](http://arxiv.org/abs/2412.17210)|**[link](https://github.com/guijiejie/dcmd-main)**|
+|**2024-12-22**|**InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions**|Ronghui Li et.al.|[2412.16982](http://arxiv.org/abs/2412.16982)|null|
 |**2024-12-20**|**Robustness-enhanced Myoelectric Control with GAN-based Open-set Recognition**|Cheng Wang et.al.|[2412.15819](http://arxiv.org/abs/2412.15819)|null|
 |**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664](http://arxiv.org/abs/2412.15664)|null|
-|**2024-12-19**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988](http://arxiv.org/abs/2412.14988)|null|
+|**2024-12-21**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988](http://arxiv.org/abs/2412.14988)|null|
 |**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
 |**2024-12-19**|**DirectorLLM for Human-Centric Video Generation**|Kunpeng Song et.al.|[2412.14484](http://arxiv.org/abs/2412.14484)|null|
 |**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
@@ -2522,6 +2535,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-23**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610](http://arxiv.org/abs/2412.17610)|null|
+|**2024-12-23**|**Discriminative Image Generation with Diffusion Models for Zero-Shot Learning**|Dingjie Fu et.al.|[2412.17219](http://arxiv.org/abs/2412.17219)|null|
+|**2024-12-22**|**Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching**|Enshu Liu et.al.|[2412.17153](http://arxiv.org/abs/2412.17153)|**[link](https://github.com/imagination-research/distilled-decoding)**|
+|**2024-12-22**|**Similarity Trajectories: Linking Sampling Process to Artifacts in Diffusion-Generated Images**|Dennis Menn et.al.|[2412.17109](http://arxiv.org/abs/2412.17109)|null|
+|**2024-12-22**|**DreamOmni: Unified Image Generation and Editing**|Bin Xia et.al.|[2412.17098](http://arxiv.org/abs/2412.17098)|null|
+|**2024-12-22**|**Modular Conversational Agents for Surveys and Interviews**|Jiangbo Yu et.al.|[2412.17049](http://arxiv.org/abs/2412.17049)|null|
+|**2024-12-22**|**HyperNet Fields: Efficiently Training Hypernetworks without Ground Truth by Learning Weight Trajectories**|Eric Hedlin et.al.|[2412.17040](http://arxiv.org/abs/2412.17040)|null|
+|**2024-12-22**|**Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation**|Quan Dao et.al.|[2412.16906](http://arxiv.org/abs/2412.16906)|null|
+|**2024-12-22**|**Diffusion-Based Approaches in Medical Image Generation and Analysis**|Abdullah al Nomaan Nafi et.al.|[2412.16860](http://arxiv.org/abs/2412.16860)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
 |**2024-12-20**|**CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up**|Songhua Liu et.al.|[2412.16112](http://arxiv.org/abs/2412.16112)|**[link](https://github.com/huage001/clear)**|
@@ -4190,6 +4213,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805](http://arxiv.org/abs/2412.17805)|null|
+|**2024-12-23**|**VidTwin: Video VAE with Decoupled Structure and Dynamics**|Yuchi Wang et.al.|[2412.17726](http://arxiv.org/abs/2412.17726)|**[link](https://github.com/microsoft/vidtok)**|
+|**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
+|**2024-12-23**|**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory**|Xingyao Li et.al.|[2412.17254](http://arxiv.org/abs/2412.17254)|null|
+|**2024-12-22**|**SubstationAI: Multimodal Large Model-Based Approaches for Analyzing Substation Equipment Faults**|Jinzhi Wang et.al.|[2412.17077](http://arxiv.org/abs/2412.17077)|null|
+|**2024-12-22**|**Adapting Image-to-Video Diffusion Models for Large-Motion Frame Interpolation**|Luoxu Jin et.al.|[2412.17042](http://arxiv.org/abs/2412.17042)|null|
+|**2024-12-21**|**GANFusion: Feed-Forward Text-to-3D with Diffusion in GAN Space**|Souhaib Attaiki et.al.|[2412.16717](http://arxiv.org/abs/2412.16717)|null|
+|**2024-12-21**|**TCAQ-DM: Timestep-Channel Adaptive Quantization for Diffusion Models**|Haocheng Huang et.al.|[2412.16700](http://arxiv.org/abs/2412.16700)|null|
+|**2024-12-21**|**VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation**|Chi Zhang et.al.|[2412.16677](http://arxiv.org/abs/2412.16677)|null|
+|**2024-12-21**|**Follow-Your-MultiPose: Tuning-Free Multi-Character Text-to-Video Generation via Pose Guidance**|Beiyuan Zhang et.al.|[2412.16495](http://arxiv.org/abs/2412.16495)|null|
 |**2024-12-20**|**DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization**|Zihan Ding et.al.|[2412.15689](http://arxiv.org/abs/2412.15689)|null|
 |**2024-12-20**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
 |**2024-12-19**|**Efficient Neural Network Encoding for 3D Color Lookup Tables**|Vahid Zehtab et.al.|[2412.15438](http://arxiv.org/abs/2412.15438)|**[link](https://github.com/vahidzee/ennelut)**|
