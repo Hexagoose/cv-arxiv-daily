@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
+|**2024-12-24**|**LatentCRF: Continuous CRF for Efficient Latent Diffusion**|Kanchana Ranasinghe et.al.|[2412.18596](http://arxiv.org/abs/2412.18596)|null|
+|**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
+|**2024-12-24**|**Relativistic Lévy processes**|Lucas G. B. de Souza et.al.|[2412.18581](http://arxiv.org/abs/2412.18581)|null|
+|**2024-12-24**|**A mathematical framework for modelling CLMM dynamics in continuous time**|Shen-Ning Tung et.al.|[2412.18580](http://arxiv.org/abs/2412.18580)|null|
+|**2024-12-24**|**3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement**|Yihang Luo et.al.|[2412.18565](http://arxiv.org/abs/2412.18565)|null|
+|**2024-12-24**|**On the fractional approach to quadratic nonlinear parabolic systems**|Oscar Jarrin et.al.|[2412.18473](http://arxiv.org/abs/2412.18473)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
 |**2024-12-23**|**Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders**|Rui Chen et.al.|[2412.17808](http://arxiv.org/abs/2412.17808)|null|
 |**2024-12-23**|**Encoding off-shell effects in top pair production in Direct Diffusion networks**|Mathias Kuschick et.al.|[2412.17783](http://arxiv.org/abs/2412.17783)|null|
@@ -2195,6 +2205,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
 |**2024-12-23**|**A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions**|Youliang Zhang et.al.|[2412.17377](http://arxiv.org/abs/2412.17377)|null|
 |**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210](http://arxiv.org/abs/2412.17210)|**[link](https://github.com/guijiejie/dcmd-main)**|
 |**2024-12-22**|**InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions**|Ronghui Li et.al.|[2412.16982](http://arxiv.org/abs/2412.16982)|null|
@@ -2203,7 +2214,7 @@
 |**2024-12-21**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988](http://arxiv.org/abs/2412.14988)|null|
 |**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
 |**2024-12-19**|**DirectorLLM for Human-Centric Video Generation**|Kunpeng Song et.al.|[2412.14484](http://arxiv.org/abs/2412.14484)|null|
-|**2024-12-18**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
+|**2024-12-23**|**THÖR-MAGNI Act: Actions for Human Motion Modeling in Robot-Shared Industrial Spaces**|Tiago Rodrigues de Almeida et.al.|[2412.13729](http://arxiv.org/abs/2412.13729)|**[link](https://github.com/tmralmeida/thor-magni-actions)**|
 |**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
 |**2024-12-17**|**Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation**|Huaijin Pi et.al.|[2412.13111](http://arxiv.org/abs/2412.13111)|null|
 |**2024-12-15**|**Challenges and Opportunities Associated with Technology Driven Biomechanical Simulations**|Zartasha Mustansar et.al.|[2412.12209](http://arxiv.org/abs/2412.12209)|null|
@@ -2535,6 +2546,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models**|Qice Qin et.al.|[2412.18421](http://arxiv.org/abs/2412.18421)|null|
+|**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
+|**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
+|**2024-12-24**|**TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization**|Yucong Luo et.al.|[2412.18185](http://arxiv.org/abs/2412.18185)|null|
+|**2024-12-24**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|null|
+|**2024-12-24**|**Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction**|Xiao Guo et.al.|[2412.18149](http://arxiv.org/abs/2412.18149)|null|
+|**2024-12-24**|**Ensuring Consistency for In-Image Translation**|Chengpeng Fu et.al.|[2412.18139](http://arxiv.org/abs/2412.18139)|null|
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
 |**2024-12-23**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610](http://arxiv.org/abs/2412.17610)|null|
 |**2024-12-23**|**Discriminative Image Generation with Diffusion Models for Zero-Shot Learning**|Dingjie Fu et.al.|[2412.17219](http://arxiv.org/abs/2412.17219)|null|
@@ -4213,6 +4231,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
+|**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
+|**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
 |**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805](http://arxiv.org/abs/2412.17805)|null|
 |**2024-12-23**|**VidTwin: Video VAE with Decoupled Structure and Dynamics**|Yuchi Wang et.al.|[2412.17726](http://arxiv.org/abs/2412.17726)|**[link](https://github.com/microsoft/vidtok)**|
 |**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
