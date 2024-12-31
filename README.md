@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
+|**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184](http://arxiv.org/abs/2412.21184)|null|
+|**2024-12-30**|**Perfect stationary solutions of reaction-diffusion equations on lattices and regular graphs**|Vladimír Švígler et.al.|[2412.21168](http://arxiv.org/abs/2412.21168)|null|
+|**2024-12-30**|**Systematic Benchmarking of Macrosegregation: The Performance of a Modified Hybrid Model**|Ali Moeinirad et.al.|[2412.21143](http://arxiv.org/abs/2412.21143)|null|
+|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
+|**2024-12-30**|**Positional information trade-offs in boundary-driven reaction-diffusion systems**|Jonas Berx et.al.|[2412.21113](http://arxiv.org/abs/2412.21113)|null|
+|**2024-12-30**|**Lyapunov-Based Deep Neural Networks for Adaptive Control of Stochastic Nonlinear Systems**|Saiedeh Akbari et.al.|[2412.21095](http://arxiv.org/abs/2412.21095)|null|
+|**2024-12-30**|**Co-diffusion of hydrogen and oxygen for dense oxyhydride synthesis**|Masaya Fujioka et.al.|[2412.21086](http://arxiv.org/abs/2412.21086)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|null|
+|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
 |**2024-12-27**|**Periodically and aperiodically Thue-Morse driven long-range systems: from dynamical localization to slow dynamics**|Vatsana Tiwari et.al.|[2412.19736](http://arxiv.org/abs/2412.19736)|null|
 |**2024-12-27**|**A coupled mathematical and numerical model for protein spreading and tissue atrophy, applied to Alzheimer's disease**|Valentina Pederzoli et.al.|[2412.19661](http://arxiv.org/abs/2412.19661)|null|
 |**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
@@ -2215,6 +2225,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|null|
+|**2024-12-29**|**Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems**|Yunyue Wei et.al.|[2412.20350](http://arxiv.org/abs/2412.20350)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-25**|**Simultaneously Recovering Multi-Person Meshes and Multi-View Cameras with Human Semantics**|Buzhen Huang et.al.|[2412.18785](http://arxiv.org/abs/2412.18785)|**[link](https://github.com/boycehbz/DMMR)**|
 |**2024-12-25**|**Skeleton-based Action Recognition with Non-linear Dependency Modeling and Hilbert-Schmidt Independence Criterion**|Yuheng Yang et.al.|[2412.18780](http://arxiv.org/abs/2412.18780)|**[link](https://github.com/ActionR-G/ActionHSIC)**|
@@ -2559,6 +2571,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|null|
+|**2024-12-30**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
+|**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|null|
+|**2024-12-30**|**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control**|Shaojin Wu et.al.|[2412.20800](http://arxiv.org/abs/2412.20800)|**[link](https://github.com/fenfenfenfan/VMix)**|
+|**2024-12-30**|**HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images**|Sungik Choi et.al.|[2412.20704](http://arxiv.org/abs/2412.20704)|null|
+|**2024-12-30**|**Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis**|Yousef Yeganeh et.al.|[2412.20651](http://arxiv.org/abs/2412.20651)|null|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|null|
+|**2024-12-29**|**Diff4MMLiTS: Advanced Multimodal Liver Tumor Segmentation via Diffusion-Based Image Synthesis and Alignment**|Shiyun Chen et.al.|[2412.20418](http://arxiv.org/abs/2412.20418)|null|
+|**2024-12-29**|**Open-Sora: Democratizing Efficient Video Production for All**|Zangwei Zheng et.al.|[2412.20404](http://arxiv.org/abs/2412.20404)|**[link](https://github.com/hpcaitech/open-sora)**|
 |**2024-12-27**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**|Junjie Hu et.al.|[2412.19533](http://arxiv.org/abs/2412.19533)|null|
 |**2024-12-27**|**Focusing Image Generation to Mitigate Spurious Correlations**|Xuewei Li et.al.|[2412.19457](http://arxiv.org/abs/2412.19457)|null|
 |**2024-12-25**|**UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation**|Lunhao Duan et.al.|[2412.18928](http://arxiv.org/abs/2412.18928)|null|
@@ -4254,10 +4276,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model**|Yifei Huang et.al.|[2412.21080](http://arxiv.org/abs/2412.21080)|**[link](https://github.com/opengvlab/vinci)**|
+|**2024-12-30**|**VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation**|Jiazheng Xu et.al.|[2412.21059](http://arxiv.org/abs/2412.21059)|**[link](https://github.com/thudm/visionreward)**|
+|**2024-12-30**|**ILDiff: Generate Transparent Animated Stickers by Implicit Layout Distillation**|Ting Zhang et.al.|[2412.20901](http://arxiv.org/abs/2412.20901)|null|
+|**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725](http://arxiv.org/abs/2412.20725)|null|
+|**2024-12-29**|**Open-Sora: Democratizing Efficient Video Production for All**|Zangwei Zheng et.al.|[2412.20404](http://arxiv.org/abs/2412.20404)|**[link](https://github.com/hpcaitech/open-sora)**|
+|**2024-12-28**|**MAKIMA: Tuning-free Multi-Attribute Open-domain Video Editing via Mask-Guided Attention Modulation**|Haoyu Zheng et.al.|[2412.19978](http://arxiv.org/abs/2412.19978)|null|
 |**2024-12-27**|**Generative Video Propagation**|Shaoteng Liu et.al.|[2412.19761](http://arxiv.org/abs/2412.19761)|null|
-|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
-|**2024-12-27**|**DrivingWorld: ConstructingWorld Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505](http://arxiv.org/abs/2412.19505)|**[link](https://github.com/yvanyin/drivingworld)**|
-|**2024-12-27**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458](http://arxiv.org/abs/2412.19458)|null|
+|**2024-12-30**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-30**|**DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505](http://arxiv.org/abs/2412.19505)|**[link](https://github.com/yvanyin/drivingworld)**|
+|**2024-12-30**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458](http://arxiv.org/abs/2412.19458)|null|
 |**2024-12-25**|**Accelerating Diffusion Transformers with Dual Feature Caching**|Chang Zou et.al.|[2412.18911](http://arxiv.org/abs/2412.18911)|**[link](https://github.com/shenyi-z/duca)**|
 |**2024-12-24**|**Video Is Worth a Thousand Images: Exploring the Latest Trends in Long Video Generation**|Faraz Waseem et.al.|[2412.18688](http://arxiv.org/abs/2412.18688)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
