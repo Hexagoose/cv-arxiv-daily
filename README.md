@@ -95,7 +95,7 @@
 |**2024-12-16**|**Wonderland: Navigating 3D Scenes from a Single Image**|Hanwen Liang et.al.|[2412.12091](http://arxiv.org/abs/2412.12091)|null|
 |**2024-12-16**|**IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations**|Zhibing Li et.al.|[2412.12083](http://arxiv.org/abs/2412.12083)|null|
 |**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
-|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032](http://arxiv.org/abs/2412.12032)|null|
+|**2024-12-16**|**FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning**|Gaojian Wang et.al.|[2412.12032](http://arxiv.org/abs/2412.12032)|**[link](https://github.com/wolo-wolo/FSFM)**|
 |**2024-12-16**|**The entropic optimal (self-)transport problem: Limit distributions for decreasing regularization with application to score function estimation**|Gilles Mordant et.al.|[2412.12007](http://arxiv.org/abs/2412.12007)|null|
 |**2024-12-16**|**Controllable Shadow Generation with Single-Step Diffusion Models from Synthetic Data**|Onur Tasar et.al.|[2412.11972](http://arxiv.org/abs/2412.11972)|null|
 |**2024-12-16**|**Multiplexing in Networks and Diffusion**|Arun G. Chandrasekhar et.al.|[2412.11957](http://arxiv.org/abs/2412.11957)|null|
@@ -2905,7 +2905,7 @@
 |**2024-10-28**|**Murine AI excels at cats and cheese: Structural differences between human and mouse neurons and their implementation in generative AIs**|Rino Saiga et.al.|[2410.20735](http://arxiv.org/abs/2410.20735)|null|
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723](http://arxiv.org/abs/2410.20723)|null|
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
-|**2024-10-27**|**GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**|Phillip Y. Lee et.al.|[2410.20474](http://arxiv.org/abs/2410.20474)|null|
+|**2024-10-27**|**GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**|Phillip Y. Lee et.al.|[2410.20474](http://arxiv.org/abs/2410.20474)|**[link](https://github.com/KAIST-Visual-AI-Group/GrounDiT)**|
 |**2024-10-26**|**Classification under strategic adversary manipulation using pessimistic bilevel optimisation**|David Benfield et.al.|[2410.20284](http://arxiv.org/abs/2410.20284)|null|
 |**2024-10-25**|**Unified Cross-Modal Image Synthesis with Hierarchical Mixture of Product-of-Experts**|Reuben Dorent et.al.|[2410.19378](http://arxiv.org/abs/2410.19378)|**[link](https://github.com/reubendo/mhvae)**|
 |**2024-10-25**|**High Resolution Seismic Waveform Generation using Denoising Diffusion**|Andreas Bergmeister et.al.|[2410.19343](http://arxiv.org/abs/2410.19343)|null|
