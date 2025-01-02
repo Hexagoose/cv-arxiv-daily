@@ -39,7 +39,7 @@
 |**2024-12-27**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**|Junjie Hu et.al.|[2412.19533](http://arxiv.org/abs/2412.19533)|null|
 |**2024-12-27**|**Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations**|Yuanfei Huang et.al.|[2412.19520](http://arxiv.org/abs/2412.19520)|null|
 |**2024-12-27**|**Dynamical phase transitions in certain non-ergodic stochastic processes**|Yogeesh Reddy Yerrababu et.al.|[2412.19516](http://arxiv.org/abs/2412.19516)|null|
-|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|null|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|**[link](https://github.com/acrobot-buaa/robotdiffuse)**|
 |**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
@@ -2592,7 +2592,7 @@
 |**2024-12-24**|**1.58-bit FLUX**|Chenglin Yang et.al.|[2412.18653](http://arxiv.org/abs/2412.18653)|null|
 |**2024-12-24**|**Dissecting CLIP: Decomposition with a Schur Complement-based Approach**|Azim Ospanov et.al.|[2412.18645](http://arxiv.org/abs/2412.18645)|**[link](https://github.com/aziksh-ospanov/clip-dissection)**|
 |**2024-12-24**|**Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models**|Qice Qin et.al.|[2412.18421](http://arxiv.org/abs/2412.18421)|null|
-|**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
+|**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|**[link](https://github.com/naver-ai/clip4dm)**|
 |**2024-12-24**|**RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction**|Wu Xiaoping et.al.|[2412.18390](http://arxiv.org/abs/2412.18390)|null|
 |**2024-12-24**|**TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization**|Yucong Luo et.al.|[2412.18185](http://arxiv.org/abs/2412.18185)|null|
 |**2024-12-24**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|null|
