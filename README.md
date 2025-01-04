@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2219,13 +2219,13 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|null|
+|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|**[link](https://github.com/human-sensor-placement/human-sensor-placement.github.io)**|
 |**2024-12-29**|**Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems**|Yunyue Wei et.al.|[2412.20350](http://arxiv.org/abs/2412.20350)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-25**|**Simultaneously Recovering Multi-Person Meshes and Multi-View Cameras with Human Semantics**|Buzhen Huang et.al.|[2412.18785](http://arxiv.org/abs/2412.18785)|**[link](https://github.com/boycehbz/DMMR)**|
@@ -2565,7 +2565,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 ## Image Generation
 
@@ -4270,7 +4270,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 ## Video Generation
 
@@ -4955,7 +4955,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2217,7 +2217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|null|
+|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159](http://arxiv.org/abs/2412.21159)|**[link](https://github.com/human-sensor-placement/human-sensor-placement.github.io)**|
 |**2024-12-29**|**Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems**|Yunyue Wei et.al.|[2412.20350](http://arxiv.org/abs/2412.20350)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-25**|**Simultaneously Recovering Multi-Person Meshes and Multi-View Cameras with Human Semantics**|Buzhen Huang et.al.|[2412.18785](http://arxiv.org/abs/2412.18785)|**[link](https://github.com/boycehbz/DMMR)**|
