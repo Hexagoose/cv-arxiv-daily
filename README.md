@@ -28,7 +28,7 @@
 |**2025-01-02**|**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration**|Jianyi Wang et.al.|[2501.01320](http://arxiv.org/abs/2501.01320)|null|
 |**2025-01-02**|**Cutoff for non-negatively curved diffusions**|Justin Salez et.al.|[2501.01304](http://arxiv.org/abs/2501.01304)|null|
 |**2025-01-02**|**Self-diffusive dynamics of active Brownian particles at moderate densities**|Rodrigo Soto et.al.|[2501.01251](http://arxiv.org/abs/2501.01251)|null|
-|**2025-01-02**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235](http://arxiv.org/abs/2501.01235)|null|
+|**2025-01-02**|**SVFR: A Unified Framework for Generalized Video Face Restoration**|Zhiyao Wang et.al.|[2501.01235](http://arxiv.org/abs/2501.01235)|**[link](https://github.com/wangzhiyaoo/svfr)**|
 |**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188](http://arxiv.org/abs/2412.21188)|null|
 |**2024-12-30**|**Downscaling of non van der Waals Semimetallic W5N6 with Resistivity Preservation**|Hongze Gao et.al.|[2412.21184](http://arxiv.org/abs/2412.21184)|null|
