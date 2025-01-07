@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**MinD the gap: Membrane proteins form 3D patterns in a suspension of liposomes**|Amélie Chardac et.al.|[2501.03179](http://arxiv.org/abs/2501.03179)|null|
+|**2025-01-06**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[2501.03173](http://arxiv.org/abs/2501.03173)|null|
+|**2025-01-06**|**Synthetic accessibility and sodium ion conductivity of the Na $_{8-x}$A$^{x}$P$_2$O$_9$ (NAP) high-temperature sodium superionic conductor framework**|Lauren N. Walters et.al.|[2501.03165](http://arxiv.org/abs/2501.03165)|null|
+|**2025-01-06**|**Large deviations of density in the non-equilibrium steady state of boundary-driven diffusive systems**|Soumyabrata Saha et.al.|[2501.03164](http://arxiv.org/abs/2501.03164)|null|
+|**2025-01-06**|**Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning**|Muyun Li et.al.|[2501.03162](http://arxiv.org/abs/2501.03162)|null|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
+|**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120](http://arxiv.org/abs/2501.03120)|null|
+|**2025-01-06**|**Propagation of chaos for multi-species moderately interacting particle systems up to Newtonian singularity**|José Antonio Carrillo et.al.|[2501.03087](http://arxiv.org/abs/2501.03087)|null|
+|**2025-01-06**|**Shock and SEP Modeling Study for the 5 September 2022 SEP Event**|A. Kouloumvakos et.al.|[2501.03066](http://arxiv.org/abs/2501.03066)|null|
+|**2025-01-06**|**DDRM-PR: Fourier Phase Retrieval using Denoising Diffusion Restoration Models**|Mehmet Onurcan Kaya et.al.|[2501.03030](http://arxiv.org/abs/2501.03030)|**[link](https://github.com/metu-space-lab/ddrm-pr)**|
 |**2025-01-03**|**Bridging Classification and Segmentation in Osteosarcoma Assessment via Foundation and Discrete Diffusion Models**|Manh Duong Nguyen et.al.|[2501.01932](http://arxiv.org/abs/2501.01932)|null|
 |**2025-01-03**|**Lyman-alpha resonant-line radiative transfer in expanding media**|Aaron Smith et.al.|[2501.01928](http://arxiv.org/abs/2501.01928)|null|
 |**2025-01-03**|**Stochastic Thermodynamics of the Two-Dimensional Model of Transistors**|Jiayin Gu et.al.|[2501.01919](http://arxiv.org/abs/2501.01919)|null|
@@ -2237,6 +2247,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-04**|**Joint Optimization for 4D Human-Scene Reconstruction in the Wild**|Zhizheng Liu et.al.|[2501.02158](http://arxiv.org/abs/2501.02158)|null|
 |**2025-01-03**|**TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**|Jiajie Liu et.al.|[2501.01770](http://arxiv.org/abs/2501.01770)|null|
 |**2024-12-30**|**LS-GAN: Human Motion Synthesis with Latent-space GANs**|Avinash Amballa et.al.|[2501.01449](http://arxiv.org/abs/2501.01449)|null|
 |**2024-12-31**|**Spatio-Temporal Multi-Subgraph GCN for 3D Human Motion Prediction**|Jiexin Wang et.al.|[2501.00317](http://arxiv.org/abs/2501.00317)|null|
@@ -2585,6 +2596,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
+|**2025-01-05**|**Vision-Driven Prompt Optimization for Large Language Models in Multimodal Generative Tasks**|Leo Franklin et.al.|[2501.02527](http://arxiv.org/abs/2501.02527)|null|
+|**2025-01-05**|**Face-MakeUp: Multimodal Facial Prompts for Text-to-Image Generation**|Dawei Dai et.al.|[2501.02523](http://arxiv.org/abs/2501.02523)|**[link](https://github.com/ddw2aigroup2cqupt/face-makeup)**|
+|**2025-01-05**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|
+|**2025-01-05**|**MedSegDiffNCA: Diffusion Models With Neural Cellular Automata for Skin Lesion Segmentation**|Avni Mittal et.al.|[2501.02447](http://arxiv.org/abs/2501.02447)|null|
+|**2025-01-04**|**Generating Multimodal Images with GAN: Integrating Text, Image, and Style**|Chaoyi Tan et.al.|[2501.02167](http://arxiv.org/abs/2501.02167)|null|
+|**2025-01-04**|**Plasma-CycleGAN: Plasma Biomarker-Guided MRI to PET Cross-modality Translation Using Conditional CycleGAN**|Yanxi Chen et.al.|[2501.02146](http://arxiv.org/abs/2501.02146)|null|
 |**2025-01-03**|**Controlling your Attributes in Voice**|Xuyuan Li et.al.|[2501.01674](http://arxiv.org/abs/2501.01674)|null|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
@@ -4299,8 +4317,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation**|Guy Yariv et.al.|[2501.03059](http://arxiv.org/abs/2501.03059)|null|
+|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|null|
+|**2025-01-06**|**Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**|Yunlong Yuan et.al.|[2501.02741](http://arxiv.org/abs/2501.02741)|null|
+|**2025-01-05**|**GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking**|Weikang Bian et.al.|[2501.02690](http://arxiv.org/abs/2501.02690)|null|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
 |**2025-01-03**|**JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**|Qili Wang et.al.|[2501.01798](http://arxiv.org/abs/2501.01798)|**[link](https://github.com/JOY-MM/JoyGen)**|
-|**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427](http://arxiv.org/abs/2501.01427)|null|
+|**2025-01-06**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427](http://arxiv.org/abs/2501.01427)|null|
 |**2025-01-03**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425](http://arxiv.org/abs/2501.01425)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-01**|**Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform**|Cheonsu Jeong et.al.|[2501.00750](http://arxiv.org/abs/2501.00750)|null|
