@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
+|**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445](http://arxiv.org/abs/2501.05445)|null|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
+|**2025-01-09**|**The GAN is dead; long live the GAN! A Modern GAN Baseline**|Yiwen Huang et.al.|[2501.05441](http://arxiv.org/abs/2501.05441)|null|
+|**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
+|**2025-01-09**|**Nebular emission from composite star-forming galaxies -- I. A novel modelling approach**|Christophe Morisset et.al.|[2501.05424](http://arxiv.org/abs/2501.05424)|null|
+|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
+|**2025-01-09**|**Self-propulsion and self-rotation of an inertial chiral active Ornstein-Uhlenbeck particle**|F Sahala et.al.|[2501.05390](http://arxiv.org/abs/2501.05390)|null|
+|**2025-01-09**|**Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**|Eric Grelet et.al.|[2501.05372](http://arxiv.org/abs/2501.05372)|null|
+|**2025-01-09**|**Harvesting primordial black holes from stochastic trees with $\texttt{FOREST}$**|Chiara Animali et.al.|[2501.05371](http://arxiv.org/abs/2501.05371)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
 |**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693](http://arxiv.org/abs/2501.04693)|null|
@@ -2267,7 +2277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-08**|**MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data**|Zifan Wang et.al.|[2501.04595](http://arxiv.org/abs/2501.04595)|null|
+|**2025-01-09**|**Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset**|Yuhong Zhang et.al.|[2501.05098](http://arxiv.org/abs/2501.05098)|null|
+|**2025-01-09**|**MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data**|Zifan Wang et.al.|[2501.04595](http://arxiv.org/abs/2501.04595)|null|
 |**2025-01-07**|**Learning to Transfer Human Hand Skills for Robot Manipulations**|Sungjae Park et.al.|[2501.04169](http://arxiv.org/abs/2501.04169)|null|
 |**2025-01-07**|**Extraction Of Cumulative Blobs From Dynamic Gestures**|Rishabh Naulakha et.al.|[2501.04002](http://arxiv.org/abs/2501.04002)|null|
 |**2025-01-04**|**Joint Optimization for 4D Human-Scene Reconstruction in the Wild**|Zhizheng Liu et.al.|[2501.02158](http://arxiv.org/abs/2501.02158)|null|
@@ -2619,6 +2630,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445](http://arxiv.org/abs/2501.05445)|null|
+|**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
+|**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359](http://arxiv.org/abs/2501.05359)|null|
+|**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
+|**2025-01-09**|**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering**|Dewei Zhou et.al.|[2501.05131](http://arxiv.org/abs/2501.05131)|null|
+|**2025-01-08**|**LayerMix: Enhanced Data Augmentation through Fractal Integration for Robust Deep Learning**|Hafiz Mughees Ahmad et.al.|[2501.04861](http://arxiv.org/abs/2501.04861)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**On Computational Limits and Provably Efficient Criteria of Visual Autoregressive Models: A Fine-Grained Complexity Analysis**|Yekun Ke et.al.|[2501.04377](http://arxiv.org/abs/2501.04377)|null|
 |**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325](http://arxiv.org/abs/2501.04325)|null|
@@ -4352,12 +4370,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
+|**2025-01-09**|**Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**|Yingjie Chen et.al.|[2501.05020](http://arxiv.org/abs/2501.05020)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
 |**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606](http://arxiv.org/abs/2501.04606)|null|
 |**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325](http://arxiv.org/abs/2501.04325)|null|
 |**2025-01-08**|**LipGen: Viseme-Guided Lip Video Generation for Enhancing Visual Speech Recognition**|Bowen Hao et.al.|[2501.04204](http://arxiv.org/abs/2501.04204)|null|
 |**2025-01-07**|**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers**|Yuechen Zhang et.al.|[2501.03931](http://arxiv.org/abs/2501.03931)|**[link](https://github.com/dvlab-research/magicmirror)**|
-|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847](http://arxiv.org/abs/2501.03847)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
+|**2025-01-09**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847](http://arxiv.org/abs/2501.03847)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
 |**2025-01-07**|**Motion-Aware Generative Frame Interpolation**|Guozhen Zhang et.al.|[2501.03699](http://arxiv.org/abs/2501.03699)|null|
 |**2025-01-06**|**License Plate Images Generation with Diffusion Models**|Mariia Shpir et.al.|[2501.03374](http://arxiv.org/abs/2501.03374)|null|
 |**2025-01-06**|**Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation**|Guy Yariv et.al.|[2501.03059](http://arxiv.org/abs/2501.03059)|null|
