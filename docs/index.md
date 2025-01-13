@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187](http://arxiv.org/abs/2501.06187)|null|
+|**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
+|**2025-01-10**|**From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148](http://arxiv.org/abs/2501.06148)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
+|**2025-01-10**|**Uniform local well-posedness and liviscid limit for the KdV-Burgers equation on $\mathbb{T}$**|Xintong Li et.al.|[2501.06147](http://arxiv.org/abs/2501.06147)|null|
+|**2025-01-10**|**Molecular Communication-Inspired Particle Collector-Transmitter (PaCoT) for Heavy Metal Removal from Human Circulatory System**|Hilal Esra Yaldiz et.al.|[2501.06092](http://arxiv.org/abs/2501.06092)|null|
+|**2025-01-10**|**Simulation and modelling of convective mixing of carbon dioxide in geological formations**|Marco De Paoli et.al.|[2501.06090](http://arxiv.org/abs/2501.06090)|null|
+|**2025-01-10**|**Variation of the low-mass end of the stellar initial mass function with redshift and metallicity**|Matthew R. Bate et.al.|[2501.06082](http://arxiv.org/abs/2501.06082)|null|
+|**2025-01-10**|**Quantum Avalanches in $\mathbb{Z}_2$ -preserving Interacting Ising Majorana Chain**|Lv Zhang et.al.|[2501.06064](http://arxiv.org/abs/2501.06064)|null|
+|**2025-01-10**|**Overcoming the surface paradox: Buried perovskite quantum dots in wide-bandgap perovskite thin films**|Hao Zhang et.al.|[2501.06061](http://arxiv.org/abs/2501.06061)|null|
+|**2025-01-10**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035](http://arxiv.org/abs/2501.06035)|null|
 |**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
 |**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445](http://arxiv.org/abs/2501.05445)|null|
 |**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
@@ -2277,6 +2287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction**|Cecilia Curreli et.al.|[2501.06035](http://arxiv.org/abs/2501.06035)|null|
 |**2025-01-09**|**Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset**|Yuhong Zhang et.al.|[2501.05098](http://arxiv.org/abs/2501.05098)|null|
 |**2025-01-09**|**MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data**|Zifan Wang et.al.|[2501.04595](http://arxiv.org/abs/2501.04595)|null|
 |**2025-01-07**|**Learning to Transfer Human Hand Skills for Robot Manipulations**|Sungjae Park et.al.|[2501.04169](http://arxiv.org/abs/2501.04169)|null|
@@ -2630,6 +2641,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Poetry in Pixels: Prompt Tuning for Poem Image Generation via Diffusion Models**|Sofia Jamil et.al.|[2501.05839](http://arxiv.org/abs/2501.05839)|**[link](https://github.com/sofeeyaj/poetry-in-pixels-coling2025)**|
+|**2025-01-10**|**EmotiCrafter: Text-to-Emotional-Image Generation based on Valence-Arousal Model**|Yi He et.al.|[2501.05710](http://arxiv.org/abs/2501.05710)|null|
+|**2025-01-09**|**Bit-depth color recovery via off-the-shelf super-resolution models**|Xuanshuo Fu et.al.|[2501.05611](http://arxiv.org/abs/2501.05611)|null|
 |**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445](http://arxiv.org/abs/2501.05445)|null|
 |**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
 |**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
@@ -4370,6 +4384,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187](http://arxiv.org/abs/2501.06187)|null|
+|**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
+|**2025-01-10**|**Text-to-Edit: Controllable End-to-End Video Ad Creation via Multimodal LLMs**|Dabing Cheng et.al.|[2501.05884](http://arxiv.org/abs/2501.05884)|null|
+|**2025-01-08**|**Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion**|Yongjia Ma et.al.|[2501.05484](http://arxiv.org/abs/2501.05484)|null|
 |**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
 |**2025-01-09**|**Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**|Yingjie Chen et.al.|[2501.05020](http://arxiv.org/abs/2501.05020)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
