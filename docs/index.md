@@ -4534,7 +4534,7 @@ layout: default
 |**2024-12-02**|**InfinityDrive: Breaking Time Limits in Driving World Models**|Xi Guo et.al.|[2412.01522](http://arxiv.org/abs/2412.01522)|null|
 |**2024-12-02**|**CPA: Camera-pose-awareness Diffusion Transformer for Video Generation**|Yuelei Wang et.al.|[2412.01429](http://arxiv.org/abs/2412.01429)|null|
 |**2024-12-02**|**MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models**|Xiaomin Li et.al.|[2412.01343](http://arxiv.org/abs/2412.01343)|null|
-|**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|null|
+|**2024-11-29**|**Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis**|Tianqi Li et.al.|[2411.19509](http://arxiv.org/abs/2411.19509)|**[link](https://github.com/antgroup/ditto-talkinghead)**|
 |**2024-11-29**|**Fleximo: Towards Flexible Text-to-Human Motion Video Generation**|Yuhang Zhang et.al.|[2411.19459](http://arxiv.org/abs/2411.19459)|null|
 |**2024-11-28**|**Trajectory Attention for Fine-grained Video Motion Control**|Zeqi Xiao et.al.|[2411.19324](http://arxiv.org/abs/2411.19324)|null|
 |**2024-11-28**|**MSG score: A Comprehensive Evaluation for Multi-Scene Video Generation**|Daewon Yoon et.al.|[2411.19121](http://arxiv.org/abs/2411.19121)|null|
