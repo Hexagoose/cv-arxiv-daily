@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2704,7 +2704,7 @@ layout: default
 |**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/abs/2501.09503)|null|
 |**2025-01-17**|**Mining the time axis with TRON. I. Millisecond pulsars in Omega Centauri, Terzan 5 and 47 Tucanae detected through MeerKAT interferometric imaging**|Oleg M. Smirnov et.al.|[2501.09488](http://arxiv.org/abs/2501.09488)|null|
 |**2025-01-16**|**Dynamic Neural Style Transfer for Artistic Image Generation using VGG19**|Kapil Kashyap et.al.|[2501.09420](http://arxiv.org/abs/2501.09420)|null|
-|**2025-01-16**|**SVIA: A Street View Image Anonymization Framework for Self-Driving Applications**|Dongyu Liu et.al.|[2501.09393](http://arxiv.org/abs/2501.09393)|null|
+|**2025-01-16**|**SVIA: A Street View Image Anonymization Framework for Self-Driving Applications**|Dongyu Liu et.al.|[2501.09393](http://arxiv.org/abs/2501.09393)|**[link](https://github.com/viola-siemens/general-image-anonymization)**|
 |**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
 |**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284](http://arxiv.org/abs/2501.09284)|null|
 |**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194](http://arxiv.org/abs/2501.09194)|null|

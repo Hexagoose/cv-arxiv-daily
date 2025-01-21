@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2339,7 +2339,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 ## Motion
 
@@ -2699,7 +2699,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 ## Image Generation
 
@@ -2714,7 +2714,7 @@
 |**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/abs/2501.09503)|null|
 |**2025-01-17**|**Mining the time axis with TRON. I. Millisecond pulsars in Omega Centauri, Terzan 5 and 47 Tucanae detected through MeerKAT interferometric imaging**|Oleg M. Smirnov et.al.|[2501.09488](http://arxiv.org/abs/2501.09488)|null|
 |**2025-01-16**|**Dynamic Neural Style Transfer for Artistic Image Generation using VGG19**|Kapil Kashyap et.al.|[2501.09420](http://arxiv.org/abs/2501.09420)|null|
-|**2025-01-16**|**SVIA: A Street View Image Anonymization Framework for Self-Driving Applications**|Dongyu Liu et.al.|[2501.09393](http://arxiv.org/abs/2501.09393)|null|
+|**2025-01-16**|**SVIA: A Street View Image Anonymization Framework for Self-Driving Applications**|Dongyu Liu et.al.|[2501.09393](http://arxiv.org/abs/2501.09393)|**[link](https://github.com/viola-siemens/general-image-anonymization)**|
 |**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
 |**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284](http://arxiv.org/abs/2501.09284)|null|
 |**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194](http://arxiv.org/abs/2501.09194)|null|
@@ -4482,7 +4482,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 ## Video Generation
 
@@ -5214,7 +5214,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
