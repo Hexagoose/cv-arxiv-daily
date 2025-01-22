@@ -2425,7 +2425,7 @@
 |**2024-11-25**|**Multi-Resolution Generative Modeling of Human Motion from Limited Data**|David Eduardo Moreno-Villamarín et.al.|[2411.16498](http://arxiv.org/abs/2411.16498)|null|
 |**2024-11-25**|**Performance Benchmarking of Psychomotor Skills Using Wearable Devices: An Application in Sport**|Mahela Pandukabhaya et.al.|[2411.16168](http://arxiv.org/abs/2411.16168)|null|
 |**2024-11-23**|**KinMo: Kinematic-aware Human Motion Understanding and Generation**|Pengfei Zhang et.al.|[2411.15472](http://arxiv.org/abs/2411.15472)|null|
-|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
+|**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|**[link](https://github.com/nokia-bell-labs/pretrained-imu-encoders)**|
 |**2024-11-22**|**Morph: A Motion-free Physics Optimization Framework for Human Motion Generation**|Zhuo Li et.al.|[2411.14951](http://arxiv.org/abs/2411.14951)|null|
 |**2024-11-19**|**VioPose: Violin Performance 4D Pose Estimation by Hierarchical Audiovisual Inference**|Seong Jong Yoo et.al.|[2411.13607](http://arxiv.org/abs/2411.13607)|**[link](https://github.com/SeongJong-Yoo/VioPose)**|
 |**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
@@ -3641,7 +3641,7 @@
 |**2024-07-19**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188](http://arxiv.org/abs/2407.13188)|null|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139](http://arxiv.org/abs/2407.13139)|null|
 |**2024-07-19**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
-|**2024-07-17**|**Denoising Diffusions in Latent Space for Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2407.12952](http://arxiv.org/abs/2407.12952)|null|
+|**2024-07-17**|**Denoising Diffusions in Latent Space for Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2407.12952](http://arxiv.org/abs/2407.12952)|**[link](https://github.com/fahimzaman/ldseg)**|
 |**2024-07-17**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
 |**2024-07-17**|**Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**|Yiqing Shen et.al.|[2407.12678](http://arxiv.org/abs/2407.12678)|**[link](https://github.com/arcadelab/counterfactual_diffusion)**|
 |**2024-07-17**|**Zero-shot Text-guided Infinite Image Synthesis with LLM guidance**|Soyeong Kwon et.al.|[2407.12642](http://arxiv.org/abs/2407.12642)|null|
@@ -4657,7 +4657,7 @@
 |**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280](http://arxiv.org/abs/2412.05280)|**[link](https://github.com/wzzheng/stag)**|
 |**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263](http://arxiv.org/abs/2412.05263)|null|
 |**2024-12-06**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
-|**2024-12-06**|**UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**|Rui Chen et.al.|[2412.04842](http://arxiv.org/abs/2412.04842)|null|
+|**2024-12-06**|**UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**|Rui Chen et.al.|[2412.04842](http://arxiv.org/abs/2412.04842)|**[link](https://github.com/sensetime-fvg/opendwm)**|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 |**2024-12-05**|**PaintScene4D: Consistent 4D Scene Generation from Text Prompts**|Vinayak Gupta et.al.|[2412.04471](http://arxiv.org/abs/2412.04471)|null|
 |**2024-12-05**|**Four-Plane Factorized Video Autoencoders**|Mohammed Suhail et.al.|[2412.04452](http://arxiv.org/abs/2412.04452)|null|
@@ -4854,7 +4854,7 @@
 |**2024-09-17**|**OSV: One Step is Enough for High-Quality Image to Video Generation**|Xiaofeng Mao et.al.|[2409.11367](http://arxiv.org/abs/2409.11367)|null|
 |**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-16**|**Embodiment-Agnostic Action Planning via Object-Part Scene Flow**|Weiliang Tang et.al.|[2409.10032](http://arxiv.org/abs/2409.10032)|null|
-|**2024-09-15**|**EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models**|Yupeng Chen et.al.|[2409.09668](http://arxiv.org/abs/2409.09668)|null|
+|**2024-09-15**|**EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models**|Yupeng Chen et.al.|[2409.09668](http://arxiv.org/abs/2409.09668)|**[link](https://github.com/samchen2003/editboard)**|
 |**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
 |**2024-09-11**|**DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**|Steven Hogue et.al.|[2409.07649](http://arxiv.org/abs/2409.07649)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
