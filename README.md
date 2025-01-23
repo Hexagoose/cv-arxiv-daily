@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
+|**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
+|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
+|**2025-01-22**|**A new cutoff criterion for non-negatively curved chains**|Francesco Pedrotti et.al.|[2501.13079](http://arxiv.org/abs/2501.13079)|null|
+|**2025-01-22**|**Robust Body Composition Analysis by Generating 3D CT Volumes from Limited 2D Slices**|Lianrui Zuo et.al.|[2501.13071](http://arxiv.org/abs/2501.13071)|null|
+|**2025-01-22**|**Beyond the Lungs: Extending the Field of View in Chest CT with Latent Diffusion Models**|Lianrui Zuo et.al.|[2501.13068](http://arxiv.org/abs/2501.13068)|null|
+|**2025-01-22**|**Probing the Quantum Nature of Gravity through Diffusion**|Oliviero Angeli et.al.|[2501.13030](http://arxiv.org/abs/2501.13030)|null|
+|**2025-01-22**|**eROSITA X-ray Analysis of the PeVatron Candidate Westerlund 1**|Konstantin Haubner et.al.|[2501.12990](http://arxiv.org/abs/2501.12990)|null|
+|**2025-01-22**|**Low-dimensional adaptation of diffusion models: Convergence in total variation**|Jiadong Liang et.al.|[2501.12982](http://arxiv.org/abs/2501.12982)|null|
+|**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
 |**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
@@ -2716,7 +2726,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
+|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
+|**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
+|**2025-01-22**|**PreciseCam: Precise Camera Control for Text-to-Image Generation**|Edurne Bernal-Berdun et.al.|[2501.12910](http://arxiv.org/abs/2501.12910)|null|
+|**2025-01-22**|**T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation**|Lijun Li et.al.|[2501.12612](http://arxiv.org/abs/2501.12612)|null|
+|**2025-01-21**|**Bidirectional Brain Image Translation using Transfer Learning from Generic Pre-trained Models**|Fatima Haimour et.al.|[2501.12488](http://arxiv.org/abs/2501.12488)|null|
+|**2025-01-21**|**Owls are wise and foxes are unfaithful: Uncovering animal stereotypes in vision-language models**|Tabinda Aman et.al.|[2501.12433](http://arxiv.org/abs/2501.12433)|null|
+|**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
 |**2025-01-21**|**Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists**|Thomas F. Eisenmann et.al.|[2501.12374](http://arxiv.org/abs/2501.12374)|**[link](https://github.com/andreskarjus/genaiexperiment)**|
 |**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
@@ -4510,7 +4527,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-21**|**Taming Teacher Forcing for Masked Autoregressive Video Generation**|Deyu Zhou et.al.|[2501.12389](http://arxiv.org/abs/2501.12389)|null|
-|**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
+|**2025-01-22**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
 |**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
 |**2025-01-20**|**GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video**|Zhenliang Ni et.al.|[2501.11340](http://arxiv.org/abs/2501.11340)|null|
 |**2025-01-20**|**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation**|Zheng Chong et.al.|[2501.11325](http://arxiv.org/abs/2501.11325)|null|
