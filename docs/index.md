@@ -414,7 +414,7 @@ layout: default
 |**2024-11-22**|**HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**|Yu Xu et.al.|[2411.15034](http://arxiv.org/abs/2411.15034)|null|
 |**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028](http://arxiv.org/abs/2411.15028)|null|
 |**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
-|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|**[link](https://github.com/snap-research/stable-flow)**|
 |**2024-11-21**|**Low-Field Regime of Magnon Transport in Yttrium Iron Garnet**|Hossein Taghinejad et.al.|[2411.14428](http://arxiv.org/abs/2411.14428)|null|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
@@ -3089,7 +3089,7 @@ layout: default
 |**2024-11-22**|**High-Resolution Image Synthesis via Next-Token Prediction**|Dengsheng Chen et.al.|[2411.14808](http://arxiv.org/abs/2411.14808)|null|
 |**2024-11-22**|**Reconciling Semantic Controllability and Diversity for Remote Sensing Image Synthesis with Hybrid Semantic Embedding**|Junde Liu et.al.|[2411.14781](http://arxiv.org/abs/2411.14781)|null|
 |**2024-11-22**|**FairAdapter: Detecting AI-generated Images with Improved Fairness**|Feng Ding et.al.|[2411.14755](http://arxiv.org/abs/2411.14755)|**[link](https://github.com/appledogdog/fairnessdetection)**|
-|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|**[link](https://github.com/snap-research/stable-flow)**|
 |**2024-11-21**|**Guided MRI Reconstruction via Schrödinger Bridge**|Yue Wang et.al.|[2411.14269](http://arxiv.org/abs/2411.14269)|null|
 |**2024-11-21**|**ComfyGI: Automatic Improvement of Image Generation Workflows**|Dominik Sobania et.al.|[2411.14193](http://arxiv.org/abs/2411.14193)|null|
 |**2024-11-21**|**MMGenBench: Evaluating the Limits of LMMs from the Text-to-Image Generation Perspective**|Hailang Huang et.al.|[2411.14062](http://arxiv.org/abs/2411.14062)|**[link](https://github.com/lerogo/mmgenbench)**|
