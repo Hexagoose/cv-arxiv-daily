@@ -2456,7 +2456,7 @@
 |**2024-12-23**|**A Plug-and-Play Physical Motion Restoration Approach for In-the-Wild High-Difficulty Motions**|Youliang Zhang et.al.|[2412.17377](http://arxiv.org/abs/2412.17377)|null|
 |**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210](http://arxiv.org/abs/2412.17210)|**[link](https://github.com/guijiejie/dcmd-main)**|
 |**2024-12-22**|**InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions**|Ronghui Li et.al.|[2412.16982](http://arxiv.org/abs/2412.16982)|null|
-|**2024-12-20**|**Robustness-enhanced Myoelectric Control with GAN-based Open-set Recognition**|Cheng Wang et.al.|[2412.15819](http://arxiv.org/abs/2412.15819)|null|
+|**2024-12-20**|**Robustness-enhanced Myoelectric Control with GAN-based Open-set Recognition**|Cheng Wang et.al.|[2412.15819](http://arxiv.org/abs/2412.15819)|**[link](https://github.com/cwdao/paper_code_robustness_enhanced_myoelectric_control)**|
 |**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664](http://arxiv.org/abs/2412.15664)|null|
 |**2024-12-21**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988](http://arxiv.org/abs/2412.14988)|null|
 |**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
@@ -4208,7 +4208,7 @@
 |**2024-04-18**|**Alleviating Catastrophic Forgetting in Facial Expression Recognition with Emotion-Centered Models**|Israel A. Laurensi et.al.|[2404.12260](http://arxiv.org/abs/2404.12260)|null|
 |**2024-04-18**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|**[link](https://github.com/modelscope/scepter)**|
 |**2024-04-18**|**First 2D electron density measurements using Coherence Imaging Spectroscopy in the MAST-U Super-X divertor**|N. Lonigro et.al.|[2404.12021](http://arxiv.org/abs/2404.12021)|null|
-|**2024-04-18**|**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**|Chao Zhou et.al.|[2404.11962](http://arxiv.org/abs/2404.11962)|null|
+|**2024-04-18**|**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**|Chao Zhou et.al.|[2404.11962](http://arxiv.org/abs/2404.11962)|**[link](https://github.com/zc1023/-plug-in-authorization)**|
 |**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
 |**2024-04-18**|**EdgeFusion: On-Device Text-to-Image Generation**|Thibault Castells et.al.|[2404.11925](http://arxiv.org/abs/2404.11925)|null|
 |**2024-04-18**|**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models**|Wei Wu et.al.|[2404.11895](http://arxiv.org/abs/2404.11895)|**[link](https://github.com/thermal-dynamics/freediff)**|
