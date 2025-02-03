@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373](http://arxiv.org/abs/2501.19373)|null|
+|**2025-01-31**|**CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation**|Javier Solís-García et.al.|[2501.19364](http://arxiv.org/abs/2501.19364)|**[link](https://github.com/javiersgjavi/costi)**|
+|**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338](http://arxiv.org/abs/2501.19338)|null|
+|**2025-01-31**|**Consistent Video Colorization via Palette Guidance**|Han Wang et.al.|[2501.19331](http://arxiv.org/abs/2501.19331)|null|
+|**2025-01-31**|**Medical Semantic Segmentation with Diffusion Pretrain**|David Li et.al.|[2501.19265](http://arxiv.org/abs/2501.19265)|null|
+|**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
+|**2025-01-31**|**Accelerating Diffusion Transformer via Error-Optimized Cache**|Junxiang Qiu et.al.|[2501.19243](http://arxiv.org/abs/2501.19243)|null|
+|**2025-01-31**|**PSyDUCK: Training-Free Steganography for Latent Diffusion**|Georgia Channing et.al.|[2501.19172](http://arxiv.org/abs/2501.19172)|null|
+|**2025-01-31**|**RMDM: Radio Map Diffusion Model with Physics Informed**|Haozhe Jia et.al.|[2501.19160](http://arxiv.org/abs/2501.19160)|null|
+|**2025-01-31**|**Effective theory for stochastic particle acceleration, with application to magnetized turbulence**|M. Lemoine et.al.|[2501.19136](http://arxiv.org/abs/2501.19136)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593](http://arxiv.org/abs/2501.18593)|null|
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
 |**2025-01-30**|**Aggregation-Confinement-Diffusion Evolutions with Saturation: Regularity and Long-Time Asymptotics**|Yousef Alamri et.al.|[2501.18571](http://arxiv.org/abs/2501.18571)|null|
@@ -2417,6 +2427,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model**|Lei Jiang et.al.|[2501.19083](http://arxiv.org/abs/2501.19083)|null|
+|**2025-01-30**|**Motion Diffusion Autoencoders: Enabling Attribute Manipulation in Human Motion Demonstrated on Karate Techniques**|Anthony Mendil et.al.|[2501.18729](http://arxiv.org/abs/2501.18729)|**[link](https://github.com/anthony-mendil/modiffae)**|
+|**2025-01-30**|**Strong and Controllable 3D Motion Generation**|Canxuan Gang et.al.|[2501.18726](http://arxiv.org/abs/2501.18726)|null|
 |**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/udc-sit)**|
 |**2025-01-30**|**Learning Priors of Human Motion With Vision Transformers**|Placido Falqueto et.al.|[2501.18543](http://arxiv.org/abs/2501.18543)|null|
 |**2025-01-28**|**FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation**|Arvin Tashakori et.al.|[2501.16778](http://arxiv.org/abs/2501.16778)|null|
@@ -2783,6 +2796,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data**|Xichen Xu et.al.|[2501.19094](http://arxiv.org/abs/2501.19094)|null|
+|**2025-01-31**|**Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations**|Dahye Kim et.al.|[2501.19066](http://arxiv.org/abs/2501.19066)|**[link](https://github.com/kim-dahye/steerers)**|
+|**2025-01-31**|**BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics**|Yuxuan Liu et.al.|[2501.18972](http://arxiv.org/abs/2501.18972)|null|
+|**2025-01-31**|**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**|Jaesin Ahn et.al.|[2501.18877](http://arxiv.org/abs/2501.18877)|**[link](https://github.com/aei13/des)**|
+|**2025-01-31**|**REG: Rectified Gradient Guidance for Conditional Diffusion Models**|Zhengqi Gao et.al.|[2501.18865](http://arxiv.org/abs/2501.18865)|null|
+|**2025-01-30**|**High-Accuracy ECG Image Interpretation using Parameter-Efficient LoRA Fine-Tuning with Multimodal LLaMA 3.2**|Nandakishor M et.al.|[2501.18670](http://arxiv.org/abs/2501.18670)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593](http://arxiv.org/abs/2501.18593)|null|
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
 |**2025-01-30**|**SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer**|Enze Xie et.al.|[2501.18427](http://arxiv.org/abs/2501.18427)|null|
@@ -4620,6 +4639,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
+|**2025-01-30**|**Every Image Listens, Every Image Dances: Music-Driven Image Animation**|Zhikang Dong et.al.|[2501.18801](http://arxiv.org/abs/2501.18801)|null|
 |**2025-01-28**|**CascadeV: An Implementation of Wurstchen Architecture for Video Generation**|Wenfeng Lin et.al.|[2501.16612](http://arxiv.org/abs/2501.16612)|**[link](https://github.com/bytedance/cascadev)**|
 |**2025-01-26**|**"See What I Imagine, Imagine What I See": Human-AI Co-Creation System for 360 $^\circ$ Panoramic Video Generation in VR**|Yunge Wen et.al.|[2501.15456](http://arxiv.org/abs/2501.15456)|null|
 |**2025-01-24**|**VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking**|Runyi Hu et.al.|[2501.14195](http://arxiv.org/abs/2501.14195)|**[link](https://github.com/hurunyi/videoshield)**|
