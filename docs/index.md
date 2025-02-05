@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**|Kyungmin Lee et.al.|[2502.02588](http://arxiv.org/abs/2502.02588)|null|
+|**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
+|**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|null|
+|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525](http://arxiv.org/abs/2502.02525)|null|
+|**2025-02-04**|**Privacy Attacks on Image AutoRegressive Models**|Antoni Kowalczuk et.al.|[2502.02514](http://arxiv.org/abs/2502.02514)|null|
+|**2025-02-04**|**Generative Modeling on Lie Groups via Euclidean Generalized Score Matching**|Marco Bertolini et.al.|[2502.02513](http://arxiv.org/abs/2502.02513)|null|
+|**2025-02-04**|**Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**|Xiyuan Wang et.al.|[2502.02488](http://arxiv.org/abs/2502.02488)|null|
+|**2025-02-04**|**Distributional Diffusion Models with Scoring Rules**|Valentin De Bortoli et.al.|[2502.02483](http://arxiv.org/abs/2502.02483)|null|
+|**2025-02-04**|**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography**|Emir Ahmed et.al.|[2502.02475](http://arxiv.org/abs/2502.02475)|null|
+|**2025-02-04**|**Multiple front and pulse solutions in spatially periodic systems**|Lukas Bengel et.al.|[2502.02467](http://arxiv.org/abs/2502.02467)|null|
 |**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373](http://arxiv.org/abs/2501.19373)|null|
 |**2025-01-31**|**CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation**|Javier Solís-García et.al.|[2501.19364](http://arxiv.org/abs/2501.19364)|**[link](https://github.com/javiersgjavi/costi)**|
 |**2025-01-31**|**Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates**|Misha P. T Kaandorp et.al.|[2501.19338](http://arxiv.org/abs/2501.19338)|null|
@@ -2427,6 +2437,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358](http://arxiv.org/abs/2502.02358)|null|
+|**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
+|**2025-02-03**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|null|
+|**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
 |**2025-01-31**|**MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model**|Lei Jiang et.al.|[2501.19083](http://arxiv.org/abs/2501.19083)|null|
 |**2025-01-30**|**Motion Diffusion Autoencoders: Enabling Attribute Manipulation in Human Motion Demonstrated on Karate Techniques**|Anthony Mendil et.al.|[2501.18729](http://arxiv.org/abs/2501.18729)|**[link](https://github.com/anthony-mendil/modiffae)**|
 |**2025-01-30**|**Strong and Controllable 3D Motion Generation**|Canxuan Gang et.al.|[2501.18726](http://arxiv.org/abs/2501.18726)|null|
@@ -2796,6 +2810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|null|
+|**2025-02-04**|**Towards Consistent and Controllable Image Synthesis for Face Editing**|Mengting Wei et.al.|[2502.02465](http://arxiv.org/abs/2502.02465)|null|
+|**2025-02-04**|**Exploring the latent space of diffusion models directly through singular value decomposition**|Li Wang et.al.|[2502.02225](http://arxiv.org/abs/2502.02225)|null|
+|**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|null|
+|**2025-02-04**|**Layer Separation: Adjustable Joint Space Width Images Synthesis in Conventional Radiography**|Haolin Wang et.al.|[2502.01972](http://arxiv.org/abs/2502.01972)|null|
+|**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842](http://arxiv.org/abs/2502.01842)|null|
+|**2025-02-03**|**Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**|Kang Yang et.al.|[2502.01826](http://arxiv.org/abs/2502.01826)|null|
+|**2025-02-03**|**MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation**|Yiren Song et.al.|[2502.01572](http://arxiv.org/abs/2502.01572)|null|
+|**2025-02-03**|**BD-Diff: Generative Diffusion Model for Image Deblurring on Unknown Domains with Blur-Decoupled Learning**|Junhao Cheng et.al.|[2502.01522](http://arxiv.org/abs/2502.01522)|null|
+|**2025-02-03**|**End-to-end Training for Text-to-Image Synthesis using Dual-Text Embeddings**|Yeruru Asrar Ahmed et.al.|[2502.01507](http://arxiv.org/abs/2502.01507)|null|
 |**2025-01-31**|**Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data**|Xichen Xu et.al.|[2501.19094](http://arxiv.org/abs/2501.19094)|null|
 |**2025-01-31**|**Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations**|Dahye Kim et.al.|[2501.19066](http://arxiv.org/abs/2501.19066)|**[link](https://github.com/kim-dahye/steerers)**|
 |**2025-01-31**|**BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics**|Yuxuan Liu et.al.|[2501.18972](http://arxiv.org/abs/2501.18972)|null|
@@ -4639,6 +4663,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492](http://arxiv.org/abs/2502.02492)|null|
+|**2025-02-04**|**EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues**|Rohit Girmaji et.al.|[2502.02172](http://arxiv.org/abs/2502.02172)|null|
+|**2025-02-04**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088](http://arxiv.org/abs/2502.02088)|null|
+|**2025-02-03**|**VILP: Imitation Learning with Latent Video Planning**|Zhengtong Xu et.al.|[2502.01784](http://arxiv.org/abs/2502.01784)|null|
+|**2025-02-03**|**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**|Haocheng Xi et.al.|[2502.01776](http://arxiv.org/abs/2502.01776)|null|
+|**2025-02-03**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
+|**2025-02-03**|**Improved Training Technique for Latent Consistency Models**|Quan Dao et.al.|[2502.01441](http://arxiv.org/abs/2502.01441)|null|
+|**2025-02-03**|**VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control**|Lifan Jiang et.al.|[2502.01101](http://arxiv.org/abs/2502.01101)|null|
+|**2025-02-03**|**OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models**|Gaojie Lin et.al.|[2502.01061](http://arxiv.org/abs/2502.01061)|null|
+|**2025-02-03**|**Pushing the Boundaries of State Space Models for Image and Video Generation**|Yicong Hong et.al.|[2502.00972](http://arxiv.org/abs/2502.00972)|null|
 |**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
 |**2025-01-30**|**Every Image Listens, Every Image Dances: Music-Driven Image Animation**|Zhikang Dong et.al.|[2501.18801](http://arxiv.org/abs/2501.18801)|null|
 |**2025-01-28**|**CascadeV: An Implementation of Wurstchen Architecture for Video Generation**|Wenfeng Lin et.al.|[2501.16612](http://arxiv.org/abs/2501.16612)|**[link](https://github.com/bytedance/cascadev)**|
