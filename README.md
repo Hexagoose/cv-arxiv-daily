@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
+|**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308](http://arxiv.org/abs/2502.04308)|null|
+|**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
+|**2025-02-06**|**Statistical guarantees for continuous-time policy evaluation: blessing of ellipticity and new tradeoffs**|Wenlong Mou et.al.|[2502.04297](http://arxiv.org/abs/2502.04297)|null|
+|**2025-02-06**|**Josephson coupling in Lanthanum-based cuprates superlattices**|Halima Giovanna Ahmad et.al.|[2502.04231](http://arxiv.org/abs/2502.04231)|null|
+|**2025-02-06**|**Recovering sparse DFT from missing signals via interior point method on GPU**|Wei Kuang et.al.|[2502.04217](http://arxiv.org/abs/2502.04217)|null|
+|**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158](http://arxiv.org/abs/2502.04158)|null|
+|**2025-02-06**|**Numerical moment stabilization of central difference approximations for linear stationary reaction-convection-diffusion equations with applications to stationary Hamilton-Jacobi equations**|T. Lewis et.al.|[2502.04142](http://arxiv.org/abs/2502.04142)|null|
+|**2025-02-06**|**Discontinuous transition in 2D Potts: I. Order-Disorder Interface convergence**|Moritz Dober et.al.|[2502.04129](http://arxiv.org/abs/2502.04129)|null|
+|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444](http://arxiv.org/abs/2502.03444)|null|
 |**2025-02-05**|**Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization**|Yu-Han Wu et.al.|[2502.03435](http://arxiv.org/abs/2502.03435)|null|
@@ -2458,7 +2468,7 @@
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936](http://arxiv.org/abs/2502.02936)|null|
 |**2025-02-05**|**A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions**|Hao Yin et.al.|[2502.02817](http://arxiv.org/abs/2502.02817)|null|
-|**2025-02-05**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358](http://arxiv.org/abs/2502.02358)|null|
+|**2025-02-06**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358](http://arxiv.org/abs/2502.02358)|null|
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
 |**2025-02-03**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|null|
 |**2025-02-02**|**Cross-Modal Synergies: Unveiling the Potential of Motion-Aware Fusion Networks in Handling Dynamic and Static ReID Scenarios**|Fuxi Ling et.al.|[2502.00665](http://arxiv.org/abs/2502.00665)|null|
@@ -2833,6 +2843,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308](http://arxiv.org/abs/2502.04308)|null|
+|**2025-02-06**|**Realistic Image-to-Image Machine Unlearning via Decoupling and Knowledge Retention**|Ayush K. Varshney et.al.|[2502.04260](http://arxiv.org/abs/2502.04260)|null|
+|**2025-02-06**|**Multi-fidelity emulator for large-scale 21 cm lightcone images: a few-shot transfer learning approach with generative adversarial network**|Kangning Diao et.al.|[2502.04246](http://arxiv.org/abs/2502.04246)|null|
+|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
+|**2025-02-06**|**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**|Aleksandar Cvejic et.al.|[2502.04050](http://arxiv.org/abs/2502.04050)|null|
+|**2025-02-06**|**FairT2I: Mitigating Social Bias in Text-to-Image Generation via Large Language Model-Assisted Detection and Attribute Rebalancing**|Jinya Sakurai et.al.|[2502.03826](http://arxiv.org/abs/2502.03826)|null|
+|**2025-02-06**|**DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models**|Lingshun Kong et.al.|[2502.03810](http://arxiv.org/abs/2502.03810)|null|
+|**2025-02-06**|**DICE: Distilling Classifier-Free Guidance into Text Embeddings**|Zhenyu Zhou et.al.|[2502.03726](http://arxiv.org/abs/2502.03726)|null|
+|**2025-02-06**|**Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free**|Gian Mario Favero et.al.|[2502.03687](http://arxiv.org/abs/2502.03687)|null|
+|**2025-02-05**|**REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations**|Peter Sushko et.al.|[2502.03629](http://arxiv.org/abs/2502.03629)|null|
 |**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444](http://arxiv.org/abs/2502.03444)|null|
 |**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
 |**2025-02-05**|**TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer**|Zhihong Xu et.al.|[2502.03426](http://arxiv.org/abs/2502.03426)|null|
@@ -4695,6 +4715,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
+|**2025-02-06**|**Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression**|Lirui Wang et.al.|[2502.04296](http://arxiv.org/abs/2502.04296)|null|
+|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
+|**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
+|**2025-02-06**|**UniForm: A Unified Diffusion Transformer for Audio-Video Generation**|Lei Zhao et.al.|[2502.03897](http://arxiv.org/abs/2502.03897)|null|
+|**2025-02-05**|**Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach**|Yunuo Chen et.al.|[2502.03639](http://arxiv.org/abs/2502.03639)|null|
+|**2025-02-05**|**FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise**|Yunlong Yuan et.al.|[2502.03496](http://arxiv.org/abs/2502.03496)|null|
 |**2025-02-05**|**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent**|Xinyao Liao et.al.|[2502.03207](http://arxiv.org/abs/2502.03207)|null|
 |**2025-02-04**|**Controllable Video Generation with Provable Disentanglement**|Yifan Shen et.al.|[2502.02690](http://arxiv.org/abs/2502.02690)|null|
 |**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492](http://arxiv.org/abs/2502.02492)|null|
