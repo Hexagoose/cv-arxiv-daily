@@ -713,7 +713,7 @@ layout: default
 |**2024-10-24**|**Diffusion of impurities in a moderately dense confined granular gas**|Rubén Gómez González et.al.|[2410.18874](http://arxiv.org/abs/2410.18874)|null|
 |**2024-10-24**|**On the mean-field limit of diffusive games through the master equation: extreme value analysis**|Erhan Bayraktar et.al.|[2410.18869](http://arxiv.org/abs/2410.18869)|null|
 |**2024-10-24**|**The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**|Linda Laurier et.al.|[2410.18866](http://arxiv.org/abs/2410.18866)|null|
-|**2024-10-24**|**A diffusion MRI model for random walks confined on cylindrical surfaces: Towards non-invasive quantification of myelin sheath radius**|Erick J Canales-Rodríguez et.al.|[2410.18842](http://arxiv.org/abs/2410.18842)|null|
+|**2024-10-24**|**A diffusion MRI model for random walks confined on cylindrical surfaces: Towards non-invasive quantification of myelin sheath radius**|Erick J Canales-Rodríguez et.al.|[2410.18842](http://arxiv.org/abs/2410.18842)|**[link](https://github.com/ejcanalesr/myelin-water-diffusion-models)**|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**Training Free Guided Flow Matching with Optimal Control**|Luran Wang et.al.|[2410.18070](http://arxiv.org/abs/2410.18070)|null|
@@ -2809,7 +2809,7 @@ layout: default
 |**2024-03-30**|**Egocentric Scene-aware Human Trajectory Prediction**|Weizhuo Wang et.al.|[2403.19026](http://arxiv.org/abs/2403.19026)|null|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936](http://arxiv.org/abs/2403.17936)|null|
-|**2024-03-30**|**MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors**|He Zhang et.al.|[2403.17610](http://arxiv.org/abs/2403.17610)|null|
+|**2024-03-30**|**MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors**|He Zhang et.al.|[2403.17610](http://arxiv.org/abs/2403.17610)|**[link](https://github.com/wjrzm/VP-MoCap)**|
 |**2024-03-28**|**Gaze-guided Hand-Object Interaction Synthesis: Benchmark and Method**|Jie Tian et.al.|[2403.16169](http://arxiv.org/abs/2403.16169)|null|
 |**2024-03-26**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/abs/2403.16080)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-23**|**Human Motion Prediction under Unexpected Perturbation**|Jiangbei Yue et.al.|[2403.15891](http://arxiv.org/abs/2403.15891)|null|
