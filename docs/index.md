@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2893,7 +2893,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611](http://arxiv.org/abs/2502.09611)|null|
 |**2025-02-13**|**EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling**|Theodoros Kouzelis et.al.|[2502.09509](http://arxiv.org/abs/2502.09509)|null|
-|**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|null|
+|**2025-02-13**|**Redistribute Ensemble Training for Mitigating Memorization in Diffusion Models**|Xiaoliu Guan et.al.|[2502.09434](http://arxiv.org/abs/2502.09434)|**[link](https://github.com/liuxiao-guan/iet_agc)**|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-13**|**When the LM misunderstood the human chuckled: Analyzing garden path effects in humans and language models**|Samuel Joseph Amouyal et.al.|[2502.09307](http://arxiv.org/abs/2502.09307)|null|
 |**2025-02-13**|**Sequential Covariance Fitting for InSAR Phase Linking**|Dana El Hajjar et.al.|[2502.09248](http://arxiv.org/abs/2502.09248)|null|
@@ -4816,7 +4816,7 @@ layout: default
 |**2025-02-12**|**Next Block Prediction: Video Generation via Semi-Autoregressive Modeling**|Shuhuai Ren et.al.|[2502.07737](http://arxiv.org/abs/2502.07737)|null|
 |**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|**[link](https://github.com/da-group-pku/magic-1-for-1)**|
 |**2025-02-12**|**VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation**|Sixiao Zheng et.al.|[2502.07531](http://arxiv.org/abs/2502.07531)|null|
-|**2025-02-13**|**Enhance-A-Video: Better Generated Video for Free**|Yang Luo et.al.|[2502.07508](http://arxiv.org/abs/2502.07508)|null|
+|**2025-02-13**|**Enhance-A-Video: Better Generated Video for Free**|Yang Luo et.al.|[2502.07508](http://arxiv.org/abs/2502.07508)|**[link](https://github.com/NUS-HPC-AI-Lab/Enhance-A-Video)**|
 |**2025-02-11**|**Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**|Haowen Gao et.al.|[2502.07327](http://arxiv.org/abs/2502.07327)|null|
 |**2025-02-11**|**Articulate That Object Part (ATOP): 3D Part Articulation from Text and Motion Personalization**|Aditya Vora et.al.|[2502.07278](http://arxiv.org/abs/2502.07278)|null|
 |**2025-02-11**|**Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation**|Pinxin Liu et.al.|[2502.07239](http://arxiv.org/abs/2502.07239)|null|
