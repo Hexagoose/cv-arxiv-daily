@@ -31,7 +31,7 @@ layout: default
 |**2025-02-20**|**DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models**|Hongji Yang et.al.|[2502.14779](http://arxiv.org/abs/2502.14779)|null|
 |**2025-02-20**|**Making Universal Policies Universal**|Niklas Höpner et.al.|[2502.14777](http://arxiv.org/abs/2502.14777)|null|
 |**2025-02-20**|**Asymptotic behavior of solutions of a time-space fractional diffusive Volterra equation**|Sofwah Ahmad et.al.|[2502.14725](http://arxiv.org/abs/2502.14725)|null|
-|**2025-02-20**|**MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**|Robert Graf et.al.|[2502.14659](http://arxiv.org/abs/2502.14659)|null|
+|**2025-02-20**|**MAGO-SP: Detection and Correction of Water-Fat Swaps in Magnitude-Only VIBE MRI**|Robert Graf et.al.|[2502.14659](http://arxiv.org/abs/2502.14659)|**[link](https://github.com/robert-graf/mago-sp)**|
 |**2025-02-20**|**ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation**|Angxiao Yue et.al.|[2502.14637](http://arxiv.org/abs/2502.14637)|**[link](https://github.com/AngxiaoYue/ReQFlow)**|
 |**2025-02-20**|**Random walks with homotopic spatial inhomogeneities**|Ignacio S Gomez et.al.|[2502.14590](http://arxiv.org/abs/2502.14590)|null|
 |**2025-02-19**|**IP-Composer: Semantic Composition of Visual Concepts**|Sara Dorfman et.al.|[2502.13951](http://arxiv.org/abs/2502.13951)|null|
@@ -2968,8 +2968,8 @@ layout: default
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
 |**2025-02-20**|**DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models**|Hongji Yang et.al.|[2502.14779](http://arxiv.org/abs/2502.14779)|null|
 |**2025-02-20**|**AIdeation: Designing a Human-AI Collaborative Ideation System for Concept Designers**|Wen-Fan Wang et.al.|[2502.14747](http://arxiv.org/abs/2502.14747)|null|
-|**2025-02-20**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|null|
-|**2025-02-20**|**Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation**|Jiayu Yang et.al.|[2502.14247](http://arxiv.org/abs/2502.14247)|null|
+|**2025-02-20**|**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data**|Shijie Huang et.al.|[2502.14397](http://arxiv.org/abs/2502.14397)|**[link](https://github.com/showlab/PhotoDoodle)**|
+|**2025-02-20**|**Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation**|Jiayu Yang et.al.|[2502.14247](http://arxiv.org/abs/2502.14247)|**[link](https://github.com/tencent/tencent-xr-3dgen)**|
 |**2025-02-19**|**d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining**|Prasun Roy et.al.|[2502.14007](http://arxiv.org/abs/2502.14007)|**[link](https://github.com/prasunroy/dsketch)**|
 |**2025-02-19**|**DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation**|Ye Wang et.al.|[2502.13999](http://arxiv.org/abs/2502.13999)|null|
 |**2025-02-19**|**FlexTok: Resampling Images into 1D Token Sequences of Flexible Length**|Roman Bachmann et.al.|[2502.13967](http://arxiv.org/abs/2502.13967)|null|
@@ -3030,7 +3030,7 @@ layout: default
 |**2025-02-10**|**Universal Approximation of Visual Autoregressive Transformers**|Yifang Chen et.al.|[2502.06167](http://arxiv.org/abs/2502.06167)|null|
 |**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130](http://arxiv.org/abs/2502.06130)|null|
 |**2025-02-09**|**Online Reward-Weighted Fine-Tuning of Flow Matching with Wasserstein Regularization**|Jiajun Fan et.al.|[2502.06061](http://arxiv.org/abs/2502.06061)|null|
-|**2025-02-09**|**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**|Vera Soboleva et.al.|[2502.05895](http://arxiv.org/abs/2502.05895)|null|
+|**2025-02-09**|**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**|Vera Soboleva et.al.|[2502.05895](http://arxiv.org/abs/2502.05895)|**[link](https://github.com/controlgenai/persongensampler)**|
 |**2025-02-09**|**Understanding Design Fixation in Generative AI**|Liuqing Chen et.al.|[2502.05870](http://arxiv.org/abs/2502.05870)|null|
 |**2025-02-09**|**Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling**|Xiao Li et.al.|[2502.05743](http://arxiv.org/abs/2502.05743)|null|
 |**2025-02-08**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](http://arxiv.org/abs/2502.05713)|null|
