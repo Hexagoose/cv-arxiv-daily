@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
+|**2025-02-27**|**Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation**|Zhi Cen et.al.|[2502.20370](http://arxiv.org/abs/2502.20370)|null|
+|**2025-02-27**|**ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**|Xuangeng Chu et.al.|[2502.20323](http://arxiv.org/abs/2502.20323)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313](http://arxiv.org/abs/2502.20313)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**DGFM: Full Body Dance Generation Driven by Music Foundation Models**|Xinran Liu et.al.|[2502.20176](http://arxiv.org/abs/2502.20176)|null|
 |**2025-02-26**|**Measurements of extreme first passage times in photon transport**|Aileen N. Carroll-Godfrey et.al.|[2502.19359](http://arxiv.org/abs/2502.19359)|null|
 |**2025-02-26**|**Time-Reversal Mirror inside a granular suspension: a way of measuring the ultrasound diffusion coefficient**|Y. Abraham et.al.|[2502.19304](http://arxiv.org/abs/2502.19304)|null|
 |**2025-02-26**|**General diffusions on the star graph as time-changed Walsh Brownian motion**|Alexis Anagnostakis et.al.|[2502.19299](http://arxiv.org/abs/2502.19299)|null|
@@ -2601,7 +2611,7 @@ layout: default
 |**2025-02-26**|**Fatigue-PINN: Physics-Informed Fatigue-Driven Motion Modulation and Synthesis**|Iliana Loi et.al.|[2502.19056](http://arxiv.org/abs/2502.19056)|null|
 |**2025-02-26**|**Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation**|Patrick Seifner et.al.|[2502.19049](http://arxiv.org/abs/2502.19049)|null|
 |**2025-02-25**|**EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**|Dominik Hollidt et.al.|[2502.18373](http://arxiv.org/abs/2502.18373)|null|
-|**2025-02-25**|**ChatMotion: A Multimodal Multi-Agent for Human Motion Analysis**|Li Lei et.al.|[2502.18180](http://arxiv.org/abs/2502.18180)|null|
+|**2025-02-27**|**ChatMotion: A Multimodal Multi-Agent for Human Motion Analysis**|Lei Li et.al.|[2502.18180](http://arxiv.org/abs/2502.18180)|null|
 |**2025-02-25**|**Impact of Object Weight in Handovers: Inspiring Robotic Grip Release and Motion from Human Handovers**|Parag Khanna et.al.|[2502.17834](http://arxiv.org/abs/2502.17834)|null|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
 |**2025-02-24**|**HVIS: A Human-like Vision and Inference System for Human Motion Prediction**|Kedi Lyu et.al.|[2502.16913](http://arxiv.org/abs/2502.16913)|null|
@@ -2999,6 +3009,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313](http://arxiv.org/abs/2502.20313)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|null|
+|**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126](http://arxiv.org/abs/2502.20126)|null|
+|**2025-02-27**|**New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration**|Xuzheng Yang et.al.|[2502.20104](http://arxiv.org/abs/2502.20104)|null|
+|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
+|**2025-02-27**|**Analyzing CLIP's Performance Limitations in Multi-Object Scenarios: A Controlled High-Resolution Study**|Reza Abbasi et.al.|[2502.19828](http://arxiv.org/abs/2502.19828)|null|
+|**2025-02-27**|**MFSR: Multi-fractal Feature for Super-resolution Reconstruction with Fine Details Recovery**|Lianping Yang et.al.|[2502.19797](http://arxiv.org/abs/2502.19797)|null|
+|**2025-02-27**|**The erasure of intensive livestock farming in text-to-image generative AI**|Kehan Sheng et.al.|[2502.19771](http://arxiv.org/abs/2502.19771)|null|
 |**2025-02-26**|**Multi-modal Contrastive Learning for Tumor-specific Missing Modality Synthesis**|Minjoo Lim et.al.|[2502.19390](http://arxiv.org/abs/2502.19390)|null|
 |**2025-02-26**|**Reimagining Personal Data: Unlocking the Potential of AI-Generated Images in Personal Data Meaning-Making**|Soobin Park et.al.|[2502.18853](http://arxiv.org/abs/2502.18853)|null|
 |**2025-02-26**|**Optimal Stochastic Trace Estimation in Generative Modeling**|Xinyang Liu et.al.|[2502.18808](http://arxiv.org/abs/2502.18808)|null|
@@ -4975,6 +4995,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute**|Sotiris Anagnostidis et.al.|[2502.20126](http://arxiv.org/abs/2502.20126)|null|
+|**2025-02-27**|**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation**|Yuhao Li et.al.|[2502.19868](http://arxiv.org/abs/2502.19868)|null|
+|**2025-02-26**|**FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**|Lingzhou Mu et.al.|[2502.19455](http://arxiv.org/abs/2502.19455)|null|
+|**2025-02-26**|**TransVDM: Motion-Constrained Video Diffusion Model for Transparent Video Synthesis**|Menghao Li et.al.|[2502.19454](http://arxiv.org/abs/2502.19454)|null|
 |**2025-02-25**|**SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**|Jintao Zhang et.al.|[2502.18137](http://arxiv.org/abs/2502.18137)|**[link](https://github.com/thu-ml/spargeattn)**|
 |**2025-02-25**|**ASurvey: Spatiotemporal Consistency in Video Generation**|Zhiyu Yin et.al.|[2502.17863](http://arxiv.org/abs/2502.17863)|null|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
