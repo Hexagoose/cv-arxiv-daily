@@ -45,7 +45,7 @@ layout: default
 |**2025-02-24**|**Integrating protein sequence embeddings with structure via graph-based deep learning for the prediction of single-residue properties**|Kevin Michalewicz et.al.|[2502.17294](http://arxiv.org/abs/2502.17294)|null|
 |**2025-02-24**|**Exponential mixing by random cellular flows**|Víctor Navarro-Fernández et.al.|[2502.17273](http://arxiv.org/abs/2502.17273)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
-|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643](http://arxiv.org/abs/2502.15643)|null|
+|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643](http://arxiv.org/abs/2502.15643)|**[link](https://github.com/lukagrbcic/AutoTandemML)**|
 |**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640](http://arxiv.org/abs/2502.15640)|null|
 |**2025-02-21**|**Infinite-dimensional diffusions and depletion interaction for a model of colloids**|Myriam Fradon et.al.|[2502.15628](http://arxiv.org/abs/2502.15628)|null|
 |**2025-02-21**|**Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach**|Xiangtong Yao et.al.|[2502.15613](http://arxiv.org/abs/2502.15613)|**[link](https://github.com/yaoxt3/gadp)**|
@@ -3014,7 +3014,7 @@ layout: default
 |**2025-02-24**|**SynthRAD2025 Grand Challenge dataset: generating synthetic CTs for radiotherapy**|Adrian Thummerer et.al.|[2502.17609](http://arxiv.org/abs/2502.17609)|null|
 |**2025-02-25**|**Fractal Generative Models**|Tianhong Li et.al.|[2502.17437](http://arxiv.org/abs/2502.17437)|**[link](https://github.com/LTH14/fractalgen)**|
 |**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
-|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|null|
+|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|**[link](https://github.com/claim-berlin/relict)**|
 |**2025-02-24**|**A Pragmatic Note on Evaluating Generative Models with Fréchet Inception Distance for Retinal Image Synthesis**|Yuli Wu et.al.|[2502.17160](http://arxiv.org/abs/2502.17160)|null|
 |**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
@@ -3195,7 +3195,7 @@ layout: default
 |**2025-01-20**|**A New Formulation of Lipschitz Constrained With Functional Gradient Learning for GANs**|Chang Wan et.al.|[2501.11236](http://arxiv.org/abs/2501.11236)|**[link](https://github.com/sbarratt/inception-score-pytorch)**|
 |**2025-01-20**|**PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents**|Kanika Goswami et.al.|[2501.11233](http://arxiv.org/abs/2501.11233)|null|
 |**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
-|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|null|
+|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|**[link](https://github.com/yqx7150/swarm)**|
 |**2025-01-17**|**IE-Bench: Advancing the Measurement of Text-Driven Image Editing for Human Perception Alignment**|Shangkun Sun et.al.|[2501.09927](http://arxiv.org/abs/2501.09927)|null|
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755](http://arxiv.org/abs/2501.09755)|null|
@@ -3394,7 +3394,7 @@ layout: default
 |**2024-12-10**|**Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation**|Xin Zhao et.al.|[2412.07249](http://arxiv.org/abs/2412.07249)|null|
 |**2024-12-10**|**Moderating the Generalization of Score-based Generative Model**|Wan Jiang et.al.|[2412.07229](http://arxiv.org/abs/2412.07229)|null|
 |**2024-12-10**|**Fine-grained Text to Image Synthesis**|Xu Ouyang et.al.|[2412.07196](http://arxiv.org/abs/2412.07196)|null|
-|**2024-12-10**|**FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error**|Beilin Chu et.al.|[2412.07140](http://arxiv.org/abs/2412.07140)|null|
+|**2024-12-10**|**FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error**|Beilin Chu et.al.|[2412.07140](http://arxiv.org/abs/2412.07140)|**[link](https://github.com/Chuchad/FIRE)**|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
 |**2024-12-09**|**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**|Meera Hahn et.al.|[2412.06771](http://arxiv.org/abs/2412.06771)|**[link](https://github.com/google-deepmind/proactive_t2i_agents)**|
 |**2024-12-09**|**ContRail: A Framework for Realistic Railway Image Synthesis using ControlNet**|Andrei-Robert Alexandrescu et.al.|[2412.06742](http://arxiv.org/abs/2412.06742)|null|
@@ -5603,7 +5603,7 @@ layout: default
 |**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326](http://arxiv.org/abs/2405.18326)|null|
 |**2024-05-28**|**EG4D: Explicit Generation of 4D Object without Score Distillation**|Qi Sun et.al.|[2405.18132](http://arxiv.org/abs/2405.18132)|**[link](https://github.com/jasongzy/eg4d)**|
 |**2024-05-28**|**MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling**|Bowen Zhang et.al.|[2405.18003](http://arxiv.org/abs/2405.18003)|**[link](https://github.com/18445864529/mavin)**|
-|**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842](http://arxiv.org/abs/2405.17842)|null|
+|**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842](http://arxiv.org/abs/2405.17842)|**[link](https://github.com/sonyresearch/mmdisco)**|
 |**2024-05-27**|**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance**|Jiaojiao Fan et.al.|[2405.17661](http://arxiv.org/abs/2405.17661)|null|
 |**2024-05-27**|**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance**|Jiannan Huang et.al.|[2405.17532](http://arxiv.org/abs/2405.17532)|**[link](https://github.com/Rbrq03/ClassDiffusion)**|
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
