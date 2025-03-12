@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|null|
+|**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
+|**2025-03-11**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**Modeling Stock Return Distributions and Pricing Options**|Xinxin Jiang et.al.|[2503.08666](http://arxiv.org/abs/2503.08666)|null|
+|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
+|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|null|
+|**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650](http://arxiv.org/abs/2503.08650)|null|
+|**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
+|**2025-03-11**|**Birth of magnetized low-mass protostars and circumstellar disks**|Adnan Ali Ahmad et.al.|[2503.08637](http://arxiv.org/abs/2503.08637)|null|
 |**2025-03-10**|**Trapping and Transport of Inertial Particles in a Taylor-Green Vortex: Effects of Added Mass and History Force**|Prabhash Kumar et.al.|[2503.07480](http://arxiv.org/abs/2503.07480)|null|
 |**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
 |**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/abs/2503.07418)|null|
@@ -2667,6 +2677,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|null|
+|**2025-03-11**|**HERO: Human Reaction Generation from Videos**|Chengjun Yu et.al.|[2503.08270](http://arxiv.org/abs/2503.08270)|null|
+|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|null|
 |**2025-03-09**|**ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis**|Xukun Zhou et.al.|[2503.06499](http://arxiv.org/abs/2503.06499)|null|
 |**2025-03-08**|**BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**|Zixi Kang et.al.|[2503.06151](http://arxiv.org/abs/2503.06151)|null|
 |**2025-03-06**|**Modeling Dynamic Hand-Object Interactions with Applications to Human-Robot Handovers**|Sammy Christen et.al.|[2503.04879](http://arxiv.org/abs/2503.04879)|null|
@@ -3082,6 +3095,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
+|**2025-03-11**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
+|**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
+|**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
+|**2025-03-11**|**Generalizable AI-Generated Image Detection Based on Fractal Self-Similarity in the Spectrum**|Shengpeng Xiao et.al.|[2503.08484](http://arxiv.org/abs/2503.08484)|null|
+|**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
+|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
+|**2025-03-11**|**Robust Latent Matters: Boosting Image Generation with Sampling Error**|Kai Qiu et.al.|[2503.08354](http://arxiv.org/abs/2503.08354)|null|
+|**2025-03-11**|**Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis**|Chanyoung Kim et.al.|[2503.08346](http://arxiv.org/abs/2503.08346)|null|
+|**2025-03-11**|**OminiControl2: Efficient Conditioning for Diffusion Transformers**|Zhenxiong Tan et.al.|[2503.08280](http://arxiv.org/abs/2503.08280)|null|
 |**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/abs/2503.07493)|null|
 |**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
 |**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
@@ -5120,6 +5143,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
+|**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/abs/2503.08605)|null|
+|**2025-03-11**|**$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307](http://arxiv.org/abs/2503.08307)|null|
+|**2025-03-11**|**WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation**|Jing Wang et.al.|[2503.08153](http://arxiv.org/abs/2503.08153)|null|
+|**2025-03-11**|**ObjectMover: Generative Object Movement with Video Prior**|Xin Yu et.al.|[2503.08037](http://arxiv.org/abs/2503.08037)|null|
+|**2025-03-11**|**How Can Video Generative AI Transform K-12 Education? Examining Teachers' Perspectives through TPACK and TAM**|Unggi Lee et.al.|[2503.08003](http://arxiv.org/abs/2503.08003)|null|
+|**2025-03-10**|**DreamRelation: Relation-Centric Video Customization**|Yujie Wei et.al.|[2503.07602](http://arxiv.org/abs/2503.07602)|null|
+|**2025-03-11**|**VACE: All-in-One Video Creation and Editing**|Zeyinzi Jiang et.al.|[2503.07598](http://arxiv.org/abs/2503.07598)|null|
 |**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/abs/2503.07418)|null|
 |**2025-03-10**|**Automated Movie Generation via Multi-Agent CoT Planning**|Weijia Wu et.al.|[2503.07314](http://arxiv.org/abs/2503.07314)|null|
 |**2025-03-10**|**From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers**|Jiacheng Liu et.al.|[2503.06923](http://arxiv.org/abs/2503.06923)|**[link](https://github.com/Shenyi-Z/TaylorSeer)**|
