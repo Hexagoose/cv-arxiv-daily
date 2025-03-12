@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3089,9 +3089,11 @@ layout: default
 |**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|null|
 |**2025-03-10**|**WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**|Yuwei Niu et.al.|[2503.07265](http://arxiv.org/abs/2503.07265)|null|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
-|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|null|
+|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|**[link](https://github.com/ML-GSAI/eMIGM)**|
 |**2025-03-10**|**NFIG: Autoregressive Image Generation with Next-Frequency Prediction**|Zhihao Huang et.al.|[2503.07076](http://arxiv.org/abs/2503.07076)|null|
 |**2025-03-10**|**TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation**|Victor Shea-Jay Huang et.al.|[2503.07050](http://arxiv.org/abs/2503.07050)|null|
+|**2025-03-10**|**EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer**|Yuxuan Zhang et.al.|[2503.07027](http://arxiv.org/abs/2503.07027)|null|
+|**2025-03-10**|**NukesFormers: Unpaired Hyperspectral Image Generation with Non-Uniform Domain Alignment**|Jiaojiao Li et.al.|[2503.07004](http://arxiv.org/abs/2503.07004)|null|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
 |**2025-03-07**|**Towards Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients**|Niklas Penzel et.al.|[2503.05424](http://arxiv.org/abs/2503.05424)|null|
 |**2025-03-07**|**Frequency Autoregressive Image Generation with Continuous Tokens**|Hu Yu et.al.|[2503.05305](http://arxiv.org/abs/2503.05305)|null|
@@ -5124,7 +5126,7 @@ layout: default
 |**2025-03-09**|**VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation**|Hritik Bansal et.al.|[2503.06800](http://arxiv.org/abs/2503.06800)|null|
 |**2025-03-09**|**TR-DQ: Time-Rotation Diffusion Quantization**|Yihua Shao et.al.|[2503.06564](http://arxiv.org/abs/2503.06564)|null|
 |**2025-03-09**|**QuantCache: Adaptive Importance-Guided Quantization with Hierarchical Latent and Layer Caching for Video Generation**|Junyi Wu et.al.|[2503.06545](http://arxiv.org/abs/2503.06545)|null|
-|**2025-03-09**|**A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
+|**2025-03-11**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
 |**2025-03-09**|**Generative Video Bi-flow**|Chen Liu et.al.|[2503.06364](http://arxiv.org/abs/2503.06364)|null|
 |**2025-03-08**|**Text2Story: Advancing Video Storytelling with Text Guidance**|Taewon Kang et.al.|[2503.06310](http://arxiv.org/abs/2503.06310)|null|
 |**2025-03-08**|**Get In Video: Add Anything You Want to the Video**|Shaobin Zhuang et.al.|[2503.06268](http://arxiv.org/abs/2503.06268)|null|
