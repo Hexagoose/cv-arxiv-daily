@@ -7,21 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
+|**2025-03-13**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
 |**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
 |**2025-03-12**|**On the fractional diffusion for the linear Boltzmann equation with drift and general cross-section**|Dahmane Dechicha et.al.|[2503.09589](http://arxiv.org/abs/2503.09589)|null|
 |**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
 |**2025-03-12**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566](http://arxiv.org/abs/2503.09566)|null|
 |**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560](http://arxiv.org/abs/2503.09560)|null|
-|**2025-03-12**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
+|**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
 |**2025-03-12**|**Observation of Fermi acceleration with cold atoms**|G. Barontini et.al.|[2503.09553](http://arxiv.org/abs/2503.09553)|null|
 |**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551](http://arxiv.org/abs/2503.09551)|null|
 |**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|null|

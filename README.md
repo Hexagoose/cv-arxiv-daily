@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,14 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-12**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
+|**2025-03-13**|**RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling**|Itay Chachy et.al.|[2503.09601](http://arxiv.org/abs/2503.09601)|null|
 |**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
 |**2025-03-12**|**On the fractional diffusion for the linear Boltzmann equation with drift and general cross-section**|Dahmane Dechicha et.al.|[2503.09589](http://arxiv.org/abs/2503.09589)|null|
 |**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
 |**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
 |**2025-03-12**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566](http://arxiv.org/abs/2503.09566)|null|
 |**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560](http://arxiv.org/abs/2503.09560)|null|
-|**2025-03-12**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
+|**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
 |**2025-03-12**|**Observation of Fermi acceleration with cold atoms**|G. Barontini et.al.|[2503.09553](http://arxiv.org/abs/2503.09553)|null|
 |**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551](http://arxiv.org/abs/2503.09551)|null|
 |**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|null|
@@ -2689,7 +2689,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
 
 ## Motion
 
@@ -3110,7 +3110,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
 
 ## Image Generation
 
@@ -5170,7 +5170,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
 
 ## Video Generation
 
@@ -6043,7 +6043,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
