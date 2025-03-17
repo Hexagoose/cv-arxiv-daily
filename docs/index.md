@@ -40,7 +40,7 @@ layout: default
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**Modeling Stock Return Distributions and Pricing Options**|Xinxin Jiang et.al.|[2503.08666](http://arxiv.org/abs/2503.08666)|null|
 |**2025-03-11**|**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder**|Yitian Zhang et.al.|[2503.08665](http://arxiv.org/abs/2503.08665)|null|
-|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|null|
+|**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|**[link](https://github.com/johannwyh/meat)**|
 |**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650](http://arxiv.org/abs/2503.08650)|null|
 |**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
 |**2025-03-11**|**Birth of magnetized low-mass protostars and circumstellar disks**|Adnan Ali Ahmad et.al.|[2503.08637](http://arxiv.org/abs/2503.08637)|null|
@@ -3128,10 +3128,10 @@ layout: default
 |**2025-03-13**|**PlanGen: Towards Unified Layout Planning and Image Generation in Auto-Regressive Vision Language Models**|Runze He et.al.|[2503.10127](http://arxiv.org/abs/2503.10127)|null|
 |**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560](http://arxiv.org/abs/2503.09560)|null|
 |**2025-03-12**|**DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**|Junjie Zhou et.al.|[2503.09491](http://arxiv.org/abs/2503.09491)|null|
-|**2025-03-12**|**PromptMap: An Alternative Interaction Style for AI-Based Image Generation**|Krzysztof Adamkiewicz et.al.|[2503.09436](http://arxiv.org/abs/2503.09436)|null|
+|**2025-03-12**|**PromptMap: An Alternative Interaction Style for AI-Based Image Generation**|Krzysztof Adamkiewicz et.al.|[2503.09436](http://arxiv.org/abs/2503.09436)|**[link](https://github.com/Bill2462/prompt-map)**|
 |**2025-03-12**|**LHC Triggers using FPGA Image Recognition**|James Brooke et.al.|[2503.09428](http://arxiv.org/abs/2503.09428)|null|
 |**2025-03-12**|**Revealing the Implicit Noise-based Imprint of Generative Models**|Xinghan Li et.al.|[2503.09314](http://arxiv.org/abs/2503.09314)|null|
-|**2025-03-12**|**Revealing Unintentional Information Leakage in Low-Dimensional Facial Portrait Representations**|Kathleen Anderson et.al.|[2503.09306](http://arxiv.org/abs/2503.09306)|null|
+|**2025-03-12**|**Revealing Unintentional Information Leakage in Low-Dimensional Facial Portrait Representations**|Kathleen Anderson et.al.|[2503.09306](http://arxiv.org/abs/2503.09306)|**[link](https://github.com/ka-anderson/pge-reconstruction)**|
 |**2025-03-12**|**UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer**|Haoxuan Wang et.al.|[2503.09277](http://arxiv.org/abs/2503.09277)|null|
 |**2025-03-12**|**NAMI: Efficient Image Generation via Progressive Rectified Flow Transformers**|Yuhang Ma et.al.|[2503.09242](http://arxiv.org/abs/2503.09242)|null|
 |**2025-03-12**|**Active Learning Inspired ControlNet Guidance for Augmenting Semantic Segmentation Datasets**|Hannah Kniesel et.al.|[2503.09221](http://arxiv.org/abs/2503.09221)|null|
