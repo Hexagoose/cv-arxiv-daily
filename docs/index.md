@@ -804,7 +804,7 @@ layout: default
 |**2024-11-15**|**Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence**|Guodong Sun et.al.|[2411.10321](http://arxiv.org/abs/2411.10321)|null|
 |**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
 |**2024-11-15**|**The Unreasonable Effectiveness of Guidance for Diffusion Models**|Tim Kaiser et.al.|[2411.10257](http://arxiv.org/abs/2411.10257)|null|
-|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
+|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|**[link](https://github.com/ant-research/MagicQuill)**|
 |**2024-11-14**|**Motion Before Action: Diffusing Object Motion as Manipulation Condition**|Yup Su et.al.|[2411.09658](http://arxiv.org/abs/2411.09658)|null|
 |**2024-11-14**|**The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches**|Xilin Zhang et.al.|[2411.09634](http://arxiv.org/abs/2411.09634)|null|
 |**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631](http://arxiv.org/abs/2411.09631)|**[link](https://github.com/brucefan1983/GPUMD)**|
@@ -3171,7 +3171,7 @@ layout: default
 |**2025-03-17**|**Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation**|Yihong Luo et.al.|[2503.13070](http://arxiv.org/abs/2503.13070)|null|
 |**2025-03-17**|**DreamRenderer: Taming Multi-Instance Attribute Control in Large-Scale Text-to-Image Models**|Dewei Zhou et.al.|[2503.12885](http://arxiv.org/abs/2503.12885)|null|
 |**2025-03-17**|**DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Mode**|Junjia Huang et.al.|[2503.12838](http://arxiv.org/abs/2503.12838)|null|
-|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|null|
+|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|**[link](https://github.com/Qjizhi/GenStereo)**|
 |**2025-03-16**|**UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing**|Tsu-Jui Fu et.al.|[2503.12652](http://arxiv.org/abs/2503.12652)|null|
 |**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481](http://arxiv.org/abs/2503.11481)|null|
 |**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
@@ -3811,7 +3811,7 @@ layout: default
 |**2024-11-15**|**Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training**|Myunsoo Kim et.al.|[2411.09998](http://arxiv.org/abs/2411.09998)|null|
 |**2024-11-15**|**Content-Aware Preserving Image Generation**|Giang H. Le et.al.|[2411.09871](http://arxiv.org/abs/2411.09871)|null|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
-|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
+|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|**[link](https://github.com/ant-research/MagicQuill)**|
 |**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512](http://arxiv.org/abs/2411.09512)|null|
 |**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
 |**2024-11-12**|**Mediffusion: Joint Diffusion for Self-Explainable Semi-Supervised Classification and Medical Image Generation**|Joanna Kaleta et.al.|[2411.09434](http://arxiv.org/abs/2411.09434)|null|
@@ -5589,7 +5589,7 @@ layout: default
 |**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
 |**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
-|**2024-12-03**|**VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation**|Mingzhe Zheng et.al.|[2412.02259](http://arxiv.org/abs/2412.02259)|null|
+|**2024-12-03**|**VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation**|Mingzhe Zheng et.al.|[2412.02259](http://arxiv.org/abs/2412.02259)|**[link](https://github.com/DuNGEOnmassster/VideoGen-of-Thought)**|
 |**2024-12-03**|**OmniCreator: Self-Supervised Unified Generation with Universal Editing**|Haodong Chen et.al.|[2412.02114](http://arxiv.org/abs/2412.02114)|null|
 |**2024-12-02**|**World-consistent Video Diffusion with Explicit 3D Modeling**|Qihang Zhang et.al.|[2412.01821](http://arxiv.org/abs/2412.01821)|null|
 |**2024-12-02**|**Driving Scene Synthesis on Free-form Trajectories with Generative Prior**|Zeyu Yang et.al.|[2412.01717](http://arxiv.org/abs/2412.01717)|null|
