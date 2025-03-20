@@ -126,7 +126,7 @@ layout: default
 |**2025-03-05**|**A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery**|Hanxin Zhang et.al.|[2503.03579](http://arxiv.org/abs/2503.03579)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|null|
 |**2025-03-04**|**Critical Dynamics in Short-Range Quadratic Hamiltonians**|Miroslav Hopjan et.al.|[2503.02828](http://arxiv.org/abs/2503.02828)|null|
-|**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819](http://arxiv.org/abs/2503.02819)|null|
+|**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819](http://arxiv.org/abs/2503.02819)|**[link](https://github.com/martaskrt/fkc-diffusion)**|
 |**2025-03-04**|**Generating Reliable Initial Velocity Models for Full-waveform Inversion with Well and Structural Constraints**|Qingchen Zhang et.al.|[2503.02815](http://arxiv.org/abs/2503.02815)|null|
 |**2025-03-04**|**An optimal-transport finite-particle method for driven mass diffusion**|Anna Pandolfi et.al.|[2503.02813](http://arxiv.org/abs/2503.02813)|null|
 |**2025-03-04**|**Spike-and-Slab Posterior Sampling in High Dimensions**|Syamantak Kumar et.al.|[2503.02798](http://arxiv.org/abs/2503.02798)|null|
@@ -3186,7 +3186,7 @@ layout: default
 |**2025-03-18**|**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation**|Jiang Qin et.al.|[2503.14275](http://arxiv.org/abs/2503.14275)|null|
 |**2025-03-18**|**TarPro: Targeted Protection against Malicious Image Editing**|Kaixin Shen et.al.|[2503.13994](http://arxiv.org/abs/2503.13994)|null|
 |**2025-03-18**|**DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection**|Jaewoo Song et.al.|[2503.13985](http://arxiv.org/abs/2503.13985)|null|
-|**2025-03-18**|**SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**|Xinqing Li et.al.|[2503.13952](http://arxiv.org/abs/2503.13952)|null|
+|**2025-03-18**|**SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**|Xinqing Li et.al.|[2503.13952](http://arxiv.org/abs/2503.13952)|**[link](https://github.com/li-zn-h/simworld)**|
 |**2025-03-18**|**VARP: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences**|Anukriti Singh et.al.|[2503.13817](http://arxiv.org/abs/2503.13817)|null|
 |**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
 |**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434](http://arxiv.org/abs/2503.13434)|null|
@@ -3200,14 +3200,14 @@ layout: default
 |**2025-03-16**|**UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing**|Tsu-Jui Fu et.al.|[2503.12652](http://arxiv.org/abs/2503.12652)|null|
 |**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481](http://arxiv.org/abs/2503.11481)|null|
 |**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
-|**2025-03-14**|**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**|Zijing Hu et.al.|[2503.11240](http://arxiv.org/abs/2503.11240)|null|
+|**2025-03-14**|**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**|Zijing Hu et.al.|[2503.11240](http://arxiv.org/abs/2503.11240)|**[link](https://github.com/hu-zijing/b2-diffurl)**|
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
-|**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213](http://arxiv.org/abs/2503.11213)|null|
+|**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213](http://arxiv.org/abs/2503.11213)|**[link](https://github.com/LinYark/Sdirt)**|
 |**2025-03-14**|**Provenance Detection for AI-Generated Images: Combining Perceptual Hashing, Homomorphic Encryption, and AI Detection Models**|Shree Singhi et.al.|[2503.11195](http://arxiv.org/abs/2503.11195)|null|
 |**2025-03-14**|**Direction-Aware Diagonal Autoregressive Image Generation**|Yijia Xu et.al.|[2503.11129](http://arxiv.org/abs/2503.11129)|null|
-|**2025-03-14**|**Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models**|Zhenguang Liu et.al.|[2503.11071](http://arxiv.org/abs/2503.11071)|null|
+|**2025-03-14**|**Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models**|Zhenguang Liu et.al.|[2503.11071](http://arxiv.org/abs/2503.11071)|**[link](https://github.com/sccsok/coprguard)**|
 |**2025-03-14**|**Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization**|Kyle Sargent et.al.|[2503.11056](http://arxiv.org/abs/2503.11056)|null|
-|**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|null|
+|**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|**[link](https://github.com/sincostanx/lusd)**|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618](http://arxiv.org/abs/2503.10618)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
@@ -3271,7 +3271,7 @@ layout: default
 |**2025-03-05**|**Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings**|Xusheng Du et.al.|[2503.03068](http://arxiv.org/abs/2503.03068)|null|
 |**2025-03-04**|**Robust time series generation via Schrödinger Bridge: a comprehensive evaluation**|Alexandre Alouadi et.al.|[2503.02943](http://arxiv.org/abs/2503.02943)|null|
 |**2025-03-04**|**ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models**|Qinyu Zhao et.al.|[2503.02883](http://arxiv.org/abs/2503.02883)|**[link](https://github.com/qinyu-allen-zhao/arinar)**|
-|**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819](http://arxiv.org/abs/2503.02819)|null|
+|**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819](http://arxiv.org/abs/2503.02819)|**[link](https://github.com/martaskrt/fkc-diffusion)**|
 |**2025-03-04**|**Undertrained Image Reconstruction for Realistic Degradation in Blind Image Super-Resolution**|Ru Ito et.al.|[2503.02767](http://arxiv.org/abs/2503.02767)|null|
 |**2025-03-04**|**Generative Modeling of Microweather Wind Velocities for Urban Air Mobility**|Tristan A. Shah et.al.|[2503.02690](http://arxiv.org/abs/2503.02690)|**[link](https://github.com/nasa/wind-generative-modeling)**|
 |**2025-03-04**|**SPG: Improving Motion Diffusion by Smooth Perturbation Guidance**|Boseong Jeon et.al.|[2503.02577](http://arxiv.org/abs/2503.02577)|null|
@@ -5300,7 +5300,7 @@ layout: default
 |**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571](http://arxiv.org/abs/2503.11571)|null|
 |**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
-|**2025-03-14**|**Step-Video-TI2V Technical Report: A State-of-the-Art Text-Driven Image-to-Video Generation Model**|Haoyang Huang et.al.|[2503.11251](http://arxiv.org/abs/2503.11251)|null|
+|**2025-03-14**|**Step-Video-TI2V Technical Report: A State-of-the-Art Text-Driven Image-to-Video Generation Model**|Haoyang Huang et.al.|[2503.11251](http://arxiv.org/abs/2503.11251)|**[link](https://github.com/stepfun-ai/step-video-ti2v)**|
 |**2025-03-14**|**Cross-Modal Learning for Music-to-Music-Video Description Generation**|Zhuoyuan Mao et.al.|[2503.11190](http://arxiv.org/abs/2503.11190)|null|
 |**2025-03-14**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
 |**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
