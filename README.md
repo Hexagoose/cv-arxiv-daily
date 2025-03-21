@@ -1027,7 +1027,7 @@
 |**2024-10-16**|**Signature of Vertical Mixing in Hydrogen-dominated Exoplanet Atmospheres**|Vikas Soni et.al.|[2410.12737](http://arxiv.org/abs/2410.12737)|null|
 |**2024-10-16**|**Smooth Geometry of Diffusion Algebras**|Andrés Rubiano et.al.|[2410.12701](http://arxiv.org/abs/2410.12701)|null|
 |**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700](http://arxiv.org/abs/2410.12700)|**[link](https://github.com/achernarwang/LiVO)**|
-|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696](http://arxiv.org/abs/2410.12696)|null|
+|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696](http://arxiv.org/abs/2410.12696)|**[link](https://github.com/Calvin11311/AdaptiveDrag)**|
 |**2024-10-16**|**Hamiltonian bridge: A physics-driven generative framework for targeted pattern control**|Vishaal Krishnan et.al.|[2410.12665](http://arxiv.org/abs/2410.12665)|null|
 |**2024-10-16**|**Constrained Posterior Sampling: Time Series Generation with Hard Constraints**|Sai Shankar Narasimhan et.al.|[2410.12652](http://arxiv.org/abs/2410.12652)|null|
 |**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838](http://arxiv.org/abs/2410.11838)|null|
@@ -3999,7 +3999,7 @@
 |**2024-10-17**|**Unlocking the Capabilities of Masked Generative Models for Image Synthesis via Self-Guidance**|Jiwan Hur et.al.|[2410.13136](http://arxiv.org/abs/2410.13136)|**[link](https://github.com/jiwanhur/unlockmgm)**|
 |**2024-10-17**|**Boosting Imperceptibility of Stable Diffusion-based Adversarial Examples Generation with Momentum**|Nashrah Haque et.al.|[2410.13122](http://arxiv.org/abs/2410.13122)|**[link](https://github.com/nashrahhaque/sd-miae)**|
 |**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700](http://arxiv.org/abs/2410.12700)|**[link](https://github.com/achernarwang/LiVO)**|
-|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696](http://arxiv.org/abs/2410.12696)|null|
+|**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696](http://arxiv.org/abs/2410.12696)|**[link](https://github.com/Calvin11311/AdaptiveDrag)**|
 |**2024-10-16**|**3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation**|Dewei Zhou et.al.|[2410.12669](http://arxiv.org/abs/2410.12669)|**[link](https://github.com/limuloo/3DIS)**|
 |**2024-10-16**|**Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**|Kathrin Khadra et.al.|[2410.12542](http://arxiv.org/abs/2410.12542)|null|
 |**2024-10-16**|**Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**|Yongxin Zhu et.al.|[2410.12490](http://arxiv.org/abs/2410.12490)|**[link](https://github.com/DAMO-NLP-SG/DiGIT)**|
