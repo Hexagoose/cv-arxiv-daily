@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950](http://arxiv.org/abs/2503.18950)|null|
+|**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948](http://arxiv.org/abs/2503.18948)|**[link](https://github.com/drx-code/EquivariantModeling)**|
+|**2025-03-24**|**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models**|Jae Joong Lee et.al.|[2503.18947](http://arxiv.org/abs/2503.18947)|null|
+|**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
+|**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933](http://arxiv.org/abs/2503.18933)|null|
+|**2025-03-24**|**On the temperature, pressure and composition effects in the properties of water-methanol mixtures. I. Density, excess mixing volume and enthalpy, and self-diffusion coefficients from molecular dynamics simulations**|M. Cruz Sanchez et.al.|[2503.18901](http://arxiv.org/abs/2503.18901)|null|
+|**2025-03-24**|**CFG-Zero*: Improved Classifier-Free Guidance for Flow Matching Models**|Weichen Fan et.al.|[2503.18886](http://arxiv.org/abs/2503.18886)|null|
+|**2025-03-24**|**A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery**|Runze Cheng et.al.|[2503.18874](http://arxiv.org/abs/2503.18874)|null|
+|**2025-03-24**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|
+|**2025-03-24**|**Transport in multifractal Kraichnan flows: from turbulence to Liouville quantum gravity**|André L. P. Considera et.al.|[2503.18851](http://arxiv.org/abs/2503.18851)|null|
 |**2025-03-21**|**Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer**|Qingyu Shi et.al.|[2503.17350](http://arxiv.org/abs/2503.17350)|null|
 |**2025-03-21**|**Dereflection Any Image with Diffusion Priors and Diversified Data**|Jichen Hu et.al.|[2503.17347](http://arxiv.org/abs/2503.17347)|**[link](https://github.com/Abuuu122/Dereflection-Any-Image)**|
 |**2025-03-21**|**Structure and kinematics of the interacting group NGC 5098/5096**|G. B. Lima Neto et.al.|[2503.17341](http://arxiv.org/abs/2503.17341)|null|
@@ -2765,6 +2775,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Human Motion Unlearning**|Edoardo De Matteis et.al.|[2503.18674](http://arxiv.org/abs/2503.18674)|null|
+|**2025-03-23**|**SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction**|Zhengyuan Li et.al.|[2503.18211](http://arxiv.org/abs/2503.18211)|null|
+|**2025-03-23**|**PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based Human Activity Recognition**|Dominique Nshimyimana et.al.|[2503.17978](http://arxiv.org/abs/2503.17978)|null|
 |**2025-03-21**|**ARFlow: Human Action-Reaction Flow Matching with Physical Guidance**|Wentao Jiang et.al.|[2503.16973](http://arxiv.org/abs/2503.16973)|null|
 |**2025-03-20**|**Animating the Uncaptured: Humanoid Mesh Animation with Video Diffusion Models**|Marc Benedí San Millán et.al.|[2503.15996](http://arxiv.org/abs/2503.15996)|null|
 |**2025-03-19**|**A Personalized Data-Driven Generative Model of Human Motion**|Angelo Di Porzio et.al.|[2503.15225](http://arxiv.org/abs/2503.15225)|null|
@@ -3200,6 +3213,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948](http://arxiv.org/abs/2503.18948)|**[link](https://github.com/drx-code/EquivariantModeling)**|
+|**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
+|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
+|**2025-03-24**|**Self-Supervised Learning based on Transformed Image Reconstruction for Equivariance-Coherent Feature Representation**|Qin Wang et.al.|[2503.18753](http://arxiv.org/abs/2503.18753)|null|
+|**2025-03-24**|**Boosting Resolution Generalization of Diffusion Transformers with Randomized Positional Encodings**|Cong Liu et.al.|[2503.18719](http://arxiv.org/abs/2503.18719)|null|
+|**2025-03-24**|**Instruction-Aligned Visual Attention for Mitigating Hallucinations in Large Vision-Language Models**|Bin Li et.al.|[2503.18556](http://arxiv.org/abs/2503.18556)|null|
+|**2025-03-24**|**PALATE: Peculiar Application of the Law of Total Expectation to Enhance the Evaluation of Deep Generative Models**|Tadeusz Dziarmaga et.al.|[2503.18462](http://arxiv.org/abs/2503.18462)|null|
+|**2025-03-24**|**Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models**|Jinho Jeong et.al.|[2503.18446](http://arxiv.org/abs/2503.18446)|null|
+|**2025-03-24**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|null|
+|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|null|
 |**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226](http://arxiv.org/abs/2503.17226)|null|
 |**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155](http://arxiv.org/abs/2503.17155)|null|
 |**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|null|
@@ -5330,6 +5353,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
+|**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
+|**2025-03-24**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
+|**2025-03-24**|**Can Text-to-Video Generation help Video-Language Alignment?**|Luca Zanella et.al.|[2503.18507](http://arxiv.org/abs/2503.18507)|null|
+|**2025-03-24**|**Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation**|Dingcheng Zhen et.al.|[2503.18429](http://arxiv.org/abs/2503.18429)|null|
+|**2025-03-24**|**Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**|Sicong Feng et.al.|[2503.18386](http://arxiv.org/abs/2503.18386)|null|
+|**2025-03-23**|**LongDiff: Training-Free Long Video Generation in One Go**|Zhuoling Li et.al.|[2503.18150](http://arxiv.org/abs/2503.18150)|null|
+|**2025-03-23**|**Shot Sequence Ordering for Video Editing: Benchmarks, Metrics, and Cinematology-Inspired Computing Methods**|Yuzhi Li et.al.|[2503.17975](http://arxiv.org/abs/2503.17975)|null|
 |**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
 |**2025-03-21**|**HyperNVD: Accelerating Neural Video Decomposition via Hypernetworks**|Maria Pilligua et.al.|[2503.17276](http://arxiv.org/abs/2503.17276)|null|
 |**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
