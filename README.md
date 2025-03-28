@@ -2818,7 +2818,7 @@
 |**2025-03-12**|**Natural Humanoid Robot Locomotion with Generative Motion Prior**|Haodong Zhang et.al.|[2503.09015](http://arxiv.org/abs/2503.09015)|null|
 |**2025-03-11**|**MEAT: Multiview Diffusion Model for Human Generation on Megapixels with Mesh Attention**|Yuhan Wang et.al.|[2503.08664](http://arxiv.org/abs/2503.08664)|**[link](https://github.com/johannwyh/meat)**|
 |**2025-03-11**|**HERO: Human Reaction Generation from Videos**|Chengjun Yu et.al.|[2503.08270](http://arxiv.org/abs/2503.08270)|null|
-|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|null|
+|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597](http://arxiv.org/abs/2503.07597)|**[link](https://github.com/zhangyuhong01/HumanMM-code)**|
 |**2025-03-15**|**ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis**|Xukun Zhou et.al.|[2503.06499](http://arxiv.org/abs/2503.06499)|null|
 |**2025-03-08**|**BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis**|Zixi Kang et.al.|[2503.06151](http://arxiv.org/abs/2503.06151)|null|
 |**2025-03-06**|**Modeling Dynamic Hand-Object Interactions with Applications to Human-Robot Handovers**|Sammy Christen et.al.|[2503.04879](http://arxiv.org/abs/2503.04879)|null|
