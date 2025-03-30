@@ -3255,7 +3255,7 @@ layout: default
 |**2025-03-26**|**Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models**|Alex Jinpeng Wang et.al.|[2503.20198](http://arxiv.org/abs/2503.20198)|null|
 |**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
-|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
+|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|**[link](https://github.com/a-raniy-day/sita)**|
 |**2025-03-25**|**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**|Kartik Thakral et.al.|[2503.19783](http://arxiv.org/abs/2503.19783)|null|
 |**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731](http://arxiv.org/abs/2503.19731)|null|
 |**2025-03-25**|**VectorFit : Adaptive Singular & Bias Vector Fine-Tuning of Pre-trained Foundation Models**|Suhas G Hegde et.al.|[2503.19530](http://arxiv.org/abs/2503.19530)|null|
@@ -3367,7 +3367,7 @@ layout: default
 |**2025-03-10**|**NeAS: 3D Reconstruction from X-ray Images using Neural Attenuation Surface**|Chengrui Zhu et.al.|[2503.07491](http://arxiv.org/abs/2503.07491)|null|
 |**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
 |**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|**[link](https://github.com/ddgoodgood/trce)**|
-|**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|null|
+|**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|**[link](https://github.com/xiexing0916/ARRA)**|
 |**2025-03-10**|**WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**|Yuwei Niu et.al.|[2503.07265](http://arxiv.org/abs/2503.07265)|**[link](https://github.com/pku-yuangroup/wise)**|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
 |**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|**[link](https://github.com/ML-GSAI/eMIGM)**|
