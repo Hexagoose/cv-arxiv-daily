@@ -160,7 +160,7 @@
 |**2025-03-13**|**The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging**|Yiwei Chen et.al.|[2503.09559](http://arxiv.org/abs/2503.09559)|null|
 |**2025-03-12**|**Observation of Fermi acceleration with cold atoms**|G. Barontini et.al.|[2503.09553](http://arxiv.org/abs/2503.09553)|null|
 |**2025-03-12**|**Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations**|Christopher Leon et.al.|[2503.09551](http://arxiv.org/abs/2503.09551)|null|
-|**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|null|
+|**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|**[link](https://github.com/visual-gen/semanticist)**|
 |**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
 |**2025-03-11**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
