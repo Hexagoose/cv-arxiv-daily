@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-03-31**|**Dynamical properties of particulate composites derived from ultradense stealthy hyperuniform sphere packings**|Carlo Vanoni et.al.|[2503.24297](http://arxiv.org/abs/2503.24297)|null|
 |**2025-03-31**|**Quark production in the bottom-up thermalization**|Sergio Barrera Cabodevila et.al.|[2503.24291](http://arxiv.org/abs/2503.24291)|null|
 |**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
 |**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
 |**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|null|
 |**2025-03-31**|**Evaluating Variational Quantum Eigensolver and Quantum Dynamics Algorithms on the Advection-Diffusion Equation**|A. Barış Özgüler et.al.|[2503.24045](http://arxiv.org/abs/2503.24045)|null|
@@ -2819,14 +2819,14 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-31**|**Learning Velocity and Acceleration: Self-Supervised Motion Consistency for Pedestrian Trajectory Prediction**|Yizhou Huang et.al.|[2503.24272](http://arxiv.org/abs/2503.24272)|null|
-|**2025-03-31**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
+|**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-03-30**|**Enhancing Human Motion Prediction via Multi-range Decoupling Decoding with Gating-adjusting Aggregation**|Jiexin Wang et.al.|[2503.23381](http://arxiv.org/abs/2503.23381)|null|
 |**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Xianqi Zhang et.al.|[2503.22249](http://arxiv.org/abs/2503.22249)|null|
 |**2025-03-27**|**ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate**|Ming Yan et.al.|[2503.21268](http://arxiv.org/abs/2503.21268)|null|
@@ -3265,7 +3265,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## Image Generation
 
@@ -5451,16 +5451,16 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
-|**2025-03-31**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
+|**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|
-|**2025-03-31**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
+|**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-31**|**HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation**|Kun Liu et.al.|[2503.23715](http://arxiv.org/abs/2503.23715)|null|
 |**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-30**|**VideoGen-Eval: Agent-based System for Video Generation Evaluation**|Yuhang Yang et.al.|[2503.23452](http://arxiv.org/abs/2503.23452)|null|
@@ -6420,7 +6420,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
