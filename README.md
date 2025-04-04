@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,10 +21,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging**|Mohini Anand et.al.|[2504.01953](http://arxiv.org/abs/2504.01953)|null|
 |**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938](http://arxiv.org/abs/2504.01938)|null|
-|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
+|**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time**|Haykel Snoussi et.al.|[2504.01925](http://arxiv.org/abs/2504.01925)|null|
 |**2025-04-02**|**Multi-fidelity Parameter Estimation Using Conditional Diffusion Models**|Caroline Tatsuoka et.al.|[2504.01894](http://arxiv.org/abs/2504.01894)|null|
 |**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
@@ -2829,7 +2829,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 ## Motion
 
@@ -3277,18 +3277,18 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
+|**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|null|
 |**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
 |**2025-04-02**|**Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**|Lirui Qi et.al.|[2504.01577](http://arxiv.org/abs/2504.01577)|null|
 |**2025-04-02**|**Pro-DG: Procedural Diffusion Guidance for Architectural Facade Generation**|Aleksander Plocharski et.al.|[2504.01571](http://arxiv.org/abs/2504.01571)|null|
-|**2025-04-02**|**Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis**|Zixuan Wang et.al.|[2504.01515](http://arxiv.org/abs/2504.01515)|null|
+|**2025-04-03**|**Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis**|Zixuan Wang et.al.|[2504.01515](http://arxiv.org/abs/2504.01515)|null|
 |**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512](http://arxiv.org/abs/2504.01512)|null|
 |**2025-04-02**|**From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis**|Kecen Li et.al.|[2504.01395](http://arxiv.org/abs/2504.01395)|null|
 |**2025-04-01**|**Prompting Forgetting: Unlearning in GANs via Textual Guidance**|Piyush Nagasubramaniam et.al.|[2504.01218](http://arxiv.org/abs/2504.01218)|null|
@@ -5473,13 +5473,13 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-01**|**AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction**|Junhao Cheng et.al.|[2504.01014](http://arxiv.org/abs/2504.01014)|null|
 |**2025-04-01**|**WorldScore: A Unified Evaluation Benchmark for World Generation**|Haoyi Duan et.al.|[2504.00983](http://arxiv.org/abs/2504.00983)|null|
 |**2025-04-01**|**DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding**|Chong Li et.al.|[2504.00432](http://arxiv.org/abs/2504.00432)|null|
@@ -6447,7 +6447,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
