@@ -3303,7 +3303,7 @@
 |**2025-04-02**|**Less-to-More Generalization: Unlocking More Controllability by In-Context Generation**|Shaojin Wu et.al.|[2504.02160](http://arxiv.org/abs/2504.02160)|null|
 |**2025-04-02**|**FreSca: Unveiling the Scaling Space in Diffusion Models**|Chao Huang et.al.|[2504.02154](http://arxiv.org/abs/2504.02154)|null|
 |**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
-|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|null|
+|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|**[link](https://github.com/tiiuae/FineLIP)**|
 |**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
 |**2025-04-02**|**Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**|Lirui Qi et.al.|[2504.01577](http://arxiv.org/abs/2504.01577)|null|
 |**2025-04-02**|**Pro-DG: Procedural Diffusion Guidance for Architectural Facade Generation**|Aleksander Plocharski et.al.|[2504.01571](http://arxiv.org/abs/2504.01571)|null|
