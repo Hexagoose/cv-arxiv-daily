@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**|J. D. Soler et.al.|[2504.03642](http://arxiv.org/abs/2504.03642)|null|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
+|**2025-04-04**|**Quantifying the uncertainty of model-based synthetic image quality metrics**|Ciaran Bench et.al.|[2504.03623](http://arxiv.org/abs/2504.03623)|null|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
+|**2025-04-04**|**The impact of diffuse Galactic emission on direction-independent gain calibration in high-redshift 21 cm observations**|C. Höfer et.al.|[2504.03554](http://arxiv.org/abs/2504.03554)|null|
+|**2025-04-04**|**Passive scalar dispersion along porous stratum with natural convection**|Chenglong Hu et.al.|[2504.03545](http://arxiv.org/abs/2504.03545)|null|
+|**2025-04-04**|**Exponential equilibration of an electro-energy-reaction-diffusion system arising from a two-level semiconductor model**|Michael Kniely et.al.|[2504.03534](http://arxiv.org/abs/2504.03534)|null|
+|**2025-04-04**|**Intracluster light is a biased tracer of the dark matter distribution in clusters**|J. Butler et.al.|[2504.03518](http://arxiv.org/abs/2504.03518)|null|
+|**2025-04-04**|**Multiscale Energy Spreading in Hard-Particle Chains**|Arkady Pikovsky et.al.|[2504.03511](http://arxiv.org/abs/2504.03511)|null|
+|**2025-04-04**|**Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography**|Luis Barba et.al.|[2504.03491](http://arxiv.org/abs/2504.03491)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
@@ -2837,6 +2847,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639](http://arxiv.org/abs/2504.03639)|null|
 |**2025-04-01**|**Beyond Static Scenes: Camera-controllable Background Generation for Human Motion**|Mingshuai Yao et.al.|[2504.02004](http://arxiv.org/abs/2504.02004)|null|
 |**2025-04-02**|**FlowMotion: Target-Predictive Flow Matching for Realistic Text-Driven Human Motion Generation**|Manolo Canales Cuba et.al.|[2504.01338](http://arxiv.org/abs/2504.01338)|null|
 |**2025-04-01**|**MixerMDM: Learnable Composition of Human Motion Diffusion Models**|Pablo Ruiz-Ponce et.al.|[2504.01019](http://arxiv.org/abs/2504.01019)|null|
@@ -3284,6 +3295,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641](http://arxiv.org/abs/2504.03641)|null|
+|**2025-04-04**|**Dynamic Importance in Diffusion U-Net for Enhanced Image Synthesis**|Xi Wang et.al.|[2504.03471](http://arxiv.org/abs/2504.03471)|null|
+|**2025-04-04**|**FLAIRBrainSeg: Fine-grained brain segmentation using FLAIR MRI only**|Edern Le Bot et.al.|[2504.03376](http://arxiv.org/abs/2504.03376)|null|
+|**2025-04-04**|**QIRL: Boosting Visual Question Answering via Optimized Question-Image Relation Learning**|Quanxing Xu et.al.|[2504.03337](http://arxiv.org/abs/2504.03337)|null|
+|**2025-04-04**|**Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices**|Yang He et.al.|[2504.03155](http://arxiv.org/abs/2504.03155)|null|
+|**2025-04-03**|**VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**|Xianwei Zhuang et.al.|[2504.02949](http://arxiv.org/abs/2504.02949)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
 |**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782](http://arxiv.org/abs/2504.02782)|null|
 |**2025-04-03**|**RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models**|ZhongLi Fang et.al.|[2504.02640](http://arxiv.org/abs/2504.02640)|null|
@@ -5486,6 +5503,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**|Xuran Ma et.al.|[2504.03140](http://arxiv.org/abs/2504.03140)|null|
+|**2025-04-03**|**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models**|Pascal Chang et.al.|[2504.03072](http://arxiv.org/abs/2504.03072)|null|
+|**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[2504.02918](http://arxiv.org/abs/2504.02918)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
 |**2025-04-03**|**Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**|Shengjun Zhang et.al.|[2504.02764](http://arxiv.org/abs/2504.02764)|null|
 |**2025-04-04**|**Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation**|Fa-Ting Hong et.al.|[2504.02542](http://arxiv.org/abs/2504.02542)|null|
