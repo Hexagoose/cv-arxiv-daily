@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -2858,7 +2858,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Shenghao Ren et.al.|[2504.05046](http://arxiv.org/abs/2504.05046)|null|
-|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639](http://arxiv.org/abs/2504.03639)|null|
 |**2025-04-01**|**Beyond Static Scenes: Camera-controllable Background Generation for Human Motion**|Mingshuai Yao et.al.|[2504.02004](http://arxiv.org/abs/2504.02004)|null|
 |**2025-04-02**|**FlowMotion: Target-Predictive Flow Matching for Realistic Text-Driven Human Motion Generation**|Manolo Canales Cuba et.al.|[2504.01338](http://arxiv.org/abs/2504.01338)|null|
@@ -3312,7 +3312,7 @@ layout: default
 |**2025-04-07**|**Imagining the Far East: Exploring Perceived Biases in AI-Generated Images of East Asian Women**|Xingyu Lan et.al.|[2504.04865](http://arxiv.org/abs/2504.04865)|null|
 |**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
 |**2025-04-07**|**AnyArtisticGlyph: Multilingual Controllable Artistic Glyph Generation**|Xiongbo Lu et.al.|[2504.04743](http://arxiv.org/abs/2504.04743)|null|
-|**2025-04-06**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
+|**2025-04-08**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
 |**2025-04-06**|**Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification**|Shijian Wang et.al.|[2504.04510](http://arxiv.org/abs/2504.04510)|null|
 |**2025-04-06**|**Thermoxels: a voxel-based method to generate simulation-ready 3D thermal models**|Etienne Chassaing et.al.|[2504.04448](http://arxiv.org/abs/2504.04448)|null|
 |**2025-04-06**|**UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding**|Yang Jiao et.al.|[2504.04423](http://arxiv.org/abs/2504.04423)|null|
