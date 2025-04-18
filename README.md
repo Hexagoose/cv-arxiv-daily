@@ -35,7 +35,7 @@
 |**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
 |**2025-04-16**|**Coding-Prior Guided Diffusion Network for Video Deblurring**|Yike Liu et.al.|[2504.12222](http://arxiv.org/abs/2504.12222)|null|
 |**2025-04-16**|**d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning**|Siyan Zhao et.al.|[2504.12216](http://arxiv.org/abs/2504.12216)|null|
-|**2025-04-16**|**Creating non-reversible rejection-free samplers by rebalancing skew-balanced Markov jump processes**|Erik Jansson et.al.|[2504.12190](http://arxiv.org/abs/2504.12190)|null|
+|**2025-04-16**|**Creating non-reversible rejection-free samplers by rebalancing skew-balanced Markov jump processes**|Erik Jansson et.al.|[2504.12190](http://arxiv.org/abs/2504.12190)|**[link](https://github.com/rubenseyer/FFFSampler.jl)**|
 |**2025-04-16**|**Analysis of steady-state solutions to a vasculogenesis model in dimension two**|Sinchita Lahiri et.al.|[2504.12164](http://arxiv.org/abs/2504.12164)|null|
 |**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129](http://arxiv.org/abs/2504.12129)|null|
 |**2025-04-16**|**The CAM Model: An in vivo Testbed for Molecular Communication Systems**|Fardad Vakilipoor et.al.|[2504.12123](http://arxiv.org/abs/2504.12123)|null|
