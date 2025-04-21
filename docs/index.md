@@ -5976,7 +5976,7 @@ layout: default
 |**2025-01-23**|**EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion**|Jiangchuan Wei et.al.|[2501.13452](http://arxiv.org/abs/2501.13452)|null|
 |**2025-01-21**|**Taming Teacher Forcing for Masked Autoregressive Video Generation**|Deyu Zhou et.al.|[2501.12389](http://arxiv.org/abs/2501.12389)|null|
 |**2025-01-22**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
-|**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
+|**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|**[link](https://github.com/cvlab-kaist/Chrono)**|
 |**2025-01-20**|**GenVidBench: A Challenging Benchmark for Detecting AI-Generated Video**|Zhenliang Ni et.al.|[2501.11340](http://arxiv.org/abs/2501.11340)|null|
 |**2025-01-20**|**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation**|Zheng Chong et.al.|[2501.11325](http://arxiv.org/abs/2501.11325)|**[link](https://github.com/zheng-chong/catv2ton)**|
 |**2025-01-19**|**Counteracting temporal attacks in Video Copy Detection**|Katarzyna Fojcik et.al.|[2501.11171](http://arxiv.org/abs/2501.11171)|null|
