@@ -3435,7 +3435,7 @@
 |**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
 |**2025-04-16**|**Anti-Aesthetics: Protecting Facial Privacy against Customized Text-to-Image Synthesis**|Songping Wang et.al.|[2504.12129](http://arxiv.org/abs/2504.12129)|null|
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
-|**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|null|
+|**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|**[link](https://github.com/dae-plz/re-gips)**|
 |**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|**[link](https://github.com/sddwwww/mind2matter)**|
 |**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
 |**2025-04-16**|**Synthetic Data for Blood Vessel Network Extraction**|Joël Mathys et.al.|[2504.11858](http://arxiv.org/abs/2504.11858)|null|
