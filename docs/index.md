@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791](http://arxiv.org/abs/2504.17791)|null|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Thermal Product Formula for Shear Modes**|Jyotirmoy Bhattacharya et.al.|[2504.17781](http://arxiv.org/abs/2504.17781)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**Asymptotic attraction with algebraic rates toward fronts of dispersive-diffusive Burgers equations**|Milena Stanislavova et.al.|[2504.17745](http://arxiv.org/abs/2504.17745)|null|
+|**2025-04-24**|**Time-reversed Stochastic Inflation**|Baptiste Blachier et.al.|[2504.17680](http://arxiv.org/abs/2504.17680)|null|
+|**2025-04-24**|**Sharp Material Interface Limit of the Darcy-Boussinesq System**|Hongjie Dong et.al.|[2504.17661](http://arxiv.org/abs/2504.17661)|null|
+|**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656](http://arxiv.org/abs/2504.17656)|null|
+|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
+|**2025-04-24**|**TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation**|Bowen Deng et.al.|[2504.17613](http://arxiv.org/abs/2504.17613)|null|
 |**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Amber Xie et.al.|[2504.16925](http://arxiv.org/abs/2504.16925)|null|
 |**2025-04-23**|**DreamO: A Unified Framework for Image Customization**|Chong Mou et.al.|[2504.16915](http://arxiv.org/abs/2504.16915)|null|
 |**2025-04-23**|**Practical approaches for crystal structure predictions with inpainting generation and universal interatomic potentials**|Peichen Zhong et.al.|[2504.16893](http://arxiv.org/abs/2504.16893)|null|
@@ -3436,6 +3446,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
+|**2025-04-24**|**STCL:Curriculum learning Strategies for deep learning image steganography models**|Fengchun Liu et.al.|[2504.17609](http://arxiv.org/abs/2504.17609)|null|
+|**2025-04-24**|**Text-to-Image Alignment in Denoising-Based Models through Step Selection**|Paul Grimal et.al.|[2504.17525](http://arxiv.org/abs/2504.17525)|null|
+|**2025-04-24**|**RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation**|Aviv Slobodkin et.al.|[2504.17502](http://arxiv.org/abs/2504.17502)|null|
+|**2025-04-24**|**StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies**|Xu Wang et.al.|[2504.17401](http://arxiv.org/abs/2504.17401)|null|
+|**2025-04-24**|**DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition**|Yiyan Xu et.al.|[2504.17349](http://arxiv.org/abs/2504.17349)|null|
+|**2025-04-24**|**Physics-based super-resolved simulation of 3D elastic wave propagation adopting scalable Diffusion Transformer**|Hugo Gabrielidis et.al.|[2504.17308](http://arxiv.org/abs/2504.17308)|null|
+|**2025-04-24**|**Towards Generalized and Training-Free Text-Guided Semantic Manipulation**|Yu Hong et.al.|[2504.17269](http://arxiv.org/abs/2504.17269)|null|
 |**2025-04-23**|**High-Quality Cloud-Free Optical Image Synthesis Using Multi-Temporal SAR and Contaminated Optical Data**|Chenxi Duan et.al.|[2504.16870](http://arxiv.org/abs/2504.16870)|null|
 |**2025-04-23**|**CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning**|Fengchun Liu et.al.|[2504.16364](http://arxiv.org/abs/2504.16364)|null|
 |**2025-04-22**|**Learning Energy-Based Generative Models via Potential Flow: A Variational Principle Approach to Probability Density Homotopy Matching**|Junn Yong Loo et.al.|[2504.16262](http://arxiv.org/abs/2504.16262)|null|
@@ -5757,6 +5777,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
+|**2025-04-24**|**MV-Crafter: An Intelligent System for Music-guided Video Generation**|Chuer Chen et.al.|[2504.17267](http://arxiv.org/abs/2504.17267)|null|
+|**2025-04-24**|**DIVE: Inverting Conditional Diffusion Models for Discriminative Tasks**|Yinqi Li et.al.|[2504.17253](http://arxiv.org/abs/2504.17253)|**[link](https://github.com/LiYinqi/DIVE)**|
+|**2025-04-24**|**We'll Fix it in Post: Improving Text-to-Video Generation with Neuro-Symbolic Feedback**|Minkyu Choi et.al.|[2504.17180](http://arxiv.org/abs/2504.17180)|null|
 |**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
 |**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Ying Li et.al.|[2504.16464](http://arxiv.org/abs/2504.16464)|null|
 |**2025-04-23**|**VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models**|Xuming Hu et.al.|[2504.16359](http://arxiv.org/abs/2504.16359)|null|
