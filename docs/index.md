@@ -3574,7 +3574,7 @@ layout: default
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-13**|**Early-Bird Diffusion: Investigating and Leveraging Timestep-Aware Early-Bird Tickets in Diffusion Models for Efficient Training**|Lexington Whalen et.al.|[2504.09606](http://arxiv.org/abs/2504.09606)|null|
 |**2025-04-13**|**DiffuMural: Restoring Dunhuang Murals with Multi-scale Diffusion**|Puyu Han et.al.|[2504.09513](http://arxiv.org/abs/2504.09513)|null|
-|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|null|
+|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|**[link](https://github.com/SilentView/GigaTok)**|
 |**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
 |**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
 |**2025-04-11**|**Discriminator-Free Direct Preference Optimization for Video Diffusion**|Haoran Cheng et.al.|[2504.08542](http://arxiv.org/abs/2504.08542)|null|
