@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,8 +25,8 @@
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667](http://arxiv.org/abs/2505.03667)|null|
 |**2025-05-06**|**Understanding large-scale dynamos in unstratified rotating shear flows**|Tushar Mondal et.al.|[2505.03660](http://arxiv.org/abs/2505.03660)|null|
-|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623](http://arxiv.org/abs/2505.03623)|null|
-|**2025-05-06**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603](http://arxiv.org/abs/2505.03603)|null|
+|**2025-05-06**|**Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map**|Alessandro Simoni et.al.|[2505.03623](http://arxiv.org/abs/2505.03623)|**[link](https://github.com/covisionlab/diffusion_labeling)**|
+|**2025-05-07**|**PAHA: Parts-Aware Audio-Driven Human Animation with Diffusion Model**|Y. B. Wang et.al.|[2505.03603](http://arxiv.org/abs/2505.03603)|null|
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
 |**2025-05-06**|**Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID**|Koray Ulusan et.al.|[2505.03557](http://arxiv.org/abs/2505.03557)|null|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
@@ -3069,13 +3069,13 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
+|**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
@@ -3537,7 +3537,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## Image Generation
 
@@ -3548,10 +3548,10 @@
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338](http://arxiv.org/abs/2505.03338)|null|
 |**2025-05-06**|**Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning**|Yibin Wang et.al.|[2505.03318](http://arxiv.org/abs/2505.03318)|null|
-|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|null|
+|**2025-05-06**|**Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation**|Jincheng Zhang et.al.|[2505.03314](http://arxiv.org/abs/2505.03314)|**[link](https://github.com/jinchengzhanggg/proffusion)**|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824](http://arxiv.org/abs/2505.02824)|null|
 |**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
-|**2025-05-05**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567](http://arxiv.org/abs/2505.02567)|null|
+|**2025-05-07**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567](http://arxiv.org/abs/2505.02567)|null|
 |**2025-05-05**|**Text to Image Generation and Editing: A Survey**|Pengfei Yang et.al.|[2505.02527](http://arxiv.org/abs/2505.02527)|null|
 |**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
 |**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
@@ -5923,7 +5923,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 ## Video Generation
 
@@ -5934,8 +5934,8 @@
 |**2025-05-04**|**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization**|Wenchuan Wang et.al.|[2505.02192](http://arxiv.org/abs/2505.02192)|null|
 |**2025-05-03**|**GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**|Anushka Agarwal et.al.|[2505.01928](http://arxiv.org/abs/2505.01928)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
-|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|null|
-|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|null|
+|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|**[link](https://github.com/zli12321/videohallu)**|
+|**2025-05-02**|**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis**|Jiangtong Tan et.al.|[2505.01172](http://arxiv.org/abs/2505.01172)|**[link](https://github.com/josephtitan/freepca)**|
 |**2025-05-02**|**A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories**|Ziqi Ding et.al.|[2505.01067](http://arxiv.org/abs/2505.01067)|null|
 |**2025-05-02**|**Photoshop Batch Rendering Using Actions for Stylistic Video Editing**|Tessa De La Fuente et.al.|[2505.01001](http://arxiv.org/abs/2505.01001)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
@@ -6997,7 +6997,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
