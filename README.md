@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3109,20 +3109,20 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-12**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
+|**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
 |**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-10**|**JAEGER: Dual-Level Humanoid Whole-Body Controller**|Ziluo Ding et.al.|[2505.06584](http://arxiv.org/abs/2505.06584)|null|
 |**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
 |**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
 |**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
-|**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
+|**2025-05-13**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
@@ -3584,7 +3584,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## Image Generation
 
@@ -3593,7 +3593,7 @@
 |**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538](http://arxiv.org/abs/2505.07538)|null|
 |**2025-05-12**|**Addressing degeneracies in latent interpolation for diffusion models**|Erik Landolsi et.al.|[2505.07481](http://arxiv.org/abs/2505.07481)|null|
 |**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|
-|**2025-05-12**|**Metrics that matter: Evaluating image quality metrics for medical image generation**|Yash Deo et.al.|[2505.07175](http://arxiv.org/abs/2505.07175)|null|
+|**2025-05-12**|**Metrics that matter: Evaluating image quality metrics for medical image generation**|Yash Deo et.al.|[2505.07175](http://arxiv.org/abs/2505.07175)|**[link](https://github.com/YashDeo-York/GenMed)**|
 |**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
 |**2025-05-10**|**Learning Graph Representation of Agent Diffuser**|Youcef Djenouri et.al.|[2505.06761](http://arxiv.org/abs/2505.06761)|**[link](https://github.com/yousia/lgr_ad)**|
 |**2025-05-10**|**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation**|Hang Wang et.al.|[2505.06512](http://arxiv.org/abs/2505.06512)|**[link](https://github.com/hwang-cs-ime/hcma)**|
@@ -6002,7 +6002,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## Video Generation
 
@@ -6010,7 +6010,7 @@
 |---|---|---|---|---|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
-|**2025-05-12**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-13**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
 |**2025-05-12**|**Generative Pre-trained Autoregressive Diffusion Transformer**|Yuan Zhang et.al.|[2505.07344](http://arxiv.org/abs/2505.07344)|null|
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-11**|**BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation**|Panwen Hu et.al.|[2505.06985](http://arxiv.org/abs/2505.06985)|null|
@@ -7088,7 +7088,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
