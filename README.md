@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|
+|**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
+|**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605](http://arxiv.org/abs/2505.09605)|null|
+|**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Chaofan Zhang et.al.|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
+|**2025-05-14**|**Nonmonotonic diffusion in sheared active suspensions of squirmers**|Zhouyang Ge et.al.|[2505.09457](http://arxiv.org/abs/2505.09457)|null|
+|**2025-05-14**|**Variational formulations of transport on combinatorial meshes**|Kiprian Berbatov et.al.|[2505.09443](http://arxiv.org/abs/2505.09443)|null|
+|**2025-05-14**|**Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**|Yutong Hu et.al.|[2505.09430](http://arxiv.org/abs/2505.09430)|**[link](https://github.com/utomm/mini-diffuse-actor)**|
 |**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**Global exponential stability of stationary profiles in a thin film equation with second-order diffusion**|Christian Parsch et.al.|[2505.08641](http://arxiv.org/abs/2505.08641)|null|
@@ -3125,6 +3135,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393](http://arxiv.org/abs/2505.09393)|**[link](https://github.com/kk9six/umotion)**|
+|**2025-05-14**|**Text-driven Motion Generation: Overview, Challenges and Directions**|Ali Rida Sahili et.al.|[2505.09379](http://arxiv.org/abs/2505.09379)|null|
+|**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[2505.09074](http://arxiv.org/abs/2505.09074)|null|
 |**2025-05-13**|**M3G: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis**|Zhizhuo Yin et.al.|[2505.08293](http://arxiv.org/abs/2505.08293)|null|
 |**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301](http://arxiv.org/abs/2505.07301)|null|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
@@ -3601,6 +3614,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**|Yutong Hu et.al.|[2505.09430](http://arxiv.org/abs/2505.09430)|**[link](https://github.com/utomm/mini-diffuse-actor)**|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
+|**2025-05-14**|**Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**|Pengli Zhu et.al.|[2505.09323](http://arxiv.org/abs/2505.09323)|null|
+|**2025-05-14**|**An Initial Exploration of Default Images in Text-to-Image Generation**|Hannu Simonen et.al.|[2505.09166](http://arxiv.org/abs/2505.09166)|null|
+|**2025-05-13**|**IntrinsicEdit: Precise generative image manipulation in intrinsic space**|Linjie Lyu et.al.|[2505.08889](http://arxiv.org/abs/2505.08889)|null|
 |**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/abs/2505.08622)|null|
 |**2025-05-13**|**Skeleton-Guided Diffusion Model for Accurate Foot X-ray Synthesis in Hallux Valgus Diagnosis**|Midi Wan et.al.|[2505.08247](http://arxiv.org/abs/2505.08247)|**[link](https://github.com/midisec/sccdm)**|
 |**2025-05-13**|**Identifying Memorization of Diffusion Models through p-Laplace Analysis**|Jonathan Brokman et.al.|[2505.08246](http://arxiv.org/abs/2505.08246)|null|
@@ -6023,6 +6043,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
+|**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
 |**2025-05-13**|**Symbolically-Guided Visual Plan Inference from Uncurated Video Data**|Wenyan Yang et.al.|[2505.08444](http://arxiv.org/abs/2505.08444)|null|
 |**2025-05-13**|**STORYANCHORS: Generating Consistent Multi-Scene Story Frames for Long-Form Narratives**|Bo Wang et.al.|[2505.08350](http://arxiv.org/abs/2505.08350)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
