@@ -37,9 +37,9 @@
 |**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/abs/2505.08622)|null|
 |**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-13**|**Convergence and Wave Propagation for a System of Branching Rank-Based Interacting Brownian Particles**|Mete Demircigil et.al.|[2505.08563](http://arxiv.org/abs/2505.08563)|null|
-|**2025-05-13**|**Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation**|Chiara Manna et.al.|[2505.08546](http://arxiv.org/abs/2505.08546)|null|
+|**2025-05-13**|**Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation**|Chiara Manna et.al.|[2505.08546](http://arxiv.org/abs/2505.08546)|**[link](https://github.com/chiaramanna/gender-cue-integration-MT)**|
 |**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
-|**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531](http://arxiv.org/abs/2505.08531)|null|
+|**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531](http://arxiv.org/abs/2505.08531)|**[link](https://github.com/chenruduan/oareactdiff)**|
 |**2025-05-12**|**H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819](http://arxiv.org/abs/2505.07819)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
@@ -3371,7 +3371,7 @@
 |**2024-10-04**|**MDMP: Multi-modal Diffusion for supervised Motion Predictions with uncertainty**|Leo Bringer et.al.|[2410.03860](http://arxiv.org/abs/2410.03860)|**[link](https://github.com/leob03/mdmp)**|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665](http://arxiv.org/abs/2410.03665)|null|
 |**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|**[link](https://github.com/GuyTevet/CLoSD)**|
-|**2024-10-04**|**Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models**|Ye Wang et.al.|[2410.03311](http://arxiv.org/abs/2410.03311)|null|
+|**2024-10-04**|**Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models**|Ye Wang et.al.|[2410.03311](http://arxiv.org/abs/2410.03311)|**[link](https://github.com/beingbeyond/being-m0)**|
 |**2024-10-08**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187](http://arxiv.org/abs/2410.03187)|null|
 |**2024-10-02**|**Bi-Level Motion Imitation for Humanoid Robots**|Wenshuai Zhao et.al.|[2410.01968](http://arxiv.org/abs/2410.01968)|null|
 |**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|**[link](https://github.com/ali-vilab/unianimate-dit)**|
@@ -3636,7 +3636,7 @@
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
 |**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
 |**2025-05-09**|**Discovery of the Polar Ring Galaxies with deep learning**|D. V. Dobrycheva et.al.|[2505.05890](http://arxiv.org/abs/2505.05890)|null|
-|**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|null|
+|**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|**[link](https://github.com/ccccczzy/icc)**|
 |**2025-05-08**|**InstanceGen: Image Generation with Instance-level Instructions**|Etai Sella et.al.|[2505.05678](http://arxiv.org/abs/2505.05678)|**[link](https://github.com/tsunghan-wu/SLD)**|
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-08**|**Prompt to Polyp: Clinically-Aware Medical Image Synthesis with Diffusion Models**|Mikhail Chaichuk et.al.|[2505.05573](http://arxiv.org/abs/2505.05573)|**[link](https://github.com/thundercondor/imageclefmed-medvqa-gi-2024-mmcp-team)**|
