@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3619,13 +3619,13 @@ layout: default
 |**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/abs/2505.10566)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs**|Raman Dutt et.al.|[2505.10496](http://arxiv.org/abs/2505.10496)|**[link](https://github.com/Raman1121/CheXGenBench)**|
-|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046](http://arxiv.org/abs/2505.10046)|null|
+|**2025-05-15**|**Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**|Bingda Tang et.al.|[2505.10046](http://arxiv.org/abs/2505.10046)|**[link](https://github.com/tang-bd/fuse-dit)**|
 |**2025-05-14**|**EnerVerse-AC: Envisioning Embodied Environments with Action Condition**|Yuxin Jiang et.al.|[2505.09723](http://arxiv.org/abs/2505.09723)|null|
 |**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
 |**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
 |**2025-05-14**|**Train a Multi-Task Diffusion Policy on RLBench-18 in One Day with One GPU**|Yutong Hu et.al.|[2505.09430](http://arxiv.org/abs/2505.09430)|**[link](https://github.com/utomm/mini-diffuse-actor)**|
-|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
-|**2025-05-14**|**Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**|Pengli Zhu et.al.|[2505.09323](http://arxiv.org/abs/2505.09323)|null|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|**[link](https://github.com/prs-eth/marigold)**|
+|**2025-05-14**|**Q-space Guided Collaborative Attention Translation Network for Flexible Diffusion-Weighted Images Synthesis**|Pengli Zhu et.al.|[2505.09323](http://arxiv.org/abs/2505.09323)|**[link](https://github.com/idea89560041/q-catn)**|
 |**2025-05-14**|**An Initial Exploration of Default Images in Text-to-Image Generation**|Hannu Simonen et.al.|[2505.09166](http://arxiv.org/abs/2505.09166)|null|
 |**2025-05-15**|**IntrinsicEdit: Precise generative image manipulation in intrinsic space**|Linjie Lyu et.al.|[2505.08889](http://arxiv.org/abs/2505.08889)|null|
 |**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/abs/2505.08622)|null|
@@ -6050,7 +6050,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-15**|**MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**|Yanbo Ding et.al.|[2505.10238](http://arxiv.org/abs/2505.10238)|null|
 |**2025-05-15**|**ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars**|Rui-Yang Ju et.al.|[2505.10072](http://arxiv.org/abs/2505.10072)|null|
-|**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|null|
+|**2025-05-14**|**EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models**|Hu Yue et.al.|[2505.09694](http://arxiv.org/abs/2505.09694)|**[link](https://github.com/agibottech/ewmbench)**|
 |**2025-05-15**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
 |**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
 |**2025-05-13**|**Symbolically-Guided Visual Plan Inference from Uncurated Video Data**|Wenyan Yang et.al.|[2505.08444](http://arxiv.org/abs/2505.08444)|null|
