@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437](http://arxiv.org/abs/2505.13437)|null|
+|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**Unraveling superradiance: entanglement and mutual information in collective decay**|Xin H. H. Zhang et.al.|[2505.13401](http://arxiv.org/abs/2505.13401)|null|
+|**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
+|**2025-05-19**|**The localization transition for the directed polymer in a random environment is smooth**|Hubert Lacoin et.al.|[2505.13382](http://arxiv.org/abs/2505.13382)|null|
+|**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
+|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-19**|**Structure-preserving schemes conserving entropy and kinetic energy**|Kunal Bahuguna et.al.|[2505.13374](http://arxiv.org/abs/2505.13374)|null|
 |**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497](http://arxiv.org/abs/2505.11497)|null|
 |**2025-05-16**|**Unsupervised Detection of Distribution Shift in Inverse Problems using Diffusion Models**|Shirin Shoushtari et.al.|[2505.11482](http://arxiv.org/abs/2505.11482)|null|
 |**2025-05-16**|**PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment**|Dingbang Huang et.al.|[2505.11468](http://arxiv.org/abs/2505.11468)|null|
@@ -3147,6 +3157,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140](http://arxiv.org/abs/2505.13140)|null|
+|**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
+|**2025-05-19**|**Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform**|Li Lin et.al.|[2505.12631](http://arxiv.org/abs/2505.12631)|**[link](https://github.com/xhaughearl/haarmodic)**|
 |**2025-05-16**|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|Zongye Zhang et.al.|[2505.11013](http://arxiv.org/abs/2505.11013)|null|
 |**2025-05-16**|**MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation**|Gabriel Maldonado et.al.|[2505.10810](http://arxiv.org/abs/2505.10810)|null|
 |**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
@@ -3628,6 +3641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation**|Huawei Lin et.al.|[2505.13439](http://arxiv.org/abs/2505.13439)|null|
+|**2025-05-19**|**Swin DiT: Diffusion Transformer using Pseudo Shifted Windows**|Jiafu Wu et.al.|[2505.13219](http://arxiv.org/abs/2505.13219)|null|
+|**2025-05-19**|**Diffusion Models with Double Guidance: Generate with aggregated datasets**|Yanfeng Yang et.al.|[2505.13213](http://arxiv.org/abs/2505.13213)|null|
+|**2025-05-19**|**A Physics-Inspired Optimizer: Velocity Regularized Adam**|Pranav Vaidhyanathan et.al.|[2505.13196](http://arxiv.org/abs/2505.13196)|null|
+|**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
+|**2025-05-19**|**Accelerate TarFlow Sampling with GS-Jacobi Iteration**|Ben Liu et.al.|[2505.12849](http://arxiv.org/abs/2505.12849)|null|
+|**2025-05-19**|**FRAbench and GenEval: Scaling Fine-Grained Aspect Evaluation across Tasks, Modalities**|Shibo Hong et.al.|[2505.12795](http://arxiv.org/abs/2505.12795)|**[link](https://github.com/gsfsdv/frabench-and-geneval)**|
+|**2025-05-19**|**SounDiT: Geo-Contextual Soundscape-to-Landscape Generation**|Junbo Wang et.al.|[2505.12734](http://arxiv.org/abs/2505.12734)|null|
+|**2025-05-19**|**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking**|Zihan Su et.al.|[2505.12667](http://arxiv.org/abs/2505.12667)|null|
+|**2025-05-19**|**Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking**|Shiyu Xuan et.al.|[2505.12606](http://arxiv.org/abs/2505.12606)|null|
 |**2025-05-16**|**GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing**|Yusu Qian et.al.|[2505.11493](http://arxiv.org/abs/2505.11493)|null|
 |**2025-05-16**|**PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment**|Dingbang Huang et.al.|[2505.11468](http://arxiv.org/abs/2505.11468)|null|
 |**2025-05-16**|**GOUHFI: a novel contrast- and resolution-agnostic segmentation tool for Ultra-High Field MRI**|Marc-Antoine Fortin et.al.|[2505.11445](http://arxiv.org/abs/2505.11445)|**[link](https://github.com/mafortin/GOUHFI)**|
@@ -6070,6 +6093,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437](http://arxiv.org/abs/2505.13437)|null|
+|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211](http://arxiv.org/abs/2505.13211)|**[link](https://github.com/sandai-org/magiattention)**|
+|**2025-05-19**|**DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories**|Joel Jang et.al.|[2505.12705](http://arxiv.org/abs/2505.12705)|null|
+|**2025-05-19**|**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking**|Zihan Su et.al.|[2505.12667](http://arxiv.org/abs/2505.12667)|null|
+|**2025-05-19**|**BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation**|Haiquan Wen et.al.|[2505.12620](http://arxiv.org/abs/2505.12620)|null|
+|**2025-05-18**|**Video-GPT via Next Clip Diffusion**|Shaobin Zhuang et.al.|[2505.12489](http://arxiv.org/abs/2505.12489)|null|
+|**2025-05-18**|**From Shots to Stories: LLM-Assisted Video Editing with Unified Language Representations**|Yuzhi Li et.al.|[2505.12237](http://arxiv.org/abs/2505.12237)|null|
+|**2025-05-17**|**LOVE: Benchmarking and Evaluating Text-to-Video Generation and Video-to-Text Interpretation**|Jiarui Wang et.al.|[2505.12098](http://arxiv.org/abs/2505.12098)|**[link](https://github.com/intmegroup/love)**|
+|**2025-05-17**|**VFRTok: Variable Frame Rates Video Tokenizer with Duration-Proportional Information Assumption**|Tianxiong Zhong et.al.|[2505.12053](http://arxiv.org/abs/2505.12053)|null|
 |**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497](http://arxiv.org/abs/2505.11497)|null|
 |**2025-05-16**|**Face Consistency Benchmark for GenAI Video**|Michal Podstawski et.al.|[2505.11425](http://arxiv.org/abs/2505.11425)|null|
 |**2025-05-14**|**Aquarius: A Family of Industry-Level Video Generation Models for Marketing Scenarios**|Huafeng Shi et.al.|[2505.10584](http://arxiv.org/abs/2505.10584)|null|
