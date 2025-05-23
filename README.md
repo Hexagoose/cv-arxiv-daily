@@ -3694,10 +3694,10 @@
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
 |**2025-05-21**|**IA-T2I: Internet-Augmented Text-to-Image Generation**|Chuanhao Li et.al.|[2505.15779](http://arxiv.org/abs/2505.15779)|null|
-|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
+|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|**[link](https://github.com/Vincent-HKUSTGZ/FragFake)**|
 |**2025-05-21**|**FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion**|Kazuaki Mishima et.al.|[2505.15313](http://arxiv.org/abs/2505.15313)|null|
 |**2025-05-21**|**BadSR: Stealthy Label Backdoor Attacks on Image Super-Resolution**|Ji Guo et.al.|[2505.15308](http://arxiv.org/abs/2505.15308)|null|
-|**2025-05-21**|**Scaling Diffusion Transformers Efficiently via $μ$ P**|Chenyu Zheng et.al.|[2505.15270](http://arxiv.org/abs/2505.15270)|null|
+|**2025-05-21**|**Scaling Diffusion Transformers Efficiently via $μ$ P**|Chenyu Zheng et.al.|[2505.15270](http://arxiv.org/abs/2505.15270)|**[link](https://github.com/ML-GSAI/Scaling-Diffusion-Transformers-muP)**|
 |**2025-05-22**|**Contrastive Learning-Enhanced Trajectory Matching for Small-Scale Dataset Distillation**|Wenmin Li et.al.|[2505.15267](http://arxiv.org/abs/2505.15267)|null|
 |**2025-05-21**|**Harnessing Caption Detailness for Data-Efficient Text-to-Image Generation**|Xinran Wang et.al.|[2505.15172](http://arxiv.org/abs/2505.15172)|null|
 |**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
