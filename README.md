@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,10 +22,10 @@
 |---|---|---|---|---|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
 |**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006](http://arxiv.org/abs/2505.17006)|null|
-|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|null|
-|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/abs/2505.16990)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|**[link](https://github.com/neuraloperator/fundps)**|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990](http://arxiv.org/abs/2505.16990)|**[link](https://github.com/yu-rp/dimple)**|
 |**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
-|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|**[link](https://github.com/hidream-ai/spm-diff)**|
 |**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976](http://arxiv.org/abs/2505.16976)|null|
 |**2025-05-22**|**3D Equivariant Visuomotor Policy Learning via Spherical Projection**|Boce Hu et.al.|[2505.16969](http://arxiv.org/abs/2505.16969)|null|
 |**2025-05-22**|**Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models**|Alessandro Favero et.al.|[2505.16959](http://arxiv.org/abs/2505.16959)|null|
@@ -3189,7 +3189,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 ## Motion
 
@@ -3676,20 +3676,20 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|null|
-|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|**[link](https://github.com/hidream-ai/spm-diff)**|
 |**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976](http://arxiv.org/abs/2505.16976)|null|
 |**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862](http://arxiv.org/abs/2505.16862)|null|
 |**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763](http://arxiv.org/abs/2505.16763)|null|
 |**2025-05-22**|**KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models**|Yongliang Wu et.al.|[2505.16707](http://arxiv.org/abs/2505.16707)|null|
-|**2025-05-22**|**FPQVAR: Floating Point Quantization for Visual Autoregressive Model with FPGA Hardware Co-design**|Renjie Wei et.al.|[2505.16335](http://arxiv.org/abs/2505.16335)|null|
+|**2025-05-22**|**FPQVAR: Floating Point Quantization for Visual Autoregressive Model with FPGA Hardware Co-design**|Renjie Wei et.al.|[2505.16335](http://arxiv.org/abs/2505.16335)|**[link](https://github.com/pku-sec-lab/fpqvar)**|
 |**2025-05-22**|**TensorAR: Refinement is All You Need in Autoregressive Image Generation**|Cheng Cheng et.al.|[2505.16324](http://arxiv.org/abs/2505.16324)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
 |**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
@@ -6158,16 +6158,16 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|null|
+|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|**[link](https://github.com/dvlab-research/jenga)**|
 |**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819](http://arxiv.org/abs/2505.16819)|null|
 |**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
-|**2025-05-21**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880](http://arxiv.org/abs/2505.15880)|null|
+|**2025-05-23**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880](http://arxiv.org/abs/2505.15880)|null|
 |**2025-05-21**|**Generative AI for Autonomous Driving: A Review**|Katharina Winter et.al.|[2505.15863](http://arxiv.org/abs/2505.15863)|null|
 |**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800](http://arxiv.org/abs/2505.15800)|null|
 |**2025-05-21**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
@@ -7275,7 +7275,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
