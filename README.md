@@ -3316,7 +3316,7 @@
 |**2025-02-08**|**MoFM: A Large-Scale Human Motion Foundation Model**|Mohammadreza Baharani et.al.|[2502.05432](http://arxiv.org/abs/2502.05432)|null|
 |**2025-02-10**|**HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation**|Qijun Gan et.al.|[2502.04847](http://arxiv.org/abs/2502.04847)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
-|**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936](http://arxiv.org/abs/2502.02936)|null|
+|**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936](http://arxiv.org/abs/2502.02936)|**[link](https://github.com/HKBU-VSComputing/2025_TVCG_JointCloud-Mocap)**|
 |**2025-02-05**|**A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions**|Hao Yin et.al.|[2502.02817](http://arxiv.org/abs/2502.02817)|null|
 |**2025-02-06**|**MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm**|Ziyan Guo et.al.|[2502.02358](http://arxiv.org/abs/2502.02358)|null|
 |**2025-02-04**|**CASIM: Composite Aware Semantic Injection for Text to Motion Generation**|Che-Jui Chang et.al.|[2502.02063](http://arxiv.org/abs/2502.02063)|null|
