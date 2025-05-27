@@ -1286,7 +1286,7 @@ layout: default
 |**2024-11-14**|**Golden Noise for Diffusion Models: A Learning Framework**|Zikai Zhou et.al.|[2411.09502](http://arxiv.org/abs/2411.09502)|**[link](https://github.com/xie-lab-ml/golden-noise-for-diffusion-models)**|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**On the number of crossings and bouncings of a diffusion at a sticky threshold**|Alexis Anagnostakis et.al.|[2411.08846](http://arxiv.org/abs/2411.08846)|null|
-|**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
+|**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|**[link](https://github.com/reeceomahoney/locodiff)**|
 |**2024-11-13**|**Fluctuations of driven probes reveal nonequilibrium transitions in complex fluids**|Danilo Forastiere et.al.|[2411.08817](http://arxiv.org/abs/2411.08817)|null|
 |**2024-11-13**|**A combined diffusion/rate equation model to describe charge generation in phase-separated donor-acceptor blends**|Phillip Teschner et.al.|[2411.08812](http://arxiv.org/abs/2411.08812)|null|
 |**2024-11-13**|**A novel imaging setup for hybrid radiotherapy tailored PET/MR in patients with head and neck cancer**|R. M. Winter et.al.|[2411.08783](http://arxiv.org/abs/2411.08783)|null|
