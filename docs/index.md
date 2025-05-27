@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3198,7 +3198,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-23**|**Multi-Person Interaction Generation from Two-Person Motion Priors**|Wenning Xu et.al.|[2505.17860](http://arxiv.org/abs/2505.17860)|null|
-|**2025-05-21**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithania et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
+|**2025-05-25**|**Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios**|Patanjali Maithani et.al.|[2505.16055](http://arxiv.org/abs/2505.16055)|null|
 |**2025-05-19**|**CacheFlow: Fast Human Motion Prediction by Cached Normalizing Flow**|Takahiro Maeda et.al.|[2505.13140](http://arxiv.org/abs/2505.13140)|null|
 |**2025-05-19**|**UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes**|Zichen Geng et.al.|[2505.12774](http://arxiv.org/abs/2505.12774)|null|
 |**2025-05-19**|**Multi-Resolution Haar Network: Enhancing human motion prediction via Haar transform**|Li Lin et.al.|[2505.12631](http://arxiv.org/abs/2505.12631)|**[link](https://github.com/xhaughearl/haarmodic)**|
