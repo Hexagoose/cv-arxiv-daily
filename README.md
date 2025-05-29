@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Path-Dependent SDEs: Solutions and Parameter Estimation**|Pardis Semnani et.al.|[2505.22646](http://arxiv.org/abs/2505.22646)|null|
+|**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643](http://arxiv.org/abs/2505.22643)|null|
+|**2025-05-28**|**ObjectClear: Complete Object Removal via Object-Effect Attention**|Jixin Zhao et.al.|[2505.22636](http://arxiv.org/abs/2505.22636)|null|
+|**2025-05-28**|**Lattice Compatibility and Energy Barriers in Intercalation Compounds**|Delin Zhang et.al.|[2505.22628](http://arxiv.org/abs/2505.22628)|null|
+|**2025-05-28**|**A theory for diffusion-controlled reactions within nonequilibrium steady-states**|Seokjin Moon et.al.|[2505.22623](http://arxiv.org/abs/2505.22623)|null|
+|**2025-05-28**|**Principled Out-of-Distribution Generalization via Simplicity**|Jiawei Ge et.al.|[2505.22622](http://arxiv.org/abs/2505.22622)|null|
+|**2025-05-28**|**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding**|Chengyue Wu et.al.|[2505.22618](http://arxiv.org/abs/2505.22618)|null|
+|**2025-05-28**|**ImageReFL: Balancing Quality and Diversity in Human-Aligned Diffusion Models**|Dmitrii Sorokin et.al.|[2505.22569](http://arxiv.org/abs/2505.22569)|null|
+|**2025-05-28**|**Nonlinear time-reversal symmetry breaking in kagome spin ice HoAgGe**|Kan Zhao et.al.|[2505.22544](http://arxiv.org/abs/2505.22544)|null|
+|**2025-05-28**|**Test-Time Alignment of Discrete Diffusion Models with Sequential Monte Carlo**|Chinmay Pani et.al.|[2505.22524](http://arxiv.org/abs/2505.22524)|null|
 |**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
 |**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
 |**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485](http://arxiv.org/abs/2505.21485)|null|
@@ -3230,6 +3240,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**LatentMove: Towards Complex Human Movement Video Generation**|Ashkan Taghipour et.al.|[2505.22046](http://arxiv.org/abs/2505.22046)|null|
+|**2025-05-28**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Mengda Xu et.al.|[2505.21864](http://arxiv.org/abs/2505.21864)|null|
+|**2025-05-27**|**Diffusion Model-based Activity Completion for AI Motion Capture from Videos**|Gao Huayu et.al.|[2505.21566](http://arxiv.org/abs/2505.21566)|null|
 |**2025-05-28**|**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on**|Guangyuan Li et.al.|[2505.21325](http://arxiv.org/abs/2505.21325)|null|
 |**2025-05-27**|**IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model**|Yang Zhao et.al.|[2505.21146](http://arxiv.org/abs/2505.21146)|null|
 |**2025-05-27**|**HuMoCon: Concept Discovery for Human Motion Understanding**|Qihang Fang et.al.|[2505.20920](http://arxiv.org/abs/2505.20920)|null|
@@ -3726,6 +3739,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643](http://arxiv.org/abs/2505.22643)|null|
+|**2025-05-28**|**Principled Out-of-Distribution Generalization via Simplicity**|Jiawei Ge et.al.|[2505.22622](http://arxiv.org/abs/2505.22622)|null|
+|**2025-05-28**|**ImageReFL: Balancing Quality and Diversity in Human-Aligned Diffusion Models**|Dmitrii Sorokin et.al.|[2505.22569](http://arxiv.org/abs/2505.22569)|null|
+|**2025-05-28**|**PrismLayers: Open Data for High-Quality Multi-Layer Transparent Image Generative Models**|Junwen Chen et.al.|[2505.22523](http://arxiv.org/abs/2505.22523)|null|
+|**2025-05-28**|**ProCrop: Learning Aesthetic Image Cropping from Professional Compositions**|Ke Zhang et.al.|[2505.22490](http://arxiv.org/abs/2505.22490)|null|
+|**2025-05-28**|**Self-Reflective Reinforcement Learning for Diffusion-based Image Reasoning Generation**|Jiadong Pan et.al.|[2505.22407](http://arxiv.org/abs/2505.22407)|null|
+|**2025-05-28**|**PacTure: Efficient PBR Texture Generation on Packed Views with Visual Autoregressive Models**|Fan Fei et.al.|[2505.22394](http://arxiv.org/abs/2505.22394)|null|
+|**2025-05-28**|**Identity-Preserving Text-to-Image Generation via Dual-Level Feature Decoupling and Expert-Guided Fusion**|Kewen Chen et.al.|[2505.22360](http://arxiv.org/abs/2505.22360)|null|
+|**2025-05-28**|**Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers**|Weilun Feng et.al.|[2505.22167](http://arxiv.org/abs/2505.22167)|null|
+|**2025-05-28**|**SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**|Yifan Chang et.al.|[2505.22126](http://arxiv.org/abs/2505.22126)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
 |**2025-05-27**|**DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**|Yiheng Liu et.al.|[2505.21473](http://arxiv.org/abs/2505.21473)|null|
 |**2025-05-27**|**Creativity in LLM-based Multi-Agent Systems: A Survey**|Yi-Cheng Lin et.al.|[2505.21116](http://arxiv.org/abs/2505.21116)|null|
@@ -6238,6 +6261,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|null|
+|**2025-05-28**|**Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers**|Weilun Feng et.al.|[2505.22167](http://arxiv.org/abs/2505.22167)|null|
+|**2025-05-28**|**FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**|Guanwen Feng et.al.|[2505.22141](http://arxiv.org/abs/2505.22141)|null|
+|**2025-05-28**|**LatentMove: Towards Complex Human Movement Video Generation**|Ashkan Taghipour et.al.|[2505.22046](http://arxiv.org/abs/2505.22046)|null|
+|**2025-05-28**|**PanoWan: Lifting Diffusion Video Generation Models to 360° with Latitude/Longitude-aware Mechanisms**|Yifei Xia et.al.|[2505.22016](http://arxiv.org/abs/2505.22016)|null|
+|**2025-05-28**|**Learning World Models for Interactive Video Generation**|Taiye Chen et.al.|[2505.21996](http://arxiv.org/abs/2505.21996)|null|
+|**2025-05-27**|**HDRSDR-VQA: A Subjective Video Quality Dataset for HDR and SDR Comparative Evaluation**|Bowen Chen et.al.|[2505.21831](http://arxiv.org/abs/2505.21831)|null|
+|**2025-05-27**|**Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation**|Ke Zhang et.al.|[2505.21653](http://arxiv.org/abs/2505.21653)|null|
+|**2025-05-27**|**VideoMarkBench: Benchmarking Robustness of Video Watermarking**|Zhengyuan Jiang et.al.|[2505.21620](http://arxiv.org/abs/2505.21620)|null|
 |**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
 |**2025-05-27**|**Dynamic Vision from EEG Brain Recordings: How much does EEG know?**|Prajwal Singh et.al.|[2505.21385](http://arxiv.org/abs/2505.21385)|null|
 |**2025-05-28**|**SageAttention2++: A More Efficient Implementation of SageAttention2**|Jintao Zhang et.al.|[2505.21136](http://arxiv.org/abs/2505.21136)|null|
