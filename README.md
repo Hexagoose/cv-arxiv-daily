@@ -4529,7 +4529,7 @@
 |**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
 |**2025-01-27**|**Autonomous Horizon-based Asteroid Navigation With Observability-constrained Maneuvers**|Aditya Arjun Anibha et.al.|[2501.15806](http://arxiv.org/abs/2501.15806)|null|
 |**2025-01-27**|**Do Existing Testing Tools Really Uncover Gender Bias in Text-to-Image Models?**|Yunbo Lyu et.al.|[2501.15775](http://arxiv.org/abs/2501.15775)|null|
-|**2025-01-26**|**Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting**|Yuxin Zhang et.al.|[2501.15641](http://arxiv.org/abs/2501.15641)|null|
+|**2025-01-26**|**Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting**|Yuxin Zhang et.al.|[2501.15641](http://arxiv.org/abs/2501.15641)|**[link](https://github.com/zyxElsa/IP-Prompter)**|
 |**2025-01-26**|**Comparative clinical evaluation of "memory-efficient" synthetic 3d generative adversarial networks (gan) head-to-head to state of art: results on computed tomography of the chest**|Mahshid shiri et.al.|[2501.15572](http://arxiv.org/abs/2501.15572)|null|
 |**2025-01-26**|**SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity**|Zichen Fan et.al.|[2501.15448](http://arxiv.org/abs/2501.15448)|null|
 |**2025-01-26**|**StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces**|Kyeongmin Yeo et.al.|[2501.15445](http://arxiv.org/abs/2501.15445)|null|
