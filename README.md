@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,8 +23,8 @@
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Sounding that Object: Interactive Object-Aware Image to Audio Generation**|Tingle Li et.al.|[2506.04214](http://arxiv.org/abs/2506.04214)|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
-|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
 |**2025-06-04**|**Fluctuations in the number of local minima in discrete-time fractional Brownian motion**|Maxim Dolgushev et.al.|[2506.04159](http://arxiv.org/abs/2506.04159)|null|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
 |**2025-06-04**|**A robust matrix-free approach for large-scale non-isothermal high-contrast viscosity Stokes flow on blended domains with applications to geophysics**|Andreas Burkhart et.al.|[2506.04157](http://arxiv.org/abs/2506.04157)|null|
@@ -3274,13 +3274,13 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 ## Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-04**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
+|**2025-06-05**|**HUMOF: Human Motion Forecasting in Interactive Social Scenes**|Caiyi Sun et.al.|[2506.03753](http://arxiv.org/abs/2506.03753)|null|
 |**2025-05-31**|**Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward**|Muhammad Islam et.al.|[2506.03191](http://arxiv.org/abs/2506.03191)|null|
 |**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
@@ -3785,19 +3785,19 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
-|**2025-06-04**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|null|
+|**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|null|
 |**2025-06-04**|**EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation**|Cheng Zhang et.al.|[2506.03652](http://arxiv.org/abs/2506.03652)|null|
 |**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|null|
 |**2025-06-03**|**RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions**|Bimsara Pathiraja et.al.|[2506.03448](http://arxiv.org/abs/2506.03448)|null|
 |**2025-06-03**|**Robustness in Both Domains: CLIP Needs a Robust Text Encoder**|Elias Abad Rocamora et.al.|[2506.03355](http://arxiv.org/abs/2506.03355)|null|
-|**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-05**|**UniWorld-V1: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
 |**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
 |**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107](http://arxiv.org/abs/2506.03107)|null|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
@@ -6343,7 +6343,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 ## Video Generation
 
@@ -6351,7 +6351,7 @@
 |---|---|---|---|---|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
 |**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
 |**2025-06-03**|**Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas**|Austin Silveria et.al.|[2506.03275](http://arxiv.org/abs/2506.03275)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
@@ -7525,7 +7525,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
