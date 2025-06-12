@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -23,7 +23,7 @@ layout: default
 |**2025-06-10**|**Who is using AI to code? Global diffusion and impact of generative AI**|Simone Daniotti et.al.|[2506.08945](http://arxiv.org/abs/2506.08945)|null|
 |**2025-06-10**|**Asymptotic error distribution for stochastic Runge--Kutta methods of strong order one**|Diancong Jin et.al.|[2506.08937](http://arxiv.org/abs/2506.08937)|null|
 |**2025-06-10**|**Measurement of the Dispersion $\unicode{x2013}$ Galaxy Cross-Power Spectrum with the Second CHIME/FRB Catalog**|Haochen Wang et.al.|[2506.08932](http://arxiv.org/abs/2506.08932)|null|
-|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895](http://arxiv.org/abs/2506.08895)|null|
+|**2025-06-11**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895](http://arxiv.org/abs/2506.08895)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
@@ -3832,9 +3832,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
-|**2025-06-10**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
+|**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
-|**2025-06-10**|**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping**|Jiajun Li et.al.|[2506.08908](http://arxiv.org/abs/2506.08908)|null|
+|**2025-06-11**|**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping**|Jiajun Li et.al.|[2506.08908](http://arxiv.org/abs/2506.08908)|null|
 |**2025-06-10**|**CulturalFrames: Assessing Cultural Expectation Alignment in Text-to-Image Models and Evaluation Metrics**|Shravan Nayak et.al.|[2506.08835](http://arxiv.org/abs/2506.08835)|null|
 |**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Yifei Su et.al.|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
 |**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|

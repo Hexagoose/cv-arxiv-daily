@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-06-10**|**Who is using AI to code? Global diffusion and impact of generative AI**|Simone Daniotti et.al.|[2506.08945](http://arxiv.org/abs/2506.08945)|null|
 |**2025-06-10**|**Asymptotic error distribution for stochastic Runge--Kutta methods of strong order one**|Diancong Jin et.al.|[2506.08937](http://arxiv.org/abs/2506.08937)|null|
 |**2025-06-10**|**Measurement of the Dispersion $\unicode{x2013}$ Galaxy Cross-Power Spectrum with the Second CHIME/FRB Catalog**|Haochen Wang et.al.|[2506.08932](http://arxiv.org/abs/2506.08932)|null|
-|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895](http://arxiv.org/abs/2506.08895)|null|
+|**2025-06-11**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895](http://arxiv.org/abs/2506.08895)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
@@ -3314,7 +3314,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 ## Motion
 
@@ -3834,7 +3834,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 ## Image Generation
 
@@ -3842,9 +3842,9 @@
 |---|---|---|---|---|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
-|**2025-06-10**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
+|**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
-|**2025-06-10**|**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping**|Jiajun Li et.al.|[2506.08908](http://arxiv.org/abs/2506.08908)|null|
+|**2025-06-11**|**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping**|Jiajun Li et.al.|[2506.08908](http://arxiv.org/abs/2506.08908)|null|
 |**2025-06-10**|**CulturalFrames: Assessing Cultural Expectation Alignment in Text-to-Image Models and Evaluation Metrics**|Shravan Nayak et.al.|[2506.08835](http://arxiv.org/abs/2506.08835)|null|
 |**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Yifei Su et.al.|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
 |**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|
@@ -6432,7 +6432,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 ## Video Generation
 
@@ -7642,7 +7642,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
