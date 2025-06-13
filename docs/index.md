@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
+|**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
+|**2025-06-11**|**Canonical Latent Representations in Conditional Diffusion Models**|Yitao Xu et.al.|[2506.09955](http://arxiv.org/abs/2506.09955)|null|
+|**2025-06-11**|**A Diffuse-Interface Marangoni Instability**|Xiangwei Li et.al.|[2506.09945](http://arxiv.org/abs/2506.09945)|null|
+|**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
+|**2025-06-11**|**Discrete-space and -time analogue of a super-diffusive fractional Brownian motion**|Enzo Marinari et.al.|[2506.09921](http://arxiv.org/abs/2506.09921)|null|
+|**2025-06-11**|**TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model**|Yijie Deng et.al.|[2506.09909](http://arxiv.org/abs/2506.09909)|null|
+|**2025-06-11**|**Universality of scaling entropy in charged hadron multiplicity distributions at the LHC**|L. S. Moriggi et.al.|[2506.09899](http://arxiv.org/abs/2506.09899)|null|
+|**2025-06-11**|**Magnetic excitations and exchange parameters of a nickel chain compound PbMn $_2$Ni$_6$Te$_3$O$_{18}$ : Neutron scattering and density functional theory studies**|S. Uthayakumar et.al.|[2506.09861](http://arxiv.org/abs/2506.09861)|null|
+|**2025-06-11**|**A Deep Generative Model for the Simulation of Discrete Karst Networks**|Dany Lauzon et.al.|[2506.09832](http://arxiv.org/abs/2506.09832)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
 |**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036](http://arxiv.org/abs/2506.09036)|null|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
@@ -3312,8 +3322,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
+|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
+|**2025-06-11**|**Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation**|Chendong Xin et.al.|[2506.09384](http://arxiv.org/abs/2506.09384)|null|
+|**2025-06-09**|**SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach**|Elly Akhoundi et.al.|[2506.09075](http://arxiv.org/abs/2506.09075)|null|
 |**2025-06-10**|**Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization**|Sepehr Samavi et.al.|[2506.08851](http://arxiv.org/abs/2506.08851)|null|
-|**2025-06-10**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840](http://arxiv.org/abs/2506.08840)|null|
+|**2025-06-12**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Dewei Wang et.al.|[2506.08840](http://arxiv.org/abs/2506.08840)|null|
 |**2025-06-09**|**PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation**|Wei Yao et.al.|[2506.07456](http://arxiv.org/abs/2506.07456)|null|
 |**2025-06-08**|**AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?**|Nada Aboudeshish et.al.|[2506.07216](http://arxiv.org/abs/2506.07216)|null|
 |**2025-06-08**|**Harmony-Aware Music-driven Motion Synthesis with Perceptual Constraint on UGC Datasets**|Xinyi Wu et.al.|[2506.07076](http://arxiv.org/abs/2506.07076)|null|
@@ -3830,6 +3844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
+|**2025-06-11**|**Canonical Latent Representations in Conditional Diffusion Models**|Yitao Xu et.al.|[2506.09955](http://arxiv.org/abs/2506.09955)|null|
+|**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
+|**2025-06-11**|**Only-Style: Stylistic Consistency in Image Generation without Content Leakage**|Tilemachos Aravanis et.al.|[2506.09916](http://arxiv.org/abs/2506.09916)|null|
+|**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
+|**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
+|**2025-06-12**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao Li et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|null|
+|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482](http://arxiv.org/abs/2506.09482)|null|
+|**2025-06-11**|**Noise Conditional Variational Score Distillation**|Xinyu Peng et.al.|[2506.09416](http://arxiv.org/abs/2506.09416)|null|
+|**2025-06-11**|**SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing**|Hongguang Zhu et.al.|[2506.09363](http://arxiv.org/abs/2506.09363)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
 |**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
@@ -6426,8 +6450,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
+|**2025-06-11**|**InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**|Zhenzhi Wang et.al.|[2506.09984](http://arxiv.org/abs/2506.09984)|null|
+|**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
+|**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
+|**2025-06-11**|**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation**|Shanchuan Lin et.al.|[2506.09350](http://arxiv.org/abs/2506.09350)|null|
+|**2025-06-10**|**Seedance 1.0: Exploring the Boundaries of Video Generation Models**|Yu Gao et.al.|[2506.09113](http://arxiv.org/abs/2506.09113)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
-|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
 |**2025-06-10**|**Product of Experts for Visual Generation**|Yunzhi Zhang et.al.|[2506.08894](http://arxiv.org/abs/2506.08894)|null|
 |**2025-06-10**|**HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**|Ziyao Huang et.al.|[2506.08797](http://arxiv.org/abs/2506.08797)|null|
 |**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632](http://arxiv.org/abs/2506.08632)|null|
