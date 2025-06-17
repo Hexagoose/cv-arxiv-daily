@@ -45,7 +45,7 @@ layout: default
 |**2025-06-11**|**Magnetic excitations and exchange parameters of a nickel chain compound PbMn $_2$Ni$_6$Te$_3$O$_{18}$ : Neutron scattering and density functional theory studies**|S. Uthayakumar et.al.|[2506.09861](http://arxiv.org/abs/2506.09861)|null|
 |**2025-06-11**|**A Deep Generative Model for the Simulation of Discrete Karst Networks**|Dany Lauzon et.al.|[2506.09832](http://arxiv.org/abs/2506.09832)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
-|**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036](http://arxiv.org/abs/2506.09036)|null|
+|**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036](http://arxiv.org/abs/2506.09036)|**[link](https://github.com/karthikprabhu22/diffusion_model)**|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
 |**2025-06-10**|**Superlinear Drift in Consensus-Based Optimization with Condensation Phenomena**|Jonathan Franceschi et.al.|[2506.09001](http://arxiv.org/abs/2506.09001)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
@@ -75,7 +75,7 @@ layout: default
 |**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085](http://arxiv.org/abs/2506.06085)|null|
 |**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045](http://arxiv.org/abs/2506.06045)|null|
 |**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
-|**2025-06-06**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|null|
+|**2025-06-06**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|**[link](https://github.com/keshik6/grafting)**|
 |**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311](http://arxiv.org/abs/2506.05311)|null|
 |**2025-06-05**|**Learning normalized image densities via dual score matching**|Florentin Guth et.al.|[2506.05310](http://arxiv.org/abs/2506.05310)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
@@ -202,7 +202,7 @@ layout: default
 |**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
 |**2025-05-19**|**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance**|Dian Shao et.al.|[2505.13437](http://arxiv.org/abs/2505.13437)|null|
 |**2025-05-20**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
-|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|**[link](https://github.com/maifoundations/qzo)**|
 |**2025-05-19**|**Unraveling superradiance: entanglement and mutual information in collective decay**|Xin H. H. Zhang et.al.|[2505.13401](http://arxiv.org/abs/2505.13401)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**The localization transition for the directed polymer in a random environment is smooth**|Hubert Lacoin et.al.|[2505.13382](http://arxiv.org/abs/2505.13382)|null|
@@ -918,7 +918,7 @@ layout: default
 |**2025-02-05**|**On the Simulation and Correlation Properties of TWDP Fading Process**|Almir Maric et.al.|[2502.03388](http://arxiv.org/abs/2502.03388)|null|
 |**2025-02-05**|**On the Conditional Phase Distribution of the TWDP Multipath Fading Process**|Almir Maric et.al.|[2502.03385](http://arxiv.org/abs/2502.03385)|null|
 |**2025-02-05**|**Time scale competition in the Active Coagulation Model**|Matteo Paoluzzi et.al.|[2502.03372](http://arxiv.org/abs/2502.03372)|null|
-|**2025-02-05**|**A Mixture-Based Framework for Guiding Diffusion Models**|Yazid Janati et.al.|[2502.03332](http://arxiv.org/abs/2502.03332)|null|
+|**2025-02-05**|**A Mixture-Based Framework for Guiding Diffusion Models**|Yazid Janati et.al.|[2502.03332](http://arxiv.org/abs/2502.03332)|**[link](https://github.com/badr-moufad/mgdm)**|
 |**2025-02-04**|**Calibrated Multi-Preference Optimization for Aligning Diffusion Models**|Kyungmin Lee et.al.|[2502.02588](http://arxiv.org/abs/2502.02588)|null|
 |**2025-02-04**|**Open Materials Generation with Stochastic Interpolants**|Philipp Hoellmer et.al.|[2502.02582](http://arxiv.org/abs/2502.02582)|null|
 |**2025-02-04**|**AAD-DCE: An Aggregated Multimodal Attention Mechanism for Early and Late Dynamic Contrast Enhanced Prostate MRI Synthesis**|Divya Bharti et.al.|[2502.02555](http://arxiv.org/abs/2502.02555)|**[link](https://github.com/bhartidivya/aad-dce)**|
@@ -1098,7 +1098,7 @@ layout: default
 |**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614](http://arxiv.org/abs/2501.04614)|null|
 |**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606](http://arxiv.org/abs/2501.04606)|**[link](https://github.com/codepassionor/tokenflow_adapter)**|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416](http://arxiv.org/abs/2501.04416)|null|
-|**2025-01-08**|**Mathematical Modelling of Mechanotransduction via RhoA Signalling Pathways**|Sofie Verhees et.al.|[2501.04407](http://arxiv.org/abs/2501.04407)|null|
+|**2025-01-08**|**Mathematical Modelling of Mechanotransduction via RhoA Signalling Pathways**|Sofie Verhees et.al.|[2501.04407](http://arxiv.org/abs/2501.04407)|**[link](https://github.com/sofieverhees/model-mechanotransduction)**|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**Stabilising effect of generic anomalous diffusion independent of the Rayleigh number**|Antonio Barletta et.al.|[2501.03990](http://arxiv.org/abs/2501.03990)|null|
 |**2025-01-07**|**Statistical Distributions for Transient Transport**|M. Ross Kunz et.al.|[2501.03969](http://arxiv.org/abs/2501.03969)|null|
@@ -1797,7 +1797,7 @@ layout: default
 |**2024-09-13**|**Neural network Approximations for Reaction-Diffusion Equations -- Homogeneous Neumann Boundary Conditions and Long-time Integrations**|Eddel Elí Ojeda Avilés et.al.|[2409.08941](http://arxiv.org/abs/2409.08941)|null|
 |**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
 |**2024-09-13**|**Tracing the impacts of Mount Pinatubo eruption on global climate using spatially-varying changepoint detection**|Samantha Shi-Jun et.al.|[2409.08908](http://arxiv.org/abs/2409.08908)|null|
-|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906](http://arxiv.org/abs/2409.08906)|null|
+|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906](http://arxiv.org/abs/2409.08906)|**[link](https://github.com/csiplab/codps)**|
 |**2024-09-13**|**Quantitative propagation of chaos for non-exchangeable diffusions via first-passage percolation**|Daniel Lacker et.al.|[2409.08882](http://arxiv.org/abs/2409.08882)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|**[link](https://github.com/omeregev/click2mask)**|
@@ -3877,7 +3877,7 @@ layout: default
 |**2025-06-12**|**Anatomy-Grounded Weakly Supervised Prompt Tuning for Chest X-ray Latent Diffusion Models**|Konstantinos Vilouras et.al.|[2506.10633](http://arxiv.org/abs/2506.10633)|null|
 |**2025-06-12**|**High-resolution efficient image generation from WiFi CSI using a pretrained latent diffusion model**|Eshan Ramesh et.al.|[2506.10605](http://arxiv.org/abs/2506.10605)|null|
 |**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Chun-Mei Feng et.al.|[2506.10575](http://arxiv.org/abs/2506.10575)|null|
-|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|null|
+|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|**[link](https://github.com/li-yihua/qsc-diffusion)**|
 |**2025-06-12**|**Edit360: 2D Image Edits to 3D Assets from Any Angle**|Junchao Huang et.al.|[2506.10507](http://arxiv.org/abs/2506.10507)|null|
 |**2025-06-12**|**Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation**|Zhiyang Xu et.al.|[2506.10395](http://arxiv.org/abs/2506.10395)|null|
 |**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
@@ -3886,11 +3886,11 @@ layout: default
 |**2025-06-11**|**Only-Style: Stylistic Consistency in Image Generation without Content Leakage**|Tilemachos Aravanis et.al.|[2506.09916](http://arxiv.org/abs/2506.09916)|null|
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
 |**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
-|**2025-06-12**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao Li et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|null|
+|**2025-06-12**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao Li et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|**[link](https://github.com/mingxiao-li/asymmetry-zigzag-storydiffusion)**|
 |**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482](http://arxiv.org/abs/2506.09482)|null|
 |**2025-06-11**|**Noise Conditional Variational Score Distillation**|Xinyu Peng et.al.|[2506.09416](http://arxiv.org/abs/2506.09416)|**[link](https://github.com/xypeng9903/ncvsd)**|
-|**2025-06-11**|**SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing**|Hongguang Zhu et.al.|[2506.09363](http://arxiv.org/abs/2506.09363)|null|
-|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
+|**2025-06-11**|**SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing**|Hongguang Zhu et.al.|[2506.09363](http://arxiv.org/abs/2506.09363)|**[link](https://github.com/kevinlight831/sage)**|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|**[link](https://github.com/alenjandrowang/asvr)**|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
 |**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
