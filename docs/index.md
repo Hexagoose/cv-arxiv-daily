@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3897,9 +3897,9 @@ layout: default
 |**2025-06-17**|**Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images**|David Butler et.al.|[2506.14560](http://arxiv.org/abs/2506.14560)|null|
 |**2025-06-17**|**Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models**|Tian Xia et.al.|[2506.14399](http://arxiv.org/abs/2506.14399)|null|
 |**2025-06-17**|**DiffusionBlocks: Blockwise Training for Generative Models via Score-Based Diffusion**|Makoto Shing et.al.|[2506.14202](http://arxiv.org/abs/2506.14202)|null|
-|**2025-06-17**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
+|**2025-06-18**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-16**|**Deep Diffusion Models and Unsupervised Hyperspectral Unmixing for Realistic Abundance Map Synthesis**|Martina Pastorino et.al.|[2506.13484](http://arxiv.org/abs/2506.13484)|null|
-|**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
+|**2025-06-18**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443](http://arxiv.org/abs/2506.13443)|null|
 |**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307](http://arxiv.org/abs/2506.13307)|null|
 |**2025-06-16**|**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing**|Biao Yang et.al.|[2506.13301](http://arxiv.org/abs/2506.13301)|null|
 |**2025-06-16**|**Fair Generation without Unfair Distortions: Debiasing Text-to-Image Generation with Entanglement-Free Attention**|Jeonghoon Park et.al.|[2506.13298](http://arxiv.org/abs/2506.13298)|null|
@@ -6530,7 +6530,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
 |**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
-|**2025-06-17**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
+|**2025-06-18**|**VideoMAR: Autoregressive Video Generatio with Continuous Tokens**|Hu Yu et.al.|[2506.14168](http://arxiv.org/abs/2506.14168)|null|
 |**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
 |**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
 |**2025-06-15**|**iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer**|Zhelun Shen et.al.|[2506.12847](http://arxiv.org/abs/2506.12847)|null|
