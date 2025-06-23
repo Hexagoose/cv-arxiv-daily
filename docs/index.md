@@ -4067,7 +4067,7 @@ layout: default
 |**2025-05-27**|**Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks**|Kyzyl Monteiro et.al.|[2505.20916](http://arxiv.org/abs/2505.20916)|null|
 |**2025-05-27**|**Create Anything Anywhere: Layout-Controllable Personalized Diffusion Model for Multiple Subjects**|Wei Li et.al.|[2505.20909](http://arxiv.org/abs/2505.20909)|null|
 |**2025-05-27**|**Not All Thats Rare Is Lost: Causal Paths to Rare Concept Synthesis**|Bo-Kai Ruan et.al.|[2505.20808](http://arxiv.org/abs/2505.20808)|null|
-|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723](http://arxiv.org/abs/2505.20723)|null|
+|**2025-05-27**|**LeDiFlow: Learned Distribution-guided Flow Matching to Accelerate Image Generation**|Pascal Zwick et.al.|[2505.20723](http://arxiv.org/abs/2505.20723)|**[link](https://github.com/fzi-forschungszentrum-informatik/lediflow)**|
 |**2025-05-27**|**ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation**|Yohai Mazuz et.al.|[2505.20626](http://arxiv.org/abs/2505.20626)|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|**[link](https://github.com/hellozicky/ppad)**|
