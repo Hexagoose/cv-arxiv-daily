@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**Improving Progressive Generation with Decomposable Flow Matching**|Moayed Haji-Ali et.al.|[2506.19839](http://arxiv.org/abs/2506.19839)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**Machine Learning with Privacy for Protected Attributes**|Saeed Mahloujifar et.al.|[2506.19836](http://arxiv.org/abs/2506.19836)|null|
+|**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
+|**2025-06-24**|**CoCo4D: Comprehensive and Complex 4D Scene Generation**|Junwei Zhou et.al.|[2506.19798](http://arxiv.org/abs/2506.19798)|null|
+|**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
+|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
@@ -3935,6 +3945,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Varif.ai to Vary and Verify User-Driven Diversity in Scalable Image Generation**|M. Michelessa et.al.|[2506.19644](http://arxiv.org/abs/2506.19644)|null|
+|**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488](http://arxiv.org/abs/2506.19488)|null|
+|**2025-06-24**|**Stylized Structural Patterns for Improved Neural Network Pre-training**|Farnood Salehi et.al.|[2506.19465](http://arxiv.org/abs/2506.19465)|null|
+|**2025-06-24**|**Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation**|Zhifeng Wang et.al.|[2506.19455](http://arxiv.org/abs/2506.19455)|null|
+|**2025-06-24**|**Enhancing Galaxy Classification with U-Net Variational Autoencoders for Image Denoising**|Sergey Mirzoyan et.al.|[2506.19434](http://arxiv.org/abs/2506.19434)|null|
+|**2025-06-24**|**SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation**|Yunsung Chung et.al.|[2506.19360](http://arxiv.org/abs/2506.19360)|null|
+|**2025-06-24**|**Style Transfer: A Decade Survey**|Tianshan Zhang et.al.|[2506.19278](http://arxiv.org/abs/2506.19278)|null|
+|**2025-06-23**|**Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models**|Ilia Beletskii et.al.|[2506.19103](http://arxiv.org/abs/2506.19103)|null|
+|**2025-06-23**|**Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation**|Yuan Yao et.al.|[2506.18999](http://arxiv.org/abs/2506.18999)|null|
 |**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
 |**2025-06-23**|**VisualChef: Generating Visual Aids in Cooking via Mask Inpainting**|Oleh Kuzyk et.al.|[2506.18569](http://arxiv.org/abs/2506.18569)|null|
@@ -6602,6 +6621,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**|Yubo Huang et.al.|[2506.19833](http://arxiv.org/abs/2506.19833)|null|
+|**2025-06-24**|**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation**|Jintao Rong et.al.|[2506.19348](http://arxiv.org/abs/2506.19348)|null|
 |**2025-06-23**|**VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory**|Runjia Li et.al.|[2506.18903](http://arxiv.org/abs/2506.18903)|null|
 |**2025-06-23**|**From Virtual Games to Real-World Play**|Wenqiang Sun et.al.|[2506.18901](http://arxiv.org/abs/2506.18901)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
