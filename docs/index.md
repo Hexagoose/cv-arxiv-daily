@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -3398,7 +3398,7 @@ layout: default
 |**2025-06-17**|**Single-Example Learning in a Mixture of GPDMs with Latent Geometries**|Jesse St. Amand et.al.|[2506.14563](http://arxiv.org/abs/2506.14563)|null|
 |**2025-06-17**|**Toward Rich Video Human-Motion2D Generation**|Ruihao Xi et.al.|[2506.14428](http://arxiv.org/abs/2506.14428)|null|
 |**2025-06-17**|**Socially Aware Robot Crowd Navigation via Online Uncertainty-Driven Risk Adaptation**|Zhirui Sun et.al.|[2506.14305](http://arxiv.org/abs/2506.14305)|null|
-|**2025-06-16**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040](http://arxiv.org/abs/2506.13040)|null|
+|**2025-06-24**|**MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**|Hanz Cuevas-Velasquez et.al.|[2506.13040](http://arxiv.org/abs/2506.13040)|null|
 |**2025-06-15**|**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**|Weiji Xie et.al.|[2506.12851](http://arxiv.org/abs/2506.12851)|null|
 |**2025-06-15**|**RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control**|Junpeng Yue et.al.|[2506.12769](http://arxiv.org/abs/2506.12769)|null|
 |**2025-06-19**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Ye Li et.al.|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
