@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
+|**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942](http://arxiv.org/abs/2507.01942)|null|
+|**2025-07-02**|**Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices**|Anderson L. R. Barbosa et.al.|[2507.01941](http://arxiv.org/abs/2507.01941)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**Measurement of the diffuse astrophysical neutrino flux over six seasons using cascade events from the Baikal-GVD expanding telescope**|Baikal-GVD Collaboration et.al.|[2507.01893](http://arxiv.org/abs/2507.01893)|null|
+|**2025-07-02**|**Schauder-type estimates and applications**|Satyanad Kichenassamy et.al.|[2507.01818](http://arxiv.org/abs/2507.01818)|null|
+|**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773](http://arxiv.org/abs/2507.01773)|null|
+|**2025-07-02**|**Mind the jumps: when 2BSDEs meet semi-martingales**|Dylan Possamaï et.al.|[2507.01767](http://arxiv.org/abs/2507.01767)|null|
+|**2025-07-02**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](http://arxiv.org/abs/2506.24121)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
@@ -3450,6 +3460,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-02**|**HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion**|Lin Wu et.al.|[2507.01737](http://arxiv.org/abs/2507.01737)|null|
+|**2025-07-02**|**Physics-informed Ground Reaction Dynamics from Human Motion Capture**|Cuong Le et.al.|[2507.01340](http://arxiv.org/abs/2507.01340)|null|
+|**2025-07-01**|**Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters**|Hendric Voss et.al.|[2507.00792](http://arxiv.org/abs/2507.00792)|null|
+|**2025-07-01**|**A Unified Transformer-Based Framework with Pretraining For Whole Body Grasping Motion Generation**|Edward Effendy et.al.|[2507.00676](http://arxiv.org/abs/2507.00676)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
 |**2025-06-29**|**VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions**|Marko Mihajlovic et.al.|[2506.23236](http://arxiv.org/abs/2506.23236)|null|
@@ -3993,6 +4008,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957](http://arxiv.org/abs/2507.01957)|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**|Peng Zheng et.al.|[2507.01792](http://arxiv.org/abs/2507.01792)|null|
+|**2025-07-02**|**Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis**|Peng Zheng et.al.|[2507.01756](http://arxiv.org/abs/2507.01756)|null|
+|**2025-07-02**|**Autoregressive Image Generation with Linear Complexity: A Spatial-Aware Decay Perspective**|Yuxin Mao et.al.|[2507.01652](http://arxiv.org/abs/2507.01652)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
+|**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
+|**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428](http://arxiv.org/abs/2507.01428)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
@@ -6703,6 +6728,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
+|**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
+|**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Zeyi Liu et.al.|[2507.01099](http://arxiv.org/abs/2507.01099)|null|
+|**2025-07-01**|**Populate-A-Scene: Affordance-Aware Human Video Generation**|Mengyi Shan et.al.|[2507.00334](http://arxiv.org/abs/2507.00334)|null|
+|**2025-06-30**|**FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion**|Yu Lu et.al.|[2507.00162](http://arxiv.org/abs/2507.00162)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
