@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Diffusion
@@ -4012,7 +4012,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
 |**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
-|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-04**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
 |**2025-07-03**|**AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models**|Chenhao Xue et.al.|[2507.02598](http://arxiv.org/abs/2507.02598)|null|
 |**2025-07-03**|**Holistic Tokenizer for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.02358](http://arxiv.org/abs/2507.02358)|null|
 |**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957](http://arxiv.org/abs/2507.01957)|null|
