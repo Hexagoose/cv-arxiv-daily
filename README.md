@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**A kinetic model to simulate charge flow through an electrochemical half cell**|Diego Veloza-Diaz et.al.|[2507.06197](http://arxiv.org/abs/2507.06197)|null|
+|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161](http://arxiv.org/abs/2507.06161)|null|
+|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
+|**2025-07-08**|**A Linear Generative Framework for Structure-Function Coupling in the Human Brain**|Sam Frank Kelemen et.al.|[2507.06136](http://arxiv.org/abs/2507.06136)|null|
+|**2025-07-08**|**Thermal fingers in cold channels: Thermo-viscous instability in dispersive flow**|Federico Lanza et.al.|[2507.06135](http://arxiv.org/abs/2507.06135)|null|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
+|**2025-07-08**|**The HI-to-H2 transition in the Draco cloud**|Nicola Schneider et.al.|[2507.06131](http://arxiv.org/abs/2507.06131)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Ultra-sensitive sizing of individual nanoparticles with an optofluidic microcavity**|Shalom Palkhivala et.al.|[2507.05236](http://arxiv.org/abs/2507.05236)|null|
 |**2025-07-07**|**Quantitative Morphology of Galactic Cirrus in Deep Optical Imaging**|Qing Liu et.al.|[2507.05217](http://arxiv.org/abs/2507.05217)|null|
@@ -3480,6 +3490,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
 |**2025-07-06**|**Grounded Gesture Generation: Language, Motion, and Space**|Anna Deichler et.al.|[2507.04522](http://arxiv.org/abs/2507.04522)|null|
 |**2025-07-05**|**Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic**|Jianwei Tang et.al.|[2507.04062](http://arxiv.org/abs/2507.04062)|null|
 |**2025-07-05**|**Temporal Continual Learning with Prior Compensation for Human Motion Prediction**|Jianwei Tang et.al.|[2507.04060](http://arxiv.org/abs/2507.04060)|null|
@@ -4034,6 +4045,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/abs/2507.06137)|null|
+|**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|null|
+|**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627](http://arxiv.org/abs/2507.05627)|null|
+|**2025-07-08**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al.|[2507.05621](http://arxiv.org/abs/2507.05621)|null|
+|**2025-07-08**|**Model-free Optical Processors using In Situ Reinforcement Learning with Proximal Policy Optimization**|Yuhang Li et.al.|[2507.05583](http://arxiv.org/abs/2507.05583)|null|
+|**2025-07-08**|**SingLoRA: Low Rank Adaptation Using a Single Matrix**|David Bensaïd et.al.|[2507.05566](http://arxiv.org/abs/2507.05566)|null|
+|**2025-07-07**|**LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving**|Giulio Federico et.al.|[2507.05499](http://arxiv.org/abs/2507.05499)|null|
+|**2025-07-07**|**Cloud Diffusion Part 1: Theory and Motivation**|Andrew Randono et.al.|[2507.05496](http://arxiv.org/abs/2507.05496)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
 |**2025-07-07**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
@@ -6769,6 +6790,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
+|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-08**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
+|**2025-07-08**|**MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos**|Rongsheng Wang et.al.|[2507.05675](http://arxiv.org/abs/2507.05675)|null|
 |**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
 |**2025-07-07**|**Music2Palette: Emotion-aligned Color Palette Generation via Cross-Modal Representation Learning**|Jiayun Hu et.al.|[2507.04758](http://arxiv.org/abs/2507.04758)|null|
 |**2025-07-07**|**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations**|Yuji Wang et.al.|[2507.04705](http://arxiv.org/abs/2507.04705)|null|
