@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Scaling limit of boundary random walks: A martingale problem approach**|Juan Carlos Arroyave et.al.|[2507.10528](http://arxiv.org/abs/2507.10528)|null|
+|**2025-07-14**|**A shape theorem for BBM in a periodic environment**|Louigi Addario-Berry et.al.|[2507.10515](http://arxiv.org/abs/2507.10515)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
+|**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
+|**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
+|**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346](http://arxiv.org/abs/2507.10346)|null|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320](http://arxiv.org/abs/2507.10320)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
@@ -3512,6 +3522,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672](http://arxiv.org/abs/2507.09672)|null|
+|**2025-07-12**|**SnapMoGen: Human Motion Generation from Expressive Texts**|Chuan Guo et.al.|[2507.09122](http://arxiv.org/abs/2507.09122)|null|
 |**2025-07-08**|**SSSUMO: Real-Time Semi-Supervised Submovement Decomposition**|Evgenii Rudakov et.al.|[2507.08028](http://arxiv.org/abs/2507.08028)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734](http://arxiv.org/abs/2507.07734)|null|
 |**2025-07-10**|**GGMotion: Group Graph Dynamics-Kinematics Networks for Human Motion Prediction**|Shuaijin Wan et.al.|[2507.07515](http://arxiv.org/abs/2507.07515)|null|
@@ -4073,6 +4085,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
+|**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
+|**2025-07-14**|**Latent Diffusion Models with Masked AutoEncoders**|Junho Lee et.al.|[2507.09984](http://arxiv.org/abs/2507.09984)|null|
+|**2025-07-14**|**Counterfactual Visual Explanation via Causally-Guided Adversarial Steering**|Yiran Qiao et.al.|[2507.09881](http://arxiv.org/abs/2507.09881)|null|
+|**2025-07-13**|**Hybrid Quantum-Classical Generative Adversarial Networks with Transfer Learning**|Asma Al-Othni et.al.|[2507.09706](http://arxiv.org/abs/2507.09706)|null|
+|**2025-07-13**|**Brain Stroke Detection and Classification Using CT Imaging with Transformer Models and Explainable AI**|Shomukh Qari et.al.|[2507.09630](http://arxiv.org/abs/2507.09630)|null|
+|**2025-07-13**|**Demystifying Flux Architecture**|Or Greenberg et.al.|[2507.09595](http://arxiv.org/abs/2507.09595)|null|
+|**2025-07-13**|**MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation Models**|Haozhe Zhao et.al.|[2507.09574](http://arxiv.org/abs/2507.09574)|null|
+|**2025-07-13**|**RectifiedHR: High-Resolution Diffusion via Energy Profiling and Adaptive Guidance Scheduling**|Ankit Sanjyal et.al.|[2507.09441](http://arxiv.org/abs/2507.09441)|null|
 |**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513](http://arxiv.org/abs/2507.08513)|null|
 |**2025-07-11**|**Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.08441](http://arxiv.org/abs/2507.08441)|null|
 |**2025-07-11**|**Subject-Consistent and Pose-Diverse Text-to-Image Generation**|Zhanxin Gao et.al.|[2507.08396](http://arxiv.org/abs/2507.08396)|null|
@@ -6833,8 +6855,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
+|**2025-07-11**|**Taming generative video models for zero-shot optical flow extraction**|Seungwoo Kim et.al.|[2507.09082](http://arxiv.org/abs/2507.09082)|null|
+|**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
+|**2025-07-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
 |**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982](http://arxiv.org/abs/2507.07982)|null|
 |**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
