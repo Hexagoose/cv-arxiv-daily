@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3514,7 +3514,7 @@
 |**2024-01-30**|**Quantum dynamics in one and two dimensions via recursion method**|Filipp Uskov et.al.|[2401.17211](http://arxiv.org/abs/2401.17211)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 ## Motion
 
@@ -4077,7 +4077,7 @@
 |**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|**[link](https://github.com/minkaixu/egno)**|
 |**2024-01-16**|**RoHM: Robust Human Motion Reconstruction via Diffusion**|Siwei Zhang et.al.|[2401.08570](http://arxiv.org/abs/2401.08570)|null|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 ## Image Generation
 
@@ -6839,7 +6839,7 @@
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 ## Video Generation
 
@@ -6853,7 +6853,7 @@
 |**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
 |**2025-07-09**|**A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality**|Mohamed Elmoghany et.al.|[2507.07202](http://arxiv.org/abs/2507.07202)|null|
 |**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
-|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
 |**2025-07-09**|**PromptTea: Let Prompts Tell TeaCache the Optimal Threshold**|Zishen Huang et.al.|[2507.06739](http://arxiv.org/abs/2507.06739)|null|
 |**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
 |**2025-07-09**|**FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation**|Liqiang Jing et.al.|[2507.06523](http://arxiv.org/abs/2507.06523)|null|
@@ -8148,7 +8148,7 @@
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
