@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Global $q$ -dependent inverse transforms of intensity autocorrelation data**|Tobias Eklund et.al.|[2507.14106](http://arxiv.org/abs/2507.14106)|null|
+|**2025-07-18**|**Well posedness and propagation of chaos for multi-agent models with strategies and diffusive effects**|Alessandro Baldi et.al.|[2507.14058](http://arxiv.org/abs/2507.14058)|null|
+|**2025-07-18**|**CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models**|Quang-Binh Nguyen et.al.|[2507.13984](http://arxiv.org/abs/2507.13984)|null|
+|**2025-07-18**|**Generalist Forecasting with Frozen Video Models via Latent Diffusion**|Jacob C Walker et.al.|[2507.13942](http://arxiv.org/abs/2507.13942)|null|
+|**2025-07-18**|**DiViD: Disentangled Video Diffusion for Static-Dynamic Factorization**|Marzieh Gheisari et.al.|[2507.13934](http://arxiv.org/abs/2507.13934)|null|
+|**2025-07-18**|**Linear response and exact hydrodynamic projections in Lindblad equations with decoupled Bogoliubov hierarchies**|Patrik Penc et.al.|[2507.13867](http://arxiv.org/abs/2507.13867)|null|
+|**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813](http://arxiv.org/abs/2507.13813)|null|
+|**2025-07-18**|**Modulated Poisson-Dirichlet diffusions arising from inclusion processes with a slow phase**|Simon Gabriel et.al.|[2507.13799](http://arxiv.org/abs/2507.13799)|null|
+|**2025-07-18**|**DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance**|Huu-Phu Do et.al.|[2507.13797](http://arxiv.org/abs/2507.13797)|null|
+|**2025-07-18**|**MorphoNAS: Embryogenic Neural Architecture Search Through Morphogen-Guided Development**|Mykola Glybovets et.al.|[2507.13785](http://arxiv.org/abs/2507.13785)|null|
 |**2025-07-17**|**The Star Formation History and Evolution of the Ultra-Diffuse M81 Satellite, F8D1**|Adam Smercina et.al.|[2507.13349](http://arxiv.org/abs/2507.13349)|null|
 |**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344](http://arxiv.org/abs/2507.13344)|null|
 |**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
@@ -3560,6 +3570,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
 |**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
 |**2025-07-16**|**Neural Human Pose Prior**|Michal Heker et.al.|[2507.12138](http://arxiv.org/abs/2507.12138)|null|
 |**2025-07-16**|**MOSPA: Human Motion Generation Driven by Spatial Audio**|Shuyang Xu et.al.|[2507.11949](http://arxiv.org/abs/2507.11949)|null|
@@ -4128,6 +4139,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**PoemTale Diffusion: Minimising Information Loss in Poem to Image Generation with Multi-Stage Prompt Refinement**|Sofia Jamil et.al.|[2507.13708](http://arxiv.org/abs/2507.13708)|null|
 |**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
 |**2025-07-17**|**Synthesizing Reality: Leveraging the Generative AI-Powered Platform Midjourney for Construction Worker Detection**|Hongyang Zhao et.al.|[2507.13221](http://arxiv.org/abs/2507.13221)|null|
 |**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
@@ -6922,6 +6936,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis**|Tongtong Su et.al.|[2507.13753](http://arxiv.org/abs/2507.13753)|null|
+|**2025-07-17**|**$\nabla$ NABLA: Neighborhood Adaptive Block-Level Attention**|Dmitrii Mikhailov et.al.|[2507.13546](http://arxiv.org/abs/2507.13546)|null|
+|**2025-07-17**|**"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**|Jing Gu et.al.|[2507.13428](http://arxiv.org/abs/2507.13428)|null|
 |**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
 |**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224](http://arxiv.org/abs/2507.13224)|null|
 |**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
