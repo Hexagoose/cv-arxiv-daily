@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention**|Yiwen Chen et.al.|[2507.17745](http://arxiv.org/abs/2507.17745)|null|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**Beyond the Dot: an LRD-like nucleus at the Heart of an IR-Bright Galaxy and its implications for high-redshift LRDs**|Pierluigi Rinaldi et.al.|[2507.17738](http://arxiv.org/abs/2507.17738)|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731](http://arxiv.org/abs/2507.17731)|null|
+|**2025-07-23**|**From Fiber Tracts to Tumor Spread: Biophysical Modeling of Butterfly Glioma Growth Using Diffusion Tensor Imaging**|Jonas Weidner et.al.|[2507.17707](http://arxiv.org/abs/2507.17707)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651](http://arxiv.org/abs/2507.17651)|null|
+|**2025-07-23**|**Minimal Dark Matter in the sky: updated Indirect Detection probes**|Mohammad Aghaie et.al.|[2507.17607](http://arxiv.org/abs/2507.17607)|null|
+|**2025-07-23**|**PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**|Maciej K. Wozniak et.al.|[2507.17596](http://arxiv.org/abs/2507.17596)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**Atomistic modeling of uranium monocarbide with a machine learning interatomic potential**|Lorena Alzate-Vargas et.al.|[2507.17576](http://arxiv.org/abs/2507.17576)|null|
 |**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
 |**2025-07-22**|**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**|Ying Li et.al.|[2507.16732](http://arxiv.org/abs/2507.16732)|null|
 |**2025-07-22**|**A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications**|Tolga Çukur et.al.|[2507.16715](http://arxiv.org/abs/2507.16715)|null|
@@ -3590,6 +3600,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406](http://arxiv.org/abs/2507.17406)|null|
+|**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850](http://arxiv.org/abs/2507.16850)|null|
 |**2025-07-22**|**Design and Optimization of Wearables for Human Motion Energy Harvesting**|Weijia Peng et.al.|[2507.16157](http://arxiv.org/abs/2507.16157)|null|
 |**2025-07-19**|**Uncertainty-aware Probabilistic 3D Human Motion Forecasting via Invertible Networks**|Yue Ma et.al.|[2507.14694](http://arxiv.org/abs/2507.14694)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
@@ -4161,6 +4173,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Attention (as Discrete-Time Markov) Chains**|Yotam Erel et.al.|[2507.17657](http://arxiv.org/abs/2507.17657)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**An h-space Based Adversarial Attack for Protection Against Few-shot Personalization**|Xide Xu et.al.|[2507.17554](http://arxiv.org/abs/2507.17554)|null|
+|**2025-07-23**|**Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease**|Hugues Roy et.al.|[2507.17486](http://arxiv.org/abs/2507.17486)|null|
+|**2025-07-23**|**EndoGen: Conditional Autoregressive Endoscopic Video Generation**|Xinyu Liu et.al.|[2507.17388](http://arxiv.org/abs/2507.17388)|null|
+|**2025-07-23**|**PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image**|Hyeongjin Nam et.al.|[2507.17332](http://arxiv.org/abs/2507.17332)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268](http://arxiv.org/abs/2507.17268)|null|
+|**2025-07-22**|**AURA: A Multi-Modal Medical Agent for Understanding, Reasoning & Annotation**|Nima Fathi et.al.|[2507.16940](http://arxiv.org/abs/2507.16940)|null|
+|**2025-07-22**|**Finding Dori: Memorization in Text-to-Image Diffusion Models Is Less Local Than Assumed**|Antoni Kowalczuk et.al.|[2507.16880](http://arxiv.org/abs/2507.16880)|null|
 |**2025-07-22**|**Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis**|Xiaojiao Xiao et.al.|[2507.16579](http://arxiv.org/abs/2507.16579)|null|
 |**2025-07-22**|**ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement**|Kahim Wong et.al.|[2507.16397](http://arxiv.org/abs/2507.16397)|null|
 |**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
@@ -6978,6 +6999,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**EndoGen: Conditional Autoregressive Endoscopic Video Generation**|Xinyu Liu et.al.|[2507.17388](http://arxiv.org/abs/2507.17388)|null|
+|**2025-07-22**|**Controllable Video Generation: A Survey**|Yue Ma et.al.|[2507.16869](http://arxiv.org/abs/2507.16869)|null|
 |**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
 |**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
